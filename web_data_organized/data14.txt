@@ -1,0 +1,236 @@
+alias@If creating an alias is what you want, then this is it
+apropos@We're not the only ones providing help
+apt-get@This one works on Debianand Ubuntu distros
+aptitude@See the similarity with the above command?This one does the same thing
+aspell@Got bad spellings? Use thespell checker
+basename@Sometimes files and directories have suffixes to their names
+bash@GNU Bourne-Again Shell
+bc@Thiscommand is an arbitrary precision calculator language
+bg@bgcould stand for background couldn't it? Regardless, that's whatit does, sends to the background
+break@Exit from a loop
+builtin@Run a shell builtin
+cal@Need a calendar? This command displays one
+case@In 'case'you want to perform a command conditionally
+cat@In programming, 'cat' usually stands for concatenate
+cd@Change Directory
+cfdisk@In Linux, thiscommand is the partition table manipulator
+chgrp@This is how youchange the ownership of a group
+chmod@'Ch' is for change
+chown@This one soundstoo much like clown! Anyway, it's not funny though
+chroot@Using this you can run acommand, but with a different root directory
+cksum@It displays the CRC checksum ad bytecounts
+clear@If you need to clear the terminal screen, use thiscommand
+cmp@Compare two files
+comm@Compare two sorted filesline by line
+command@Run a command - ignoring shellfunctions
+continue@This is for resuming the next iteration of aparticular loop
+cp@Make a copy of files to a differentlocation
+cron@Daemon to execute scheduled commands
+crontab@Scheduling is sometimes very important
+csplit@Split a file into context-determined pieces
+date@Use this command to change the date and time
+dc@The commandstands for Desk Calculator
+ddrescue@Like most other suchcommands, this is the disk recovery tool
+declare@This command isused to declare the variables and to give attributes
+df@When youwant to know the free space on your disk, use this
+diff@Thiscommand prints the differences between two files
+diff3@This isthe same command as the previous one, but for three files
+dig@Need to lookup the DNS? Use this
+dir@Use this command forlisting directory contents briefly
+dircolors@This command isused for colour setup for the 'ls' command
+dirname@Use thiscommand to change a full pathname into just a path
+dirs@Thiscommand shows you the list of directories that are remembered
+dmesg@Use this command when you want to print kernel and drivermessages
+echo@This command is used for displaying message on the screen
+egrep@This searches for files that have lines matching an extendedexpression
+eject@Use this when you need to eject a removablemedia
+enable@Use this to disable or enable bulletin shellcommands
+env@Environment variables
+ethtool@Ethernet cardsettings
+eval@This command is used when you need to evaluate amany commands
+exec@For executing a command
+exit@Exiting theshell
+expand@This command converts all the tabs tospaces
+export@This command sets an environment variable
+false@Do nothing, unsuccessfully
+fdformat@This command is used for lowlevel format of a floppy disk
+fdisk@This is a partition tablemanipulator for Linux systems
+fg@This command is used forsending a task to the foreground
+fgrep@Use this command tosearch through files for tasks that match a string
+file@This isused to determine the file type
+find@This is used to find filesthat match a desired criteria
+fmt@This is used for reformattingparagraph text
+fold@The name is quite suggestive, it wraps textin order to fit a certain width
+format@This simply formats tapesor disks
+free@Use this to see the memory usage
+fsck@This isused for checking the consistency of the file system and repairit
+gawk@This command is used to find text within files and replaceit
+getopts@Parse positional parameters
+grep@Through this youcan search in files for lines matching a certain pattern
+groupadd@Use this command to add security user groups
+groupdel@This oneis used for deleting a certain group
+groupmod@While the last onedeletes, this one modified a group
+groups@Print the names ofgroups in which an user is located
+hash@This command is used to refer to the complete pathname of a nameargument
+head@Use this for output for the first part offiles
+help@Display the built in help for a command
+history@Command History
+iconv@Use this to convert the character set in files
+id@Display thegroup ids or user ids
+if@Conditional command
+ifconfig@Usedto configure network interfaces
+ifdown@Use this command forstopping a network interface
+ifup@Start a network interface appwith this command
+import@Used for the X server
+jobs@Use this for listing jobs that are active
+kill@Stops a process from running
+less@This command displays the output on a single screen at a time
+let@This is for doing arithmetic on shell variables
+link@Thiscommand is used for creating a link to another file
+ln@This onecreates a symbolic link to another file
+local@Use this forcreating variables
+locate@This one is used for findingfiles
+logname@This is used to print the login name being usedcurrently
+logout@Use this command to exit a login shell
+look@When you just want to see lines that start with a particularstring
+lpc@It stands for Line Printer Control
+lpr@This isfor offline print
+lprint@Use this command to print afile
+lprintd@Use this to abort an ongoing print job
+lprintq@This command lists the print queue
+make@This command is used for recompiling the group of programs
+man@This is short for manual and provides help on a command
+mkdir@Creating directories
+mkfifo@Use this to make FIFOs
+mknod@This is to create character special files or block files
+more@This displays the output, but in a single screen at a time
+mount@Used for mounting a particular filesystem
+mtools@Manipulatingfiles from MS-DOS
+mtr@Network diagnostics command for thingslike ping and traceroute
+mv@Used for moving and renaming filesand directories
+netstat@Get information on networking
+nice@Use this to set the priorityof a job or a command
+nl@Write files and number lines
+nohup@This one runs a command, which is not affected byhangups
+notify-send@This command sends desktopnotifications
+open@This command opens a file in its default application
+less@This command displays the output on a single screen at a time
+let@This is for doing arithmetic on shell variables
+link@Thiscommand is used for creating a link to another file
+ln@This onecreates a symbolic link to another file
+local@Use this forcreating variables
+locate@This one is used for findingfiles
+logname@This is used to print the login name being usedcurrently
+logout@Use this command to exit a login shell
+look@When you just want to see lines that start with a particularstring
+lpc@It stands for Line Printer Control
+lpr@This isfor offline print
+lprint@Use this command to print afile
+lprintd@Use this to abort an ongoing print job
+lprintq@This command lists the print queue
+make@This command is used for recompiling the group of programs
+man@This is short for manual and provides help on a command
+mkdir@Creating directories
+mkfifo@Use this to make FIFOs
+mknod@This is to create character special files or block files
+more@This displays the output, but in a single screen at a time
+mount@Used for mounting a particular filesystem
+mtools@Manipulatingfiles from MS-DOS
+mtr@Network diagnostics command for thingslike ping and traceroute
+mv@Used for moving and renaming filesand directories
+netstat@Get information on networking
+nice@Use this to set the priorityof a job or a command
+nl@Write files and number lines
+nohup@This one runs a command, which is not affected byhangups
+notify-send@This command sends desktopnotifications
+open@This command opens a file in its default application
+passwd@Use this command to modify user passwords
+paste@This command isused for merging lines in files
+pathchk@It is used to check theportability of a file name
+ping@This command is used for testingnetwork connections
+pkill@This command stops processes fromrunning
+popd@This command restores the previous value of thedirectory you're currently in
+pr@Prepare your files forprinting using this
+printcap@Printer capabilitydatabase
+printenv@Print environment variables
+printf@Thiscommand is used for formatting and printing data
+ps@This standsfor Process Status
+pushd@Change the directory and save itfirst
+quota@This command displays the disk usage and its limits
+quotacheck@This commands lets you scan a file system to find its diskusage
+ram@Ram disk device
+rcp@When using two machines, this command copiesfiles between them
+read@This commands is used for reading a linefrom standard input
+readarray@This commands reads from stdininto an array variable
+readonly@This command marks the variablesand functions as readonly
+reboot@Self explanatory, use thiscommand to reboot your system
+rename@Rename files
+renice@This command alters the priority of the processes running
+remsync@This command synchronises remote files through email
+return@Thisis used to exit from a shell function
+rev@This command reversesthe lines in a file
+rm@Use this to remove particularfiles
+rmdir@Same as above, but for directories
+screen@Use this to run remote shells using ssh
+scp@This is used tocreate a secure copy
+sdiff@This command is used to merge twofiles in a secure manner
+sed@This is for the streameditor
+select@This is used when you need to accept keyboardinputs
+seq@This command is used for printing numericsequences
+set@This command lets you manipulate shell functionsand variables
+sftp@Run the secure file transfer program usingthis
+shift@This command is used for shifting positionalparameters
+shopt@Shopt stands for Shell Options
+shutdown@Use this command when you want to shutdown Linux or restartit
+sleep@Add a delay using this command
+slocate@This isused to find particular files
+sort@Text files are sorted usingthis
+source@This command is used for running commands from afile
+split@This command is used to break a file into fixedsizes
+ssh@This is used to run the remote login program, that is,the secure shell client
+strace@This is used to trace signals andsystem calls
+su@Substitute the user identity using thiscommand
+sudo@This is used for executing commands as a differentuser
+sum@File cheksums are printed using this command
+suspend@This command is used to suspend the execution of the currentshell
+tail@Use this command when you want to output only the last part of afile
+tar@This command is used in order to store a list orextract files in an archive
+tee@This command is used forredirecting output into multiple files
+test@This command is usedfor evaluating conditional expressions
+time@The running time ofa program can be measured using this command
+timeout@Thiscommand is used to put a time limit on a command
+times@Use thisto find the user and system times
+touch@Timestamps on a file canbe changed using this
+top@This is used to get a list of theprocesses that are running on the system
+traceroute@Use thiscommand to Trace Route to a host
+tr@Delete characters, translateor squeeze them
+tsort@This is used for topological sorting
+ulimit@This commands limits the user resources
+umask@This is used todetermine the file permission for a new file
+umount@This commandwill unmount a device from the system
+unalias@This command willremove an alias
+uname@This command will print the systeminformation
+unexpand@This command will convert the spaces in afile to tabs
+uniq@This command will uniquify your files
+units@This will convert the units from one scale to another
+unset@Thiscommand removes the variable names or the function names
+unshar@This command unpacks the shell archive scripts
+until@Thiscommand will execute a command until there is an error
+uptime@This command will show the uptime
+useradd@Use this command whenyou need a new user account to be created
+userdel@This commandwill delete an user account from your system
+usermod@Selfexplanatory, modify an user account
+users@This command gives youa list of users who are currently logged in
+v@This command lists the contents of a directory
+vdir@Same asabove
+vi@This is a text editor
+wait@This command directs the system to wait for a process tofinish
+watch@This command will display or execute a programperiodically
+wc@This command prints the word, byte and linecounts
+whereis@This command will search a user's $path, sourcefiles and man pages
+which@This command searches only for auser's $path for a program
+while@Use this to executecommands
+who@This command will print the usernames that arecurrently logged into the system
+whoami@This is a command thatprints the current name and user id
+wget@This will retrieve theweb pages or files through HTTP, HTTPS or FTP
+xargs@This command execute's a utility and passes a constructed argumentlist

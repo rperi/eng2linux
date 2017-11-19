@@ -1,0 +1,209 @@
+alias@Create your own name for a command
+arch@print machine architecture
+ash@ash command interpreter (shell)
+awk@pattern scanning and processing language
+basename@Remove directory and suffix from a file name
+bash@GNU Bourne-Again Shell
+bsh@Command interpreter (Shell)
+bc@Command line calculator
+bunzip2@Unzip .bz2 files
+cat@Concatenate a file print it to the screen
+chgrp@Change the group designation of a file
+chmod@Change file permissions
+chown@Change the owner of a file
+cjpeg@Compress an image file to a JPEG file
+clear@Clear terminal screen (command line)
+comm@Compare two sorted files
+stty@cooked  Formatting the display of text in a terminal
+cp@Copy command
+cpio@Copy files to and from archives
+csh@C Shell
+cut@Print selected parts of lines to standard output
+date@Display date and time
+dc@Command line calculator
+df@Show amount of disk space free
+diff@Determine difference between two files
+diff3@Determine difference between 3 files
+dig@Interrogate DNS name servers
+djpeg@Decompress a JPEG file to an image file
+dmesg@Print or control the kernel ring buffer (print out bootup messages)
+dnsdomainname@Show the system's DNS domain name
+doexec@Run an executable with an arbitrary argv
+domainname@Show or set the system's NIS/YP domain name
+dos2unix@Converts plain text files in DOS/MAC format to UNIX format
+du@Show disk useage
+dumpkeys@Write keyboard driver's translation tables to std output
+echo@Display a line of text
+ed@Line-oriented text editor
+egrep@Print lines matching a pattern
+elinks@A text mode WWW browser (supports frames)
+env@Dislay the path
+ex@Start Vim in ex mode
+eject@Eject media from device ( command line )
+factor@Display prime factors of a number
+false@Exit with a status code indicating failure
+fdisk@The fdisk command with usage examples
+fgrep@Variant of grep
+find@Find a file
+finger@Displays information about the system users
+fixps@Try to fix common PostScript problems that break postprocessing
+free@Display free memory
+grep@Search for a pattern using regular expression
+gtar@See the tar command
+gunzip@Unzip .gz files
+gzip@Compress using Lempel-Ziv coding (LZ77)
+halt@Stop the system
+hdparm@Get/set harddisk parameters
+head@Print the first 10 lines of a file to standard output
+hostname@Show or set the system's host name
+history@Display entire command history
+HISTSIZE@Change history size
+httpd@Start Apache
+identify@Describes the format and characteristics of image files.
+id@Print information for username, or the current user
+ifconfig@Display network and hardware addresses
+igawk@Gawk with include files
+ipcalc@Calculate IP information for a host
+kbd_mode@Report or set the keyboard mode (RAW, MEDI- UMRAW or XLATE)
+kill@Terminate a process
+last@Show listing of last logged in users
+lastlog@Formats and prints the contents of the last login log /var/log/lastlog file
+link@Call the link function to create a link to a file
+links@See elinks
+ln@Create a link to the specified TARGET with optional LINK_NAME
+loadkeys@Load keyboard translation tables
+locate@Locate a file
+login@Sign on
+look@Displays any lines in file which contain "string" as a prefix.
+ls@List directory contents
+lsmod@List loaded kernel modules
+lynx@Command to start the Lynx browser
+mac2unix@Converts plain text files in DOS/MAC format to UNIX format
+mail@A mail processing system, which has a command syntax like ed
+man@Display a particular manual entry
+manweb@Manweb is part of the Netpbm package
+mdu@Display the amount of space occupied by an MSDOS directory
+mkdir@Create a directory
+mkfs@Make a filesystem on a drive
+mknod@Make block or character special files
+mktemp@Make temporary filename (unique)
+more@Page through text one screenful at a time.
+mount@Mount a filesystem/device
+mt@Control magnetic tape drive operation
+mv@Move and / or rename files
+namei@Follow a pathname until a terminal point is found
+nano@An enhanced free Pico clone
+nc@arbitrary TCP and UDP connections and listens
+(note@that nc is also called the client interface
+to@the NEdit program but it is not the
+command@that invokes nedit-nc on current systems)
+ncftp@Browser program for the File Transfer Protocol
+nedit-nc@nedit-nc is the client interface to the NEdit text editor
+netstat@Display verbose info about network processes and ports
+nice@Run a command with modified priority
+nisdomainname@Show or set system's NIS/YP domain name
+nslookup@query internet domain name servers
+paste@Merge lines of files
+pdf2dsc@Generate a PostScript page list of a PDF document
+pdf2ps@Convert PDF file "input.pdf" to PostScript(tm) in "output.ps"
+pdfinfo@Print contents of the 'Info' dictionary (plus some other useful information) from a PDF file
+pdftotext@Convert pdf files to plain text
+perl@(start) Practical Extraction and Report Language
+pgawk@The profiling version of gawk
+pico@Text editor that comes with Pine (from the University of Washington)
+pine@Email program used by The University of Washington
+ping6@Ping
+ping@Send ICMP ECHO_REQUEST to network hosts
+pinky@A lightweight 'finger' program;
+pr@Format for printing
+ps@Processes running
+ps2ascii@Ghostscript translator from PostScript or PDF to ASCII
+ps2epsi@Generate conforming Encapsulated PostScript
+ps2frag@Obsolete shell script for the PSfrag system
+ps2pdf12@Convert PostScript to PDF 1.2 (Acrobat 3 and later compatible) using ghostscript
+ps2pdf13@Convert PostScript to PDF 1.3 (Acrobat 4 and later compatible) using ghostscript
+ps2pdf14@Use ps2pdfwr: Convert PostScript to PDF without specifying Compatibility Level, using ghostscript
+ps2pdf@Convert PostScript to PDF using ghostscript
+ps2pdfwr@Convert PostScript to PDF without specifying Compatibility Level, using ghostscript
+ps2pk@creates a TeX pkfont from a type1 PostScript font
+ps2ps@ps2ps uses gs to convert PostScript(tm) file "input.ps" to simpler and (usually) faster PostScript in "output.ps"
+psbook@Rearranges pages from a PostScript document into "signatures" for printing books or booklets
+pwd@Print Working Directory
+quota@display disk usage and limits
+resize@Xterm window size
+readelf@Displays information about ELF files
+reboot@Stop the system, poweroff, reboot
+red@red is a restricted ed: it can only edit files in the current directory and cannot execute shell commands
+rename@Rename files
+rmdir@Remove a directory
+rm@Remove files or directories
+rpm@rpm command options
+rundig@Sample script to create a search database for ht://Dig
+rview@The GUI version of Vim in easy mode with restrictions
+rvi@Vi / Vim editor
+sed@Stream editor
+setfont@Load EGA/VGA console screen font
+setgid@Set group id
+setserial@Get / set Linux serial port info
+setuid@Set user id
+sfdisk@Modified fdisk program
+sftp@Secure file transfer protocol (ftp)
+sh@Shell (BASH)
+shred@Safely remove data from disk drive
+sleep@Delay for a specified amount of time
+slocate@Security Enhanced version of the GNU Locate
+sort@Sort lines of a text file
+ssh@Secure shell connection command
+stty@change and print terminal line settings
+stty@raw  Unformatted output to terminal
+su@Become super user ( root )
+switchdesk@Graphical and text mode interface for choosing desktop environment
+sync@Force changed blocks to disk, update the super block
+ssh@Secure shell connection command
+tail@Print the last 10 Lines of a file standard output
+tar@Create an Archive
+tcsh@Enhanced completely compatible version of the Berkeley UNIX C shell, csh
+tee@Copy standard input to each file, and also to standard output
+telnet@User interface to the telnet protocol
+time@Run the specified program command with the given arguments
+touch@Change file timestamps
+tracepath6@See tracepath
+tracepath@Trace path to a network host discovering MTU along this path
+traceroute6@See traceroute
+traceroute@Print the route packets take to network host
+tree@Display file tree
+true@Exit with a status code indicating success
+tty@Print name of terminal connected to standard output
+umask@File creation mask / Bash builtins
+umount@Detache file system(s) mentioned from file hierarchy
+uname@Print system information ( kernel version )
+unicode_start@Put keyboard and console into Unicode (UTF-8) mode
+unicode_stop@Undo the effect of unicode_start
+unlink@Call the unlink function to remove the specified file
+uniq@Remove duplicate lines from sorted file
+updatedb@Update the slocate database
+unset@gid  Group id change
+unset@uid  User id change
+untar@Unarchive ( untar ) a file
+unzip@Unzip .zip files
+useradd@Add new user
+users@Output who is currently logged in according to system records
+usleep@Sleep a given number of microseconds. default is 1
+view@Start vim in read-only mode
+vi@Start the vi editor
+w@Show who is logged on and what they are doing
+wc@Word count of a file
+wget@Non-interactive download of files from the Web
+whatis@Search the whatis database for complete words (command names)
+whereis@Locate a command or file
+which@Find command path
+whoami@Print effective userid
+who@show who is logged on
+whois@Client for the whois service
+xinit@Start Xserver
+xpdf@Portable Document Format (PDF) file viewer for X windows
+xrandr@Change resolution running Xwindows ( command line )
+ypdomainname@show or set the system's NIS/YP domain name
+zcat@Compress or expand files
+zip@Compression and file packaging utility
+zipinfo@List detailed information about a ZIP archive

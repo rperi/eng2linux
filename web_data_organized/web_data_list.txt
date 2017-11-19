@@ -1,0 +1,50 @@
+The linux commands sorted with alphabetical order 1 (Unique)
+https://fossbytes.com/a-z-list-linux-command-line-reference/
+
+The largest linux command repository (Not retreived) 2
+https://linux.die.net/man/
+
+The full list of bash commands 3 (Original)
+https://ss64.com/bash/
+
+Tech306: A-Z bash commands (Copy of 3)
+https://techlog360.com/a-z-bash-command-line-linux/
+
+A-Z bash command lines (Copy of 3)
+http://blog.rmerces.com/2010/09/z-bash-command-line.html
+
+A-Z linux commands  (Copy of 3)
+http://www.linux-india.org/an-a-z-index-of-the-bash-command-line-for-linux/
+
+Kali Linux commands 7 (Unique)
+https://techlog360.com/a-z-kali-linux-commands/
+
+Unix command pdf file (Not retrieved)
+https://www.andrew.cmu.edu/user/hoda/Teaching/Unix_cmd.pdf
+
+Linux command for beginners 9  (Unique)
+http://www.talktohacker.com/2014/08/learn-linux-z-commands-for-beginners.html
+
+Wikipedia for Linux Commands 10  (Unique)
+https://en.wikipedia.org/wiki/List_of_Unix_commands
+
+Wikipedia for GNU Commands 11 (Unique)
+https://en.wikipedia.org/wiki/List_of_GNU_Core_Utilities_commands
+
+Quizlet for Linux Commands 12
+https://quizlet.com/38183279/a-z-index-of-terminal-commands-unix-flash-cards/
+
+Unix Dictionary 13
+http://homepages.math.uic.edu/~hanson/UNIX/UnixDictionary.html
+
+A-Z Bash Commands in linux: 14
+http://www.linuxforfreshers.com/p/a-z-bash-commands.html
+
+Bash Shell Reference 15
+https://courses.cs.washington.edu/courses/cse390a/15wi/bash.html
+
+wikibooks: Linux Guide/Linux commands 16
+https://en.wikibooks.org/wiki/Linux_Guide/Linux_commands
+
+
+
