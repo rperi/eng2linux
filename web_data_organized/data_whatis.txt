@@ -1,0 +1,1974 @@
+accept@accept/reject jobs sent to a destination
+access@check user's permissions for a file
+aclocal@manual page for aclocal 1.15
+aconnect@ALSA sequencer connection manager
+acpi_available@test whether ACPI subsystem is available
+acpid@Advanced Configuration and Power Interface event daemon
+addr2line@convert addresses into file names and line numbers.
+agetty@alternative Linux getty
+alsactl@advanced controls for ALSA soundcard driver
+amidi@read from and write to ALSA RawMIDI ports
+amixer@command-line mixer for ALSA soundcard driver
+anacron@runs commands periodically
+aplay@command-line sound recorder and player for ALSA soundcard driver
+aplaymidi@play Standard MIDI Files
+apropos@search the manual page names and descriptions
+apt@command-line interface
+apt-get@- command-line interface
+ar@create, modify, and extract from archives
+arch@print machine hardware name (same as uname -m)
+arecord@command-line sound recorder and player for ALSA soundcard driver
+arecordmidi@record Standard MIDI Files
+arp@manipulate the system ARP cache
+aspell@interactive spell checker
+autoconf@Generate configuration scripts
+autoheader@Create a template header for configure
+automake@manual page for automake 1.15
+autoreconf@Update generated configuration files
+autoscan@Generate a preliminary configure.in
+autoupdate@Update a configure.in to a newer Autoconf
+awk@pattern scanning and text processing language
+badblocks@search a device for bad blocks
+basename@parse pathname components
+bash@GNU Bourne-Again SHell
+bc@An arbitrary precision calculator language
+bind@bind a name to a socket
+break@unimplemented system calls
+bzcmp@compare bzip2 compressed files
+bzdiff@compare bzip2 compressed files
+bzgrep@search possibly bzip2 compressed files for a regular expression
+bzip2@a block-sorting file compressor, v1.0.6
+bzless@file perusal filter for crt viewing of bzip2 compressed text
+bzmore@file perusal filter for crt viewing of bzip2 compressed text
+cal@displays a calendar and the date of Easter
+cat@concatenate files and print on the standard output
+cc@GNU project C and C++ compiler
+cfdisk@display or manipulate a disk partition table
+chage@change user password expiry information
+chattr@change file attributes on a Linux file system
+chdir@change working directory
+chfn@change real user name and information
+chgrp@change group ownership
+chmod@change file mode bits
+chown@change file owner and group
+chpasswd@update passwords in batch mode
+chroot@run command or interactive shell with special root directory
+chrt@manipulate the real-time attributes of a process
+chsh@change login shell
+chvt@change foreground virtual terminal
+cksum@checksum and count the bytes in a file
+clear@clear the terminal screen
+cmp@compare two files byte by byte
+col@filter reverse line feeds from input
+colcrt@filter nroff output for CRT previewing
+colrm@remove columns from a file
+column@columnate lists
+comm@compare two sorted files line by line
+cp@copy files and directories
+cpio@copy files to and from archives
+cpp@The C Preprocessor
+cron@daemon to execute scheduled commands (Vixie Cron)
+crontab@tables for driving cron
+csplit@split a file into sections determined by context lines
+cupsd@cups scheduler
+curl@transfer a URL
+cut@remove sections from each line of files
+date@print or set the system date and time
+dc@an arbitrary precision calculator
+dd@convert and copy a file
+deallocvt@deallocate unused virtual consoles
+debugfs@ext2/ext3/ext4 file system debugger
+depmod@Generate modules.dep and map files.
+devdump@Utility programs for dumping and verifying iso9660 images.
+df@report file system disk space usage
+diff@compare files line by line
+diff3@compare three files line by line
+dig@DNS lookup utility
+dir@list directory contents
+dircolors@color setup for ls
+dirname@parse pathname components
+dmesg@print or control the kernel ring buffer
+dnsdomainname@show the system's DNS domain name
+domainname@show or set the system's NIS/YP domain name
+dosfsck@check and repair MS-DOS filesystems
+du@estimate file space usage
+dumpe2fs@dump ext2/ext3/ext4 filesystem information
+dumpkeys@dump keyboard translation tables
+e2fsck@check a Linux ext2/ext3/ext4 file system
+e2image@Save critical ext2/ext3/ext4 filesystem metadata to a file
+e2label@Change the label on an ext2/ext3/ext4 filesystem
+echo@display a line of text
+egrep@print lines matching a pattern
+eject@eject removable media
+env@run a program in a modified environment
+envsubst@substitutes environment variables in shell format strings
+ethtool@query or control network driver and hardware settings
+ex@Vi IMproved, a programmers text editor
+exec@execute a file
+exit@cause normal process termination
+expand@convert tabs to spaces
+expr@evaluate expressions
+factor@factor numbers
+false@do nothing, unsuccessfully
+fc-cache@build font information cache files
+fc-list@list available fonts
+fdformat@low-level format a floppy disk
+fdisk@manipulate disk partition table
+fgconsole@print the number of the active VT.
+fgrep@print lines matching a pattern
+find@search for files in a directory hierarchy
+fmt@simple optimal text formatter
+fold@wrap each input line to fit in specified width
+free@allocate and free dynamic memory
+fsck@check and repair a Linux filesystem
+ftp@Internet file transfer program
+fuser@identify processes using files or sockets
+g++@GNU project C and C++ compiler
+gawk@pattern scanning and processing language
+gcc@GNU project C and C++ compiler
+gdb@The GNU Debugger
+getent@get entries from Name Service Switch libraries
+getkeycodes@print kernel scancode-to-keycode mapping table
+gpasswd@administer /etc/group and /etc/gshadow
+gpg@OpenPGP encryption and signing tool
+gpgsplit@Split an OpenPGP message into packets
+gpgv@Verify OpenPGP signatures
+gprof@display call graph profile data
+grep@print lines matching a pattern
+groff@front-end for the groff document formatting system
+groupadd@create a new group
+groupdel@delete a group
+groupmod@modify a group definition on the system
+groups@print the groups a user is in
+grpck@verify integrity of group files
+grpconv@convert to and from shadow passwords and groups
+gs@Ghostscript (PostScript and PDF language interpreter and previewer)
+gunzip@compress or expand files
+gzexe@compress executable files in place
+gzip@compress or expand files
+halt@variables that affect the behavior of the shutdown scripts
+hash@hash database access method
+hdparm@get/set SATA/IDE device parameters
+head@Simple command line user agent
+hexdump@ASCII, decimal, hexadecimal, octal dump
+history@GNU History Library
+host@DNS lookup utility
+hostid@print the numeric identifier for the current host
+hostname@Local hostname configuration file
+htop@interactive process viewer
+hwclock@variables that affect the behaviour of the hwclock boot script
+iconv@perform character set conversion
+id@print real and effective user and group IDs
+ifconfig@configure a network interface
+ifdown@take a network interface down
+ifup@bring a network interface up
+import@saves any visible window on an X server and outputs it as an image file. You can capture a single window, the entire screen, or any rectangular portion of the screen.
+info@readable online documentation
+init@Upstart init daemon job configuration
+insmod@Simple program to insert a module into the Linux Kernel
+install@copy files and set attributes
+ip@show / manipulate routing, devices, policy routing and tunnels
+ipcrm@remove certain IPC resources
+ipcs@show information on IPC facilities
+iptables@administration tool for IPv4/IPv6 packet filtering and NAT
+iptables-restore@Restore IP Tables
+iptables-save@dump iptables rules to stdout
+isodump@format of IEEE 1394 isochronous packets dump file
+isoinfo@Utility programs for dumping and verifying iso9660 images.
+isosize@output the length of an iso9660 filesystem
+isovfy@Utility programs for dumping and verifying iso9660 images.
+join@join lines of two files on a common field
+kbd_mode@report or set the keyboard mode
+kbdrate@reset the keyboard repeat rate and delay time
+kill@send a signal to a process
+killall@kill processes by name
+killall5@send a signal to all processes.
+last@show a listing of last logged in users
+lastb@show a listing of last logged in users
+lastlog@reports the most recent login of all users or of a given user
+ld@The GNU linker
+ldconfig@configure dynamic linker run-time bindings
+ldd@print shared object dependencies
+less@opposite of more
+lesskey@specify key bindings for less
+link@call the link function to create a link to a file
+ln@make links between files
+loadkeys@load keyboard translation tables
+locale@describes a locale definition file
+locate@find files by name
+logger@enter messages into the system log
+login@write utmp and wtmp entries
+logname@print user's login name
+logout@write utmp and wtmp entries
+logrotate@rotates, compresses, and mails system logs
+look@display lines beginning with a given string
+losetup@set up and control loop devices
+lpadmin@configure cups printers and classes
+lpc@line printer control program
+lpinfo@show available devices or drivers
+lpmove@move a job or all jobs to a new destination
+lpq@show printer queue status
+lpr@print files
+lprm@cancel print jobs
+lpstat@print cups status information
+ls@list directory contents
+lsattr@list file attributes on a Linux second extended file system
+lsblk@list block devices
+lsmod@Show the status of modules in the Linux Kernel
+lsof@list open files
+lspci@list all PCI devices
+lsusb@list USB devices
+m4@macro processor
+make@GNU make utility to maintain groups of programs
+man@an interface to the on-line reference manuals
+manpath@format of the /etc/manpath.config file
+mattrib@change MSDOS file attribute flags
+mbadblocks@tests a floppy disk, and marks the bad blocks in the FAT
+mcat@dump raw disk image
+mcd@change MSDOS directory
+mcopy@copy MSDOS files to/from Unix
+md5sum@compute and check MD5 message digest
+mdir@display an MSDOS directory
+mdu@display the amount of space occupied by an MSDOS directory
+mesg@display (or do not display) messages from other users
+mformat@add an MSDOS filesystem to a low-level formatted floppy disk
+minfo@print the parameters of a MSDOS filesystem
+mkdir@make directories
+mkdosfs@create an MS-DOS filesystem under Linux
+mke2fs@create an ext2/ext3/ext4 filesystem
+mkfifo@make a FIFO special file (a named pipe)
+mkfs@build a Linux filesystem
+mkfs.ext3@create an ext2/ext3/ext4 filesystem
+mklost+found@create a lost+found directory on a mounted Linux second extended file system
+mkmanifest@makes list of file names and their DOS 8+3 equivalent
+mknod@make block or character special files
+mkswap@set up a Linux swap area
+mktemp@make a unique temporary filename
+mlabel@make an MSDOS volume label
+mmd@make an MSDOS subdirectory
+mmount@mount an MSDOS disk
+mmove@move or rename an MSDOS file or subdirectory
+modinfo@Show information about a Linux Kernel module
+modprobe@Add and remove modules from the Linux Kernel
+more@file perusal filter for crt viewing
+mount@mount a filesystem
+mpartition@partition an MSDOS hard disk
+mrd@remove an MSDOS subdirectory
+mren@rename an existing MSDOS file
+mshowfat@shows FAT clusters allocated to file
+mt@control magnetic tape drive operation
+mtools@mtools configuration files
+mtoolstest@tests and displays the configuration
+mtr@a network diagnostic tool
+mtype@display contents of an MSDOS file
+mv@move (rename) files
+mzip@change protection mode and eject disk on Zip/Jaz drive
+namei@follow a pathname until a terminal point is found
+nameif@name network interfaces based on MAC addresses
+nc@arbitrary TCP and UDP connections and listens
+netstat@Print network connections, routing tables, interface statistics, masquerade connections, and multicast memberships
+newgrp@log in to a new group
+newusers@update and create new users in batch
+nice@run a program with modified scheduling priority
+nl@number lines of files
+nm@list symbols from object files
+nohup@run a command immune to hangups, with output to a non-tty
+notify-send@a program to send desktop notifications
+nslookup@query Internet name servers interactively
+nsupdate@Dynamic DNS update utility
+objcopy@copy and translate object files
+objdump@display information from object files.
+od@dump files in octal and other formats
+open@start a program on a new virtual terminal (VT).
+openvt@start a program on a new virtual terminal (VT).
+passwd@the password file
+paste@merge lines of files
+patch@apply a diff file to an original
+pathchk@check whether file names are valid or portable
+perl@The Perl 5 language interpreter
+pgrep@look up or signal processes based on name and other attributes
+pidof@find the process ID of a running program.
+ping@send ICMP ECHO_REQUEST to network hosts
+pinky@lightweight finger
+pkill@look up or signal processes based on name and other attributes
+pmap@report memory map of a process
+poweroff@Halt, power-off or reboot the machine
+pppd@Point-to-Point Protocol Daemon
+pr@convert text files for printing
+printenv@print all or part of environment
+printf@formatted output conversion
+ps@report a snapshot of the current processes.
+ptx@produce a permuted index of file contents
+pwck@verify integrity of password files
+pwconv@convert to and from shadow passwords and groups
+pwd@print name of current/working directory
+python@an interpreted, interactive, object-oriented programming language
+quotactl@manipulate disk quotas
+ram@ram disk device
+ranlib@generate index to archive.
+rcp@secure copy (remote file copy program)
+read@read from a file descriptor
+readelf@Displays information about ELF files.
+readlink@print resolved symbolic links or canonical file names
+reboot@Halt, power-off or reboot the machine
+reject@accept/reject jobs sent to a destination
+rename@renames multiple files
+renice@alter priority of running processes
+reset@terminal initialization
+resize2fs@ext2/ext3/ext4 file system resizer
+rev@reverse lines characterwise
+rexec@return stream to a remote command
+rlogin@OpenSSH SSH client (remote login program)
+rm@remove files or directories
+rmdir@remove empty directories
+rmmod@Simple program to remove a module from the Linux Kernel
+route@show / manipulate the IP routing table
+rpcgen@an RPC protocol compiler
+rsh@OpenSSH SSH client (remote login program)
+rsync@a fast, versatile, remote (and local) file-copying tool
+runlevel@Print previous and current SysV runlevel
+sane-find-scanner@find SCSI and USB scanners and their device files
+scanimage@scan an image
+scp@secure copy (remote file copy program)
+script@make typescript of terminal session
+sdiff@side-by-side merge of file differences
+sed@stream editor for filtering and transforming text
+select@synchronous I/O multiplexing
+seq@print a sequence of numbers
+setkeycodes@load kernel scancode-to-keycode mapping table entries
+setleds@set the keyboard leds
+setmetamode@define the keyboard meta key handling
+setsid@run a program in a new session
+setterm@set terminal attributes
+sftp@secure file transfer program
+sh@command interpreter (shell)
+sha1sum@compute and check SHA1 message digest
+showkey@examine the codes sent by the keyboard
+shred@overwrite a file to hide its contents, and optionally delete it
+shutdown@Halt, power-off or reboot the machine
+size@list section sizes and total size.
+skill@send a signal or report process status
+slabtop@display kernel slab cache information in real time
+slattach@attach a network interface to a serial line
+sleep@sleep for the specified number of seconds
+snice@send a signal or report process status
+sort@sort lines of text files
+split@split a file into pieces
+ss@another utility to investigate sockets
+ssh@OpenSSH SSH client (remote login program)
+ssh-add@adds private key identities to the authentication agent
+ssh-agent@authentication agent
+ssh-keygen@authentication key generation, management and conversion
+ssh-keyscan@gather ssh public keys
+sshd@OpenSSH SSH daemon
+stat@display file or file system status
+strace@trace system calls and signals
+strings@print the strings of printable characters in files.
+strip@Discard symbols from object files.
+stty@change and print terminal line settings
+su@change user ID or become superuser
+sudo@execute a command as another user
+sum@checksum and count the blocks in a file
+swapoff@enable/disable devices and files for paging and swapping
+swapon@enable/disable devices and files for paging and swapping
+symlink@symbolic link handling
+sync@Synchronize cached writes to persistent storage
+sysctl@configure kernel parameters at runtime
+tac@concatenate and print files in reverse
+tail@output the last part of files
+tailf@follow the growth of a log file
+tar@The GNU version of the tar archiving utility
+taskset@set or retrieve a process's CPU affinity
+tcpd@access control facility for internet services
+tcpdump@dump traffic on a network
+tee@read from standard input and write to standard output and files
+telinit@Change SysV runlevel
+telnet@user interface to the TELNET protocol
+test@check file types and compare values
+time@time functions for gawk
+timeout@run a command with a time limit
+times@get process times
+tload@graphic representation of system load average
+top@display Linux processes
+touch@change file timestamps
+tput@initialize a terminal or query terminfo database
+tr@translate or delete characters
+tracepath@traces path to a network host discovering MTU along this path
+troff@the troff processor of the groff text formatting system
+TRUE@do nothing, successfully
+tset@terminal initialization
+tsort@perform topological sort
+tty@controlling terminal
+tune2fs@adjust tunable filesystem parameters on ext2/ext3/ext4 filesystems
+tunelp@set various parameters for the lp device
+ul@do underlining
+umask@set file mode creation mask
+umount@unmount file systems
+uname@print system information
+uncompress@compress or expand files
+unexpand@convert spaces to tabs
+unicode_start@put keyboard and console in unicode mode
+unicode_stop@revert keyboard and console from unicode mode
+uniq@report or omit repeated lines
+units@decimal and binary prefixes
+uptime@Tell how long the system has been running.
+useradd@create a new user or update default new user information
+userdel@delete a user account and related files
+usermod@modify a user account
+users@print the user names of users currently logged in to the current host
+usleep@suspend execution for microsecond intervals
+uuidgen@create a new UUID value
+vdir@list directory contents
+vi@Vi IMproved, a programmers text editor
+vim@Vi IMproved, a programmer's text editor
+vmstat@Report virtual memory statistics
+volname@return volume name
+w@Show who is logged on and what they are doing.
+wait@basic process management
+wall@write a message to all users
+watch@execute a program periodically, showing output fullscreen
+wc@print newline, word, and byte counts for each file
+wget@The non-interactive network downloader.
+whatis@display one-line manual page descriptions
+whereis@locate the binary, source, and manual page files for a command
+which@locate a command
+who@show who is logged on
+whoami@print effective userid
+write@send a message to another user
+xargs@build and execute command lines from standard input
+xdg-open@opens a file or URL in the user's preferred application
+xz@Compress or decompress .xz and .lzma files
+yes@output a string repeatedly until killed
+zcat@compress or expand files
+zcmp@compare compressed files
+zdiff@compare compressed files
+zdump@timezone dumper
+zforce@force a '.gz' extension on all gzip files
+zgrep@search possibly compressed files for a regular expression
+zic@timezone compiler
+zip@package and compress (archive) files
+zless@file perusal filter for crt viewing of compressed text
+zmore@file perusal filter for crt viewing of compressed text
+znew@recompress .Z files to .gz files
+apropos@search the manual page names and descriptions
+apt-get@- command-line interface
+aspell@interactive spell checker
+awk@pattern scanning and text processing language
+basename@parse pathname components
+bash@GNU Bourne-Again SHell
+bc@An arbitrary precision calculator language
+bind@bind a name to a socket
+break@unimplemented system calls
+bzip2@a block-sorting file compressor, v1.0.6
+cal@displays a calendar and the date of Easter
+cat@concatenate files and print on the standard output
+cfdisk@display or manipulate a disk partition table
+chattr@change file attributes on a Linux file system
+chgrp@change group ownership
+chmod@change file mode bits
+chown@change file owner and group
+chroot@run command or interactive shell with special root directory
+cksum@checksum and count the bytes in a file
+clear@clear the terminal screen
+cmp@compare two files byte by byte
+comm@compare two sorted files line by line
+cp@copy files and directories
+cron@daemon to execute scheduled commands (Vixie Cron)
+crontab@tables for driving cron
+csplit@split a file into sections determined by context lines
+curl@transfer a URL
+cut@remove sections from each line of files
+date@print or set the system date and time
+dc@an arbitrary precision calculator
+dd@convert and copy a file
+df@report file system disk space usage
+diff@compare files line by line
+diff3@compare three files line by line
+dig@DNS lookup utility
+dir@list directory contents
+dircolors@color setup for ls
+dirname@parse pathname components
+dmesg@print or control the kernel ring buffer
+du@estimate file space usage
+echo@display a line of text
+egrep@print lines matching a pattern
+eject@eject removable media
+env@run a program in a modified environment
+ethtool@query or control network driver and hardware settings
+exec@execute a file
+exit@cause normal process termination
+expand@convert tabs to spaces
+expr@evaluate expressions
+false@do nothing, unsuccessfully
+fdformat@low-level format a floppy disk
+fdisk@manipulate disk partition table
+fgrep@print lines matching a pattern
+find@search for files in a directory hierarchy
+fmt@simple optimal text formatter
+fold@wrap each input line to fit in specified width
+free@allocate and free dynamic memory
+fsck@check and repair a Linux filesystem
+ftp@Internet file transfer program
+fuser@identify processes using files or sockets
+gawk@pattern scanning and processing language
+grep@print lines matching a pattern
+groupadd@create a new group
+groupdel@delete a group
+groupmod@modify a group definition on the system
+groups@print the groups a user is in
+gzip@compress or expand files
+hash@hash database access method
+head@Simple command line user agent
+history@GNU History Library
+hostname@Local hostname configuration file
+htop@interactive process viewer
+iconv@perform character set conversion
+id@print real and effective user and group IDs
+ifconfig@configure a network interface
+ifdown@take a network interface down
+ifup@bring a network interface up
+import@saves any visible window on an X server and outputs it as an image file. You can capture a single window, the entire screen, or any rectangular portion of the screen.
+install@copy files and set attributes
+ip@show / manipulate routing, devices, policy routing and tunnels
+join@join lines of two files on a common field
+kill@send a signal to a process
+killall@kill processes by name
+less@opposite of more
+link@call the link function to create a link to a file
+ln@make links between files
+locate@find files by name
+logname@print user's login name
+logout@write utmp and wtmp entries
+look@display lines beginning with a given string
+lpc@line printer control program
+lpr@print files
+lprm@cancel print jobs
+lsattr@list file attributes on a Linux second extended file system
+lsblk@list block devices
+ls@list directory contents
+lsof@list open files
+make@GNU make utility to maintain groups of programs
+man@an interface to the on-line reference manuals
+mkdir@make directories
+mkfifo@make a FIFO special file (a named pipe)
+mknod@make block or character special files
+more@file perusal filter for crt viewing
+mount@mount a filesystem
+mtools@mtools configuration files
+mtr@a network diagnostic tool
+mv@move (rename) files
+nc@arbitrary TCP and UDP connections and listens
+netstat@Print network connections, routing tables, interface statistics, masquerade connections, and multicast memberships
+nice@run a program with modified scheduling priority
+nl@number lines of files
+nohup@run a command immune to hangups, with output to a non-tty
+notify-send@a program to send desktop notifications
+nslookup@query Internet name servers interactively
+open@start a program on a new virtual terminal (VT).
+passwd@the password file
+paste@merge lines of files
+pathchk@check whether file names are valid or portable
+ping@send ICMP ECHO_REQUEST to network hosts
+pgrep@look up or signal processes based on name and other attributes
+pkill@look up or signal processes based on name and other attributes
+pr@convert text files for printing
+printenv@print all or part of environment
+printf@formatted output conversion
+ps@report a snapshot of the current processes.
+pwd@print name of current/working directory
+ram@ram disk device
+rcp@secure copy (remote file copy program)
+read@read from a file descriptor
+reboot@Halt, power-off or reboot the machine
+rename@renames multiple files
+renice@alter priority of running processes
+rev@reverse lines characterwise
+rm@remove files or directories
+rmdir@remove empty directories
+rsync@a fast, versatile, remote (and local) file-copying tool
+scp@secure copy (remote file copy program)
+sdiff@side-by-side merge of file differences
+sed@stream editor for filtering and transforming text
+select@synchronous I/O multiplexing
+seq@print a sequence of numbers
+sftp@secure file transfer program
+shutdown@Halt, power-off or reboot the machine
+sleep@sleep for the specified number of seconds
+sort@sort lines of text files
+split@split a file into pieces
+ss@another utility to investigate sockets
+ssh@OpenSSH SSH client (remote login program)
+stat@display file or file system status
+strace@trace system calls and signals
+su@change user ID or become superuser
+sudo@execute a command as another user
+sum@checksum and count the blocks in a file
+sync@Synchronize cached writes to persistent storage
+tail@output the last part of files
+tar@The GNU version of the tar archiving utility
+tee@read from standard input and write to standard output and files
+test@check file types and compare values
+time@time functions for gawk
+timeout@run a command with a time limit
+times@get process times
+touch@change file timestamps
+top@display Linux processes
+tput@initialize a terminal or query terminfo database
+tr@translate or delete characters
+true@do nothing, successfully
+tsort@perform topological sort
+tty@controlling terminal
+umask@set file mode creation mask
+umount@unmount file systems
+uname@print system information
+unexpand@convert spaces to tabs
+uniq@report or omit repeated lines
+units@decimal and binary prefixes
+uptime@Tell how long the system has been running.
+useradd@create a new user or update default new user information
+userdel@delete a user account and related files
+usermod@modify a user account
+users@print the user names of users currently logged in to the current host
+vdir@list directory contents
+vi@Vi IMproved, a programmers text editor
+vmstat@Report virtual memory statistics
+wait@basic process management
+watch@execute a program periodically, showing output fullscreen
+wc@print newline, word, and byte counts for each file
+whereis@locate the binary, source, and manual page files for a command
+which@locate a command
+who@show who is logged on
+whoami@print effective userid
+wget@The non-interactive network downloader.
+write@send a message to another user
+xargs@build and execute command lines from standard input
+xdg-open@opens a file or URL in the user's preferred application
+xz@Compress or decompress .xz and .lzma files
+yes@output a string repeatedly until killed
+zip@package and compress (archive) files
+apropos@search the manual page names and descriptions
+apt-get@- command-line interface
+aspell@interactive spell checker
+awk@pattern scanning and text processing language
+basename@parse pathname components
+bash@GNU Bourne-Again SHell
+bc@An arbitrary precision calculator language
+break@unimplemented system calls
+bzip2@a block-sorting file compressor, v1.0.6
+cal@displays a calendar and the date of Easter
+cat@concatenate files and print on the standard output
+cfdisk@display or manipulate a disk partition table
+chgrp@change group ownership
+chmod@change file mode bits
+chown@change file owner and group
+chroot@run command or interactive shell with special root directory
+cksum@checksum and count the bytes in a file
+clear@clear the terminal screen
+cmp@compare two files byte by byte
+comm@compare two sorted files line by line
+cp@copy files and directories
+cron@daemon to execute scheduled commands (Vixie Cron)
+crontab@tables for driving cron
+csplit@split a file into sections determined by context lines
+date@print or set the system date and time
+dc@an arbitrary precision calculator
+df@report file system disk space usage
+diff@compare files line by line
+dig@DNS lookup utility
+dir@list directory contents
+dirname@parse pathname components
+du@estimate file space usage
+echo@display a line of text
+egrep@print lines matching a pattern
+ethtool@query or control network driver and hardware settings
+exec@execute a file
+exit@cause normal process termination
+expand@convert tabs to spaces
+expr@evaluate expressions
+false@do nothing, unsuccessfully
+fdformat@low-level format a floppy disk
+fdisk@manipulate disk partition table
+fgrep@print lines matching a pattern
+find@search for files in a directory hierarchy
+fmt@simple optimal text formatter
+fold@wrap each input line to fit in specified width
+free@allocate and free dynamic memory
+fsck@check and repair a Linux filesystem
+fuser@identify processes using files or sockets
+gawk@pattern scanning and processing language
+grep@print lines matching a pattern
+groupadd@create a new group
+groupdel@delete a group
+groupmod@modify a group definition on the system
+groups@print the groups a user is in
+gzip@compress or expand files
+hash@hash database access method
+head@Simple command line user agent
+history@GNU History Library
+hostname@Local hostname configuration file
+iconv@perform character set conversion
+id@print real and effective user and group IDs
+ifconfig@configure a network interface
+ifdown@take a network interface down
+ifup@bring a network interface up
+import@saves any visible window on an X server and outputs it as an image file. You can capture a single window, the entire screen, or any rectangular portion of the screen.
+Install@copy files and set attributes
+Join@join lines of two files on a common field
+kill@send a signal to a process
+Killall@kill processes by name
+less@opposite of more
+link@call the link function to create a link to a file
+ln@make links between files
+locate@find files by name
+logname@print user's login name
+logout@write utmp and wtmp entries
+lpc@line printer control program
+lpr@print files
+lprm@cancel print jobs
+make@GNU make utility to maintain groups of programs
+man@an interface to the on-line reference manuals
+mkdir@make directories
+mkfifo@make a FIFO special file (a named pipe)
+mknod@make block or character special files
+more@file perusal filter for crt viewing
+mount@mount a filesystem
+mtools@mtools configuration files
+mtr@a network diagnostic tool
+mv@move (rename) files
+netstat@Print network connections, routing tables, interface statistics, masquerade connections, and multicast memberships
+nice@run a program with modified scheduling priority
+nl@number lines of files
+nohup@run a command immune to hangups, with output to a non-tty
+notify-send@a program to send desktop notifications
+nslookup@query Internet name servers interactively
+open@start a program on a new virtual terminal (VT).
+passwd@the password file
+paste@merge lines of files
+pathchk@check whether file names are valid or portable
+ping@send ICMP ECHO_REQUEST to network hosts
+pkill@look up or signal processes based on name and other attributes
+pr@convert text files for printing
+printenv@print all or part of environment
+printf@formatted output conversion
+ps@report a snapshot of the current processes.
+pwd@print name of current/working directory
+quotactl@manipulate disk quotas
+ram@ram disk device
+rcp@secure copy (remote file copy program)
+read@read from a file descriptor
+reboot@Halt, power-off or reboot the machine
+rename@renames multiple files
+renice@alter priority of running processes
+rev@reverse lines characterwise
+rm@remove files or directories
+rsync@a fast, versatile, remote (and local) file-copying tool
+scp@secure copy (remote file copy program)
+sdiff@side-by-side merge of file differences
+sed@stream editor for filtering and transforming text
+select@synchronous I/O multiplexing
+seq@print a sequence of numbers
+sftp@secure file transfer program
+shutdown@Halt, power-off or reboot the machine
+sleep@sleep for the specified number of seconds
+sort@sort lines of text files
+split@split a file into pieces
+ssh@OpenSSH SSH client (remote login program)
+strace@trace system calls and signals
+su@change user ID or become superuser
+sudo@execute a command as another user
+sync@Synchronize cached writes to persistent storage
+tail@output the last part of files
+tar@The GNU version of the tar archiving utility
+tee@read from standard input and write to standard output and files
+test@check file types and compare values
+time@time functions for gawk
+timeout@run a command with a time limit
+times@get process times
+touch@change file timestamps
+tr@translate or delete characters
+tsort@perform topological sort
+umask@set file mode creation mask
+umount@unmount file systems
+uname@print system information
+unexpand@convert spaces to tabs
+uniq@report or omit repeated lines
+units@decimal and binary prefixes
+uptime@Tell how long the system has been running.
+usermod@modify a user account
+users@print the user names of users currently logged in to the current host
+vi@Vi IMproved, a programmers text editor
+vmstat@Report virtual memory statistics
+wait@basic process management
+watch@execute a program periodically, showing output fullscreen
+wc@print newline, word, and byte counts for each file
+who@show who is logged on
+whoami@print effective userid
+wget@The non-interactive network downloader.
+write@send a message to another user
+xargs@build and execute command lines from standard input
+xdg-open@opens a file or URL in the user's preferred application
+yes@output a string repeatedly until killed
+awk@pattern scanning and text processing language
+basename@parse pathname components
+bc@An arbitrary precision calculator language
+cal@displays a calendar and the date of Easter
+cat@concatenate files and print on the standard output
+chgrp@change group ownership
+chmod@change file mode bits
+chown@change file owner and group
+cksum@checksum and count the bytes in a file
+cmp@compare two files byte by byte
+comm@compare two sorted files line by line
+cp@copy files and directories
+crontab@tables for driving cron
+csplit@split a file into sections determined by context lines
+cut@remove sections from each line of files
+date@print or set the system date and time
+dd@convert and copy a file
+df@report file system disk space usage
+diff@compare files line by line
+dirname@parse pathname components
+du@estimate file space usage
+echo@display a line of text
+env@run a program in a modified environment
+ex@Vi IMproved, a programmers text editor
+expand@convert tabs to spaces
+expr@evaluate expressions
+false@do nothing, unsuccessfully
+find@search for files in a directory hierarchy
+fold@wrap each input line to fit in specified width
+fuser@identify processes using files or sockets
+gencat@Generate message catalog
+getconf@Query system configuration variables
+grep@print lines matching a pattern
+hash@hash database access method
+head@Simple command line user agent
+iconv@perform character set conversion
+id@print real and effective user and group IDs
+ipcrm@remove certain IPC resources
+ipcs@show information on IPC facilities
+join@join lines of two files on a common field
+kill@send a signal to a process
+link@call the link function to create a link to a file
+ln@make links between files
+locale@describes a locale definition file
+localedef@compile locale definition files
+logger@enter messages into the system log
+logname@print user's login name
+lp@line printer devices
+ls@list directory contents
+m4@macro processor
+make@GNU make utility to maintain groups of programs
+man@an interface to the on-line reference manuals
+mesg@display (or do not display) messages from other users
+mkdir@make directories
+mkfifo@make a FIFO special file (a named pipe)
+more@file perusal filter for crt viewing
+mv@move (rename) files
+newgrp@log in to a new group
+nice@run a program with modified scheduling priority
+nl@number lines of files
+nm@list symbols from object files
+nohup@run a command immune to hangups, with output to a non-tty
+od@dump files in octal and other formats
+paste@merge lines of files
+patch@apply a diff file to an original
+pathchk@check whether file names are valid or portable
+pr@convert text files for printing
+printf@formatted output conversion
+ps@report a snapshot of the current processes.
+pwd@print name of current/working directory
+qalter@alter pbs batch job
+qdel@delete pbs batch job
+qhold@hold pbs batch jobs
+qmove@move pbs batch job
+qmsg@send message to pbs batch jobs
+qrerun@rerun a pbs batch job
+qrls@release hold on pbs batch jobs
+qselect@select pbs batch jobs
+qsig@signal pbs batch job
+qstat@show status of pbs batch jobs
+qsub@submit pbs job
+read@read from a file descriptor
+renice@alter priority of running processes
+rm@remove files or directories
+rmdir@remove empty directories
+sed@stream editor for filtering and transforming text
+sh@command interpreter (shell)
+sleep@sleep for the specified number of seconds
+sort@sort lines of text files
+split@split a file into pieces
+strings@print the strings of printable characters in files.
+strip@Discard symbols from object files.
+stty@change and print terminal line settings
+tabs@set tabs on a terminal
+tail@output the last part of files
+tee@read from standard input and write to standard output and files
+test@check file types and compare values
+time@time functions for gawk
+touch@change file timestamps
+tput@initialize a terminal or query terminfo database
+tr@translate or delete characters
+true@do nothing, successfully
+tsort@perform topological sort
+tty@controlling terminal
+umask@set file mode creation mask
+uname@print system information
+uncompress@compress or expand files
+unexpand@convert spaces to tabs
+uniq@report or omit repeated lines
+unlink@call the unlink function to remove the specified file
+vi@Vi IMproved, a programmers text editor
+wait@basic process management
+wc@print newline, word, and byte counts for each file
+who@show who is logged on
+chcon@change file security context
+chgrp@change group ownership
+chown@change file owner and group
+chmod@change file mode bits
+cp@copy files and directories
+dd@convert and copy a file
+df@report file system disk space usage
+dir@list directory contents
+dircolors@color setup for ls
+install@copy files and set attributes
+ln@make links between files
+ls@list directory contents
+mkdir@make directories
+mkfifo@make a FIFO special file (a named pipe)
+mknod@make block or character special files
+mktemp@make a unique temporary filename
+mv@move (rename) files
+realpath@return the canonicalized absolute pathname
+rm@remove files or directories
+rmdir@remove empty directories
+shred@overwrite a file to hide its contents, and optionally delete it
+sync@Synchronize cached writes to persistent storage
+touch@change file timestamps
+truncate@shrink or extend the size of a file to the specified size
+vdir@list directory contents
+base32@base32 encode/decode data and print to standard output
+base64@base64 encode/decode data and print to standard output
+cat@concatenate files and print on the standard output
+cksum@checksum and count the bytes in a file
+comm@compare two sorted files line by line
+csplit@split a file into sections determined by context lines
+cut@remove sections from each line of files
+expand@convert tabs to spaces
+fmt@simple optimal text formatter
+fold@wrap each input line to fit in specified width
+head@Simple command line user agent
+join@join lines of two files on a common field
+md5sum@compute and check MD5 message digest
+nl@number lines of files
+numfmt@Convert numbers from/to human-readable strings
+od@dump files in octal and other formats
+paste@merge lines of files
+ptx@produce a permuted index of file contents
+pr@convert text files for printing
+shuf@generate random permutations
+sort@sort lines of text files
+split@split a file into pieces
+sum@checksum and count the blocks in a file
+tac@concatenate and print files in reverse
+tail@output the last part of files
+tr@translate or delete characters
+tsort@perform topological sort
+unexpand@convert spaces to tabs
+uniq@report or omit repeated lines
+wc@print newline, word, and byte counts for each file
+arch@print machine hardware name (same as uname -m)
+basename@parse pathname components
+chroot@run command or interactive shell with special root directory
+date@print or set the system date and time
+dirname@parse pathname components
+du@estimate file space usage
+echo@display a line of text
+env@run a program in a modified environment
+expr@evaluate expressions
+factor@factor numbers
+false@do nothing, unsuccessfully
+groups@print the groups a user is in
+hostid@print the numeric identifier for the current host
+id@print real and effective user and group IDs
+link@call the link function to create a link to a file
+logname@print user's login name
+nice@run a program with modified scheduling priority
+nohup@run a command immune to hangups, with output to a non-tty
+nproc@print the number of processing units available
+pathchk@check whether file names are valid or portable
+pinky@lightweight finger
+printenv@print all or part of environment
+printf@formatted output conversion
+pwd@print name of current/working directory
+readlink@print resolved symbolic links or canonical file names
+runcon@run command with specified security context
+seq@print a sequence of numbers
+sleep@sleep for the specified number of seconds
+stat@display file or file system status
+stdbuf@Run COMMAND, with modified buffering operations for its standard streams.
+stty@change and print terminal line settings
+tee@read from standard input and write to standard output and files
+test@check file types and compare values
+timeout@run a command with a time limit
+true@do nothing, successfully
+tty@controlling terminal
+uname@print system information
+unlink@call the unlink function to remove the specified file
+uptime@Tell how long the system has been running.
+users@print the user names of users currently logged in to the current host
+who@show who is logged on
+whoami@print effective userid
+yes@output a string repeatedly until killed
+apropos@search the manual page names and descriptions
+awk@pattern scanning and text processing language
+basename@parse pathname components
+bash@GNU Bourne-Again SHell
+bind@bind a name to a socket
+break@unimplemented system calls
+bzip2@a block-sorting file compressor, v1.0.6
+cal@displays a calendar and the date of Easter
+calendar@reminder service
+cat@concatenate files and print on the standard output
+chgrp@change group ownership
+chmod@change file mode bits
+chown@change file owner and group
+chroot@run command or interactive shell with special root directory
+cksum@checksum and count the bytes in a file
+clear@clear the terminal screen
+cmp@compare two files byte by byte
+comm@compare two sorted files line by line
+cp@copy files and directories
+cron@daemon to execute scheduled commands (Vixie Cron)
+crontab@tables for driving cron
+csplit@split a file into sections determined by context lines
+curl@transfer a URL
+cut@remove sections from each line of files
+date@print or set the system date and time
+dc@an arbitrary precision calculator
+dd@convert and copy a file
+df@report file system disk space usage
+diff@compare files line by line
+diff3@compare three files line by line
+dig@DNS lookup utility
+dirname@parse pathname components
+du@estimate file space usage
+echo@display a line of text
+env@run a program in a modified environment
+exec@execute a file
+exit@cause normal process termination
+expand@convert tabs to spaces
+expr@evaluate expressions
+false@do nothing, unsuccessfully
+fdisk@manipulate disk partition table
+find@search for files in a directory hierarchy
+fmt@simple optimal text formatter
+fold@wrap each input line to fit in specified width
+fsck@check and repair a Linux filesystem
+ftp@Internet file transfer program
+getopt@Parse command-line options
+grep@print lines matching a pattern
+groups@print the groups a user is in
+gzip@compress or expand files
+halt@variables that affect the behavior of the shutdown scripts
+hash@hash database access method
+head@Simple command line user agent
+history@GNU History Library
+hostname@Local hostname configuration file
+iconv@perform character set conversion
+id@print real and effective user and group IDs
+ifconfig@configure a network interface
+info@readable online documentation
+install@copy files and set attributes
+join@join lines of two files on a common field
+kill@send a signal to a process
+last@show a listing of last logged in users
+less@opposite of more
+ln@make links between files
+locate@find files by name
+logname@print user's login name
+login@write utmp and wtmp entries
+logout@write utmp and wtmp entries
+look@display lines beginning with a given string
+lpr@print files
+lprm@cancel print jobs
+lpstat@print cups status information
+ls@list directory contents
+lsof@list open files
+man@an interface to the on-line reference manuals
+mkdir@make directories
+mkfifo@make a FIFO special file (a named pipe)
+more@file perusal filter for crt viewing
+mount@mount a filesystem
+mv@move (rename) files
+nano@Nano's ANOther editor, an enhanced free Pico clone
+netstat@Print network connections, routing tables, interface statistics, masquerade connections, and multicast memberships
+nice@run a program with modified scheduling priority
+nohup@run a command immune to hangups, with output to a non-tty
+open@start a program on a new virtual terminal (VT).
+passwd@the password file
+paste@merge lines of files
+ping@send ICMP ECHO_REQUEST to network hosts
+pr@convert text files for printing
+printenv@print all or part of environment
+printf@formatted output conversion
+ps@report a snapshot of the current processes.
+pwd@print name of current/working directory
+rcp@secure copy (remote file copy program)
+read@read from a file descriptor
+reboot@Halt, power-off or reboot the machine
+rev@reverse lines characterwise
+rm@remove files or directories
+rmdir@remove empty directories
+rsync@a fast, versatile, remote (and local) file-copying tool
+sdiff@side-by-side merge of file differences
+security@unimplemented system calls
+sed@stream editor for filtering and transforming text
+select@synchronous I/O multiplexing
+shasum@Print or Check SHA Checksums
+shutdown@Halt, power-off or reboot the machine
+sleep@sleep for the specified number of seconds
+sort@sort lines of text files
+split@split a file into pieces
+stat@display file or file system status
+stop@init daemon control tool
+su@change user ID or become superuser
+sudo@execute a command as another user
+sum@checksum and count the blocks in a file
+tail@output the last part of files
+tar@The GNU version of the tar archiving utility
+tcpdump@dump traffic on a network
+tee@read from standard input and write to standard output and files
+test@check file types and compare values
+time@time functions for gawk
+times@get process times
+top@display Linux processes
+touch@change file timestamps
+tr@translate or delete characters
+true@do nothing, successfully
+tty@controlling terminal
+umask@set file mode creation mask
+umount@unmount file systems
+uname@print system information
+unexpand@convert spaces to tabs
+uniq@report or omit repeated lines
+units@decimal and binary prefixes
+uptime@Tell how long the system has been running.
+users@print the user names of users currently logged in to the current host
+uuidgen@create a new UUID value
+vi@Vi IMproved, a programmers text editor
+wait@basic process management
+wc@print newline, word, and byte counts for each file
+whatis@display one-line manual page descriptions
+which@locate a command
+who@show who is logged on
+whoami@print effective userid
+write@send a message to another user
+xargs@build and execute command lines from standard input
+yes@output a string repeatedly until killed
+zip@package and compress (archive) files
+apropos@search the manual page names and descriptions
+apt-get@- command-line interface
+aspell@interactive spell checker
+basename@parse pathname components
+bash@GNU Bourne-Again SHell
+bc@An arbitrary precision calculator language
+break@unimplemented system calls
+cal@displays a calendar and the date of Easter
+cat@concatenate files and print on the standard output
+cfdisk@display or manipulate a disk partition table
+chgrp@change group ownership
+chmod@change file mode bits
+chown@change file owner and group
+chroot@run command or interactive shell with special root directory
+cksum@checksum and count the bytes in a file
+clear@clear the terminal screen
+cmp@compare two files byte by byte
+comm@compare two sorted files line by line
+cp@copy files and directories
+cron@daemon to execute scheduled commands (Vixie Cron)
+crontab@tables for driving cron
+csplit@split a file into sections determined by context lines
+date@print or set the system date and time
+dc@an arbitrary precision calculator
+df@report file system disk space usage
+diff@compare files line by line
+diff3@compare three files line by line
+dig@DNS lookup utility
+dir@list directory contents
+dircolors@color setup for ls
+dirname@parse pathname components
+dmesg@print or control the kernel ring buffer
+echo@display a line of text
+egrep@print lines matching a pattern
+eject@eject removable media
+env@run a program in a modified environment
+ethtool@query or control network driver and hardware settings
+exec@execute a file
+exit@cause normal process termination
+expand@convert tabs to spaces
+false@do nothing, unsuccessfully
+fdformat@low-level format a floppy disk
+fdisk@manipulate disk partition table
+fgrep@print lines matching a pattern
+find@search for files in a directory hierarchy
+fmt@simple optimal text formatter
+fold@wrap each input line to fit in specified width
+free@allocate and free dynamic memory
+fsck@check and repair a Linux filesystem
+gawk@pattern scanning and processing language
+grep@print lines matching a pattern
+groupadd@create a new group
+groupdel@delete a group
+groupmod@modify a group definition on the system
+groups@print the groups a user is in
+hash@hash database access method
+head@Simple command line user agent
+history@GNU History Library
+iconv@perform character set conversion
+id@print real and effective user and group IDs
+ifconfig@configure a network interface
+ifdown@take a network interface down
+ifup@bring a network interface up
+import@saves any visible window on an X server and outputs it as an image file. You can capture a single window, the entire screen, or any rectangular portion of the screen.
+kill@send a signal to a process
+less@opposite of more
+link@call the link function to create a link to a file
+ln@make links between files
+locate@find files by name
+logname@print user's login name
+logout@write utmp and wtmp entries
+look@display lines beginning with a given string
+lpc@line printer control program
+lpr@print files
+make@GNU make utility to maintain groups of programs
+man@an interface to the on-line reference manuals
+mkdir@make directories
+mkfifo@make a FIFO special file (a named pipe)
+mknod@make block or character special files
+more@file perusal filter for crt viewing
+mount@mount a filesystem
+mtools@mtools configuration files
+mtr@a network diagnostic tool
+mv@move (rename) files
+netstat@Print network connections, routing tables, interface statistics, masquerade connections, and multicast memberships
+nice@run a program with modified scheduling priority
+nl@number lines of files
+nohup@run a command immune to hangups, with output to a non-tty
+notify-send@a program to send desktop notifications
+open@start a program on a new virtual terminal (VT).
+less@opposite of more
+link@call the link function to create a link to a file
+ln@make links between files
+locate@find files by name
+logname@print user's login name
+logout@write utmp and wtmp entries
+look@display lines beginning with a given string
+lpc@line printer control program
+lpr@print files
+make@GNU make utility to maintain groups of programs
+man@an interface to the on-line reference manuals
+mkdir@make directories
+mkfifo@make a FIFO special file (a named pipe)
+mknod@make block or character special files
+more@file perusal filter for crt viewing
+mount@mount a filesystem
+mtools@mtools configuration files
+mtr@a network diagnostic tool
+mv@move (rename) files
+netstat@Print network connections, routing tables, interface statistics, masquerade connections, and multicast memberships
+nice@run a program with modified scheduling priority
+nl@number lines of files
+nohup@run a command immune to hangups, with output to a non-tty
+notify-send@a program to send desktop notifications
+open@start a program on a new virtual terminal (VT).
+passwd@the password file
+paste@merge lines of files
+pathchk@check whether file names are valid or portable
+ping@send ICMP ECHO_REQUEST to network hosts
+pkill@look up or signal processes based on name and other attributes
+pr@convert text files for printing
+printenv@print all or part of environment
+printf@formatted output conversion
+ps@report a snapshot of the current processes.
+ram@ram disk device
+rcp@secure copy (remote file copy program)
+read@read from a file descriptor
+reboot@Halt, power-off or reboot the machine
+rename@renames multiple files
+renice@alter priority of running processes
+rev@reverse lines characterwise
+rm@remove files or directories
+rmdir@remove empty directories
+scp@secure copy (remote file copy program)
+sdiff@side-by-side merge of file differences
+sed@stream editor for filtering and transforming text
+select@synchronous I/O multiplexing
+seq@print a sequence of numbers
+sftp@secure file transfer program
+shutdown@Halt, power-off or reboot the machine
+sleep@sleep for the specified number of seconds
+sort@sort lines of text files
+split@split a file into pieces
+ssh@OpenSSH SSH client (remote login program)
+strace@trace system calls and signals
+su@change user ID or become superuser
+sudo@execute a command as another user
+sum@checksum and count the blocks in a file
+tail@output the last part of files
+tar@The GNU version of the tar archiving utility
+tee@read from standard input and write to standard output and files
+test@check file types and compare values
+time@time functions for gawk
+timeout@run a command with a time limit
+times@get process times
+touch@change file timestamps
+top@display Linux processes
+tr@translate or delete characters
+tsort@perform topological sort
+umask@set file mode creation mask
+umount@unmount file systems
+uname@print system information
+unexpand@convert spaces to tabs
+uniq@report or omit repeated lines
+units@decimal and binary prefixes
+uptime@Tell how long the system has been running.
+useradd@create a new user or update default new user information
+userdel@delete a user account and related files
+usermod@modify a user account
+users@print the user names of users currently logged in to the current host
+vdir@list directory contents
+vi@Vi IMproved, a programmers text editor
+wait@basic process management
+watch@execute a program periodically, showing output fullscreen
+wc@print newline, word, and byte counts for each file
+whereis@locate the binary, source, and manual page files for a command
+which@locate a command
+who@show who is logged on
+whoami@print effective userid
+wget@The non-interactive network downloader.
+xargs@build and execute command lines from standard input
+clear@clear the terminal screen
+exit@cause normal process termination
+history@GNU History Library
+ls@list directory contents
+pwd@print name of current/working directory
+mkdir@make directories
+rmdir@remove empty directories
+mv@move (rename) files
+rm@remove files or directories
+touch@change file timestamps
+cat@concatenate files and print on the standard output
+more@file perusal filter for crt viewing
+head@Simple command line user agent
+tail@output the last part of files
+wc@print newline, word, and byte counts for each file
+du@estimate file space usage
+diff@compare files line by line
+chmod@change file mode bits
+chown@change file owner and group
+chgrp@change group ownership
+umask@set file mode creation mask
+grep@print lines matching a pattern
+sort@sort lines of text files
+uniq@report or omit repeated lines
+find@search for files in a directory hierarchy
+xargs@build and execute command lines from standard input
+locate@find files by name
+which@locate a command
+zip@package and compress (archive) files
+tar@The GNU version of the tar archiving utility
+gzip@compress or expand files
+date@print or set the system date and time
+cal@displays a calendar and the date of Easter
+uname@print system information
+time@time functions for gawk
+top@display Linux processes
+kill@send a signal to a process
+killall@kill processes by name
+whoami@print effective userid
+passwd@the password file
+groups@print the groups a user is in
+sudo@execute a command as another user
+su@change user ID or become superuser
+hostname@Local hostname configuration file
+w@Show who is logged on and what they are doing.
+write@send a message to another user
+wall@write a message to all users
+ssh@OpenSSH SSH client (remote login program)
+wget@The non-interactive network downloader.
+curl@transfer a URL
+pico@Nano's ANOther editor, an enhanced free Pico clone
+vi@Vi IMproved, a programmers text editor
+egrep@print lines matching a pattern
+gcc@GNU project C and C++ compiler
+echo@display a line of text
+read@read from a file descriptor
+seq@print a sequence of numbers
+yes@output a string repeatedly until killed
+sleep@sleep for the specified number of seconds
+xeyes@a follow the mouse X demo
+make@GNU make utility to maintain groups of programs
+apropos@search the manual page names and descriptions
+awk@pattern scanning and text processing language
+break@unimplemented system calls
+bunzip2@a block-sorting file compressor, v1.0.6
+bzip2@a block-sorting file compressor, v1.0.6
+cal@displays a calendar and the date of Easter
+cat@concatenate files and print on the standard output
+cfdisk@display or manipulate a disk partition table
+chgrp@change group ownership
+chmod@change file mode bits
+chown@change file owner and group
+chroot@run command or interactive shell with special root directory
+chvt@change foreground virtual terminal
+cksum@checksum and count the bytes in a file
+clear@clear the terminal screen
+cmp@compare two files byte by byte
+comm@compare two sorted files line by line
+cp@copy files and directories
+cron@daemon to execute scheduled commands (Vixie Cron)
+crontab@tables for driving cron
+csplit@split a file into sections determined by context lines
+cut@remove sections from each line of files
+date@print or set the system date and time
+dc@an arbitrary precision calculator
+dd@convert and copy a file
+df@report file system disk space usage
+diff@compare files line by line
+diff3@compare three files line by line
+dir@list directory contents
+dircolors@color setup for ls
+dirname@parse pathname components
+du@estimate file space usage
+echo@display a line of text
+egrep@print lines matching a pattern
+eject@eject removable media
+env@run a program in a modified environment
+exec@execute a file
+exit@cause normal process termination
+expand@convert tabs to spaces
+expr@evaluate expressions
+factor@factor numbers
+false@do nothing, unsuccessfully
+fdformat@low-level format a floppy disk
+fdisk@manipulate disk partition table
+fgrep@print lines matching a pattern
+find@search for files in a directory hierarchy
+fmt@simple optimal text formatter
+fold@wrap each input line to fit in specified width
+free@allocate and free dynamic memory
+fsck@check and repair a Linux filesystem
+fstat@get file status
+fuser@identify processes using files or sockets
+gawk@pattern scanning and processing language
+grep@print lines matching a pattern
+groups@print the groups a user is in
+gunzip@compress or expand files
+gzip@compress or expand files
+hash@hash database access method
+head@Simple command line user agent
+history@GNU History Library
+hostname@Local hostname configuration file
+iconv@perform character set conversion
+id@print real and effective user and group IDs
+import@saves any visible window on an X server and outputs it as an image file. You can capture a single window, the entire screen, or any rectangular portion of the screen.
+info@readable online documentation
+install@copy files and set attributes
+join@join lines of two files on a common field
+kill@send a signal to a process
+less@opposite of more
+ln@make links between files
+locate@find files by name
+logname@print user's login name
+logout@write utmp and wtmp entries
+lpc@line printer control program
+lpr@print files
+lprm@cancel print jobs
+ls@list directory contents
+lsof@list open files
+m4@macro processor
+man@an interface to the on-line reference manuals
+mkdir@make directories
+mkfifo@make a FIFO special file (a named pipe)
+mknod@make block or character special files
+more@file perusal filter for crt viewing
+mount@mount a filesystem
+mtools@mtools configuration files
+mv@move (rename) files
+nice@run a program with modified scheduling priority
+nl@number lines of files
+nohup@run a command immune to hangups, with output to a non-tty
+od@dump files in octal and other formats
+passwd@the password file
+paste@merge lines of files
+pathchk@check whether file names are valid or portable
+pr@convert text files for printing
+printenv@print all or part of environment
+printf@formatted output conversion
+ps@report a snapshot of the current processes.
+pwd@print name of current/working directory
+quotactl@manipulate disk quotas
+ram@ram disk device
+rcp@secure copy (remote file copy program)
+read@read from a file descriptor
+rm@remove files or directories
+rmdir@remove empty directories
+rsync@a fast, versatile, remote (and local) file-copying tool
+sdiff@side-by-side merge of file differences
+sed@stream editor for filtering and transforming text
+select@synchronous I/O multiplexing
+seq@print a sequence of numbers
+shutdown@Halt, power-off or reboot the machine
+sleep@sleep for the specified number of seconds
+sort@sort lines of text files
+split@split a file into pieces
+strings@print the strings of printable characters in files.
+su@change user ID or become superuser
+sum@checksum and count the blocks in a file
+symlink@symbolic link handling
+sync@Synchronize cached writes to persistent storage
+tac@concatenate and print files in reverse
+tail@output the last part of files
+tar@The GNU version of the tar archiving utility
+tee@read from standard input and write to standard output and files
+test@check file types and compare values
+time@time functions for gawk
+times@get process times
+touch@change file timestamps
+top@display Linux processes
+tr@translate or delete characters
+true@do nothing, successfully
+tsort@perform topological sort
+tty@controlling terminal
+umask@set file mode creation mask
+umount@unmount file systems
+uname@print system information
+unexpand@convert spaces to tabs
+uniq@report or omit repeated lines
+units@decimal and binary prefixes
+useradd@create a new user or update default new user information
+usermod@modify a user account
+users@print the user names of users currently logged in to the current host
+vdir@list directory contents
+watch@execute a program periodically, showing output fullscreen
+whatis@display one-line manual page descriptions
+wc@print newline, word, and byte counts for each file
+whereis@locate the binary, source, and manual page files for a command
+which@locate a command
+who@show who is logged on
+whoami@print effective userid
+xargs@build and execute command lines from standard input
+yes@output a string repeatedly until killed
+zcat@compress or expand files
+zip@package and compress (archive) files
+access@check user's permissions for a file
+adduser@add a user or group to the system
+agetty@alternative Linux getty
+apropos@search the manual page names and descriptions
+ar@create, modify, and extract from archives
+arch@print machine hardware name (same as uname -m)
+aspell@interactive spell checker
+awk@pattern scanning and text processing language
+bash@GNU Bourne-Again SHell
+bc@An arbitrary precision calculator language
+bind@bind a name to a socket
+bunzip2@a block-sorting file compressor, v1.0.6
+bzip2@a block-sorting file compressor, v1.0.6
+bzless@file perusal filter for crt viewing of bzip2 compressed text
+c++@GNU project C and C++ compiler
+cal@displays a calendar and the date of Easter
+cat@concatenate files and print on the standard output
+cfdisk@display or manipulate a disk partition table
+chat@Automated conversational script with a modem
+chgrp@change group ownership
+chmod@change file mode bits
+chown@change file owner and group
+chsh@change login shell
+clear@clear the terminal screen
+cmp@compare two files byte by byte
+comm@compare two sorted files line by line
+cp@copy files and directories
+cpio@copy files to and from archives
+cpp@The C Preprocessor
+crontab@tables for driving cron
+csplit@split a file into sections determined by context lines
+cut@remove sections from each line of files
+date@print or set the system date and time
+dd@convert and copy a file
+df@report file system disk space usage
+diff@compare files line by line
+diff3@compare three files line by line
+dir@list directory contents
+dircolors@color setup for ls
+display@displays an image or image sequence on any X server.
+dmesg@print or control the kernel ring buffer
+du@estimate file space usage
+dumpkeys@dump keyboard translation tables
+dvilj@convert a TeX DVI file to PCL, for HP LaserJet printers
+dvilj2p@convert a TeX DVI file to PCL, for HP LaserJet printers
+dvips@convert a TeX DVI file to PostScript
+e2fsck@check a Linux ext2/ext3/ext4 file system
+echo@display a line of text
+editres@a dynamic resource editor for X Toolkit applications
+egrep@print lines matching a pattern
+env@run a program in a modified environment
+ex@Vi IMproved, a programmers text editor
+exec@execute a file
+execve@execute program
+exit@cause normal process termination
+expand@convert tabs to spaces
+expr@evaluate expressions
+false@do nothing, unsuccessfully
+fdformat@low-level format a floppy disk
+fdisk@manipulate disk partition table
+fgrep@print lines matching a pattern
+find@search for files in a directory hierarchy
+fmt@simple optimal text formatter
+fold@wrap each input line to fit in specified width
+free@allocate and free dynamic memory
+fsck@check and repair a Linux filesystem
+ftp@Internet file transfer program
+g++@GNU project C and C++ compiler
+gawk@pattern scanning and processing language
+gcc@GNU project C and C++ compiler
+getkeycodes@print kernel scancode-to-keycode mapping table
+ghostscript@Ghostscript (PostScript and PDF language interpreter and previewer)
+grep@print lines matching a pattern
+groupadd@create a new group
+groups@print the groups a user is in
+gunzip@compress or expand files
+gzexe@compress executable files in place
+gzip@compress or expand files
+halt@variables that affect the behavior of the shutdown scripts
+hash@hash database access method
+head@Simple command line user agent
+history@GNU History Library
+host@DNS lookup utility
+hostname@Local hostname configuration file
+hwclock@variables that affect the behaviour of the hwclock boot script
+id@print real and effective user and group IDs
+ifconfig@configure a network interface
+ifdown@take a network interface down
+info@readable online documentation
+init@Upstart init daemon job configuration
+insmod@Simple program to insert a module into the Linux Kernel
+kbd_mode@report or set the keyboard mode
+kill@send a signal to a process
+killall@kill processes by name
+killall5@send a signal to all processes.
+last@show a listing of last logged in users
+lastlog@reports the most recent login of all users or of a given user
+latex@structured text formatting and typesetting
+ldconfig@configure dynamic linker run-time bindings
+ldd@print shared object dependencies
+less@opposite of more
+mount@mount a filesystem
+ln@make links between files
+lock@unimplemented system calls
+logname@print user's login name
+logout@write utmp and wtmp entries
+look@display lines beginning with a given string
+lpq@show printer queue status
+lpr@print files
+lprm@cancel print jobs
+ls@list directory contents
+lsattr@list file attributes on a Linux second extended file system
+lsmod@Show the status of modules in the Linux Kernel
+lspci@list all PCI devices
+m4@macro processor
+make@GNU make utility to maintain groups of programs
+MAKEDEV@manage a device number
+man@an interface to the on-line reference manuals
+manpath@format of the /etc/manpath.config file
+mesg@display (or do not display) messages from other users
+mkdir@make directories
+mkfs@build a Linux filesystem
+mkswap@set up a Linux swap area
+more@file perusal filter for crt viewing
+mcd@change MSDOS directory
+mcopy@copy MSDOS files to/from Unix
+mdel@delete an MSDOS file
+mdir@display an MSDOS directory
+mformat@add an MSDOS filesystem to a low-level formatted floppy disk
+mtype@display contents of an MSDOS file
+mv@move (rename) files
+newgrp@log in to a new group
+nm@list symbols from object files
+nohup@run a command immune to hangups, with output to a non-tty
+od@dump files in octal and other formats
+passwd@the password file
+paste@merge lines of files
+patch@apply a diff file to an original
+pathchk@check whether file names are valid or portable
+pdflatex@PDF output from TeX
+pdftex@PDF output from TeX
+perl@The Perl 5 language interpreter
+pg@browse pagewise through text files
+pico@Nano's ANOther editor, an enhanced free Pico clone
+ping@send ICMP ECHO_REQUEST to network hosts
+pr@convert text files for printing
+printenv@print all or part of environment
+ps@report a snapshot of the current processes.
+pstree@display a tree of processes
+pwd@print name of current/working directory
+pwconv@convert to and from shadow passwords and groups
+pwunconv@convert to and from shadow passwords and groups
+python@an interpreted, interactive, object-oriented programming language
+rcp@secure copy (remote file copy program)
+read@read from a file descriptor
+reboot@Halt, power-off or reboot the machine
+reset@terminal initialization
+rlogin@OpenSSH SSH client (remote login program)
+rm@remove files or directories
+rmdir@remove empty directories
+rmmod@Simple program to remove a module from the Linux Kernel
+route@show / manipulate the IP routing table
+rsh@OpenSSH SSH client (remote login program)
+sed@stream editor for filtering and transforming text
+setenv@change or add an environment variable
+setterm@set terminal attributes
+setuid@set user identity
+setup@setup devices and filesystems, mount root filesystem
+sh@command interpreter (shell)
+shutdown@Halt, power-off or reboot the machine
+sleep@sleep for the specified number of seconds
+sort@sort lines of text files
+split@split a file into pieces
+ssh@OpenSSH SSH client (remote login program)
+startx@initialize an X session
+stty@change and print terminal line settings
+su@change user ID or become superuser
+sudo@execute a command as another user
+swapoff@enable/disable devices and files for paging and swapping
+swapon@enable/disable devices and files for paging and swapping
+sync@Synchronize cached writes to persistent storage
+tac@concatenate and print files in reverse
+tail@output the last part of files
+tee@read from standard input and write to standard output and files
+telinit@Change SysV runlevel
+telnet@user interface to the TELNET protocol
+test@check file types and compare values
+time@time functions for gawk
+tload@graphic representation of system load average
+top@display Linux processes
+touch@change file timestamps
+tr@translate or delete characters
+true@do nothing, successfully
+tset@terminal initialization
+tty@controlling terminal
+ul@do underlining
+umask@set file mode creation mask
+uname@print system information
+uniq@report or omit repeated lines
+unzip@list, test and extract compressed files in a ZIP archive
+updatedb@update a database for mlocate
+uptime@Tell how long the system has been running.
+useradd@create a new user or update default new user information
+userdel@delete a user account and related files
+users@print the user names of users currently logged in to the current host
+vdir@list directory contents
+vi@Vi IMproved, a programmers text editor
+view@Vi IMproved, a programmers text editor
+vim@Vi IMproved, a programmer's text editor
+w@Show who is logged on and what they are doing.
+wait@basic process management
+wc@print newline, word, and byte counts for each file
+whatis@display one-line manual page descriptions
+whereis@locate the binary, source, and manual page files for a command
+which@locate a command
+who@show who is logged on
+whoami@print effective userid
+wish@Simple windowing shell
+write@send a message to another user
+X@a portable, network-transparent window system
+xargs@build and execute command lines from standard input
+xbiff@mailbox flag for X
+xcalc@scientific calculator for X
+xclipboard@X clipboard client
+xdvi@DVI Previewer for the X Window System
+xedit@simple text editor for X
+xfd@display all the characters in an X font
+xhost@server access control program for X
+xinit@X Window System initializer
+xload@system load average display for X
+xlsfonts@server font list displayer for X
+xman@Manual page display program for the X Window System
+xmodmap@utility for modifying keymaps and pointer button mappings in X
+xsetroot@root window parameter setting utility for X
+xterm@terminal emulator for X
+xvidtune@video mode tuner for Xorg
+xwd@dump an image of an X window
+xwud@image displayer for X
+zcat@compress or expand files
+zcmp@compare compressed files
+zdiff@compare compressed files
+zgrep@search possibly compressed files for a regular expression
+zip@package and compress (archive) files
+zless@file perusal filter for crt viewing of compressed text
+arch@print machine hardware name (same as uname -m)
+awk@pattern scanning and text processing language
+basename@parse pathname components
+bash@GNU Bourne-Again SHell
+bc@An arbitrary precision calculator language
+bunzip2@a block-sorting file compressor, v1.0.6
+cat@concatenate files and print on the standard output
+chgrp@change group ownership
+chmod@change file mode bits
+chown@change file owner and group
+clear@clear the terminal screen
+comm@compare two sorted files line by line
+stty@change and print terminal line settings
+cp@copy files and directories
+cpio@copy files to and from archives
+cut@remove sections from each line of files
+date@print or set the system date and time
+dc@an arbitrary precision calculator
+df@report file system disk space usage
+diff@compare files line by line
+diff3@compare three files line by line
+dig@DNS lookup utility
+dmesg@print or control the kernel ring buffer
+dnsdomainname@show the system's DNS domain name
+domainname@show or set the system's NIS/YP domain name
+du@estimate file space usage
+dumpkeys@dump keyboard translation tables
+echo@display a line of text
+egrep@print lines matching a pattern
+env@run a program in a modified environment
+ex@Vi IMproved, a programmers text editor
+eject@eject removable media
+factor@factor numbers
+false@do nothing, unsuccessfully
+fdisk@manipulate disk partition table
+fgrep@print lines matching a pattern
+find@search for files in a directory hierarchy
+free@allocate and free dynamic memory
+grep@print lines matching a pattern
+gunzip@compress or expand files
+gzip@compress or expand files
+halt@variables that affect the behavior of the shutdown scripts
+hdparm@get/set SATA/IDE device parameters
+head@Simple command line user agent
+hostname@Local hostname configuration file
+history@GNU History Library
+identify@describes the format and characteristics of one or more image files.
+id@print real and effective user and group IDs
+ifconfig@configure a network interface
+igawk@gawk with include files
+kbd_mode@report or set the keyboard mode
+kill@send a signal to a process
+last@show a listing of last logged in users
+lastlog@reports the most recent login of all users or of a given user
+link@call the link function to create a link to a file
+ln@make links between files
+loadkeys@load keyboard translation tables
+locate@find files by name
+login@write utmp and wtmp entries
+look@display lines beginning with a given string
+ls@list directory contents
+lsmod@Show the status of modules in the Linux Kernel
+man@an interface to the on-line reference manuals
+mdu@display the amount of space occupied by an MSDOS directory
+mkdir@make directories
+mkfs@build a Linux filesystem
+mknod@make block or character special files
+mktemp@make a unique temporary filename
+more@file perusal filter for crt viewing
+mount@mount a filesystem
+mt@control magnetic tape drive operation
+mv@move (rename) files
+namei@follow a pathname until a terminal point is found
+nano@Nano's ANOther editor, an enhanced free Pico clone
+nc@arbitrary TCP and UDP connections and listens
+netstat@Print network connections, routing tables, interface statistics, masquerade connections, and multicast memberships
+nice@run a program with modified scheduling priority
+nisdomainname@show or set the system's NIS/YP domain name
+nslookup@query Internet name servers interactively
+paste@merge lines of files
+pdf2dsc@generate a PostScript page list of a PDF document
+pdf2ps@Ghostscript PDF to PostScript translator
+pdfinfo@Portable Document Format (PDF) document information extractor (version 3.03)
+pdftotext@Portable Document Format (PDF) to text converter (version 3.03)
+perl@The Perl 5 language interpreter
+pico@Nano's ANOther editor, an enhanced free Pico clone
+ping6@send ICMP ECHO_REQUEST to network hosts
+ping@send ICMP ECHO_REQUEST to network hosts
+pinky@lightweight finger
+pr@convert text files for printing
+ps@report a snapshot of the current processes.
+ps2ascii@Ghostscript translator from PostScript or PDF to ASCII
+ps2epsi@generate conforming Encapsulated PostScript
+ps2frag@obsolete shell script for the PSfrag system.
+ps2pdf12@Convert PostScript to PDF 1.2 (Acrobat 3-and-later compatible) using ghostscript
+ps2pdf13@Convert PostScript to PDF 1.3 (Acrobat 4-and-later compatible) using ghostscript
+ps2pdf14@Convert PostScript to PDF 1.4 (Acrobat 5-and-later compatible) using ghostscript
+ps2pdf@Convert PostScript to PDF using ghostscript
+ps2pdfwr@Convert PostScript to PDF without specifying CompatibilityLevel, using ghostscript
+ps2pk@creates a TeX pkfont from a type1 PostScript font
+ps2ps@Ghostscript PostScript "distiller"
+psbook@rearrange pages in PostScript file into signatures
+pwd@print name of current/working directory
+resize@set environment and terminal settings to current xterm window size
+readelf@Displays information about ELF files.
+reboot@Halt, power-off or reboot the machine
+red@Random Early Detection
+rename@renames multiple files
+rmdir@remove empty directories
+rm@remove files or directories
+rview@Vi IMproved, a programmer's text editor
+sed@stream editor for filtering and transforming text
+setfont@load EGA/VGA console screen font
+setgid@set group identity
+setuid@set user identity
+sfdisk@display or manipulate a disk partition table
+sftp@secure file transfer program
+sh@command interpreter (shell)
+shred@overwrite a file to hide its contents, and optionally delete it
+sleep@sleep for the specified number of seconds
+sort@sort lines of text files
+ssh@OpenSSH SSH client (remote login program)
+stty@change and print terminal line settings
+stty@change and print terminal line settings
+su@change user ID or become superuser
+sync@Synchronize cached writes to persistent storage
+ssh@OpenSSH SSH client (remote login program)
+tail@output the last part of files
+tar@The GNU version of the tar archiving utility
+tee@read from standard input and write to standard output and files
+telnet@user interface to the TELNET protocol
+time@time functions for gawk
+touch@change file timestamps
+tracepath6@traces path to a network host discovering MTU along this path
+tracepath@traces path to a network host discovering MTU along this path
+traceroute6@traces path to a network host
+true@do nothing, successfully
+tty@controlling terminal
+umask@set file mode creation mask
+umount@unmount file systems
+uname@print system information
+unicode_start@put keyboard and console in unicode mode
+unicode_stop@revert keyboard and console from unicode mode
+unlink@call the unlink function to remove the specified file
+uniq@report or omit repeated lines
+updatedb@update a database for mlocate
+unzip@list, test and extract compressed files in a ZIP archive
+useradd@create a new user or update default new user information
+users@print the user names of users currently logged in to the current host
+usleep@suspend execution for microsecond intervals
+view@Vi IMproved, a programmers text editor
+vi@Vi IMproved, a programmers text editor
+w@Show who is logged on and what they are doing.
+wc@print newline, word, and byte counts for each file
+wget@The non-interactive network downloader.
+whatis@display one-line manual page descriptions
+whereis@locate the binary, source, and manual page files for a command
+which@locate a command
+whoami@print effective userid
+who@show who is logged on
+xinit@X Window System initializer
+xrandr@X Resize, Rotate and Reflection extension.
+ypdomainname@show or set the system's NIS/YP domain name
+zcat@compress or expand files
+zip@package and compress (archive) files
+zipinfo@list detailed information about a ZIP archive

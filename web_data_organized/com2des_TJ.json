@@ -1,0 +1,4919 @@
+{
+    "accept": [
+        "accept or reject jobs to a destination, such as a printer.",
+        "accept/reject jobs sent to a destination"
+    ],
+    "access": [
+        "check a user's rwx permission for a file.",
+        "determine whether a file can be accessed",
+        "check user's permissions for a file"
+    ],
+    "aclocal": [
+        "gnu autoconf too",
+        "manual page for aclocal 1.15"
+    ],
+    "aconnect": [
+        "alsa sequencer connection manager.",
+        "alsa sequencer connection manager"
+    ],
+    "acpi": [
+        "show information about the advanced configuration and power interface."
+    ],
+    "acpi_available": [
+        "check if acpi functionality exists on the system.",
+        "test whether acpi subsystem is available"
+    ],
+    "acpid": [
+        "informs user-space programs about acpi events.",
+        "advanced configuration and power interface event daemon"
+    ],
+    "addr2line": [
+        "used to convert addresses into file names and line numbers.",
+        "convert addresses into file names and line numbers."
+    ],
+    "addresses": [
+        "formats for internet mail addresses."
+    ],
+    "agetty": [
+        "an alternative linux getty",
+        "enables login on terminals",
+        "alternative linux getty"
+    ],
+    "alias": [
+        "create an alias for linux commands",
+        "create an alias \u2022",
+        "if creating an alias is what you want, then this is it",
+        "give a pseudonym to another command",
+        "create an alias",
+        "assign name to specified command list",
+        "create your own name for a command"
+    ],
+    "alsactl": [
+        "access advanced controls for alsa soundcard driver.",
+        "advanced controls for alsa soundcard driver"
+    ],
+    "amidi": [
+        "perform read/write operation for alsa rawmidi ports.",
+        "read from and write to alsa rawmidi ports"
+    ],
+    "amixer": [
+        "access cli-based mixer for alsa soundcard driver.",
+        "command-line mixer for alsa soundcard driver"
+    ],
+    "anacron": [
+        "used to run commands periodically.",
+        "runs commands periodically"
+    ],
+    "aplay": [
+        "sound recorder and player for cli.",
+        "command-line sound recorder and player for alsa soundcard driver"
+    ],
+    "aplaymidi": [
+        "cli utility used to play midi files.",
+        "play standard midi files"
+    ],
+    "apm": [
+        "show advanced power management (apm) hardware info on older systems."
+    ],
+    "apmd": [
+        "used to handle events reported by apm bios drivers."
+    ],
+    "apropos": [
+        "shows the list of all man pages containing a specific keyword",
+        "search help manual pages (man -k)",
+        "search through the help manual pages",
+        "search the whatis database for strings",
+        "we're not the only ones providing help",
+        "search manual for keyword",
+        "display command names based on keyword search",
+        "search the manual page names and descriptions"
+    ],
+    "apt": [
+        "advanced package tool, a package management system for debian and derivatives.",
+        "command-line interface"
+    ],
+    "apt-get": [
+        "command-line utility to install/remove/update packages based on apt system.",
+        "search for and install software packages (debian/ubuntu)",
+        "install and search for software packages",
+        "this one works on debianand ubuntu distros",
+        "- command-line interface"
+    ],
+    "aptitude": [
+        "another utility to add/remove/upgrade packages based on the apt system.",
+        "search for and install software packages (debian/ubuntu)",
+        "see the similarity with the above command?this one does the same thing"
+    ],
+    "ar": [
+        "a utility to create/modify/extract from archives.",
+        "create, modify and extract from archives",
+        "create, modify, and extract from archives"
+    ],
+    "arch": [
+        "display print machine hardware name.",
+        "prints machine hardware name (same as uname -m)",
+        "print machine architecture type",
+        "print machine architecture",
+        "print machine hardware name (same as uname -m)"
+    ],
+    "arecord": [
+        "just like aplay, it's a sound recorder and player for alsa soundcard driver.",
+        "command-line sound recorder and player for alsa soundcard driver"
+    ],
+    "arecordmidi": [
+        "record standard midi files.",
+        "record standard midi files"
+    ],
+    "arp": [
+        "used to make changes to the system's arp cache",
+        "manipulate the system arp cache"
+    ],
+    "as": [
+        "a portable gnu assembler.",
+        "the portable gnu assembler"
+    ],
+    "aspell": [
+        "an interactive spell checker utility.",
+        "spell checker",
+        "got bad spellings? use thespell checker",
+        "a spell checking program along the lines of ispell",
+        "interactive spell checker"
+    ],
+    "at": [
+        "used to schedule command execution at specified date &amp; time, reading commands from an input file.",
+        "execute commands at a later time",
+        "schedule a job to run in the future.",
+        "executes a shell script at specified time"
+    ],
+    "atd": [
+        "used to execute jobs queued by the at command."
+    ],
+    "atq": [
+        "list a user's pending jobs for the at command.",
+        "shows pending jobs queued by at"
+    ],
+    "atrm": [
+        "delete jobs queued by the at command.",
+        "removes pending jobs queued by at"
+    ],
+    "audiosend": [
+        "used to send an audio recording as an email."
+    ],
+    "aumix": [
+        "an audio mixer utility."
+    ],
+    "autoconf": [
+        "generate configuration scripts from a template-file and send the output to standard output.",
+        "generate configuration scripts"
+    ],
+    "autoheader": [
+        "create a template header for configure.",
+        "create a template header for configure"
+    ],
+    "automake": [
+        "creates gnu standards-compliant makefiles from template files",
+        "manual page for automake 1.15"
+    ],
+    "autoreconf": [
+        "update generated configuration files.",
+        "update generated configuration files"
+    ],
+    "autoscan": [
+        "generate a preliminary configure.in"
+    ],
+    "autoupdate": [
+        "update a configure.in file to newer autoconf.",
+        "update a configure.in to a newer autoconf"
+    ],
+    "awk": [
+        "used to find and replace text in a file(s).",
+        "find and replace text, database sort/validate/index",
+        "it lets you find text and replace it",
+        "pattern scanning and processing language",
+        "find and replace text within file(s)",
+        "searches for and process patterns in a file",
+        "pattern scanning and text processing language"
+    ],
+    "badblocks": [
+        "search a disk partition for bad sectors.",
+        "search a device for bad blocks"
+    ],
+    "banner": [
+        "used to print characters as a poster.",
+        "print banner to standard output"
+    ],
+    "basename": [
+        "used to display filenames with directoy or suffix.",
+        "strip directory and suffix from filenames",
+        "strips suffixes off files and directories",
+        "return non-directory portion of a pathname; see also dirname",
+        "removes the path prefix from a given pathname",
+        "convert a full pathname to just a filename",
+        "sometimes files and directories have suffixes to their names",
+        "remove directory and suffix from a file name",
+        "parse pathname components"
+    ],
+    "bash": [
+        "gnu bourne-again shell.",
+        "gnu bourne-again shell",
+        "bourne-again shell",
+        "bourne again shell"
+    ],
+    "batch": [
+        "used to run commands entered on a standard input.",
+        "schedule commands to be executed in a batch queue",
+        "queue, examine, or delete jobs for later execution"
+    ],
+    "bc": [
+        "access the gnu bc calculator utility.",
+        "arbitrary precision calculator language",
+        "arbitrary-precision arithmetic language",
+        "thiscommand is an arbitrary precision calculator language",
+        "a language (compiler) similar to c, with unlimited precision arithmetic",
+        "command line calculator",
+        "an arbitrary precision calculator language"
+    ],
+    "bg": [
+        "send processes to the background.",
+        "send to background",
+        "sends to the background",
+        "run jobs in the background",
+        "bgcould stand for background couldn't it? regardless, that's whatit does, sends to the background",
+        "starts a suspended process running in the background"
+    ],
+    "biff": [
+        "notify about incoming mail and sender's name on a system running comsat server.",
+        "mail notification utility"
+    ],
+    "bind": [
+        "used to attach a name to a socket.",
+        "set or display readline key and function bindings \u2022",
+        "display readline key and function bindings",
+        "displays or redefines key bindings",
+        "bind a name to a socket"
+    ],
+    "bison": [
+        "a gnu parser generator, compatible with yacc.",
+        "parser generator similar to yacc"
+    ],
+    "break": [
+        "used to exit from a loop (eg: for, while, select).",
+        "exit from a loop \u2022",
+        "exit from a loop",
+        "exit from a for, while, until or select loop",
+        "unimplemented system calls"
+    ],
+    "builtin": [
+        "used to run shell builtin commands, make custom functions for commands extending their functionality.",
+        "run a shell builtin",
+        "execute a shell builtin"
+    ],
+    "bzcmp": [
+        "used to call the cmp program for bzip2 compressed files.",
+        "compare bzip2 compressed files"
+    ],
+    "bzdiff": [
+        "used to call the diff program for bzip2 compressed files.",
+        "compare bzip2 compressed files"
+    ],
+    "bzgrep": [
+        "used to call grep for bzip2 compressed files.",
+        "search possibly bzip2 compressed files for a regular expression"
+    ],
+    "bzip2": [
+        "a block-sorting file compressor used to shrink given files.",
+        "compress or decompress named file(s)",
+        "compresses or decompresses files",
+        "compress or decompress files",
+        "compress file to bzip2 format",
+        "compresses with algorithm different from gzip",
+        "a block-sorting file compressor, v1.0.6"
+    ],
+    "bzless": [
+        "used to apply &#8216;less' (show info one page at a time) to bzip2 compressed files.",
+        "view bzipped files",
+        "file perusal filter for crt viewing of bzip2 compressed text"
+    ],
+    "bzmore": [
+        "used to apply &#8216;more' (an inferior version of less) to bzip2 compressed files.",
+        "file perusal filter for crt viewing of bzip2 compressed text"
+    ],
+    "cal": [
+        "show calendar.",
+        "display a calendar",
+        "displays calendar",
+        "print a calendar",
+        "need a calendar? this command displays one",
+        "outputs an ascii calendar",
+        "displays a 12",
+        "displays a calendar and the date of easter"
+    ],
+    "cardctl": [
+        "used to control pcmcia sockets and select configuration schemes."
+    ],
+    "cardmgr": [
+        "keeps an eye on the added/removes sockets for pcmcia devices."
+    ],
+    "case": [
+        "execute a command conditionally by matching a pattern.",
+        "conditionally perform a command",
+        "perform a command conditionally",
+        "in 'case'you want to perform a command conditionally"
+    ],
+    "cat": [
+        "used to concatenate files and print them on the screen.",
+        "concatenate and print (display) the content of files",
+        "displays the content of the files after concatenation",
+        "concatenate and print files",
+        "concatenates and prints files on the standard output",
+        "in programming, 'cat' usually stands for concatenate",
+        "output the contents of a file",
+        "concatenate files to standard output",
+        "combine, copy standard input to standard output",
+        "concatenate a file print it to the screen",
+        "concatenate files and print on the standard output"
+    ],
+    "cc": [
+        "gnu c and c++ compiler.",
+        "gnu project c and c++ compiler"
+    ],
+    "cd": [
+        "used to change directory.",
+        "change directory",
+        "change the working directory",
+        "changes the shell's working directory to the given directory; can be a relative or absolute path",
+        "change working directory"
+    ],
+    "cdda2wav": [
+        "used to rip a cd-rom and make wav file."
+    ],
+    "cdparanoia": [
+        "record audio from cd more reliably using data-verification algorithms."
+    ],
+    "cdrdao": [
+        "used to write all the content specified to a file to a cd all at once."
+    ],
+    "cdrecord": [
+        "used to record data or audio compact discs."
+    ],
+    "cfdisk": [
+        "show or change the disk partition table.",
+        "partition table manipulator for linux",
+        "partition table manipulator",
+        "in linux, thiscommand is the partition table manipulator",
+        "similar to fdisk, but menu",
+        "display or manipulate a disk partition table"
+    ],
+    "chage": [
+        "used to change user password information.",
+        "change user password expiry information"
+    ],
+    "chattr": [
+        "used to change file attributes.",
+        "change file attributes on a linux file system"
+    ],
+    "chdir": [
+        "used to change active working directory.",
+        "change working directory"
+    ],
+    "chfn": [
+        "used to change real user name and information.",
+        "change real user name and information"
+    ],
+    "chgrp": [
+        "used to change group ownership for file.",
+        "change group ownership",
+        "changes the ownership of a group",
+        "change the file group ownership",
+        "changes file group ownership",
+        "this is how youchange the ownership of a group",
+        "change the group associated with a file",
+        "changes group associated with file",
+        "change the group designation of a file"
+    ],
+    "chkconfig": [
+        "manage execution of runlevel services.",
+        "system services (runlevel)",
+        "query or update system services/daemons for different runlevels"
+    ],
+    "chmod": [
+        "change access permission for a file(s).",
+        "change access permissions",
+        "changes the access permissions",
+        "change the file modes/attributes/permissions",
+        "changes the permissions of a file or directory",
+        "'ch' is for change",
+        "change the permissions on a file or group of files",
+        "set permissions (modes) of files or directories",
+        "change file permissions",
+        "change file mode bits"
+    ],
+    "chown": [
+        "change the owner or group for a file.",
+        "change file owner and group",
+        "changes the owner and group of a file",
+        "change the file ownership",
+        "changes file ownership",
+        "this one soundstoo much like clown! anyway, it's not funny though",
+        "change the owner of a file",
+        "changes ownership of a file"
+    ],
+    "chpasswd": [
+        "update password in a batch.",
+        "update passwords in batch mode"
+    ],
+    "chroot": [
+        "run a command with root privileges.",
+        "run a command with a different root directory",
+        "run a command, but with a different root directory",
+        "changes the root directory",
+        "using this you can run acommand, but with a different root directory",
+        "run command or interactive shell with special root directory"
+    ],
+    "chrt": [
+        "alter process attributed in real-time.",
+        "manipulate the real-time attributes of a process"
+    ],
+    "chsh": [
+        "switch login shell.",
+        "change default shell",
+        "change login shell"
+    ],
+    "chvt": [
+        "change foreground virtual terminal.",
+        "change the virtual terminal",
+        "change foreground virtual terminal"
+    ],
+    "cksum": [
+        "perform a crc checksum for files.",
+        "print crc checksum and byte counts",
+        "it displays the crc checksum ad byte counts",
+        "write file checksums and sizes",
+        "checksums and count the bytes in a file",
+        "it displays the crc checksum ad bytecounts",
+        "checksum and count the bytes in a file"
+    ],
+    "clear": [
+        "used to clear the terminal window.",
+        "clear terminal screen",
+        "clears the terminal screen",
+        "if you need to clear the terminal screen, use thiscommand",
+        "clear all previous commands' output text from the terminal",
+        "clear screen command",
+        "clear terminal screen (command line)",
+        "clear the terminal screen"
+    ],
+    "cmp": [
+        "compare two files (byte by byte).",
+        "compare two files",
+        "compares two files",
+        "compare two files; see also diff",
+        "compares two files for differences",
+        "compare two files byte by byte"
+    ],
+    "col": [
+        "filter reverse (and half-reverse) line feeds from the input.",
+        "filter reverse line feeds from input"
+    ],
+    "colcrt": [
+        "filter nroff output for crt previewing.",
+        "filter nroff output for crt previewing"
+    ],
+    "colrm": [
+        "remove columns from the lines of a file.",
+        "remove columns from a file"
+    ],
+    "column": [
+        "a utility that formats its input into columns.",
+        "columnate lists"
+    ],
+    "comm": [
+        "used to compare two sorted files line by line.",
+        "compare two sorted files line by line",
+        "compares two sorted files line by line",
+        "select or reject lines common to two files",
+        "compare two sorted filesline by line",
+        "compares sorted files",
+        "compare two sorted files"
+    ],
+    "command": [
+        "used to execute a command with arguments ignoring shell function named command.",
+        "run a command - ignoring shell functions \u2022",
+        "execute a simple command",
+        "run a command (not a function)",
+        "run a command - ignoring shellfunctions",
+        "description",
+        "run a command - ignoring shell functions",
+        "that invokes nedit-nc on current systems)"
+    ],
+    "compress": [
+        "used to compress one or more file(s) and replacing the originals ones.",
+        "compress data",
+        "compress file(s) to old unix compress format"
+    ],
+    "continue": [
+        "resume the next iteration of a loop.",
+        "resume the next iteration of a loop \u2022",
+        "resumes the next iteration of a particular loop",
+        "resume the next iteration of a loop",
+        "this is for resuming the next iteration of aparticular loop"
+    ],
+    "cp": [
+        "copy contents of one file to another.",
+        "copy one or more files to another location",
+        "makes a copy of files to a different location",
+        "copy files",
+        "copies a file or directory",
+        "make a copy of files to a differentlocation",
+        "copies on or more files",
+        "copy command",
+        "copy files and directories"
+    ],
+    "cpio": [
+        "copy files from and to archives.",
+        "direct copy of files to an output device",
+        "copy files to and from archives"
+    ],
+    "cpp": [
+        "gnu c language processor.",
+        "gnu c",
+        "the c preprocessor"
+    ],
+    "cron": [
+        "a daemon to execute scheduled commands.",
+        "daemon to execute scheduled commands",
+        "executes scheduled commands",
+        "daemon to execute scheduled commands at predefined time",
+        "daemon to execute scheduled commands (vixie cron)"
+    ],
+    "crond": [
+        "same work as cron."
+    ],
+    "crontab": [
+        "manage crontab files (containing schedules commands) for users.",
+        "schedule a command to run at a later time",
+        "schedules a command that will run at a specified time",
+        "schedule periodic background work",
+        "schedule a command to run at a later date/time",
+        "scheduling is sometimes very important",
+        "schedules command to run at regularly specified time",
+        "tables for driving cron"
+    ],
+    "csplit": [
+        "split a file into sections on the basis of context lines.",
+        "split a file into context-determined pieces",
+        "splits a file into context-determined pieces",
+        "split files based on context",
+        "splits a file into sections determined by context lines",
+        "separate files into sections",
+        "split a file into sections determined by context lines"
+    ],
+    "ctags": [
+        "make a list of functions and macro names defined in a programming source file.",
+        "create a tags file"
+    ],
+    "cupsd": [
+        "a scheduler for cups.",
+        "cups scheduler"
+    ],
+    "curl": [
+        "used to transfer data from or to a server using supported protocols.",
+        "transfer data  from or to a server",
+        "transfer data from or to a server",
+        "download from a url and output its contents to the console",
+        "transfer a url"
+    ],
+    "cut": [
+        "used to remove sections from each line of a file(s).",
+        "divide a file into several parts",
+        "cut out selected fields of each line of a file",
+        "removes sections from each line of files",
+        "selects characters or tab",
+        "print selected parts of lines to standard output",
+        "remove sections from each line of files"
+    ],
+    "cvs": [
+        "concurrent versions system. used to track file versions, allow storage/retrieval of previous versions, and enables multiple users to work on the same file.",
+        "cvs version-control systems",
+        "manages concurrent access to files in a hierarchy"
+    ],
+    "date": [
+        "show system date and time.",
+        "display or change the date & time",
+        "changes the date and time",
+        "display the date and time",
+        "prints or sets the system date and time",
+        "use this command to change the date and time",
+        "outputs the current date/time",
+        "displays or sets date and time",
+        "display date and time",
+        "print or set the system date and time"
+    ],
+    "dc": [
+        "desk calculator utility.",
+        "desk calculator",
+        "the commandstands for desk calculator",
+        "command line calculator",
+        "an arbitrary precision calculator"
+    ],
+    "dd": [
+        "used to convert and copy a file, create disk clone, write disk headers, etc.",
+        "convert and copy a file, write disk headers, boot records",
+        "convert and copy a file",
+        "copies and converts a file",
+        "convert and copy a file, clone disks",
+        "data dump - convert and copy a file",
+        "direct copy of file from one device to another"
+    ],
+    "ddrescue": [
+        "used to recover data from a crashed partition.",
+        "data recovery tool",
+        "disk recovery tool",
+        "like most other suchcommands, this is the disk recovery tool"
+    ],
+    "deallocvt": [
+        "deallocates kernel memory for unused virtual consoles.",
+        "deallocate unused virtual consoles"
+    ],
+    "debugfs": [
+        "file system debugger for ext2/ext3/ext4",
+        "ext2/ext3/ext4 file system debugger"
+    ],
+    "declare": [
+        "used to declare variables and assign attributes.",
+        "declare variables and give them attributes \u2022",
+        "declares the variables and gives attributes",
+        "declare variable & set attributes",
+        "this command isused to declare the variables and to give attributes",
+        "declare variables and give them attributes",
+        "declares attributes for a variable (same as typeset)"
+    ],
+    "depmod": [
+        "generate modules.dep and map files."
+    ],
+    "devdump": [
+        "interactively displays the contents of device or file system iso.",
+        "utility programs for dumping and verifying iso9660 images."
+    ],
+    "df": [
+        "show disk usage.",
+        "display free disk space",
+        "gives the free space on your disk",
+        "report free disk space",
+        "shows disk free space on file systems",
+        "when youwant to know the free space on your disk, use this",
+        "displays capacity and free capacity on different physical devices such as hard drive partitions and floppy drives that are mounted on the file system",
+        "show amount of disk space free",
+        "report file system disk space usage"
+    ],
+    "diff": [
+        "used to compare files line by line.",
+        "display the differences between two files",
+        "prints the differences between two files",
+        "compare two files; see also cmp",
+        "thiscommand prints the differences between two files",
+        "output differences between two files",
+        "displays differences between two files",
+        "determine difference between two files",
+        "compare files line by line"
+    ],
+    "diff3": [
+        "compare three files line by line.",
+        "show differences among three files",
+        "this isthe same command as the previous one, but for three files",
+        "compares three files and reports on differences",
+        "determine difference between 3 files",
+        "compare three files line by line"
+    ],
+    "dig": [
+        "domain information groper, a dns lookup utility.",
+        "dns lookup",
+        "looks up the dns",
+        "need to lookup the dns? use this",
+        "interrogate dns name servers",
+        "dns lookup utility"
+    ],
+    "dir": [
+        "list the contents of a directory.",
+        "briefly list directory contents",
+        "lists directory contents briefly",
+        "is exactly like \"ls -c -b\". (files are by default listed in columns and sorted vertically.)",
+        "use this command forlisting directory contents briefly",
+        "a variation of the gnu ls command that defaults to printing file names in columns",
+        "list directory contents"
+    ],
+    "dircolors": [
+        "set colors for &#8216;ls' by altering the ls_colors environment variable.",
+        "colour setup for `ls'",
+        "set up color for ls",
+        "this command isused for colour setup for the 'ls' command",
+        "set colors for gnu ls command",
+        "color setup for ls"
+    ],
+    "dirname": [
+        "display pathname after removing the last slash and characters thereafter.",
+        "convert a full pathname to just a path",
+        "changes a full pathname into just a path",
+        "return the directory portion of a pathname; see also basename",
+        "strips non-directory suffix from file name",
+        "use thiscommand to change a full pathname into just a path",
+        "parse pathname components"
+    ],
+    "dirs": [
+        "show the list of remembered directories.",
+        "display list of remembered directories",
+        "shows you the list of directories that are remembered",
+        "thiscommand shows you the list of directories that are remembered"
+    ],
+    "disable": [
+        "restrict access to a printer."
+    ],
+    "dlpsh": [
+        "interactive desktop link protocol (dlp) shell for palmos."
+    ],
+    "dmesg": [
+        "examine and control the kernel ring buffer.",
+        "print kernel & driver messages",
+        "use this command when you want to print kernel and drivermessages",
+        "displays messages from /var/log relative to the most recent boot",
+        "print or control the kernel ring buffer (print out bootup messages)",
+        "print or control the kernel ring buffer"
+    ],
+    "dnsdomainname": [
+        "show the dns domain name of the system.",
+        "show the system's dns domain name"
+    ],
+    "dnssec-keygen": [
+        "generate encrypted secure dns keys for a given domain name."
+    ],
+    "dnssec-makekeyset": [
+        "produce domain key set from one or more dns security keys generated by dnssec-keygen."
+    ],
+    "dnssec-signkey": [
+        "sign a secure dns keyset with key signatures specified in the list of key-identifiers."
+    ],
+    "dnssec-signzone": [
+        "sign a secure dns zonefile with the signatures in the specified list of key-identifiers."
+    ],
+    "doexec": [
+        "used to run an executable with an arbitrary argv list provided.",
+        "run an executable with an arbitrary argv"
+    ],
+    "domainname": [
+        "show or set the name of current nis (network information services) domain.",
+        "show or set the system's nis/yp domain name"
+    ],
+    "dosfsck": [
+        "check and repair ms-dos file systems.",
+        "check and repair ms-dos filesystems"
+    ],
+    "du": [
+        "show disk usage summary for a file(s).",
+        "estimate file space usage",
+        "get an estimation of the file space usage",
+        "shows disk usage on file systems",
+        "report disk space used by a file/directory",
+        "displays information on disk usage",
+        "show disk useage"
+    ],
+    "dump": [
+        "backup utility for ext2/ext3 file systems."
+    ],
+    "dumpe2fs": [
+        "dump ext2/ext3/ext4 file systems.",
+        "dump ext2/ext3/ext4 filesystem information"
+    ],
+    "dumpkeys": [
+        "show information about the keyboard driver's current translation tables.",
+        "print information about the keyboard driver's translation tables to standard output",
+        "write keyboard driver's translation tables to std output",
+        "dump keyboard translation tables"
+    ],
+    "e2fsck": [
+        "used to check ext2/ext3/ext4 file systems.",
+        "check an ext2 filesystem",
+        "check a linux ext2/ext3/ext4 file system"
+    ],
+    "e2image": [
+        "store important ext2/ext3/ext4 filesystem metadata to a file.",
+        "save critical ext2/ext3/ext4 filesystem metadata to a file"
+    ],
+    "e2label": [
+        "show or change the label on an ext2/ext3/ext4 filesystem.",
+        "change the label on an ext2/ext3/ext4 filesystem"
+    ],
+    "echo": [
+        "send input string(s) to standard output i.e. display text on the screen.",
+        "display message on screen \u2022",
+        "displays message on the screen",
+        "write arguments to standard output",
+        "displays a specified line of text",
+        "display text on screen",
+        "this command is used for displaying message on the screen",
+        "like println for the shell; outputs a message or value",
+        "display message on screen",
+        "display a line of text"
+    ],
+    "ed": [
+        "gnu ed &#8211; a line-oriented text editor.",
+        "the standard text editor",
+        "a line-oriented text editor (edlin)",
+        "a line-oriented text editor",
+        "line-oriented text editor"
+    ],
+    "edquota": [
+        "used to edit filesystem quotas using a text editor, such as vi."
+    ],
+    "egrep": [
+        "search and display text matching a pattern.",
+        "search file(s) for lines that match an extended expression",
+        "searches for files that have lines matching an extended expression",
+        "this searches for files that have lines matching an extendedexpression",
+        "extended version of grep that matches regular expressions",
+        "search files for lines that match regular expressions",
+        "print lines matching a pattern"
+    ],
+    "eject": [
+        "eject removable media.",
+        "eject removable media",
+        "use this when you need to eject a removablemedia",
+        "eject cd-rom",
+        "eject media from device ( command line )"
+    ],
+    "elvtune": [
+        "used to set latency in the elevator algorithm used to schedule i/o activities for specified block devices."
+    ],
+    "emacs": [
+        "emacs text editor command line utility.",
+        "a complicated text editor (not recommended)",
+        "screen oriented text editor"
+    ],
+    "enable": [
+        "used to enable/disable shell builtin commands.",
+        "enable and disable builtin shell commands \u2022",
+        "disable/enable bulletin shell commands",
+        "enable and disable builtin shell commands",
+        "use this to disable or enable bulletin shellcommands"
+    ],
+    "env": [
+        "run a command in a modified environment. show/set/delete environment variables.",
+        "environment variables",
+        "set the environment for command invocation",
+        "displays and modifies environment variables",
+        "list or set environment variables",
+        "disp, set, or remove environment variables",
+        "desplay the current environment or set a variable equal to a new value",
+        "dislay the path",
+        "run a program in a modified environment"
+    ],
+    "envsubst": [
+        "substitute environment variable values in shell format strings.",
+        "substitutes environment variables in shell format strings"
+    ],
+    "esd": [
+        "start the enlightenment sound daemon (esound or esd). enables multiple applications to access the same audio device simultaneously."
+    ],
+    "esd-config": [
+        "manage esound configuration."
+    ],
+    "esdcat": [
+        "use esound to send audio data from a specified file."
+    ],
+    "esdctl": [
+        "esound control program."
+    ],
+    "esddsp": [
+        "used to reroute non-esd audio data to esd and control all the audio using esd."
+    ],
+    "esdmon": [
+        "used to copy the sound being sent to a device. also, send it to a secondary device."
+    ],
+    "esdplay": [
+        "use esound system to play a file."
+    ],
+    "esdrec": [
+        "use esound to record audio to a specified file."
+    ],
+    "esdsample": [
+        "sample audio using esd."
+    ],
+    "etags": [
+        "used to create a list of functions and macros from a programming source file. these etags are used by emacs. for vi, use ctags."
+    ],
+    "ethtool": [
+        "used to query and control network driver and hardware settings.",
+        "ethernet card settings",
+        "ethernet cardsettings",
+        "query or control network driver and hardware settings"
+    ],
+    "eval": [
+        "used to evaluate multiple commands or arguments are once.",
+        "evaluate several commands/arguments",
+        "evaluates many commands",
+        "this command is used when you need to evaluate amany commands",
+        "scans and evaluates the command line"
+    ],
+    "ex": [
+        "interactive command",
+        "text editor",
+        "start vim in ex mode",
+        "vi improved, a programmers text editor"
+    ],
+    "exec": [
+        "an interactive line-based text editor.",
+        "execute a command",
+        "executes a command",
+        "for executing a command",
+        "system call which creates a subshell to execute a binary or a script",
+        "execute a file"
+    ],
+    "exit": [
+        "exit from the terminal.",
+        "exit the shell",
+        "exiting the shell",
+        "exiting theshell",
+        "quits the shell",
+        "exit a shell",
+        "cause normal process termination"
+    ],
+    "expand": [
+        "convert tabs into spaces in a given file and show the output.",
+        "convert tabs to spaces",
+        "converts all the tabs to spaces",
+        "converts tabs to spaces",
+        "this command converts all the tabs tospaces",
+        "convert tabs in files to spaces and write to standard output"
+    ],
+    "expect": [
+        "an extension to the tcl script, it's used to automate interaction with other applications based on their expected output.",
+        "automate arbitrary applications accessed over a terminal",
+        "programmed dialogue with interactive programs",
+        "a program that ``talks'' to other interactive programs according to a script"
+    ],
+    "export": [
+        "used to set an environment variable.",
+        "set an environment variable",
+        "sets an environment variable",
+        "this command sets an environment variable",
+        "sets a variable that any sub-programs launched by this shell can see",
+        "place the value of a variable in the calling environment (makes it global)"
+    ],
+    "expr": [
+        "evaluate expressions and display them on standard output.",
+        "evaluate expressions",
+        "evaluates expressions",
+        "evaluate arguments as an expression",
+        "utility evaluates an expression and displays the result"
+    ],
+    "factor": [
+        "display prime factors of specified integer numbers.",
+        "factors numbers",
+        "print prime factors",
+        "display prime factors of a number",
+        "factor numbers"
+    ],
+    "false": [
+        "do nothing, unsuccessfully. exit with a status code indicating failure.",
+        "do nothing, unsuccessfully",
+        "return false value",
+        "does nothing, but exits unsuccessfully",
+        "null command that returns an unsuccessful exit status",
+        "exit with a status code indicating failure"
+    ],
+    "fc-cache": [
+        "make font information cache after scanning the directories.",
+        "build font information cache files"
+    ],
+    "fc-list": [
+        "show the list of available fonts.",
+        "list available fonts"
+    ],
+    "fdformat": [
+        "do a low-level format on a floppy disk.",
+        "low-level format a floppy disk",
+        "perform low level format of a floppy disk",
+        "this command is used for lowlevel format of a floppy disk",
+        "low level format of a floppy device"
+    ],
+    "fdisk": [
+        "make changes to the disk partition table.",
+        "partition table manipulator for linux",
+        "partition table manipulator for linux systems",
+        "partition table manipulator for darwin ufs/hfs/dos",
+        "this is a partition tablemanipulator for linux systems",
+        "used to partition hard drives",
+        "the fdisk command with usage examples",
+        "manipulate disk partition table"
+    ],
+    "fetchmail": [
+        "fetch mail from mail servers and forward it to the local mail delivery system.",
+        "retrieve mail from a remote mail server and pass it to local smtp agents on the local machine"
+    ],
+    "fg": [
+        "used to send a job to the foreground.",
+        "send job to foreground",
+        "sends a task to the foreground",
+        "run jobs in the foreground",
+        "this command is used forsending a task to the foreground",
+        "starts a suspended process running in the foreground"
+    ],
+    "fgconsole": [
+        "display the number of the current virtual console.",
+        "print the number of the active vt."
+    ],
+    "fgrep": [
+        "display lines from a file(s) that match a specified string. a variant of grep.",
+        "search file(s) for lines that match a fixed string",
+        "searches through files for tasks that match a string",
+        "use this command tosearch through files for tasks that match a string",
+        "search for patterns in files",
+        "variant of grep",
+        "print lines matching a pattern"
+    ],
+    "file": [
+        "determine file type for a file.",
+        "determine file type",
+        "determines the file type",
+        "this isused to determine the file type",
+        "operations\tcp\tcopies a file/directory",
+        "determine type of file",
+        "displays classification of a file or files according to the type of data they contain"
+    ],
+    "find": [
+        "do a file search in a directory hierarchy.",
+        "search for files that meet a desired criteria",
+        "find files that match a desired criteria",
+        "find files",
+        "this is used to find filesthat match a desired criteria",
+        "search for files by name within a given directory",
+        "find files according to a large variety of search criteria",
+        "find a file",
+        "search for files in a directory hierarchy"
+    ],
+    "finger": [
+        "in each user's home directory.",
+        "display information about a specified userid or userids",
+        "displays information about the system users"
+    ],
+    "fingerd": [
+        "provides a network interface for the finger program."
+    ],
+    "flex": [
+        "generate programs that perform pattern-matching on text."
+    ],
+    "fmt": [
+        "used to convert text to a specified width by filling lines and removing new lines, displaying the output.",
+        "reformat paragraph text",
+        "reformats paragraph text",
+        "simple optimal text formatter",
+        "this is used for reformattingparagraph text",
+        "simple text formatting utility"
+    ],
+    "fold": [
+        "wrap input line to fit in a specified width.",
+        "wrap text to fit a specified width.",
+        "wraps text in order to fit a certain width",
+        "filter for folding lines",
+        "wraps each input line to fit in specified width",
+        "wrap text to fit a specified width",
+        "the name is quite suggestive, it wraps textin order to fit a certain width",
+        "break lines of specified files so they are no wider than a specified lengths",
+        "wrap each input line to fit in specified width"
+    ],
+    "for": [
+        "expand words and run commands for each one in the resultant list.",
+        "expand words, and execute commands",
+        "loop command"
+    ],
+    "formail": [
+        "used to filter standard input into mailbox format."
+    ],
+    "format": [
+        "used to format disks.",
+        "format disks or tapes",
+        "formats tapes/disks",
+        "this simply formats tapesor disks"
+    ],
+    "free": [
+        "show free and used system memory.",
+        "display memory usage",
+        "reveals the memory usage",
+        "use this to see the memory usage",
+        "disp, s memory usage",
+        "gives used and free memory on system along with other useful information",
+        "display free memory",
+        "allocate and free dynamic memory"
+    ],
+    "fsck": [
+        "check and repair a linux file system",
+        "file system consistency check and repair",
+        "checks the consistency of the file system and repairs it",
+        "filesystem consistency check and repair",
+        "this isused for checking the consistency of the file system and repairit",
+        "filesystem consistency check and repair.",
+        "file system check and repair",
+        "check and repair a linux filesystem"
+    ],
+    "ftp": [
+        "file transfer protocol user interface.",
+        "file transfer protocol",
+        "internet file transfer program",
+        "file transfer over network"
+    ],
+    "ftpd": [
+        "ftp server process."
+    ],
+    "function": [
+        "used to define function macros.",
+        "define function macros"
+    ],
+    "fuser": [
+        "find and kill a process accessing a file.",
+        "identify/kill the process that is accessing a file",
+        "identifies and kills the process accessing a file",
+        "list process ids of all processes that have one or more files open",
+        "identify process using file",
+        "identify processes using files or sockets"
+    ],
+    "g++": [
+        "run the g++ compiler.",
+        "c++ compiler",
+        "gnu project c and c++ compiler"
+    ],
+    "gawk": [
+        "used for pattern scanning and language processing. a gnu implementation of awk language.",
+        "find and replace text within file(s)",
+        "finds text within files and replaces it",
+        "this command is used to find text within files and replaceit",
+        "gnu awk, mostly for processing delimited text files",
+        "pattern scanning and processing language"
+    ],
+    "gcc": [
+        "a c and c++ compiler by gnu.",
+        "compile or run programs in various other languages",
+        "invoke c, c++ compiler",
+        "gnu project c and c++ compiler"
+    ],
+    "gdb": [
+        "a utility to debug programs and know about where it crashes.",
+        "the gnu debugger"
+    ],
+    "getent": [
+        "shows entries from name service switch libraries for specified keys.",
+        "get entries from name service switch libraries"
+    ],
+    "getkeycodes": [
+        "displays the kernel scancode-to-keycode mapping table.",
+        "print kernel's scancode",
+        "print kernel scancode-to-keycode mapping table"
+    ],
+    "getopts": [
+        "a utility to parse positional parameters.",
+        "parse positional parameters",
+        "parse utility options"
+    ],
+    "gpasswd": [
+        "allows an administrator to change group passwords.",
+        "administer /etc/group and /etc/gshadow"
+    ],
+    "gpg": [
+        "enables encryption and signing services as per the openpgp standard.",
+        "openpgp encryption and signing tool"
+    ],
+    "gpgsplit": [
+        "used to split an openpgp message into packets.",
+        "split an openpgp message into packets"
+    ],
+    "gpgv": [
+        "used to verify openpgp signatures.",
+        "verify openpgp signatures"
+    ],
+    "gpm": [
+        "it enables cut and paste functionality and a mouse server for the linux console."
+    ],
+    "gprof": [
+        "shows call graph profile data.",
+        "display call graph profile data"
+    ],
+    "grep": [
+        "searches input files for a given pattern and displays the relevant lines.",
+        "search file(s) for lines that match a given pattern",
+        "searches in files for lines matching a certain pattern",
+        "search text for a pattern",
+        "through this youcan search in files for lines matching a certain pattern",
+        "search a file for a given string or expression",
+        "used to find a string within a file",
+        "search for a pattern using regular expression",
+        "print lines matching a pattern"
+    ],
+    "groff": [
+        "serves as the front-end of the groff document formatting system.",
+        "front-end for the groff document formatting system"
+    ],
+    "groffer": [
+        "displays groff files and man pages."
+    ],
+    "groupadd": [
+        "used to add a new user group.",
+        "add a user security group",
+        "adds security user groups",
+        "use this command to add security user groups",
+        "create a new group on the system",
+        "create a new group"
+    ],
+    "groupdel": [
+        "used to remove a user group.",
+        "delete a group",
+        "deletes a certain group",
+        "this oneis used for deleting a certain group"
+    ],
+    "groupmod": [
+        "used to modify a group definition.",
+        "modify a group",
+        "modifies a group",
+        "while the last onedeletes, this one modified a group",
+        "modify a group definition on the system"
+    ],
+    "groups": [
+        "show the group(s) to which a user belongs.",
+        "print group names a user is in",
+        "prints the names of groups in which a user is located",
+        "prints the groups of which the user is a member",
+        "print the names ofgroups in which an user is located",
+        "list the groups to which a user belongs",
+        "shows which groups you are in",
+        "print the groups a user is in"
+    ],
+    "grpck": [
+        "verifies the integrity of group files.",
+        "verify integrity of group files"
+    ],
+    "grpconv": [
+        "creates a gshadow file from a group or an already existing gshadow.",
+        "convert to and from shadow passwords and groups"
+    ],
+    "gs": [
+        "invokes ghostscript, and interpreter and previewer for adobe's postscript and pdf languages.",
+        "ghostscript (postscript and pdf language interpreter and previewer)"
+    ],
+    "gunzip": [
+        "a utility to compress/expand files.",
+        "decompress file(s) from gnu zip format",
+        "used to uncompress files compressed with gzip",
+        "unzip .gz files",
+        "compress or expand files"
+    ],
+    "gzexe": [
+        "used compress executable files in place and have them automatically uncompress and run at a later stage.",
+        "compresses executables",
+        "compress executable files in place"
+    ],
+    "gzip": [
+        "same as gzip.",
+        "compress or decompress named file(s)",
+        "compresses/decompresses files",
+        "compress or decompress files",
+        "gnu compression/decompression programs",
+        "compress file(s) to gnu zip format",
+        "used to compress or decompress files",
+        "compress using lempel-ziv coding (lz77)",
+        "compress or expand files"
+    ],
+    "halt": [
+        "command used to half the machine.",
+        "stop and restart the operating system",
+        "shut down system as root, without reboot, immediately",
+        "stop the system",
+        "variables that affect the behavior of the shutdown scripts"
+    ],
+    "hash": [
+        "shows the path for the commands executed in the shell.",
+        "remember the full pathname of a name argument",
+        "complete pathname of a name argument",
+        "hash database access method",
+        "refresh the cached/remembered location of commands",
+        "this command is used to refer to the complete pathname of a nameargument",
+        "remembers the location of commands in the search path"
+    ],
+    "hdparm": [
+        "show/configure parameters for sata/ide devices.",
+        "get/set harddisk parameters",
+        "get/set sata/ide device parameters"
+    ],
+    "head": [
+        "shows first 10 lines from each specified file.",
+        "output the first part of file(s)",
+        "outputs the first part of files",
+        "copy the first part of files",
+        "display the first lines of a file",
+        "use this for output for the first part offiles",
+        "output the beginning of a file",
+        "displays first part of a file",
+        "print the first 10 lines of a file to standard output",
+        "simple command line user agent"
+    ],
+    "help": [
+        "display's help for a built-in command.",
+        "display help for a built-in command \u2022",
+        "display the built in help for a command"
+    ],
+    "hexdump": [
+        "shows specified file output in hexadecimal, octal, decimal, or ascii format.",
+        "ascii, decimal, hexadecimal, octal dump"
+    ],
+    "history": [
+        "shows the command history.",
+        "command history",
+        "show a list of all past commands you have typed into this shell",
+        "command for viewing and manipulating the shell command history list",
+        "display entire command history",
+        "gnu history library"
+    ],
+    "host": [
+        "a utility to perform dns lookups.",
+        "look up host names using domain server",
+        "dns lookup utility"
+    ],
+    "hostid": [
+        "shows host's numeric id in hexadecimal format.",
+        "prints the numeric identifier for the current host",
+        "print the numeric identifier for the current host"
+    ],
+    "hostname": [
+        "display/set the hostname of the system.",
+        "print or set system name",
+        "print/set system name",
+        "outputs the name of the current computer/server",
+        "used to get or set hostname",
+        "show or set the system's host name",
+        "local hostname configuration file"
+    ],
+    "htdigest": [
+        "manage the user authentication file used by the apache web server."
+    ],
+    "htop": [
+        "an interactive process viewer for the command line.",
+        "interactive process viewer"
+    ],
+    "hwclock": [
+        "show or configure the system's hardware clock.",
+        "used to query and set the hardware clock",
+        "variables that affect the behaviour of the hwclock boot script"
+    ],
+    "iconv": [
+        "convert text file from one encoding to another.",
+        "convert the character set of a file",
+        "converts the character set in files",
+        "codeset conversion",
+        "use this to convert the character set in files",
+        "converts the encoding of characters from one code page encoding scheme to another.",
+        "perform character set conversion"
+    ],
+    "id": [
+        "show user and group information for a specified user.",
+        "print user and group id's",
+        "displays the group ids/user ids",
+        "return user identity",
+        "prints real or effective uid and gid",
+        "print user and group names/id's",
+        "display thegroup ids or user ids",
+        "display userid and groupid",
+        "print information for username, or the current user",
+        "print real and effective user and group ids"
+    ],
+    "if": [
+        "execute a command conditionally.",
+        "conditionally perform a command",
+        "conditional command"
+    ],
+    "ifconfig": [
+        "used to configure network interfaces.",
+        "configure a network interface",
+        "configures network interfaces",
+        "configure network interface parameters",
+        "usedto configure network interfaces",
+        "display (as root) information on network interfaces that are currently active",
+        "display network and hardware addresses"
+    ],
+    "ifdown": [
+        "stops a network interface.",
+        "stop a network interface",
+        "stops a network interface",
+        "use this command forstopping a network interface",
+        "shut down the network interface",
+        "take a network interface down"
+    ],
+    "ifup": [
+        "starts a network interface.",
+        "start a network interface up",
+        "starts a network interface app",
+        "start a network interface appwith this command",
+        "bring a network interface up"
+    ],
+    "imapd": [
+        "an imap (interactive mail access protocol) server daemon."
+    ],
+    "import": [
+        "capture an x server screen and saves it as an image.",
+        "capture an x server screen and save the image to file",
+        "captures a screen and saves image in x server",
+        "used for the x server",
+        "saves any visible window on an x server and outputs it as an image file. you can capture a single window, the entire screen, or any rectangular portion of the screen."
+    ],
+    "inetd": [
+        "extended internet services daemon, it starts the programs that provide internet services.",
+        "daemon which starts up other daemons on demand"
+    ],
+    "info": [
+        "used to read the documentation in info format.",
+        "help info",
+        "display system information",
+        "readable online documentation"
+    ],
+    "init": [
+        "systemd system and service manager.",
+        "the mother of all processes, run at bootup, executes commands in /etc/inittab",
+        "upstart init daemon job configuration"
+    ],
+    "insmod": [
+        "a program that inserts a module into the linux kernel.",
+        "used (by root) to install modular device drivers",
+        "simple program to insert a module into the linux kernel"
+    ],
+    "install": [
+        "used to copy files to specified locations and set attributions during the install process.",
+        "copy files and set attributes",
+        "sets attributes and copies files",
+        "copies files and set attributes"
+    ],
+    "iostat": [
+        "shows statistics for cpu, i/o devices, partitions, network filesystems.",
+        "report cpu and i/o statistics"
+    ],
+    "ip": [
+        "display/manipulate routing, devices, policy, routing and tunnels.",
+        "routing, devices and tunnels",
+        "show / manipulate routing, devices, policy routing and tunnels"
+    ],
+    "ipcrm": [
+        "used to remove system v interprocess communication (ipc) objects and associated data structures.",
+        "remove a message queue, semaphore set, or shared memory segment identifier",
+        "remove certain ipc resources"
+    ],
+    "ipcs": [
+        "show information on ipc facilities for which calling process has read access.",
+        "report interprocess communication facilities status",
+        "show information on ipc facilities"
+    ],
+    "iptables": [
+        "administration tool for ipv4 packet filtering and nat.",
+        "administration tool for ipv4/ipv6 packet filtering and nat"
+    ],
+    "iptables-restore": [
+        "used to restore ip tables from data specified in the input or a file.",
+        "restore ip tables"
+    ],
+    "iptables-save": [
+        "used to dump ip table contents to standard output.",
+        "dump iptables rules to stdout"
+    ],
+    "isodump": [
+        "a utility that shows the content iso9660 images to verify the integrity of directory contents.",
+        "format of ieee 1394 isochronous packets dump file"
+    ],
+    "isoinfo": [
+        "a utility to perform directory like listings of iso9660 images.",
+        "utility programs for dumping and verifying iso9660 images."
+    ],
+    "isosize": [
+        "show the length of an iso9660 filesystem contained in a specified file.",
+        "output the length of an iso9660 filesystem"
+    ],
+    "isovfy": [
+        "verifies the integrity of an iso9660 image.",
+        "utility programs for dumping and verifying iso9660 images."
+    ],
+    "ispell": [
+        "a cli-based spell-check utility.",
+        "checks files for spelling errors"
+    ],
+    "jobs": [
+        "show the list of active jobs and their status.",
+        "list active jobs \u2022",
+        "lists jobs that are active",
+        "display status of jobs in the current session",
+        "list active jobs",
+        "use this for listing jobs that are active",
+        "list the processes you are running; every process has a unique integer id number (pid)",
+        "displays list of current jobs in the background"
+    ],
+    "join": [
+        "for each pair of input lines, join them using a command field and display on standard output.",
+        "join lines on a common field",
+        "joins lines on a common field",
+        "merges two sorted text files based on the presence of a common field",
+        "joins lines of two files on a common field",
+        "join lines of two files on a common field"
+    ],
+    "kbd_mode": [
+        "set a keyboard mode. without arguments, shows the current keyboard mode.",
+        "print current keyboard mode",
+        "report or set the keyboard mode (raw, medi- umraw or xlate)",
+        "report or set the keyboard mode"
+    ],
+    "kbdrate": [
+        "reset keyboard repeat rate and delay time.",
+        "reset the keyboard repeat rate and delay time"
+    ],
+    "kill": [
+        "send a kill (termination) signal to one more processes.",
+        "kill a process by specifying its pid",
+        "stops a process from running",
+        "terminate or signal processes",
+        "stop a process from running",
+        "terminate a process",
+        "sends a signal to (especially to terminate) a job or process",
+        "send a signal to a process"
+    ],
+    "killall": [
+        "kills a process(es) running a specified command.",
+        "kill processes by name",
+        "kills processes by name",
+        "terminate a group of processes by name"
+    ],
+    "killall5": [
+        "a systemv killall command. kills all the processes excluding the ones which it depends on.",
+        "kill all processes except the ones on which it depends",
+        "send a signal to all processes."
+    ],
+    "klogd": [
+        "control and prioritize the kernel messages to be displayed on the console, and log them through syslogd."
+    ],
+    "kudzu": [
+        "used to detect new and enhanced hardware by comparing it with existing database. only for rhel and derivates."
+    ],
+    "last": [
+        "file.",
+        "indicate last logins of users and ttys",
+        "generate a listing of user logins",
+        "show listing of last logged in users",
+        "show a listing of last logged in users"
+    ],
+    "lastb": [
+        "file.",
+        "show a listing of last logged in users"
+    ],
+    "lastlog": [
+        "displays information about the most recent login of all users or a specified user.",
+        "prints the last login times of all users",
+        "formats and prints the contents of the last login log /var/log/lastlog file",
+        "reports the most recent login of all users or of a given user"
+    ],
+    "ld": [
+        "the unix linker, it combines archives and object files. it then puts them into one output file, resolving external references.",
+        "the gnu linker"
+    ],
+    "ldconfig": [
+        "configure dynamic linker run-time bindings.",
+        "creates the necessary links and cache (for use by the run",
+        "configure dynamic linker run-time bindings"
+    ],
+    "ldd": [
+        "shows shared object dependencies.",
+        "list the shared libraries on which a given executable depends, and where they are located",
+        "print shared object dependencies"
+    ],
+    "less": [
+        "command.",
+        "display output one screen at a time",
+        "displays the output on a single screen at a time",
+        "this command displays the output on a single screen at a time",
+        "linux alternative to ``more'' command",
+        "opposite of more"
+    ],
+    "lesskey": [
+        "used to specify key bindings for less command.",
+        "specify key bindings for less"
+    ],
+    "let": [
+        "used to perform integer artithmetic on shell variables.",
+        "perform arithmetic on shell variables \u2022",
+        "performs arithmetic on shell variables",
+        "evaluate expression",
+        "this is for doing arithmetic on shell variables",
+        "for computing integer variable values",
+        "perform arithmetic on shell variables",
+        "evaluates a numeric expression"
+    ],
+    "lftp": [
+        "an ftp utility with extra features."
+    ],
+    "lftpget": [
+        "uses lftop to retrieve http, ftp, and other protocol urls supported by lftp."
+    ],
+    "link": [
+        "create links between two files. similar to ln command.",
+        "create a link to a file",
+        "creates a link to another file",
+        "create a hard link to a file",
+        "creates a link to a file",
+        "thiscommand is used for creating a link to another file",
+        "call the link function to create a link to a file"
+    ],
+    "ln": [
+        "create links between files. links can be hard (two names for the same file) or soft (a shortcut of the first file).",
+        "create a symbolic link to a file",
+        "creates a symbolic link to another file",
+        "link files",
+        "creates a link to a file",
+        "make links between files (hard links, symbolic links)",
+        "this onecreates a symbolic link to another file",
+        "make links between files",
+        "create a link to the specified target with optional link_name"
+    ],
+    "loadkeys": [
+        "load keyboard translation tables.",
+        "load keyboard translation tables"
+    ],
+    "local": [
+        "used to create function variables.",
+        "create a function variable \u2022",
+        "creates variables",
+        "set a local (function) variable",
+        "use this forcreating variables",
+        "create variables"
+    ],
+    "locale": [
+        "shows information about current or all locales.",
+        "get locale-specific information",
+        "describes a locale definition file"
+    ],
+    "locate": [
+        "used to find files by their name.",
+        "find files",
+        "finds files",
+        "this one is used for findingfiles",
+        "search for files by name on the entire system",
+        "locate a file",
+        "find files by name"
+    ],
+    "lockfile": [
+        "create semaphore file(s) which can be used to limit access to a file.",
+        "create semaphore file(s), used to limit access to a file"
+    ],
+    "logger": [
+        "make entries in the system log.",
+        "log messages",
+        "enter messages into the system log"
+    ],
+    "login": [
+        "create a new session on the system.",
+        "log into the computer",
+        "sign on",
+        "write utmp and wtmp entries"
+    ],
+    "logname": [
+        "shows the login name of the current user.",
+        "print current login name",
+        "print the login name being used currently",
+        "return the user's login name",
+        "print the user's login name",
+        "this is used to print the login name being usedcurrently",
+        "consult /etc/utmp for user's login name",
+        "print user's login name"
+    ],
+    "logout": [
+        "performs the logout operation by making changes to the utmp and wtmp files.",
+        "exit a login shell \u2022",
+        "use this command to exit a login shell.",
+        "exit a login shell (bye)",
+        "use this command to exit a login shell",
+        "exit a login shell",
+        "execute logout as individual user and bring up login: prompt",
+        "write utmp and wtmp entries"
+    ],
+    "logrotate": [
+        "used for automatic rotation, compression, removal, and mailing of system log files.",
+        "rotates, compresses, and mails system logs"
+    ],
+    "look": [
+        "shows any lines in a file containing a given string in the beginning.",
+        "display lines beginning with a given string",
+        "when you just want to see lines that start with a particularstring",
+        "look for strings in files",
+        "displays any lines in file which contain \"string\" as a prefix."
+    ],
+    "losetup": [
+        "set up and control loop devices.",
+        "set up and control loop devices"
+    ],
+    "lpadmin": [
+        "used to configure printer and class queues provided by cups (common unix printing system).",
+        "configure cups printers and classes"
+    ],
+    "lpc": [
+        "line printer control program, it provides limited control over cups printer and class queues.",
+        "line printer control program",
+        "line printer control",
+        "it stands for line printer control"
+    ],
+    "lpinfo": [
+        "shows the list of avaiable devices and drivers known to the cups server.",
+        "show available devices or drivers"
+    ],
+    "lpmove": [
+        "move on or more printing jobs to a new destination.",
+        "move a job or all jobs to a new destination"
+    ],
+    "lpq": [
+        "shows current print queue status for a specified printer.",
+        "show print jobs that are waiting",
+        "show printer queue status"
+    ],
+    "lpr": [
+        "used to submit files for printing.",
+        "off line print",
+        "offline print",
+        "print files",
+        "this isfor offline print",
+        "send file to be printed"
+    ],
+    "lprint": [
+        "used to print a file.",
+        "print a file",
+        "prints a file",
+        "use this command to print afile"
+    ],
+    "lprintd": [
+        "used to abort a print job.",
+        "abort a print job",
+        "aborts an ongoing print job",
+        "use this to abort an ongoing print job"
+    ],
+    "lprintq": [
+        "list the print queue.",
+        "list the print queue",
+        "lists the print queue",
+        "this command lists the print queue"
+    ],
+    "lprm": [
+        "cancel print jobs.",
+        "remove jobs from the print queue",
+        "removes the jobs from the print queue",
+        "cancel a job from print queue",
+        "cancel print jobs"
+    ],
+    "lpstat": [
+        "displays status information about current classes, jobs, and printers.",
+        "printer status information",
+        "print cups status information"
+    ],
+    "ls": [
+        "shows the list of files in the current directory.",
+        "list information about file(s)",
+        "list directory contents",
+        "lists the files in a directory",
+        "list files in a directory"
+    ],
+    "lsattr": [
+        "shows file attributes on a linux ext2 file system.",
+        "list file attributes on a linux second extended file system",
+        "list attributes of files in ext2 file system"
+    ],
+    "lsblk": [
+        "lists information about all available or the specified block devices.",
+        "list block devices"
+    ],
+    "lsmod": [
+        "show the status of modules in the linux kernel.",
+        "used (by root) to show kernel modules currently loaded",
+        "list loaded kernel modules",
+        "show the status of modules in the linux kernel"
+    ],
+    "lsof": [
+        "list open files.",
+        "list open files"
+    ],
+    "lspci": [
+        "list all pci devices.",
+        "utility to display information on pci buses and hardware devices attached to them",
+        "list all pci devices"
+    ],
+    "lsusb": [
+        "list usb devices.",
+        "list usb devices"
+    ],
+    "m4": [
+        "macro processor.",
+        "macro processor",
+        "an implementation of the traditional unix macro processor"
+    ],
+    "mail": [
+        "utility to compose, receive, send, forward, and reply to emails.",
+        "sends or reads electronic mail",
+        "a mail processing system, which has a command syntax like ed"
+    ],
+    "mailq": [
+        "shows to list all emails queued for delivery (sendmail queue)."
+    ],
+    "mailstats": [
+        "shows current mail statistics."
+    ],
+    "mailto": [
+        "used to send mail with multimedia content in mime format."
+    ],
+    "make": [
+        "utility to maintain groups of programs, recompile them if needed.",
+        "recompile a group of programs",
+        "recompiles the group of programs",
+        "maintain, update, and regenerate groups of programs",
+        "this command is used for recompiling the group of programs",
+        "determine which parts of a system must be recompiled, and compile them",
+        "keeps a set of programs current",
+        "gnu make utility to maintain groups of programs"
+    ],
+    "makedbm": [
+        "creates an nis (network information services) database map."
+    ],
+    "makemap": [
+        "creates database maps used by the keyed map lookups in sendmail."
+    ],
+    "man": [
+        "shows manual pages for linux commands.",
+        "help manual",
+        "provides help on a command",
+        "display system documentation",
+        "this is short for manual and provides help on a command",
+        "print manual pages",
+        "displays information from online unix reference manual",
+        "display a particular manual entry",
+        "an interface to the on-line reference manuals"
+    ],
+    "manpath": [
+        "determine search path for manual pages.",
+        "attempt to determine path to manual pages",
+        "format of the /etc/manpath.config file"
+    ],
+    "mattrib": [
+        "used to change ms-dos file attribute flags.",
+        "change msdos file attribute flags"
+    ],
+    "mbadblocks": [
+        "checks md-dos filesystems for bad blocks.",
+        "tests a floppy disk, and marks the bad blocks in the fat"
+    ],
+    "mcat": [
+        "dump raw disk image.",
+        "dump raw disk image"
+    ],
+    "mcd": [
+        "used to change ms-dos directory.",
+        "changes working directory on dos disk",
+        "change msdos directory"
+    ],
+    "mcopy": [
+        "used to copy ms-dos files from or to unix.",
+        "copies dos files from one directory to another",
+        "copy msdos files to/from unix"
+    ],
+    "md5sum": [
+        "used to check md5 checksum for a file.",
+        "computes and checks md5 message digest",
+        "compute and check md5 message digest"
+    ],
+    "mdel, mdeltree": [
+        "used to delete ms-dos file. mdeltree recursively deletes ms-dos directory and its contents."
+    ],
+    "mdir": [
+        "used to display an ms-dos directory.",
+        "lists contents of dos directories",
+        "display an msdos directory"
+    ],
+    "mdu": [
+        "used to display the amount of space occupied by an ms-dos directory.",
+        "display the amount of space occupied by an msdos directory"
+    ],
+    "merge": [
+        "three-way file merge. includes all changes from file2 and file3 to file1."
+    ],
+    "mesg": [
+        "allow/disallow osends to sedn write messages to your terminal.",
+        "permit or deny messages",
+        "enables/disables reception of messages",
+        "display (or do not display) messages from other users"
+    ],
+    "metamail": [
+        "for sending and showing rich text or multimedia email using mime typing metadata."
+    ],
+    "metasend": [
+        "an interface for sending non-text mail."
+    ],
+    "mformat": [
+        "used to add an ms-dos filesystem to a low-level formatted floppy disk.",
+        "adds dos formatting information to a disk",
+        "add an msdos filesystem to a low-level formatted floppy disk"
+    ],
+    "mimencode": [
+        "translate to/from mime multimedia mail encoding formats."
+    ],
+    "minfo": [
+        "display parameters of an ms-dos filesystem.",
+        "print the parameters of a msdos filesystem"
+    ],
+    "mkdir": [
+        "used to create directories.",
+        "create new folder(s)",
+        "creates directories",
+        "make directories",
+        "creates a directory",
+        "creating directories",
+        "creates a new directory with the given name",
+        "create a directory"
+    ],
+    "mkdosfs": [
+        "used to create an ms-dos filesystem under linux.",
+        "create an ms-dos filesystem under linux"
+    ],
+    "mke2fs": [
+        "used create an ext2/ext3/ext4 filesystem.",
+        "create an ext2/ext3/ext4 filesystem"
+    ],
+    "mkfifo": [
+        "used to create named pipes (fifos) with the given names.",
+        "make fifos (named pipes)",
+        "makes fifos",
+        "make fifo special files",
+        "makes named pipes (fifos)",
+        "use this to make fifos",
+        "make a fifo special file (a named pipe)"
+    ],
+    "mkfs": [
+        "used to build a linux filesystem on a hard disk partition.",
+        "create a file system (format) on a device or partition",
+        "make a filesystem on a drive",
+        "build a linux filesystem"
+    ],
+    "mkfs.ext3": [
+        "same as mke2fs, create an ext3 linux filesystem.",
+        "create an ext2/ext3/ext4 filesystem"
+    ],
+    "mkisofs": [
+        "used to create an iso9660/joliet/hfs hybrid filesystem.",
+        "create an hybrid iso9660/joliet/hfs filesystem"
+    ],
+    "mklost+found": [
+        "create a lost+found directory on a mounted ext2 filesystem.",
+        "create a lost+found directory on a mounted linux second extended file system"
+    ],
+    "mkmanifest": [
+        "makes a list of file names and their dos 8.3 equivalent.",
+        "makes list of file names and their dos 8+3 equivalent"
+    ],
+    "mknod": [
+        "create a fifo, block (buffered) special file, character (unbuffered) special file with the specified name.",
+        "make block or character special files",
+        "creates character special files or block files",
+        "makes block or character special files",
+        "this is to create character special files or block files"
+    ],
+    "mkraid": [
+        "used to setup raid device arrays."
+    ],
+    "mkswap": [
+        "set up a linux swap area.",
+        "creates a linux swap space on the specified hard disk parition (root privileges neede)",
+        "set up a linux swap area"
+    ],
+    "mktemp": [
+        "create a temporary file or directory.",
+        "creates a temporary file or directory",
+        "make temporary filename (unique)",
+        "make a unique temporary filename"
+    ],
+    "mlabel": [
+        "make an md-dos volume label.",
+        "make an msdos volume label"
+    ],
+    "mmd": [
+        "make an ms-dos subdirectory.",
+        "make an msdos subdirectory"
+    ],
+    "mmount": [
+        "mount an ms-dos disk.",
+        "mount an msdos disk"
+    ],
+    "mmove": [
+        "move or rename an ms-dos file or subdirectory.",
+        "move or rename an msdos file or subdirectory"
+    ],
+    "mmv": [
+        "mass move and rename files.",
+        "mass move and rename (files)",
+        "mass move and rename"
+    ],
+    "modinfo": [
+        "show information about a linux kernel module.",
+        "show information about a linux kernel module"
+    ],
+    "modprobe": [
+        "add or remove modules from the linux kernel.",
+        "add and remove modules from the linux kernel"
+    ],
+    "more": [
+        "display content of a file page-by-page.",
+        "display output one screen at a time",
+        "displays the output in a single screen at a time",
+        "display files on a page-by-page basis",
+        "this displays the output, but in a single screen at a time",
+        "output the contents of a file, one page at a time",
+        "list file contents, stopping after each full screen",
+        "page through text one screenful at a time.",
+        "file perusal filter for crt viewing"
+    ],
+    "most": [
+        "browse or page through a text file.",
+        "browse or page through a text file"
+    ],
+    "mount": [
+        "mount a filesystem.",
+        "mount a file system",
+        "mounts a particular filesystem",
+        "used for mounting a particular filesystem",
+        "t ext2 /dev/fd0 /mnt/floppy",
+        "mount a filesystem/device",
+        "mount a filesystem"
+    ],
+    "mountd": [
+        "nfs mount daemon."
+    ],
+    "mpartition": [
+        "partition an ms-dos disk.",
+        "partition an msdos hard disk"
+    ],
+    "mpg123": [
+        "command-line mp3 player."
+    ],
+    "mpg321": [
+        "similar to mpg123."
+    ],
+    "mrd": [
+        "remove an ms-dos subdirectory.",
+        "remove an msdos subdirectory"
+    ],
+    "mren": [
+        "rename an existing ms-dos file.",
+        "rename an existing msdos file"
+    ],
+    "mshowfat": [
+        "show fta clusters allocated to a file.",
+        "shows fat clusters allocated to file"
+    ],
+    "mt": [
+        "control magnetic tape drive operation.",
+        "control magnetic tape drive operation"
+    ],
+    "mtools": [
+        "utilities to access ms-dos disks.",
+        "manipulate ms-dos files",
+        "manipulates files from ms-dos",
+        "manipulatingfiles from ms-dos",
+        "package of ms",
+        "mtools configuration files"
+    ],
+    "mtoolstest": [
+        "tests and displays the mtools configuration files.",
+        "tests and displays the configuration"
+    ],
+    "mtr": [
+        "a network diagnostic tool.",
+        "network diagnostics (traceroute/ping)",
+        "network diagnostics command",
+        "network diagnostics command for thingslike ping and traceroute",
+        "a network diagnostic tool"
+    ],
+    "mtype": [
+        "display contents of an ms-dos file.",
+        "displays contents of a dos file",
+        "display contents of an msdos file"
+    ],
+    "mv": [
+        "move/rename files or directories.",
+        "move or rename files or directories",
+        "moves and renames files and directories",
+        "move or rename files",
+        "moves files or rename files",
+        "used for moving and renaming filesand directories",
+        "moves (or renames) a file/directory",
+        "moves (renames) files",
+        "move and / or rename files",
+        "move (rename) files"
+    ],
+    "mzip": [
+        "change protection mode and eject disk on zip/jaz drive.",
+        "change protection mode and eject disk on zip/jaz drive"
+    ],
+    "named": [
+        "internet domain name server."
+    ],
+    "namei": [
+        "follow a pathname until a terminal point is found.",
+        "follow a pathname until a terminal point is found"
+    ],
+    "nameif": [
+        "name network interfaces based on mac addresses.",
+        "name network interfaces based on mac addresses"
+    ],
+    "nc": [
+        "netcat utility. arbitrary tcp and udp connections and listens.",
+        "netcat, read and write data across networks",
+        "arbitrary tcp and udp connections and listens"
+    ],
+    "netstat": [
+        "show network information.",
+        "networking information",
+        "provides information on networking",
+        "show network status",
+        "get information on networking",
+        "display verbose info about network processes and ports",
+        "print network connections, routing tables, interface statistics, masquerade connections, and multicast memberships"
+    ],
+    "newaliases": [
+        "rebuilds mail alias database.",
+        "rebuilds the /etc/aliases database used by sendmail"
+    ],
+    "newgrp": [
+        "log-in to a new group.",
+        "change to a new group (functionaliy similar to sg[1])",
+        "similar to login",
+        "log in to a new group"
+    ],
+    "newusers": [
+        "update/create new users in batch.",
+        "update and create new users in batch"
+    ],
+    "nfsd": [
+        "special filesystem for controlling linux nfs server."
+    ],
+    "nfsstat": [
+        "list nfs statistics."
+    ],
+    "nice": [
+        "run a program with modified scheduling priority.",
+        "set the priority of a command or job",
+        "sets the priority of a job or a command",
+        "invoke a utility with an altered nice value",
+        "modifies scheduling priority",
+        "set the priority of a command",
+        "use this to set the priorityof a job or a command",
+        "run a command with modified priority",
+        "run a program with modified scheduling priority"
+    ],
+    "nl": [
+        "show numbered line while displaying the contents of a file.",
+        "number lines and write files",
+        "writes files and number lines",
+        "line numbering filter",
+        "numbers lines of files",
+        "write files and number lines",
+        "number lines of files"
+    ],
+    "nm": [
+        "list symbols from object files.",
+        "write the name list of an object file",
+        "lists the symbols from object files objfile",
+        "list symbols from object files"
+    ],
+    "nohup": [
+        "run a command immune to hangups.",
+        "run a command immune to hangups",
+        "runs a command not affected by hangups",
+        "invoke a utility immune to hangups",
+        "allows a command to continue running after logging out",
+        "this one runs a command, which is not affected byhangups",
+        "run a command immune to hangup",
+        "runs a command that keeps running after logout",
+        "run a command immune to hangups, with output to a non-tty"
+    ],
+    "notify-send": [
+        "a program to send desktop notifications.",
+        "send desktop notifications",
+        "sends desktop notifications",
+        "this command sends desktopnotifications",
+        "a program to send desktop notifications"
+    ],
+    "nslookup": [
+        "used performs dns queries. read this article for more info.",
+        "query internet name servers interactively",
+        "queries internet name servers interactively",
+        "query internet domain name servers"
+    ],
+    "nsupdate": [
+        "dynamic dns update utility.",
+        "dynamic dns update utility"
+    ],
+    "objcopy": [
+        "copy and translate object files.",
+        "copy and translate object files"
+    ],
+    "objdump": [
+        "display information from object files."
+    ],
+    "od": [
+        "dump files in octal and other formats.",
+        "dump files in various formats",
+        "dumps files in octal and other formats",
+        "view binary files",
+        "dumps contents of a file",
+        "dump files in octal and other formats"
+    ],
+    "op": [
+        "operator access, allows system administrators to grant users access to certain root operations that require superuser privileges.",
+        "operator access",
+        "provides operator access"
+    ],
+    "open": [
+        "open a file using its default application.",
+        "open a file in its default application",
+        "opens a file in its default application",
+        "open a file/folder/url/application",
+        "this command opens a file in its default application",
+        "start a program on a new virtual terminal (vt)."
+    ],
+    "openvt": [
+        "start a program on a new virtual terminal (vt)."
+    ],
+    "passwd": [
+        "change user password.",
+        "modify a user password",
+        "modifies user passwords",
+        "use this command to modify user passwords",
+        "changes your password",
+        "change login password",
+        "the password file"
+    ],
+    "paste": [
+        "merge lines of files. write to standard output, tab-separated lines consisting of sqentially correspnding lines from each file.",
+        "merge lines of files",
+        "merges lines in files",
+        "merge corresponding or subsequent lines of files",
+        "merges lines of files",
+        "this command isused for merging lines in files",
+        "joins corresponding lines from files"
+    ],
+    "patch": [
+        "apply a patchfile (containing differences listing by diff program) to an original file.",
+        "apply changes to files",
+        "updates source code",
+        "apply a diff file to an original"
+    ],
+    "pathchk": [
+        "check if file names are valid or portable.",
+        "check file name portability",
+        "checks the portability of a file name",
+        "check pathnames",
+        "checks whether file names are valid or portable",
+        "it is used to check theportability of a file name",
+        "determine validity and portability of filenames",
+        "check whether file names are valid or portable"
+    ],
+    "perl": [
+        "perl 5 language interpreter.",
+        "practical extraction and report language",
+        "(start) practical extraction and report language",
+        "the perl 5 language interpreter"
+    ],
+    "pgrep": [
+        "list process ids matching the specified criteria among all the running processes.",
+        "list processes by name",
+        "look up or signal processes based on name and other attributes"
+    ],
+    "pidof": [
+        "find process id of a running program.",
+        "find the process id of a running program."
+    ],
+    "ping": [
+        "send icmp echo_request to network hosts.",
+        "test a network connection",
+        "tests network connections",
+        "this command is used for testingnetwork connections",
+        "check if internet computer is responding",
+        "send icmp echo_request to network hosts"
+    ],
+    "pinky": [
+        "lightweight finger.",
+        "a lightweight version of finger",
+        "a lightweight 'finger' program;",
+        "lightweight finger"
+    ],
+    "pkill": [
+        "send kill signal to processes based on name and other attributes.",
+        "kill processes by name",
+        "stops processes from running",
+        "this command stops processes fromrunning",
+        "look up or signal processes based on name and other attributes"
+    ],
+    "pmap": [
+        "report memory map of a process.",
+        "report memory map of a process"
+    ],
+    "popd": [
+        "removes directory on the head of the directory stack and takes you to the new directory on the head.",
+        "restore the previous value of the current directory",
+        "restores the previous value of the directory you\u2019re currently in",
+        "this command restores the previous value of thedirectory you're currently in",
+        "pops the top directory of the directory stack and uses cd to change to that directory"
+    ],
+    "portmap": [
+        "converts rpc program numbers to ip port numbers."
+    ],
+    "poweroff": [
+        "shuts down the machine.",
+        "halt, power-off or reboot the machine"
+    ],
+    "pppd": [
+        "point-to-point protocol daemon.",
+        "point-to-point protocol daemon"
+    ],
+    "pr": [
+        "convert (column or paginate) text files for printing.",
+        "prepare files for printing",
+        "prepares your files for printing",
+        "print files",
+        "converts text files for printing",
+        "convert text files for printing",
+        "prepare your files forprinting using this",
+        "paginates files for printing",
+        "format for printing"
+    ],
+    "praliases": [
+        "prints the current system mail aliases."
+    ],
+    "printcap": [
+        "printer capability database.",
+        "printer capability database",
+        "printer capabilitydatabase"
+    ],
+    "printenv": [
+        "show values of all or specified environment variables.",
+        "print environment variables",
+        "prints environment variables",
+        "list environment variables",
+        "display list of environment variables",
+        "print all or part of environment"
+    ],
+    "printf": [
+        "show arguments formatted according to a specified format.",
+        "format and print data \u2022",
+        "formats and prints data",
+        "write formatted output",
+        "format and print data",
+        "thiscommand is used for formatting and printing data",
+        "formatted output conversion"
+    ],
+    "ps": [
+        "report a snapshot of the current processes.",
+        "process status",
+        "report process status",
+        "this standsfor process status",
+        "displays status of processes",
+        "processes running"
+    ],
+    "ptx": [
+        "produce a permuted index of file contents.",
+        "produces a permuted index of file contents",
+        "produce a permuted index of file contents"
+    ],
+    "pushd": [
+        "appends a given directory name to the head of the stack and then cd to the given directory.",
+        "save and then change the current directory",
+        "changes the directory and saves it first",
+        "change the directory and save itfirst",
+        "pushes the argument onto the top of the directory stack and uses cd to change to that directory"
+    ],
+    "pv": [
+        "monitor progress of data through a pipe.",
+        "monitor the progress of data through a pipe"
+    ],
+    "pwck": [
+        "verify integrity of password files.",
+        "verify integrity of password files"
+    ],
+    "pwconv": [
+        "creates shadow from passwd and an optionally existing shadow.",
+        "converts passwords to the shadow password format",
+        "convert to and from shadow passwords and groups"
+    ],
+    "pwd": [
+        "show current directory.",
+        "print working directory",
+        "print working directory - return working directory name",
+        "prints the current working directory",
+        "displays the shell's current working directory",
+        "print absolute path of working directory",
+        "print name of current/working directory"
+    ],
+    "python": [
+        "",
+        "interpreted, interactive, object",
+        "an interpreted, interactive, object-oriented programming language"
+    ],
+    "quota": [
+        "shows disk usage, and space limits for a user or group. without arguments, only shows user quotas.",
+        "display disk usage and limits",
+        "displays the disk usage and its limits",
+        "this command displays the disk usage and its limits"
+    ],
+    "quotacheck": [
+        "used to scan a file system for disk usage.",
+        "scan a file system for disk usage",
+        "lets you scan a file system to find its disk usage",
+        "this commands lets you scan a file system to find its diskusage"
+    ],
+    "quotactl": [
+        "make changes to disk quotas.",
+        "sets disk quotas",
+        "set disk quotas",
+        "manipulate disk quotas"
+    ],
+    "quotaoff": [
+        "enable enforcement of filesystem quotas."
+    ],
+    "quotaon": [
+        "disable enforcement of filesystem quotas."
+    ],
+    "quotastats": [
+        "shows the report of quota system statistics gathered from the kernel."
+    ],
+    "raidstart": [
+        "start/stop raid devices."
+    ],
+    "ram": [
+        "ram disk device used to access the ram disk in raw mode.",
+        "ram disk device"
+    ],
+    "ramsize": [
+        "show usage information for the ram disk."
+    ],
+    "ranlib": [
+        "generate index to the contents of an archive and store it in the archive.",
+        "generate index to archive."
+    ],
+    "rar": [
+        "create and manage rar file in linux.",
+        "archive files with compression"
+    ],
+    "rarpd": [
+        "respond to reverse address resoultion protocol (rarp) requests."
+    ],
+    "rcp": [
+        "remote copy command to copy files between remote computers.",
+        "copy files between two machines",
+        "copies files between two devices.",
+        "copy files between machines",
+        "when using two machines, this command copiesfiles between them",
+        "copy files between two machines.",
+        "copy one or more files to or from remote computer",
+        "secure copy (remote file copy program)"
+    ],
+    "rdate": [
+        "set system date and time by fetching information from a remote machine."
+    ],
+    "rdev": [
+        "set or query ram disk size, image root device, or video mode.",
+        "query/set image root device, swap device, ram disk size, or video mode in kernel"
+    ],
+    "rdist": [
+        "remote file distribution client, maintains identical file copies over multiple hosts."
+    ],
+    "rdistd": [
+        "start the rdist server."
+    ],
+    "read": [
+        "read from a file descriptor.",
+        "read a line from standard input \u2022",
+        "reads a line from standard input",
+        "read a line from standard input",
+        "read one line from standard input",
+        "this commands is used for reading a linefrom standard input",
+        "reads a value from standard input",
+        "reads line from standard input",
+        "read from a file descriptor"
+    ],
+    "readarray": [
+        "read lines from a file into an array variable.",
+        "read from stdin into an array variable \u2022",
+        "reads from stdin into an array variable",
+        "this commands reads from stdininto an array variable"
+    ],
+    "readcd": [
+        "read/write compact disks."
+    ],
+    "readelf": [
+        "shows information about elf (executable and linkable fomrat) files.",
+        "displays information about elf files",
+        "displays information about elf files."
+    ],
+    "readlink": [
+        "display value of a symbolic link or canonical file name.",
+        "displays value of a symbolic link",
+        "print resolved symbolic links or canonical file names"
+    ],
+    "readonly": [
+        "mark functions and variables as read-only.",
+        "mark variables/functions as readonly",
+        "marks the variables and functions as readonly",
+        "mark a variable or function as read-only",
+        "this command marks the variablesand functions as readonly",
+        "declares a variable to be read only"
+    ],
+    "reboot": [
+        "restart the machine.",
+        "reboot the system",
+        "reboots your system",
+        "stop and restart the system",
+        "self explanatory, use thiscommand to reboot your system",
+        "in slackware, reboots the system",
+        "stop the system, poweroff, reboot",
+        "halt, power-off or reboot the machine"
+    ],
+    "reject": [
+        "accept/reject print jobs sent to a specified destination.",
+        "accept/reject jobs sent to a destination"
+    ],
+    "remsync": [
+        "synchronize remote files over email.",
+        "synchronize remote files via email",
+        "synchronises remote files through email",
+        "this command synchronises remote files through email"
+    ],
+    "rename": [
+        "rename one or more files.",
+        "rename files",
+        "renames files",
+        "renames multiple files"
+    ],
+    "renice": [
+        "change priority of active processes.",
+        "alter priority of running processes",
+        "alters the priority of the processes running",
+        "set nice values of running processes",
+        "this command alters the priority of the processes running"
+    ],
+    "repquota": [
+        "report disk usage and quotas for a specified filesystem."
+    ],
+    "reset": [
+        "reinitialize the terminal.",
+        "used to reset the screen characteristics",
+        "terminal initialization"
+    ],
+    "resize2fs": [
+        "used to resize ext2/ext3/ext4 file systems.",
+        "ext2/ext3/ext4 file system resizer"
+    ],
+    "restore": [
+        "restore files from a backup created using dump."
+    ],
+    "return": [
+        "exit a shell function.",
+        "exit a shell function",
+        "exit a function",
+        "thisis used to exit from a shell function",
+        "exits from a function"
+    ],
+    "rev": [
+        "show contents of a file, reversing the order of characters in every line.",
+        "reverse lines of a file",
+        "reverses the lines in a file",
+        "this command reversesthe lines in a file",
+        "reverse lines characterwise"
+    ],
+    "rexec": [
+        "remote execution client for exec server.",
+        "return stream to a remote command"
+    ],
+    "rexecd": [
+        "remote execution server."
+    ],
+    "richtext": [
+        "view &#8220;richtext&#8221; on an acsii terminal."
+    ],
+    "rlogin": [
+        "used to connect a local host system with a remote host.",
+        "log in to remote computer",
+        "openssh ssh client (remote login program)"
+    ],
+    "rlogind": [
+        "acts as the server for rlogin. it facilitates remote login, and authentication based on privileged port numbers from trusted hosts."
+    ],
+    "rm": [
+        "removes specified files and directories (not by default).",
+        "remove files",
+        "removes particular files",
+        "remove directory entries",
+        "removes (deletes) files",
+        "use this to remove particularfiles",
+        "deletes a file",
+        "remove (delete) files",
+        "remove files or directories"
+    ],
+    "rmail": [
+        "handle remote mail received via uucp.",
+        "interpret and handle remote mail received via uucp"
+    ],
+    "rmdir": [
+        "used to remove empty directories.",
+        "remove folder(s)",
+        "remove directories, if they are empty.",
+        "removes empty directories",
+        "same as above, but for directories",
+        "removes the directory with the given name (the directory must be empty)",
+        "remove empty directories",
+        "remove a directory"
+    ],
+    "rmmod": [
+        "a program to remove modules from linux kernel.",
+        "used to remove modular device drivers",
+        "simple program to remove a module from the linux kernel"
+    ],
+    "rndc": [
+        "name server control utility. send command to a bind dns server over a tcp connection."
+    ],
+    "rootflags": [
+        "show/set flags for the kernel image."
+    ],
+    "route": [
+        "show/change ip routing table.",
+        "n",
+        "show / manipulate the ip routing table"
+    ],
+    "routed": [
+        "a daemon, invoked at boot time, to manage internet routing tables."
+    ],
+    "rpcgen": [
+        "an rpc protocol compiler. parse a file written in the rpc language.",
+        "an rpc protocol compiler"
+    ],
+    "rpcinfo": [
+        "shows rpc information. makes an rpc call to an rpc server and reports the findings."
+    ],
+    "rpm": [
+        "a package manager for linux distributions. originally developed for redhat linux.",
+        "remote package manager",
+        "rpm package manager (was redhat package manager)",
+        "invokes the red hat package manager in command line mode",
+        "rpm command options"
+    ],
+    "rsh": [
+        "remote shell. connects to a specified host and executes commands.",
+        "execute shell command on a remote computer",
+        "openssh ssh client (remote login program)"
+    ],
+    "rshd": [
+        "a daemon that acts as a server for rsh and rcp commands."
+    ],
+    "rsync": [
+        "a versitile to for copying files remotely and locally.",
+        "remote file copy (synchronize file trees)",
+        "synchronises file trees",
+        "remote file copy - sync file tree (also rsyncx)",
+        "a fast, versatile, remote (and local) file-copying tool"
+    ],
+    "runlevel": [
+        "shows previous and current sysv runlevel.",
+        "print previous and current sysv runlevel"
+    ],
+    "rup": [
+        "remote status display. shows current system status for all or specified hosts on the local network."
+    ],
+    "ruptime": [
+        "shows uptime and login details of the machines on the local network.",
+        "show host status of local machines"
+    ],
+    "rusers": [
+        "shows the list of the users logged-in to the host or on all machines on the local network.",
+        "list who is logged on local machines"
+    ],
+    "rusersd": [
+        "the rsuerd daemon acts as a server that responds to the queries from rsuers command."
+    ],
+    "rwall": [
+        "sends messages to all users on the local network.",
+        "write to all users over a network"
+    ],
+    "rwho": [
+        "reports who is logged-in to the hosts on the local network.",
+        "show who is logged in on a lan"
+    ],
+    "rwhod": [
+        "acts as a server for rwho and ruptime commands."
+    ],
+    "sane-find-scanner": [
+        "find scsi and usb scanner and determine their device files.",
+        "find scsi and usb scanners and their device files"
+    ],
+    "scanadf": [
+        "retrieve multiple images from a scanner equipped with an automatic document feeder (adf)."
+    ],
+    "scanimage": [
+        "read images from image aquistion devices (scanner or camera) and display on standard output in pnm (portable anymap) format.",
+        "scan an image"
+    ],
+    "scp": [
+        "copy files between hosts on a network securely using ssh.",
+        "secure copy (remote file copy)",
+        "creates a secure copy",
+        "this is used tocreate a secure copy",
+        "secure copy (remote file copy program)"
+    ],
+    "screen": [
+        "a window manager that enables multiple pseudo-terminals with the help of ansi/vt100 terminal emulation.",
+        "multiplex terminal, run remote shells via ssh",
+        "run remote shells using ssh",
+        "use this to run remote shells using ssh",
+        "terminal window manager"
+    ],
+    "script": [
+        "used to make a typescript of everything displayed on the screen during a terminal session.",
+        "make typescript of terminal session"
+    ],
+    "sdiff": [
+        "shows two files side-by-side and highlights the differences.",
+        "merge two files interactively",
+        "merges two files in a secure manner",
+        "this command is used to merge twofiles in a secure manner",
+        "side-by-side merge of file differences"
+    ],
+    "sed": [
+        "stream editor for filtering and transforming text (from a file or a pipe input).",
+        "stream editor",
+        "this is for the streameditor",
+        "edits a file (not interactively)",
+        "stream editor for filtering and transforming text"
+    ],
+    "select": [
+        "synchronous i/o multiplexing.",
+        "accept keyboard input",
+        "accepts keyboard inputs",
+        "generate a list of items",
+        "this is used when you need to accept keyboardinputs",
+        "synchronous i/o multiplexing"
+    ],
+    "sendmail": [
+        "it's a mail router or an mta (mail transfer agent). sendmail support can send a mail to one or more recepients using necessary protocols."
+    ],
+    "sensors": [
+        "shows the current readings of all sensor chips."
+    ],
+    "seq": [
+        "displays an incremental sequence of numbers from first to last.",
+        "print numeric sequences",
+        "prints numeric sequences",
+        "prints a sequence of numbers",
+        "this command is used for printing numericsequences",
+        "outputs a sequence of integers (used with for loops)",
+        "print a sequence of numbers"
+    ],
+    "set": [
+        "used to manipulate shell variables and functions.",
+        "manipulate shell variables and functions",
+        "manipulates shell functions and variables",
+        "set a shell variable = value",
+        "this command lets you manipulate shell functionsand variables",
+        "give values to a variable, or delete a variable",
+        "set or display value of shell variables"
+    ],
+    "setfdprm": [
+        "sets floppy disk parameters as provided by the user."
+    ],
+    "setkeycodes": [
+        "load kernel scancode-to-keycode mapping table entries.",
+        "load kernel scancode-to-keycode mapping table entries"
+    ],
+    "setleds": [
+        "show/change led light settings of the keyboard.",
+        "set the keyboard leds"
+    ],
+    "setmetamode": [
+        "define keyboard meta key handling. without arguments, shows current meta key mode.",
+        "define the keyboard meta key handling"
+    ],
+    "setquota": [
+        "set disk quotas for users and groups."
+    ],
+    "setsid": [
+        "run a program in a new session.",
+        "run a program in a new session"
+    ],
+    "setterm": [
+        "set terminal attributes.",
+        "set terminal attributes for a virtual console",
+        "set terminal attributes"
+    ],
+    "sftp": [
+        "secure file transfer program.",
+        "secure file transfer program",
+        "runs the secure file transfer program",
+        "run the secure file transfer program usingthis",
+        "secure file transfer protocol (ftp)"
+    ],
+    "sh": [
+        "command interpreter (shell) utility.",
+        "shell, the standard command language interpreter",
+        "standard unix shell",
+        "shell (bash)",
+        "command interpreter (shell)"
+    ],
+    "sha1sum": [
+        "compute and check 160-bit sha1 checksum to verify file integrity.",
+        "compute and check sha1 message digest"
+    ],
+    "shift": [
+        "shift positional parameters.",
+        "shift positional parameters",
+        "shifts positional parameters",
+        "this command is used for shifting positionalparameters",
+        "promotes each command"
+    ],
+    "shopt": [
+        "shell options.",
+        "shell options",
+        "set shell options",
+        "shopt stands for shell options"
+    ],
+    "showkey": [
+        "examines codes sent by the keyboard displays them in printable form.",
+        "examine the codes sent by the keyboard"
+    ],
+    "showmount": [
+        "shows information about nfs server mount on the host.",
+        "show information about an nfs server"
+    ],
+    "shred": [
+        "overwrite a file to hide its content (optionally delete it), making it harder to recover it.",
+        "overwrites a file to hide its contents, and optionally deletes it",
+        "safely remove data from disk drive",
+        "overwrite a file to hide its contents, and optionally delete it"
+    ],
+    "shutdown": [
+        "power-off the machine.",
+        "shutdown or restart linux",
+        "shuts down linux or restarts it",
+        "shutdown or restart os x",
+        "use this command when you want to shutdown linux or restartit",
+        "reboot or shut down system as root, after specified amount of time",
+        "halt, power-off or reboot the machine"
+    ],
+    "size": [
+        "lists section size and the total size of a specified file.",
+        "list section sizes and total size."
+    ],
+    "skill": [
+        "send a signal to processes.",
+        "send a signal or report process status"
+    ],
+    "slabtop": [
+        "show kernel slab cache information in real-time.",
+        "display kernel slab cache information in real time"
+    ],
+    "slattach": [
+        "attack a network interface to a serial line.",
+        "attach a network interface to a serial line"
+    ],
+    "sleep": [
+        "suspend execution for a specified amount of time (in seconds).",
+        "delay for a specified time",
+        "adds a delay",
+        "suspend execution for an interval",
+        "delays for a specified amount of time",
+        "add a delay using this command",
+        "pause for a given number of seconds or ms",
+        "creates process that sleeps for specified interval",
+        "delay for a specified amount of time",
+        "sleep for the specified number of seconds"
+    ],
+    "slocate": [
+        "display matches by searching filename databases. takes ownership and file permission into consideration.",
+        "find files",
+        "finds particular files",
+        "this isused to find particular files",
+        "security enhanced version of the gnu locate"
+    ],
+    "snice": [
+        "reset priority for processes.",
+        "send a signal or report process status"
+    ],
+    "sort": [
+        "sort lines of text files.",
+        "sort text files",
+        "sorts text files",
+        "sort, merge, or sequence check text files",
+        "sort lines of text files",
+        "text files are sorted usingthis",
+        "convert an input into a sorted output",
+        "sorts and/or merge files",
+        "sort lines of a text file"
+    ],
+    "source": [
+        "run commands from a specified file.",
+        "run commands from a file '.'",
+        "runs commands from a file",
+        "execute commands from a file",
+        "this command is used for running commands from afile",
+        "executes commands/statements stored in another file",
+        "run commands from a file `.'"
+    ],
+    "split": [
+        "split a file into pieces of fixed size.",
+        "split a file into fixed-size pieces",
+        "breaks a file into fixed sizes",
+        "split files into pieces",
+        "splits a file into pieces",
+        "this command is used to break a file into fixedsizes",
+        "split file into specified number of segments",
+        "split a file into pieces"
+    ],
+    "ss": [
+        "display socket statistics, similar to netstat.",
+        "socket statistics",
+        "another utility to investigate sockets"
+    ],
+    "ssh": [
+        "an ssh client for logging in to a remote machine. it provides encrypted communication between the hosts.",
+        "secure shell client (remote login program)",
+        "runs the remote login program",
+        "this is used to run the remote login program, that is,the secure shell client",
+        "connect to a remote unix server; open a shell on it or send/receive files from it",
+        "secure shell",
+        "secure shell connection command",
+        "openssh ssh client (remote login program)"
+    ],
+    "ssh-add": [
+        "adds private key identities to the authentication agent.",
+        "adds private key identities to the authentication agent"
+    ],
+    "ssh-agent": [
+        "it holds private keys used for public key authentication.",
+        "authentication agent"
+    ],
+    "ssh-keygen": [
+        "it generates, manages, converts authentication keys for ssh.",
+        "authentication key generation, management and conversion"
+    ],
+    "ssh-keyscan": [
+        "gather ssh public keys.",
+        "gather ssh public keys"
+    ],
+    "sshd": [
+        "server for the ssh program.",
+        "openssh ssh daemon"
+    ],
+    "stat": [
+        "display file or filesystem status.",
+        "display file or file system status",
+        "returns data about an inode",
+        "display the status of a file"
+    ],
+    "statd": [
+        "a daemon that listens for reboot notifications from other hosts, and manages the list of hosts to be notified when the local system reboots."
+    ],
+    "strace": [
+        "trace system calls and signals.",
+        "trace system calls and signals",
+        "traces signals and system calls",
+        "this is used to trace signals andsystem calls"
+    ],
+    "strfile": [
+        "create a random access file for storing strings."
+    ],
+    "strings": [
+        "search a specified file and prints any printable strings with at least four characters and followed by an unprintable character.",
+        "find printable strings in files",
+        "print the strings of printable characters in (binary) files.",
+        "print the strings of printable characters in files."
+    ],
+    "strip": [
+        "discard symbols from object files.",
+        "remove unnecessary information from executable files"
+    ],
+    "stty": [
+        "change and print terminal line settings.",
+        "set the options for a terminal",
+        "changes and prints terminal line settings",
+        "sets or displays operating options for terminal",
+        "cooked  formatting the display of text in a terminal",
+        "change and print terminal line settings",
+        "raw  unformatted output to terminal"
+    ],
+    "su": [
+        "change user id or become superuser.",
+        "substitute user identity",
+        "substitutes the user identity",
+        "substitute the user identity using thiscommand",
+        "log in to a shell as the super-user",
+        "log in as another user, including root",
+        "become super user ( root )",
+        "change user id or become superuser"
+    ],
+    "sudo": [
+        "execute a command as superuser.",
+        "execute a command as another user",
+        "executes commands as a different user",
+        "this is used for executing commands as a differentuser",
+        "execute a single command as the super-user",
+        "allows individual users to have root permission to perform specified tasks"
+    ],
+    "sum": [
+        "checksum and count the block in a file.",
+        "print a checksum for a file",
+        "checksums and counts the blocks in a file",
+        "file cheksums are printed using this command",
+        "checksum and count the blocks in a file"
+    ],
+    "suspend": [
+        "suspend the execution of the current shell.",
+        "suspend execution of this shell \u2022",
+        "suspends the execution of the current shell",
+        "suspend execution of this shell",
+        "this command is used to suspend the execution of the currentshell"
+    ],
+    "swapoff": [
+        "disable devices for paging and swapping.",
+        "disables swap disk",
+        "enable/disable devices and files for paging and swapping"
+    ],
+    "swapon": [
+        "enable devices for paging and swapping.",
+        "enables swap disk",
+        "enable/disable devices and files for paging and swapping"
+    ],
+    "symlink": [
+        "create a symbolic link to a file.",
+        "make a new name for a file",
+        "symbolic link handling"
+    ],
+    "sync": [
+        "synchronize cached writes to persistent storage.",
+        "synchronize data on disk with memory",
+        "synchronises data from a disk with the memory",
+        "flushes file system buffers",
+        "writes memory buffers to physical devices",
+        "force changed blocks to disk, update the super block",
+        "synchronize cached writes to persistent storage"
+    ],
+    "sysctl": [
+        "configure kernel parameters at runtime.",
+        "configure kernel parameters at runtime"
+    ],
+    "sysklogd": [
+        "linux system logging utilities. provides syslogd and klogd functionalities."
+    ],
+    "syslogd": [
+        "read and log system messages to the system console and log files."
+    ],
+    "tac": [
+        "concatenate and print files in reverse order. opposite of cat command.",
+        "concatenates and prints files in reverse order line by line",
+        "print files out in reverse line order",
+        "print file in reverse",
+        "concatenate and print files in reverse"
+    ],
+    "tail": [
+        "show the last 10 lines of each specified file(s).",
+        "output the last part of file",
+        "outputs only the last part of a file",
+        "copy the last part of a file",
+        "outputs the last part of files",
+        "output the last part of files",
+        "use this command when you want to output only the last part of afile",
+        "output the ending of a file",
+        "displays the last part of a file",
+        "print the last 10 lines of a file standard output"
+    ],
+    "tailf": [
+        "follow the growth of a log file. (deprecated command)",
+        "follow the growth of a log file"
+    ],
+    "talk": [
+        "a two-way screen-oriented communication utility that allows two user to exchange messages simulateneously.",
+        "talk to another user",
+        "visual communication program that copies lines from one terminal to that of another user"
+    ],
+    "talkd": [
+        "."
+    ],
+    "tar": [
+        "gnu version of the tar archiving utility. used to store and extract multiple files from a single archive.",
+        "store, list or extract files in an archive",
+        "stores a list or extracts files in an archive",
+        "tape archiver",
+        "this command is used in order to store a list orextract files in an archive",
+        "unix archiving/de-archiving program",
+        "create an archive",
+        "the gnu version of the tar archiving utility"
+    ],
+    "taskset": [
+        "set/retrieve a process's cpu affinity.",
+        "set or retrieve a process's cpu affinity"
+    ],
+    "tcpd": [
+        "access control utility for internet services.",
+        "access control facility for internet services"
+    ],
+    "tcpdump": [
+        "dump traffic on network. displays a description of the contents of packets on a network interface that match the boolean expression.",
+        "dump traffic on a network"
+    ],
+    "tcpslice": [
+        "extract pieces of tcpdump files or merge them."
+    ],
+    "tee": [
+        "read from standard input and write to standard output and files.",
+        "redirect output to multiple files",
+        "redirects output into multiple files",
+        "duplicate the standard output",
+        "sends output to multiple files",
+        "this command is used forredirecting output into multiple files",
+        "copy standard input to standard output and one or more files",
+        "copy standard input to each file, and also to standard output",
+        "read from standard input and write to standard output and files"
+    ],
+    "telinit": [
+        "change sysv runlevel.",
+        "used to change run level",
+        "change sysv runlevel"
+    ],
+    "telnet": [
+        "telnet protocol user interface. used to interact with another host using telnet.",
+        "remote login over network (to login to serverx, use the command telnet serverx)",
+        "user interface to the telnet protocol"
+    ],
+    "telnetd": [
+        "a server for the telnet protocol."
+    ],
+    "test": [
+        "check file type and compare values.",
+        "evaluate a conditional expression",
+        "evaluates conditional expressions",
+        "evaluate expression",
+        "evaluates an expression",
+        "condition evaluation",
+        "this command is usedfor evaluating conditional expressions",
+        "evaluates an expression or compares arguments",
+        "check file types and compare values"
+    ],
+    "tftp": [
+        "user interface to the internet tftp (trivial file transfer protocol).",
+        "user interface to tftp protocol"
+    ],
+    "tftpd": [
+        "tftp server."
+    ],
+    "time": [
+        "run programs and summarize system resource usage.",
+        "measure program running time",
+        "measures the running time of a program",
+        "time a simple command",
+        "measure program resource use",
+        "the running time ofa program can be measured using this command",
+        "measure how long a program takes to run",
+        "displays times for the current shell and its children",
+        "run the specified program command with the given arguments",
+        "time functions for gawk"
+    ],
+    "timeout": [
+        "execute a command with a time limit.",
+        "run a command with a time limit",
+        "puts a time limit on a command",
+        "thiscommand is used to put a time limit on a command"
+    ],
+    "times": [
+        "shows accumulated user and system times for the shell and it's child processes.",
+        "user and system times",
+        "finds the user and system times",
+        "print shell & shell process times",
+        "use thisto find the user and system times",
+        "get process times"
+    ],
+    "tload": [
+        "shows a graph of the current system load average to the specified tty.",
+        "display system load average in graph format",
+        "graphic representation of system load average"
+    ],
+    "tmpwatch": [
+        "recursively remove files and directories which haven't been accessed for the specified period of time."
+    ],
+    "top": [
+        "displays real-time view of processes running on the system.",
+        "list processes running on the system",
+        "display process information",
+        "this is used to get a list of theprocesses that are running on the system",
+        "see what processes are using the most cpu/memory, and show system memory/cpu stats",
+        "dynamically displays process status",
+        "display linux processes"
+    ],
+    "touch": [
+        "change file access and modification times.",
+        "change file timestamps",
+        "changes timestamps on a file",
+        "change file access and modification times",
+        "changes file timestamps",
+        "timestamps on a file canbe changed using this",
+        "update the last-modified time of a file (or create an empty file)",
+        "update access and modification times of a file"
+    ],
+    "tput": [
+        "modify terminal-dependent capabilities, color, etc.",
+        "set terminal-dependent capabilities, color, position",
+        "change terminal characteristics",
+        "initialize a terminal or query terminfo database"
+    ],
+    "tr": [
+        "translate, squeeze, or delete characters from standard input and display on standard output.",
+        "translate, squeeze, and/or delete characters",
+        "deletes characters, translates or squeezes them",
+        "translate characters",
+        "translates or deletes characters",
+        "delete characters, translateor squeeze them",
+        "translation utility that can be used, for example, to replace specified characters in a text file",
+        "translate or delete characters"
+    ],
+    "tracepath": [
+        "traces path to a network host discovering mtu (maximum transmission unit) along this path.",
+        "trace path to a network host discovering mtu along this path",
+        "traces path to a network host discovering mtu along this path"
+    ],
+    "traceroute": [
+        "traces the route taken by the packets to reach the network host.",
+        "trace route to host",
+        "trace route to a host",
+        "use thiscommand to trace route to a host",
+        "print the route packets take to network host"
+    ],
+    "trap": [
+        "trap function responds to hardware signals. it defines and creates handlers to run when the shell receives signals.",
+        "run a command when a signal is set(bourne)",
+        "execute a command when the shell receives a signal",
+        "traps a signal"
+    ],
+    "troff": [
+        "the troff processor of the groff text formatting system.",
+        "the troff processor of the groff text formatting system"
+    ],
+    "true": [
+        "exit with a status code indicating success.",
+        "do nothing, successfully",
+        "return true value",
+        "does nothing, but exits successfully",
+        "null command that returns a successful exit status",
+        "exit with a status code indicating success"
+    ],
+    "tset": [
+        "initialize terminal.",
+        "initializes terminal",
+        "terminal initialization"
+    ],
+    "tsort": [
+        "perform topological sort.",
+        "topological sort",
+        "topological sorting",
+        "performs a topological sort",
+        "this is used for topological sorting",
+        "perform topological sort"
+    ],
+    "tty": [
+        "display the filename of the terminal connected to standard input.",
+        "print filename of terminal on stdin",
+        "return user's terminal name",
+        "prints terminal name",
+        "shows special file that represents your terminal",
+        "print name of terminal connected to standard output",
+        "controlling terminal"
+    ],
+    "tune2fs": [
+        "adjust tunable filesystem parameters on ext2/ext3/ext4 filesystems.",
+        "adjust tunable filesystem parameters on ext2/ext3/ext4 filesystems"
+    ],
+    "tunelp": [
+        "set various parameters for the line printer devices.",
+        "set various parameters for the lp device"
+    ],
+    "type": [
+        "write a description for a command type.",
+        "describe a command \u2022",
+        "displays how a name would be interpreted if used as a command",
+        "describe a command",
+        "displays how each argument would be interpreted as a command"
+    ],
+    "ul": [
+        "underline text.",
+        "translate underscores to underlining",
+        "do underlining"
+    ],
+    "ulimit": [
+        "get and set user limits for the calling process.",
+        "limit user resources \u2022",
+        "limits the user resources",
+        "set or report file size limit",
+        "limit the use of system-wide resources",
+        "this commands limits the user resources",
+        "limit user resources"
+    ],
+    "umask": [
+        "set file mode creation mask.",
+        "users file creation mask",
+        "determines the file permission for a new file",
+        "get or set the file mode creation mask",
+        "this is used todetermine the file permission for a new file",
+        "change the default permissions given to newly created files",
+        "establishes the file",
+        "file creation mask / bash builtins",
+        "set file mode creation mask"
+    ],
+    "umount": [
+        "unmount specified file systems.",
+        "unmount a device",
+        "unmounts a device from the system",
+        "this commandwill unmount a device from the system",
+        "unmount a filesystem",
+        "detache file system(s) mentioned from file hierarchy",
+        "unmount file systems"
+    ],
+    "unalias": [
+        "remove alias definitions for specified alias names.",
+        "remove an alias \u2022",
+        "removes an alias",
+        "remove alias definitions",
+        "remove an alias",
+        "this command willremove an alias",
+        "remove name previously defined by alias"
+    ],
+    "uname": [
+        "show system information.",
+        "print system information",
+        "prints the system information",
+        "return system name",
+        "prints system information",
+        "this command will print the systeminformation",
+        "print information about the system",
+        "displays information about the system",
+        "print system information ( kernel version )"
+    ],
+    "uncompress": [
+        "uncompress the files compressed with the compress command.",
+        "expand compressed data",
+        "compress or expand files"
+    ],
+    "unexpand": [
+        "convert spaces to tabs for a specified file.",
+        "convert spaces to tabs",
+        "converts the spaces in a file to tabs",
+        "converts spaces to tabs",
+        "this command will convert the spaces in afile to tabs"
+    ],
+    "unicode_start": [
+        "put keyboard and console in unicode mode.",
+        "put keyboard and console into unicode (utf-8) mode",
+        "put keyboard and console in unicode mode"
+    ],
+    "unicode_stop": [
+        "revert keyboard and console from unicode mode.",
+        "undo the effect of unicode_start",
+        "revert keyboard and console from unicode mode"
+    ],
+    "uniq": [
+        "report or omit repeating lines.",
+        "uniquify files",
+        "uniquify your files",
+        "report or filter out repeated lines in a file",
+        "removes duplicate lines from a sorted file",
+        "this command will uniquify your files",
+        "strip duplicate lines",
+        "uniquify files (remove all duplicate lines)",
+        "displays lines of a file that are unique",
+        "remove duplicate lines from sorted file",
+        "report or omit repeated lines"
+    ],
+    "units": [
+        "convert units from one scalar to another.",
+        "convert units from one scale to another",
+        "converts the units from one scale to another",
+        "this will convert the units from one scale to another",
+        "decimal and binary prefixes"
+    ],
+    "unrar": [
+        "extract files from a rar archive.",
+        "extract files from a rar archive"
+    ],
+    "unset": [
+        "remove variable or function names.",
+        "remove variable or function names",
+        "removes the variable names or the function names",
+        "thiscommand removes the variable names or the function names",
+        "removes a variable or function",
+        "gid  group id change",
+        "uid  user id change"
+    ],
+    "unshar": [
+        "unpack shell archive scripts.",
+        "unpack shell archive scripts",
+        "unpacks the shell archive scripts",
+        "this command unpacks the shell archive scripts"
+    ],
+    "until": [
+        "execute command until a given condition is true.",
+        "execute commands (until error)",
+        "executes a command until there is an error",
+        "loop command",
+        "thiscommand will execute a command until there is an error"
+    ],
+    "uptime": [
+        "tell how long the system has been running.",
+        "show uptime",
+        "shows the uptime",
+        "tells how long the system has been running",
+        "show how long system has been running",
+        "this command will show the uptime",
+        "shows the time, how long the system has been up, the number of users, and average load"
+    ],
+    "useradd": [
+        "create a new user or update default user information.",
+        "create new user account",
+        "use this command whenyou need a new user account to be created",
+        "same as adduser",
+        "add new user",
+        "create a new user or update default new user information"
+    ],
+    "userdel": [
+        "delete a user account and related files.",
+        "delete a user account",
+        "this commandwill delete an user account from your system",
+        "remove an account (as root)",
+        "delete a user account and related files"
+    ],
+    "usermod": [
+        "modify a user account.",
+        "modify user account",
+        "modifies a user account",
+        "selfexplanatory, modify an user account",
+        "modify a user account"
+    ],
+    "users": [
+        "show the list of active users on the machine.",
+        "list users currently logged in",
+        "gives you a list of users who are currently logged in",
+        "prints the user names of users currently logged into the current host",
+        "print login names of users currently logged in",
+        "this command gives youa list of users who are currently logged in",
+        "prints list of users on the system",
+        "output who is currently logged in according to system records",
+        "print the user names of users currently logged in to the current host"
+    ],
+    "usleep": [
+        "suspend execution for microsecond intervals.",
+        "sleep a given number of microseconds. default is 1",
+        "suspend execution for microsecond intervals"
+    ],
+    "uudecode": [
+        "decode a binary file.",
+        "decode a file created by uuencode",
+        "decode a binary file"
+    ],
+    "uuencode": [
+        "encode a binary file.",
+        "encode a binary file",
+        "encodes binary files",
+        "encode a binary file into 7-bit ascii characters"
+    ],
+    "uuidgen": [
+        "created a new uuid (universally unique identifier) table.",
+        "generate a unique id (uuid/guid)",
+        "create a new uuid value"
+    ],
+    "vdir": [
+        ". verbosely list directory contents.",
+        "verbosely list directory contents (`ls -l -b')",
+        "is exactly like \"ls -l -b\". (files are by default listed in long format.)",
+        "same asabove",
+        "variant of the gnu version of the ls command",
+        "list directory contents"
+    ],
+    "vi": [
+        "a text editor utility.",
+        "text editor",
+        "screen-oriented (visual) display editor",
+        "this is a text editor",
+        "another complicated text editor (not recommended)",
+        "standard screen oriented unix editor",
+        "start the vi editor",
+        "vi improved, a programmers text editor"
+    ],
+    "vidmode": [
+        "set the video mode for a kernel image. displays current mode value without arguments. alternative: rdev -v"
+    ],
+    "vim": [
+        "vi improved, a text-based editor which is a successor to vi.",
+        "improved vi editor",
+        "vi improved, a programmer's text editor"
+    ],
+    "vmstat": [
+        "shows information about processes, memory, paging, block io, traps, disks, and cpu activity.",
+        "report virtual memory statistics",
+        "reports on the virtual memory statistics"
+    ],
+    "volname": [
+        "returns volume name for a device formatted with an iso-9660 filesystem. for example, cd-rom.",
+        "return volume name"
+    ],
+    "w": [
+        "show who is logged-on and what they're doing.",
+        "see who is logged in to this computer",
+        "display info about userids and active processes",
+        "show who is logged on and what they are doing",
+        "show who is logged on and what they are doing."
+    ],
+    "wait": [
+        "waits for a specified process id(s) to terminate and returns the termination status.",
+        "wait for a process to complete \u2022",
+        "directs the system to wait for a process to finish",
+        "await process completion",
+        "wait for a process to complete",
+        "this command directs the system to wait for a process tofinish",
+        "waits for a background process to terminate",
+        "basic process management"
+    ],
+    "wall": [
+        "display a message on the terminals all the users who are currently logged-in.",
+        "broadcasts a message to all other users logged in to this computer",
+        "write a message to all users"
+    ],
+    "warnquota": [
+        "send mail to the users who've exceeded their disk quota soft limit."
+    ],
+    "watch": [
+        "runs commands repeatedly until interrupted and shows their output and errors.",
+        "execute/display a program periodically",
+        "displays or executes a program periodically",
+        "this command will display or execute a programperiodically",
+        "execute a program periodically, showing output fullscreen"
+    ],
+    "wc": [
+        "print newline, word, and byte count for each of the specified files.",
+        "print byte, word, and line counts",
+        "prints the word, byte and line counts",
+        "line, word and byte or character count",
+        "prints the number of bytes, words, and lines in files",
+        "this command prints the word, byte and linecounts",
+        "output a count of the number of characters, lines, words, etc. in a file",
+        "print byte, word, and line counts of a file",
+        "displays number of lines, characters and words in a file",
+        "word count of a file",
+        "print newline, word, and byte counts for each file"
+    ],
+    "wget": [
+        "a non-interactive file download utility.",
+        "retrieve web pages or files via http, https or ftp",
+        "retrieves the web pages or files through http, https or ftp",
+        "this will retrieve theweb pages or files through http, https or ftp",
+        "download from a url and save it to a file on the local hard drive",
+        "non-interactive download of files from the web",
+        "the non-interactive network downloader."
+    ],
+    "whatis": [
+        "display one line manual page descriptions.",
+        "search the whatis database for complete words",
+        "list manual pages by name",
+        "display one",
+        "search the whatis database for complete words (command names)",
+        "display one-line manual page descriptions"
+    ],
+    "whereis": [
+        "locate the binary, source, and man page files for a command.",
+        "search the user's $path, man pages and source files for a program",
+        "this command will search a user's $path, sourcefiles and man pages",
+        "report all known instances of a command",
+        "use to find utilities in standard locations",
+        "locate a command or file",
+        "locate the binary, source, and manual page files for a command"
+    ],
+    "which": [
+        "for a given command, lists the pathnames for the files which would be executed when the command runs.",
+        "search the user's $path for a program file",
+        "locate a program file in the user's path",
+        "this command searches only for auser's $path for a program",
+        "shows the complete path of a command or file",
+        "locate a program file in the user's path.",
+        "used to find utilities in search path",
+        "find command path",
+        "locate a command"
+    ],
+    "while": [
+        "conditionally execute commands (while loop).",
+        "execute commands",
+        "executes commands",
+        "loop command",
+        "use this to executecommands"
+    ],
+    "who": [
+        "shows who is logged on.",
+        "print all usernames currently logged in",
+        "prints the usernames that are currently logged into the system",
+        "display who is on the system",
+        "prints a list of all users currently logged in",
+        "print all usernames currently logged on",
+        "this command will print the usernames that arecurrently logged into the system",
+        "display information about currently logged in userids",
+        "show who is logged on"
+    ],
+    "whoami": [
+        "displays the username tied to the current effective user id.",
+        "print the current user id and name (`id -un')",
+        "prints the current name and user id",
+        "prints the effective userid",
+        "this is a command thatprints the current name and user id",
+        "outputs your user name",
+        "display information about userid that is currently logged in",
+        "print effective userid"
+    ],
+    "whois": [
+        "looks for an object in a whois database",
+        "client for the whois service"
+    ],
+    "write": [
+        "display a message on other user's terminal.",
+        "send a message to another user",
+        "sends messages to other users",
+        "sends a message to another user logged in to this computer",
+        "send messages to another local user"
+    ],
+    "xargs": [
+        "runs a command using initial arguments and then reads remaining arguments from standard input.",
+        "execute utility, passing constructed argument list(s)",
+        "executes a utility and passes a constructed argument list",
+        "execute utility - passing arguments",
+        "this command execute's a utility and passes a constructed argumentlist",
+        "launch a command over each of a set of lines of input (often used with find)",
+        "converts standard output of one command into arguments for another",
+        "build and execute command lines from standard input"
+    ],
+    "xdg-open": [
+        "used to open a file or url in an application preferred by the user.",
+        "open a file or url in the user's preferred application.",
+        "opens a url or a file in the user's preferred application",
+        "opens a file or url in the user's preferred application"
+    ],
+    "xinetd": [
+        "extended internet services daemon. works similar to inetd."
+    ],
+    "xz": [
+        "compress/ decompress .xz and .lzma files.",
+        "compress or decompress .xz and .lzma files"
+    ],
+    "yacc": [
+        "yet another compiler compiler, a gnu project parser generator.",
+        "parser generator"
+    ],
+    "yes": [
+        "repeatedly output a line with a specified string(s) until killed.",
+        "print a string until interrupted",
+        "prints a string until it is interrupted",
+        "prints a string repeatedly",
+        "output \"y\" (or another string) over and over",
+        "output a string repeatedly until killed"
+    ],
+    "ypbind": [
+        "a daemon that helps client processes to connect to an nis server."
+    ],
+    "ypcat": [
+        "shows the nis map (or database) for the specified mapname parameter."
+    ],
+    "ypinit": [
+        "sets up nis maps on an nis server."
+    ],
+    "ypmatch": [
+        "shows values for specified keys from an nis map."
+    ],
+    "yppasswd": [
+        "change nis login password."
+    ],
+    "yppasswdd": [
+        "acts as a server for the yppasswd command. receives and executes requests."
+    ],
+    "yppoll": [
+        "shows the id number or version of nis map currently used on the nis server."
+    ],
+    "yppush": [
+        "forces slave nis servers to copy updated nis maps."
+    ],
+    "ypserv": [
+        "a daemon activated at system startup. it looks for information in local nis maps."
+    ],
+    "ypset": [
+        "point a client (running ypbind) to a specifc server (running ypserv)."
+    ],
+    "yptest": [
+        "calls various functions to check the configuration of nis services."
+    ],
+    "ypwhich": [
+        "shows the hostname for nis server or master server for a given map."
+    ],
+    "ypxfr": [
+        "transfers nis server map from server to a local host."
+    ],
+    "zcat": [
+        "used to compress/uncompress files. similar to gzip",
+        "show contents of compressed file(s)",
+        "read one or more files that have been compressed with gzip or compress and write to standard output",
+        "compress or expand files"
+    ],
+    "zcmp": [
+        "compare compressed files.",
+        "read compressed files and pass them to cmp",
+        "compare compressed files"
+    ],
+    "zdiff": [
+        "compare compressed files line by line.",
+        "read compressed files and pass them to diff",
+        "compare compressed files"
+    ],
+    "zdump": [
+        "displays time for the timezone mentioned.",
+        "timezone dumper"
+    ],
+    "zforce": [
+        "adds .gz extension to all gzipped files.",
+        "force a '.gz' extension on all gzip files"
+    ],
+    "zgrep": [
+        "performs grep on compressed files.",
+        "read compressed files and pass them to grep",
+        "search possibly compressed files for a regular expression"
+    ],
+    "zic": [
+        "creates time conversion information files using the specified input files.",
+        "timezone compiler"
+    ],
+    "zip": [
+        "a file compression and packaging utility.",
+        "package and compress (archive) files.",
+        "create a .zip archive or extract its contents",
+        "compress and archive file(s) to zip format",
+        "zip utility compatible with dos pkzip",
+        "compression and file packaging utility",
+        "package and compress (archive) files"
+    ],
+    "zless": [
+        "displays information of a compressed file (using less command) on the terminal one screen at a time.",
+        "view zipped files",
+        "file perusal filter for crt viewing of compressed text"
+    ],
+    "zmore": [
+        "displays output of a compressed file (using more command) on the terminal one page at a time.",
+        "file perusal filter for crt viewing of compressed text"
+    ],
+    "znew": [
+        "recompress .z files to .gz. files.",
+        "recompress .z files to .gz files"
+    ],
+    "v": [
+        "verbosely list directory contents (`ls -l -b')",
+        "lists the contents of a directory",
+        "this command lists the contents of a directory"
+    ],
+    ".": [
+        "run a command script in the current shell"
+    ],
+    "!!": [
+        "run the last command again"
+    ],
+    "###": [
+        "comment / remark"
+    ],
+    "asa": [
+        "interpret carriage-control characters"
+    ],
+    "cc/c99": [
+        "compile standard c programs"
+    ],
+    "cflow": [
+        "generate a c-language call graph"
+    ],
+    "cxref": [
+        "generate a c-language program cross-reference table"
+    ],
+    "delta": [
+        "make a delta (change) to an sccs file"
+    ],
+    "fc": [
+        "process the command history list",
+        "fix command (history)",
+        "views, edits, and executes commands for the history list"
+    ],
+    "fort77": [
+        "fortran compiler"
+    ],
+    "gencat": [
+        "generate a formatted message catalog",
+        "generate message catalog"
+    ],
+    "get": [
+        "get a version of an sccs file"
+    ],
+    "getconf": [
+        "get configuration values",
+        "query system configuration variables"
+    ],
+    "lex": [
+        "generate programs for lexical tasks"
+    ],
+    "localedef": [
+        "define locale environment",
+        "compile locale definition files"
+    ],
+    "lp": [
+        "send files to a printer",
+        "line printer devices"
+    ],
+    "mailx": [
+        "process messages"
+    ],
+    "pax": [
+        "portable archive interchange",
+        "archive file(s)"
+    ],
+    "prs": [
+        "print an sccs file"
+    ],
+    "qalter": [
+        "alter batch job",
+        "alter pbs batch job"
+    ],
+    "qdel": [
+        "delete batch jobs",
+        "delete pbs batch job"
+    ],
+    "qhold": [
+        "hold batch jobs",
+        "hold pbs batch jobs"
+    ],
+    "qmove": [
+        "move batch jobs",
+        "move pbs batch job"
+    ],
+    "qmsg": [
+        "send message to batch jobs",
+        "send message to pbs batch jobs"
+    ],
+    "qrerun": [
+        "rerun batch jobs",
+        "rerun a pbs batch job"
+    ],
+    "qrls": [
+        "release batch jobs",
+        "release hold on pbs batch jobs"
+    ],
+    "qselect": [
+        "select batch jobs",
+        "select pbs batch jobs"
+    ],
+    "qsig": [
+        "signal batch jobs",
+        "signal pbs batch job"
+    ],
+    "qstat": [
+        "show status of batch jobs",
+        "show status of pbs batch jobs"
+    ],
+    "qsub": [
+        "submit a script",
+        "submit pbs job"
+    ],
+    "rmdel": [
+        "remove a delta from an sccs file"
+    ],
+    "sact": [
+        "print current sccs file-editing activity"
+    ],
+    "sccs": [
+        "front end for the sccs subsystem"
+    ],
+    "tabs": [
+        "set terminal tabs",
+        "set tabs on a terminal"
+    ],
+    "unget": [
+        "undo a previous get of an sccs file"
+    ],
+    "unlink": [
+        "call the unlink function",
+        "removes the specified file using the unlink function",
+        "call the unlink function to remove the specified file"
+    ],
+    "uucp": [
+        "system-to-system copy",
+        "unix to unix copy"
+    ],
+    "uustat": [
+        "uucp status inquiry and job control"
+    ],
+    "uux": [
+        "remote command execution"
+    ],
+    "val": [
+        "validate sccs files"
+    ],
+    "what": [
+        "identify sccs files"
+    ],
+    "chcon": [
+        "changes file security context (selinux)",
+        "change file security context"
+    ],
+    "realpath": [
+        "returns the resolved absolute or relative path for a file",
+        "return the canonicalized absolute pathname"
+    ],
+    "truncate": [
+        "shrink or extend the size of a file to the specified size"
+    ],
+    "b2sum": [
+        "computes and checks blake2 message digest"
+    ],
+    "base32": [
+        "base32 encodes or decodes data and prints to standard output",
+        "base32 encode/decode data and print to standard output"
+    ],
+    "base64": [
+        "base64 encodes or decodes data and prints to standard output",
+        "base64 encode/decode data and print to standard output"
+    ],
+    "numfmt": [
+        "reformat numbers",
+        "convert numbers from/to human-readable strings"
+    ],
+    "shuf": [
+        "generate random permutations"
+    ],
+    "nproc": [
+        "queries the number of (active) processors",
+        "print the number of processing units available"
+    ],
+    "runcon": [
+        "run command with specified security context"
+    ],
+    "stdbuf": [
+        "controls buffering for commands that use stdio",
+        "run command, with modified buffering operations for its standard streams."
+    ],
+    "alloc": [
+        "list used and free memory"
+    ],
+    "asr": [
+        "apple software restore"
+    ],
+    "bless": [
+        "set volume bootability and startup disk options"
+    ],
+    "calendar": [
+        "reminder service"
+    ],
+    "caller": [
+        "return the context of a subroutine call"
+    ],
+    "chflags": [
+        "change a file or folder's flags"
+    ],
+    "complete": [
+        "edit a command completion [word/pattern/list]"
+    ],
+    "defaults": [
+        "set preferences, show hidden files"
+    ],
+    "diskutil": [
+        "disk utilities - format, verify, repair"
+    ],
+    "disown": [
+        "unbind a job from the current login session"
+    ],
+    "ditto": [
+        "copy files and folders"
+    ],
+    "dot_clean": [
+        "remove dot-underscore files"
+    ],
+    "drutil": [
+        "interact with cd/dvd burners"
+    ],
+    "dscacheutil": [
+        "query or flush the directory service/dns cache"
+    ],
+    "dseditgroup": [
+        "edit, create, manipulate, or delete groups"
+    ],
+    "dsenableroot": [
+        "enable root access"
+    ],
+    "dsmemberutil": [
+        "view user and groups rights"
+    ],
+    "dscl": [
+        "directory service command line utility"
+    ],
+    "fsaclctl": [
+        "filesystem enable/disable acl support"
+    ],
+    "fs_usage": [
+        "filesystem usage (process/pathname)"
+    ],
+    "getfileinfo": [
+        "get attributes of hfs+ files"
+    ],
+    "getopt": [
+        "parse positional parameters",
+        "parse command-line options"
+    ],
+    "goto": [
+        "jump to label and continue execution"
+    ],
+    "hdiutil": [
+        "manipulate iso disk images"
+    ],
+    "ipconfig": [
+        "view and control ip configuration state"
+    ],
+    "kextfind": [
+        "list kernel extensions"
+    ],
+    "kickstart": [
+        "configure apple remote desktop"
+    ],
+    "l": [
+        "list files in long format (ls -l)"
+    ],
+    "launchctl": [
+        "load or unload daemons/agents"
+    ],
+    "ll": [
+        "list files in long format, showing invisible files (ls -la)",
+        "#ls -l list information about file(s)"
+    ],
+    "lipo": [
+        "convert a universal binary"
+    ],
+    "lsregister": [
+        "reset the launch services database"
+    ],
+    "lsbom": [
+        "list a bill of materials file"
+    ],
+    "mdfind": [
+        "spotlight search"
+    ],
+    "mdutil": [
+        "manage spotlight metadata store"
+    ],
+    "nano": [
+        "simple text editor",
+        "an enhanced free pico clone",
+        "nano's another editor, an enhanced free pico clone"
+    ],
+    "net": [
+        "manage network resources"
+    ],
+    "networksetup": [
+        "network and system preferences"
+    ],
+    "ntfs.util": [
+        "ntfs file system utility"
+    ],
+    "onintr": [
+        "control the action of a shell interrupt"
+    ],
+    "opensnoop": [
+        "snoop file opens as they occur"
+    ],
+    "osacompile": [
+        "compile applescript"
+    ],
+    "osascript": [
+        "execute applescript"
+    ],
+    "pbcopy": [
+        "copy data to the clipboard"
+    ],
+    "pbpaste": [
+        "paste data from the clipboard"
+    ],
+    "pkgutil": [
+        "query and manipulate installed packages"
+    ],
+    "plutil": [
+        "property list utility"
+    ],
+    "pmset": [
+        "power management settings"
+    ],
+    "say": [
+        "convert text to audible speech"
+    ],
+    "screencapture": [
+        "capture screen image to file or disk"
+    ],
+    "scutil": [
+        "manage system configuration parameters"
+    ],
+    "security": [
+        "administer keychains, keys, certificates and the security framework",
+        "unimplemented system calls"
+    ],
+    "setfile": [
+        "set attributes of hfs+ files"
+    ],
+    "shasum": [
+        "print or check sha checksums"
+    ],
+    "sips": [
+        "scriptable image processing system"
+    ],
+    "softwareupdate": [
+        "system software update tool"
+    ],
+    "stop": [
+        "stop a job or process",
+        "init daemon control tool"
+    ],
+    "sw_vers": [
+        "print mac os x operating system version"
+    ],
+    "system_profiler": [
+        "report system configuration"
+    ],
+    "systemsetup": [
+        "computer and display system settings"
+    ],
+    "textutil": [
+        "manipulate text files in various formats (doc,html,rtf)"
+    ],
+    "tmutil": [
+        "time machine utility"
+    ],
+    "ufs.util": [
+        "mount/unmount ufs file system"
+    ],
+    "where": [
+        "report all known instances of a command"
+    ],
+    "bzip": [
+        "improved compression/decompression programs"
+    ],
+    "pine": [
+        "text-only email programs",
+        "email program used by the university of washington"
+    ],
+    "pico": [
+        "crappy but simple text editors (recommended)",
+        "simple screen oriented text editor",
+        "text editor that comes with pine (from the university of washington)",
+        "nano's another editor, an enhanced free pico clone"
+    ],
+    "xeyes": [
+        "googley eyes that follow your mouse cursor",
+        "a follow the mouse x demo"
+    ],
+    "bunzip2": [
+        "decompress file from bzip2 format",
+        "used to uncompress files compressed with bzip2",
+        "unzip .bz2 files",
+        "a block-sorting file compressor, v1.0.6"
+    ],
+    "convmv": [
+        "a perl script that converts filenames from one encoding to another"
+    ],
+    "fstat": [
+        "list open files",
+        "get file status"
+    ],
+    "gzcat": [
+        "show contents of compressed file(s)"
+    ],
+    "makewhatis": [
+        "rebuild whatis database"
+    ],
+    "netconfig": [
+        "configure your network"
+    ],
+    "timidity": [
+        "play midi files and set up software synth to play midi files with other commands."
+    ],
+    ".period": [
+        "run commands from a file"
+    ],
+    "a2p": [
+        "translation utility from awk to perl"
+    ],
+    "a2ps": [
+        "translation utility from ``any'' to postscript"
+    ],
+    "ac": [
+        "print statistics concerning user connect time"
+    ],
+    "acroread": [
+        "adobe utility for viewing pdf files"
+    ],
+    "adduser": [
+        "used by root to add user to system",
+        "add a user or group to the system"
+    ],
+    "afio": [
+        "utility to copy or restore files to an archive file"
+    ],
+    "ali": [
+        "list mail aliases"
+    ],
+    "alien": [
+        "utility to convert to and from different linux package formats"
+    ],
+    "apsfilter": [
+        "printer filter called by lpd to deal with printing different types of files"
+    ],
+    "asapm": [
+        "afterstep laptop advanced power management utility"
+    ],
+    "ash": [
+        "a shell, a very simple shell program sometimes used on boot diskettes since it takes up much less space than bash, tcsh, zsh, etc",
+        "ash command interpreter (shell)"
+    ],
+    "asload": [
+        "afterstep cpu load monitor"
+    ],
+    "asmail": [
+        "afterstep mail checking utility"
+    ],
+    "asmodem": [
+        "afterstep utility to monitor modem status"
+    ],
+    "aspostit": [
+        "x window postit note utility"
+    ],
+    "bh": [
+        "puts a job in the background"
+    ],
+    "bru": [
+        "a powerful backup utility program"
+    ],
+    "bsh": [
+        "equivalent to ash",
+        "command interpreter (shell)"
+    ],
+    "byacc": [
+        "parser generator"
+    ],
+    "c++": [
+        "invokes gnu c and c++ compiler",
+        "gnu project c and c++ compiler"
+    ],
+    "cdplay": [
+        "command line utility for playing audio cds"
+    ],
+    "chat": [
+        "used to interact with a modem via a chat script",
+        "automated conversational script with a modem"
+    ],
+    "ci": [
+        "creates or records changes in an rcs file"
+    ],
+    "co": [
+        "retrieves an unencoded version of an rcs file"
+    ],
+    "configure": [
+        "automatically configures software source code"
+    ],
+    "color": [
+        "xterm"
+    ],
+    "control": [
+        "panel"
+    ],
+    "cpkgtool": [
+        "slackware tool to install, uninstall and query packages"
+    ],
+    "csh": [
+        "run c shell",
+        "c shell"
+    ],
+    "dip": [
+        "used to set up a slip or ppp connection"
+    ],
+    "diplogin": [
+        "used for setting up incoming dip connections"
+    ],
+    "display": [
+        "set display for output of programs under x window",
+        "displays an image or image sequence on any x server."
+    ],
+    "dos": [
+        "invoke the dosemu dos emulator"
+    ],
+    "dvilj": [
+        "send a dvi file to a laserjet printer",
+        "convert a tex dvi file to pcl, for hp laserjet printers"
+    ],
+    "dvilj2p": [
+        "specialized version of dvilj for the iip series of printers",
+        "convert a tex dvi file to pcl, for hp laserjet printers"
+    ],
+    "dvips": [
+        "send a dvi file to a postscript printer, to a postscript capable laserjet printer, or to a file (with the",
+        "convert a tex dvi file to postscript"
+    ],
+    "editres": [
+        "a dynamic resource editor for x toolkit applications"
+    ],
+    "efax": [
+        "fax program"
+    ],
+    "efix": [
+        "convert between fax, text, bit"
+    ],
+    "elm": [
+        "an interactive mail system"
+    ],
+    "elvis": [
+        "a version of the vi text editor"
+    ],
+    "execve": [
+        "a variation of the exec command",
+        "execute program"
+    ],
+    "f2c": [
+        "fortran to c translator"
+    ],
+    "f77": [
+        "fortran 77 compiler"
+    ],
+    "fax": [
+        "simple user interface to efax and efix programs"
+    ],
+    "fortune": [
+        "available in the bsdgames package in slackware and other distributions"
+    ],
+    "fromdos": [
+        "takes a dos text file from stdin and sends a unix file to stdout"
+    ],
+    "g77": [
+        "gnu fortran 77 compiler"
+    ],
+    "getipts": [
+        "parses arguments to a shell script"
+    ],
+    "ghostscript": [
+        "set of printing utilities",
+        "ghostscript (postscript and pdf language interpreter and previewer)"
+    ],
+    "ghostview": [
+        "aladdin ghostscript interpreter/previewer"
+    ],
+    "gimp": [
+        "image manipulation and paint program"
+    ],
+    "glint": [
+        "red hat graphical front end for the rpm package installer and manager"
+    ],
+    "grub": [
+        "gnu grand unified bootloader"
+    ],
+    "gv": [
+        "postscript and pdf previewer, based on ghostview"
+    ],
+    "gvim": [
+        "see vi"
+    ],
+    "hylafax": [
+        "commercial fax program"
+    ],
+    "installpkg": [
+        "slackware command to install one of the packages from the program sets"
+    ],
+    "intr": [
+        "interrupt key, usually [ctrl"
+    ],
+    "jed": [
+        "programmer's file editor"
+    ],
+    "joe": [
+        "simple wordstar"
+    ],
+    "jove": [
+        "joseph's own version of emacs"
+    ],
+    "kernelcfg": [
+        "gui to add/remove kernel modules (as root in x terminal)"
+    ],
+    "kerneld": [
+        "kernel daemon, a process that stays in memory and does all sorts of useful stuff, like automatic loading of device driver modules"
+    ],
+    "kikbd": [
+        "a utility program that comes with kde that allows users to switch on the fly among different international keyboards"
+    ],
+    "latex": [
+        "compile a latex file",
+        "structured text formatting and typesetting"
+    ],
+    "leave": [
+        "display reminder at specified time"
+    ],
+    "lilo": [
+        "installs boot loader on the boot sector of a hard drive, of a diskette, or in another location"
+    ],
+    "/sbin/lilo": [
+        "c /etc/lilo"
+    ],
+    "the": [
+        "c option to lilo has lilo use the lilo"
+    ],
+    "linuxconf": [
+        "interactive tool for configuring linux system"
+    ],
+    "lock": [
+        "temporarily lock terminal",
+        "unimplemented system calls"
+    ],
+    "": [
+        "log in to system"
+    ],
+    "lspnp": [
+        "utility to display information about pnp devices"
+    ],
+    "magicfilter": [
+        "general purpose printer filter"
+    ],
+    "makebootdisk": [
+        "command in slackware to do just what the name says"
+    ],
+    "makedev": [
+        "executable script to make device files on /dev",
+        "manage a device number"
+    ],
+    "makeswap": [
+        "configures swap space"
+    ],
+    "mc": [
+        "midnight commander file manager and visual shell"
+    ],
+    "minicom": [
+        "terminal program"
+    ],
+    "mouseconfig": [
+        "mouse configuration utility under red hat"
+    ],
+    "mpage": [
+        "print multiple pages per sheet on a postscript printer"
+    ],
+    "mdel": [
+        "deletes dos files",
+        "delete an msdos file"
+    ],
+    "netconf": [
+        "used (as root) to set up network"
+    ],
+    "ntsysv": [
+        "run level editor under red hat"
+    ],
+    "nxterm": [
+        "color xterm program"
+    ],
+    "pdflatex": [
+        "part of the pdftex program suite",
+        "pdf output from tex"
+    ],
+    "pdftex": [
+        "produces pdf output from a tex file",
+        "pdf output from tex"
+    ],
+    "pg": [
+        "display data one screenful at a time",
+        "browse pagewise through text files"
+    ],
+    "pkgtool": [
+        "slackware tool to install, uninstall and query packages"
+    ],
+    "popclient": [
+        "retrieve mail via the post office protocol"
+    ],
+    "printtool": [
+        "run (as root) in an x terminal to configure your printer(s)"
+    ],
+    "pstree": [
+        "display processes in the form of a tree structure",
+        "display a tree of processes"
+    ],
+    "pwchk": [
+        "checks the integrity of password and shadow files"
+    ],
+    "pwunconv": [
+        "unconverts passwords from the shadow password format",
+        "convert to and from shadow passwords and groups"
+    ],
+    "rcs": [
+        "creates or changes the attributes of an rcs file"
+    ],
+    "rlog": [
+        "prints a summary of the history of an rcs file"
+    ],
+    "rpm2tgz": [
+        "an extremely useful utility on slackware systems that converts rpm packages to tgz format"
+    ],
+    "rstat": [
+        "summarize host's status: uptime, load averages, and current time"
+    ],
+    "rxvt": [
+        "a terminal program similar to xterm, but which has less features and uses less memory"
+    ],
+    "setenv": [
+        "set or display value of environment variables",
+        "change or add an environment variable"
+    ],
+    "setserial": [
+        "used by root to configure a serial port",
+        "get / set linux serial port info"
+    ],
+    "setuid": [
+        "set the id of a program when it is run",
+        "set user id",
+        "set user identity"
+    ],
+    "setup": [
+        "slackware program to set up program sets and configure system",
+        "setup devices and filesystems, mount root filesystem"
+    ],
+    "sliplogin": [
+        "attaches a slip interface to standard input"
+    ],
+    "startx": [
+        "front end to xinit in linux",
+        "initialize an x session"
+    ],
+    "symlinks": [
+        "provide list of and information about symbolic links"
+    ],
+    "systat": [
+        "query host for system information"
+    ],
+    "tcl": [
+        "scripting language"
+    ],
+    "tcsh": [
+        "extended version of the c shell",
+        "enhanced completely compatible version of the berkeley unix c shell, csh"
+    ],
+    "tin": [
+        "netnews reader"
+    ],
+    "tkdesk": [
+        "graphical desktop file manager for x"
+    ],
+    "tksysv": [
+        "graphical runlevel editor under red hat"
+    ],
+    "typeset": [
+        "declares attributes for a variaable (same as declare)"
+    ],
+    "unzip": [
+        "uncompress files compressed with the zip utility, compatible with dos pkzip",
+        "unzip .zip files",
+        "list, test and extract compressed files in a zip archive"
+    ],
+    "updatedb": [
+        "update file database used by locate command",
+        "update the slocate database",
+        "update a database for mlocate"
+    ],
+    "view": [
+        "vi in read",
+        "start vim in read-only mode",
+        "vi improved, a programmers text editor"
+    ],
+    "vrfy": [
+        "query remote host to verify the accuracy of an email address"
+    ],
+    "wharf": [
+        "the afterstep application dock module"
+    ],
+    "wish": [
+        "front end to tk, an x window extension of tcl",
+        "simple windowing shell"
+    ],
+    "workbone": [
+        "console based cd player"
+    ],
+    "workman": [
+        "graphical cd player program"
+    ],
+    "x": [
+        "the x server",
+        "a portable, network-transparent window system"
+    ],
+    "xadm": [
+        "display advanced power management bios information"
+    ],
+    "xbiff": [
+        "graphical mail delivery notification utility",
+        "mailbox flag for x"
+    ],
+    "xcalc": [
+        "simple calculator program",
+        "scientific calculator for x"
+    ],
+    "xclipboard": [
+        "name says it all",
+        "x clipboard client"
+    ],
+    "xconfigurator": [
+        "red hat utility for configuring settings for x"
+    ],
+    "xdm": [
+        "used to start an x login session"
+    ],
+    "xdvi": [
+        "view a dvi file compiled under latex",
+        "dvi previewer for the x window system"
+    ],
+    "xedit": [
+        "a simple text editor for x",
+        "simple text editor for x"
+    ],
+    "xf86config": [
+        "graphical configuration tool for x"
+    ],
+    "xf86setup": [
+        "graphical configuration tool for x"
+    ],
+    "xfd": [
+        "display an available font in x",
+        "display all the characters in an x font"
+    ],
+    "xfig": [
+        "utility for interactive generation of figures"
+    ],
+    "xfm": [
+        "graphical file manager for x"
+    ],
+    "xhost": [
+        "tell x server that remote computer has access to your machine and that you will use the remote computer",
+        "server access control program for x"
+    ],
+    "netscape": [
+        "display localhostname:0"
+    ],
+    "xinit": [
+        "start x window",
+        "start xserver",
+        "x window system initializer"
+    ],
+    "xload": [
+        "displays a graphic of the system load",
+        "system load average display for x"
+    ],
+    "xlpq": [
+        "graphical interface to print manager"
+    ],
+    "xlsfonts": [
+        "list fonts available under the x window system",
+        "server font list displayer for x"
+    ],
+    "xman": [
+        "browsable command reference",
+        "manual page display program for the x window system"
+    ],
+    "xmh": [
+        "graphical front end under x to the nmh mail handling system"
+    ],
+    "xmodmap": [
+        "utility for modifying keymaps and pointer button mappings in x"
+    ],
+    "xosview": [
+        "displays bar graphs of system load, load average, memory usage, and swap usage"
+    ],
+    "xpaint": [
+        "simple paint program for x"
+    ],
+    "xpdf": [
+        "gpl'd utility for previewing dvi files",
+        "portable document format (pdf) file viewer for x windows"
+    ],
+    "xplaycd": [
+        "x window audio cd player utility"
+    ],
+    "xsetroot": [
+        "utility to configure root window of an x terminal",
+        "root window parameter setting utility for x"
+    ],
+    "xsysinfo": [
+        "graphical display of load and memory usage"
+    ],
+    "xterm": [
+        "start an x window terminal session",
+        "terminal emulator for x"
+    ],
+    "xv": [
+        "utility for viewing and manipulating many types of image files"
+    ],
+    "xvidtune": [
+        "utility for fine tuning of monitor settings under x",
+        "video mode tuner for xorg"
+    ],
+    "xwd": [
+        "screen capture command",
+        "dump an image of an x window"
+    ],
+    "xwud": [
+        "view images captured with xwd",
+        "image displayer for x"
+    ],
+    "ytalk": [
+        "multi"
+    ],
+    "zharf": [
+        "afterstep button panel module"
+    ],
+    "cjpeg": [
+        "compress an image file to a jpeg file"
+    ],
+    "djpeg": [
+        "decompress a jpeg file to an image file"
+    ],
+    "dos2unix": [
+        "converts plain text files in dos/mac format to unix format"
+    ],
+    "elinks": [
+        "a text mode www browser (supports frames)"
+    ],
+    "fixps": [
+        "try to fix common postscript problems that break postprocessing"
+    ],
+    "gtar": [
+        "see the tar command"
+    ],
+    "histsize": [
+        "change history size"
+    ],
+    "httpd": [
+        "start apache"
+    ],
+    "identify": [
+        "describes the format and characteristics of image files.",
+        "describes the format and characteristics of one or more image files."
+    ],
+    "igawk": [
+        "gawk with include files"
+    ],
+    "ipcalc": [
+        "calculate ip information for a host"
+    ],
+    "links": [
+        "see elinks"
+    ],
+    "lynx": [
+        "command to start the lynx browser"
+    ],
+    "mac2unix": [
+        "converts plain text files in dos/mac format to unix format"
+    ],
+    "manweb": [
+        "manweb is part of the netpbm package"
+    ],
+    "(note": [
+        "that nc is also called the client interface"
+    ],
+    "to": [
+        "the nedit program but it is not the"
+    ],
+    "ncftp": [
+        "browser program for the file transfer protocol"
+    ],
+    "nedit-nc": [
+        "nedit-nc is the client interface to the nedit text editor"
+    ],
+    "nisdomainname": [
+        "show or set system's nis/yp domain name",
+        "show or set the system's nis/yp domain name"
+    ],
+    "pdf2dsc": [
+        "generate a postscript page list of a pdf document"
+    ],
+    "pdf2ps": [
+        "convert pdf file \"input.pdf\" to postscript(tm) in \"output.ps\"",
+        "ghostscript pdf to postscript translator"
+    ],
+    "pdfinfo": [
+        "print contents of the 'info' dictionary (plus some other useful information) from a pdf file",
+        "portable document format (pdf) document information extractor (version 3.03)"
+    ],
+    "pdftotext": [
+        "convert pdf files to plain text",
+        "portable document format (pdf) to text converter (version 3.03)"
+    ],
+    "pgawk": [
+        "the profiling version of gawk"
+    ],
+    "ping6": [
+        "ping",
+        "send icmp echo_request to network hosts"
+    ],
+    "ps2ascii": [
+        "ghostscript translator from postscript or pdf to ascii"
+    ],
+    "ps2epsi": [
+        "generate conforming encapsulated postscript"
+    ],
+    "ps2frag": [
+        "obsolete shell script for the psfrag system",
+        "obsolete shell script for the psfrag system."
+    ],
+    "ps2pdf12": [
+        "convert postscript to pdf 1.2 (acrobat 3 and later compatible) using ghostscript",
+        "convert postscript to pdf 1.2 (acrobat 3-and-later compatible) using ghostscript"
+    ],
+    "ps2pdf13": [
+        "convert postscript to pdf 1.3 (acrobat 4 and later compatible) using ghostscript",
+        "convert postscript to pdf 1.3 (acrobat 4-and-later compatible) using ghostscript"
+    ],
+    "ps2pdf14": [
+        "use ps2pdfwr: convert postscript to pdf without specifying compatibility level, using ghostscript",
+        "convert postscript to pdf 1.4 (acrobat 5-and-later compatible) using ghostscript"
+    ],
+    "ps2pdf": [
+        "convert postscript to pdf using ghostscript"
+    ],
+    "ps2pdfwr": [
+        "convert postscript to pdf without specifying compatibility level, using ghostscript",
+        "convert postscript to pdf without specifying compatibilitylevel, using ghostscript"
+    ],
+    "ps2pk": [
+        "creates a tex pkfont from a type1 postscript font"
+    ],
+    "ps2ps": [
+        "ps2ps uses gs to convert postscript(tm) file \"input.ps\" to simpler and (usually) faster postscript in \"output.ps\"",
+        "ghostscript postscript \"distiller\""
+    ],
+    "psbook": [
+        "rearranges pages from a postscript document into \"signatures\" for printing books or booklets",
+        "rearrange pages in postscript file into signatures"
+    ],
+    "resize": [
+        "xterm window size",
+        "set environment and terminal settings to current xterm window size"
+    ],
+    "red": [
+        "red is a restricted ed: it can only edit files in the current directory and cannot execute shell commands",
+        "random early detection"
+    ],
+    "rundig": [
+        "sample script to create a search database for ht://dig"
+    ],
+    "rview": [
+        "the gui version of vim in easy mode with restrictions",
+        "vi improved, a programmer's text editor"
+    ],
+    "rvi": [
+        "vi / vim editor"
+    ],
+    "setfont": [
+        "load ega/vga console screen font"
+    ],
+    "setgid": [
+        "set group id",
+        "set group identity"
+    ],
+    "sfdisk": [
+        "modified fdisk program",
+        "display or manipulate a disk partition table"
+    ],
+    "switchdesk": [
+        "graphical and text mode interface for choosing desktop environment"
+    ],
+    "tracepath6": [
+        "see tracepath",
+        "traces path to a network host discovering mtu along this path"
+    ],
+    "traceroute6": [
+        "see traceroute",
+        "traces path to a network host"
+    ],
+    "tree": [
+        "display file tree"
+    ],
+    "untar": [
+        "unarchive ( untar ) a file"
+    ],
+    "xrandr": [
+        "change resolution running xwindows ( command line )",
+        "x resize, rotate and reflection extension."
+    ],
+    "ypdomainname": [
+        "show or set the system's nis/yp domain name"
+    ],
+    "zipinfo": [
+        "list detailed information about a zip archive"
+    ]
+}

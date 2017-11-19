@@ -1,3 +1,5 @@
+import json
+from subprocess import PIPE, Popen
 from bs4 import BeautifulSoup
 import numpy as np
 import fileinput
@@ -325,7 +327,64 @@ def data17():
             
     return data_list
 
+def dict_add(dic, key, string):
+    if key not in dic:
+        dic[key] = [string]
+    elif key in dic:
+        if string not in dic[key]:
+            dic[key].append(string)
 
+
+
+def cal_set(total_data):
+    
+    com2des_dict = {}
+    comms_list = []
+    for line in total_data:
+        line = line.lower()
+        spl = line.split('@')
+        comms_list.append(spl[0])
+        dict_add(com2des_dict, spl[0], spl[1]) 
+    comms_set = set(comms_list)
+     
+    print('Commands:', comms_set)
+    print('The length of the set:', len(list(comms_set)) )
+
+
+    return com2des_dict
+def cmdline(command):
+    process = Popen(
+        args=command,
+        stdout=PIPE,
+        shell=True
+    )
+    return process.communicate()[0]
+
+def asc2char(asc):
+    return ''.join(map(chr, out_sys))
+
+def save_json(json_fn, dic):
+    with open(json_fn, 'w') as outfile:
+        json.dump(dic, outfile, indent=4)
+
+def get_whatis(in_list):
+    # fn = 'data1.txt'
+
+    data_list = []
+    # for k, line in enumerate(fileinput.input(fn)):
+    for k, line in enumerate(in_list):
+        spl = line.split('@')
+        out_sys = cmdline('whatis -l ' + spl[0])
+        strout = ''.join(map(chr, out_sys))
+        print('sys message:', strout)
+        splso = strout.split(' ')
+        spldash = strout.split(' - ')
+        if spl[0] == splso[0]:
+            data_list.append(spl[0] + '@' + spldash[-1].strip())
+      
+    print('The length of the get_whatis:', len(data_list))
+    read_and_write('data_whatis.txt', data_list)
+    return data_list
 if __name__ == '__main__':
     
     total_data = []
@@ -339,5 +398,7 @@ if __name__ == '__main__':
     total_data.extend(data15())
     total_data.extend(data16())
     total_data.extend(data17())
-    read_and_write('com2des.txt', total_data)
-
+    total_data.extend(get_whatis(total_data))
+    read_and_write('com2des_TJ.txt', total_data)
+    c2d_dict = cal_set(total_data)
+    save_json('com2des_TJ.json', c2d_dict)
