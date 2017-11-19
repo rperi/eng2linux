@@ -1,0 +1,52 @@
+compgen@linux-command-to-list-all-available-commands-and-aliases
+watch -n 5 ls -l@repeat-command-automatically-in-linux
+wc@how-to-count-lines-in-a-document
+&&@execute-combine-multiple-linux-commands-in-one-line
+date +%s@linux-command-to-get-time-in-milliseconds
+argv@php-passing-get-in-linux-command-prompt
+which node@uninstall-node-js-using-linux-command-line
+xdg-open@linux-equivalent-of-the-mac-os-x-open-command
+date@how-to-get-the-current-date-and-time-in-the-terminal-and-set-a-custom-command-in
+sort@linux-command-or-script-counting-duplicated-lines-in-a-text-file
+awk@omitting-the-first-line-from-any-linux-command-output
+~/.profile@how-to-permanently-set-path-on-linux-unix
+jnettop@linux-command-for-check-upstream-and-downstream
+exec@linux-commands-in-ruby
+exec@linux-commands-in-ruby
+File1.txt
+File2.cfg@sed-command-with-i-option-failing-on-mac-but-works-on-linux
+system("command")@run-linux-command-in-ruby
+'@linux-command-symbol
+$script@internal-working-of-linux-command
+ls@run-linux-command-from-symfony-command
+free@linux-command-for-percentage-of-memory-that-is-free
+find@how-to-linux-command-find-many-types
+groups@is-there-a-command-to-list-all-unix-group-names
+echo@generating-a-sha256-from-the-linux-command-line
+setsid@linux-command-setsid
+cut@what-linux-shell-command-returns-a-part-of-a-string
+find@removing-files-and-folders-using-linux-command
+xxd(1)@transform-a-hex-info-to-binary-using-linux-command
+wc@linux-command-wc-output-format
+dmesg@who-killed-my-process-and-why
+a x r@linux-command-outputs-terminated-processes
+dir & echo foo@how-do-i-run-two-commands-in-one-line-in-windows-cmd
+less@linux-command-to-check-zip-file-hierarchy
+shell=True@linux-command-for-perl-in-python
+coreutils@where-can-i-find-source-code-for-linux-core-commands
+php.exe@running-the-following-linux-command-on-windows
+system()@call-linux-command-from-c-program
+mkvirtualenv@what-is-mkvirtualenv-command-mean-is-it-a-linux-command-or-python-command
+ps@running-a-linux-command-from-python
+man bash@aspect-execution-time-on-the-every-linux-command-executed
+-B@how-to-get-df-linux-command-output-always-in-gb
+mkvirtualenv@what-is-mkvirtualenv-command-mean-is-it-a-linux-command-or-python-command
+host -v@linux-command-for-a-raw-dns-response
+/lib@how-to-execute-linux-command-in-a-chroot-jail
+mv@linux-command-or-php-function
+2>&1@linux-command-within-javascript-or-php
+cd@java-executing-linux-commands
+awk@running-linux-commands-in-windows-command-prompt
+system()@running-linux-commands-from-r
+strtok@user-input-to-linux-command-in-c
+cd@including-linux-command-in-c-program
