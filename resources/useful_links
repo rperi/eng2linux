@@ -1,4 +1,7 @@
 1) This code converts natural language queries into regex expressions
 https://github.com/nicholaslocascio/deep-regex
 
-2)
+2) Used for evaluating paraphrase accuracy. Check evaluation metrics
+https://github.com/julianser/hed-dlg-truncated/tree/master/Evaluation
+
+3) 
