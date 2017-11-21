@@ -4,4 +4,7 @@ https://github.com/nicholaslocascio/deep-regex
 2) Used for evaluating paraphrase accuracy. Check evaluation metrics
 https://github.com/julianser/hed-dlg-truncated/tree/master/Evaluation
 
-3) 
+3) Apparently well-known code for BLEU score computation
+https://github.com/jhclark/multeval
+
+4)
