@@ -9,3 +9,6 @@ https://github.com/jhclark/multeval
 
 4) Paraphrase tool
 https://github.com/orenmel/word2parvec
+
+5) synonym generator using nltk and wordnet (currently used)
+http://www.nltk.org/howto/wordnet.html
