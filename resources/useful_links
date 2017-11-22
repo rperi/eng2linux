@@ -7,4 +7,5 @@ https://github.com/julianser/hed-dlg-truncated/tree/master/Evaluation
 3) Apparently well-known code for BLEU score computation
 https://github.com/jhclark/multeval
 
-4)
+4) Paraphrase tool
+https://github.com/orenmel/word2parvec
