@@ -47,13 +47,9 @@ def data3():
     fn = 'data3.html'
     data_list = []
     for k, line in enumerate(fileinput.input(fn)):
-        # print(line)
         data_buff = []
-        # print('len line', len(line)) 
         if len(line) > 2:
-            # print('spl_line:', line)
             buff_list = line.strip().split(' ')
-            # print('buff_list:', buff_list)
             outstring = buff_list[0] + '@'+ ' '.join(buff_list[1:]).strip()
             data_list.append(outstring)
     read_and_write('data3.txt', data_list)
@@ -89,7 +85,6 @@ def data10():
     flag_st = 0
     flag_end = 0
     
-    # print(data_list) 
     out_list = []
     sub_list = []
     count = 0
@@ -117,7 +112,6 @@ def data10():
             
             buff = data_list[k].strip()
             sub_list.append(buff)
-            # print('sub_list:', sub_list)
     
     out_list2 = []
     for k, val in enumerate(out_list):
@@ -145,7 +139,6 @@ def data11():
     flag_st = 0
     flag_end = 0
     
-    print(data_list) 
     out_list = []
     sub_list = []
     count = 0
@@ -223,7 +216,6 @@ def data14():
             val = val.strip()
             data_list.append(val)
             
-
     read_and_write('data14.txt', data_list)
     return data_list
 
@@ -259,7 +251,7 @@ def data16():
     flag_st = 0
     flag_end = 0
     
-    print(data_list) 
+    # print(data_list) 
     out_list = []
     sub_list = []
     count = 0
@@ -285,7 +277,6 @@ def data16():
 
         if flag_st ==1 and data_list[k] != cn:
             sub_list.append(data_list[k])
-            # print('sub_list:', sub_list)
     
     out_list2 = []
     for k, val in enumerate(out_list):
@@ -344,7 +335,7 @@ def cal_set(total_data):
         line = line.lower()
         spl = line.split('@')
         comms_list.append(spl[0])
-        dict_add(com2des_dict, spl[0], spl[1]) 
+        dict_add(com2des_dict, spl[0], spl[1].strip('.')) 
     comms_set = set(comms_list)
      
     print('Commands:', comms_set)
@@ -380,7 +371,7 @@ def get_whatis(in_list):
         splso = strout.split(' ')
         spldash = strout.split(' - ')
         if spl[0] == splso[0]:
-            data_list.append(spl[0] + '@' + spldash[-1].strip())
+            data_list.append(spl[0] + '@' + spldash[-1].strip().strip('.'))
       
     print('The length of the get_whatis:', len(data_list))
     read_and_write('data_whatis.txt', data_list)
@@ -399,6 +390,13 @@ if __name__ == '__main__':
     total_data.extend(data16())
     total_data.extend(data17())
     total_data.extend(get_whatis(total_data))
-    read_and_write('com2des_TJ.txt', total_data)
+    read_and_write('../data/com2des_TJ.txt', total_data)
     c2d_dict = cal_set(total_data)
-    save_json('com2des_TJ.json', c2d_dict)
+    save_json('../data/com2des_TJ.json', c2d_dict)
+
+    count_c2d_dict = {}
+    count_list  = [] 
+    for k, val in c2d_dict.items():
+        count_c2d_dict['k'] = len(val)
+        count_list.append(len(val))
+

@@ -1,0 +1,1506 @@
+<!DOCTYPE html>
+<html id="XenForo" lang="en-US" dir="LTR" class="Public NoJs LoggedOut Sidebar Responsive" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<base href="https://www.howtoforge.com" />
+<script>
+
+			var _b = document.getElementsByTagName('base')[0], _bH = "https://www.howtoforge.com/linux-commands/";
+
+			if (_b && _b.href != _bH) _b.href = _bH;
+
+		</script>
+<title>Linux Commands - Overview and Examples</title>
+<meta name="keywords" content="linux,shell" />
+<meta name="description" content="The command line is one of the most powerful features of Linux. There exists a sea of Linux command line tools, allowing you to do almost everything y... " />
+<meta name="og:title" content="Linux Commands - Overview and Examples">
+<meta name="og:description" content="The command line is one of the most powerful features of Linux. There exists a sea of Linux command line tools, allowing you to do almost everything y... ">
+<meta name="og:site_name" content="Howtoforge">
+<meta name="og:type" content="article">
+<meta property="og:image" content="https://www.howtoforge.com/images/teaser/linux.gif">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="howtoforgecom">
+<meta name="twitter:creator" content="howtoforgecom">
+<meta name="twitter:title" content="Linux Commands - Overview and Examples">
+<meta name="twitter:description" content="The command line is one of the most powerful features of Linux. There exists a sea of Linux command line tools, allowing you to do almost everything y... ">
+<link rel="alternate" href="https://www.howtoforge.com/linux-commands/" hreflang="en" />
+<link rel="canonical" href="https://www.howtoforge.com/linux-commands/" />
+<link rel="amphtml" href="https://www.howtoforge.com/linux-commands/amp/" />
+<noscript><style>.JsOnly, .jsOnly { display: none !important; }</style></noscript>
+<link rel="stylesheet" href="/community/styles/executive/xenfocus/icons/css/font-awesome.min.css" />
+<link href='//fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css' />
+
+<link rel="stylesheet" href="/community/css.php?css=xenforo,form,public&amp;style=3&amp;dir=LTR&amp;d=1420029973" />
+<link rel="stylesheet" href="/community/css.php?css=bb_code,bbm_buttons,facebook,google,login_bar,node_category,node_forum,node_list,profile_post_list_simple,sidebar_share_page,twitter,wf_default&amp;style=3&amp;dir=LTR&amp;d=1420029973" />
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script>if (!window.jQuery) { document.write('<scr'+'ipt type="text/javascript" src="/js/jquery/jquery-1.11.3.min.js"><\/scr'+'ipt>'); }</script>
+<script src="/community/js/xenforo/xenforo.js?_v=303ae0ca"></script>
+<script src="/community/js/bbm/zloader.js?_v=303ae0ca"></script>
+<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<script type="text/javascript" src="/js/fancybox/jquery.mousewheel-3.0.4.pack.js"></script>
+<script type="text/javascript" src="/js/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/fancybox/jquery.fancybox-1.3.4.css" media="screen" />
+<link href="/themes/howtoforge/templates/style.css" rel="stylesheet">
+<link rel="alternate" type="application/rss+xml" title="RSS-Feed für Howtoforge" href="/feed.rss" />
+<script src="/js/tinymce_4.1.7/tinymce.min.js"></script>
+<script type='text/javascript' src='https://partner.googleadservices.com/gampad/google_service.js'>
+
+</script>
+<script type='text/javascript'>
+
+GS_googleAddAdSenseService("ca-pub-3043223216276099");
+
+GS_googleEnableAllServices();
+
+</script>
+<script language="JavaScript">
+
+GA_googleAddAttr("Category", "Linux");
+
+GA_googleAddAttr("Category", "Shell");
+
+</script>
+<script type='text/javascript'>
+
+GA_googleAddSlot("ca-pub-3043223216276099", "howtoforge_com_article_leaderboard_a_728x90");
+
+GA_googleAddSlot("ca-pub-3043223216276099", "howtoforge_com_article_rectangle_a_300x250");
+
+GA_googleAddSlot("ca-pub-3043223216276099", "howtoforge_com_article_rectangle_b_300x250");
+
+GA_googleAddSlot("ca-pub-3043223216276099", "howtoforge_com_article_halfpage_a_300x600");
+
+GA_googleAddSlot("ca-pub-3043223216276099", "howtoforge_com_article_leaderboard_b_728x90");
+
+GA_googleAddSlot("ca-pub-3043223216276099", "howtoforge_com_article_halfpage_b_300x600");
+
+GA_googleAddSlot("ca-pub-3043223216276099", "howtoforge_com_textlink_a_600x50");
+
+GA_googleAddSlot("ca-pub-3043223216276099", "howtoforge_com_textlink_b_600x50");
+
+GA_googleAddSlot("ca-pub-3043223216276099", "howtoforge_com_textlink_c_600x50");
+
+GA_googleAddSlot("ca-pub-3043223216276099", "howtoforge_com_textlink_d_600x50");
+
+GA_googleAddSlot("ca-pub-3043223216276099", "howtoforge_com_list_sidebar_top");
+
+GA_googleAddSlot("ca-pub-3043223216276099", "howtoforge_com_list_content_middle");
+
+GA_googleAddSlot("ca-pub-3043223216276099", "howtoforge_com_list_bottom");
+
+</script>
+<script type='text/javascript'>
+
+GA_googleFetchAds();
+
+</script>
+
+<script type="text/javascript">
+
+    window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website","dismiss":"Got it!","learnMore":"More info","link":"https://www.howtoforge.com/community/help/cookies","theme":"dark-bottom"};
+
+</script>
+<script type="text/javascript" src="/js/cookieconsent.latest.min.js"></script>
+
+</head>
+<body>
+<div id="loginBar">
+<div class="pageWidth">
+<div class="pageContent">
+<h3 id="loginBarHandle">
+<label for="LoginControl"><a href="/community/login/" class="concealed noOutline">Log in or Sign up</a></label>
+</h3>
+<span class="helper"></span>
+</div>
+</div>
+</div>
+<header>
+<div id="header">
+<div id="logoBlock">
+<div class="pageWidth">
+<div class="pageContent">
+<div id="logo"><a href="/">
+<span></span>
+<img src="/images/howtoforge_logo_trans.gif" alt="Howtoforge" style="margin-left:20px;" />
+</a></div>
+<span class="helper"></span>
+<div class="langSwitch">
+<b><img src="/images/gb.png" alt="HowtoForge - Linux Tutorials in English" /> English</b> | <a href="https://www.howtoforge.de/" title="HowtoForge.de - Linux Tutorials auf Deutsch"><img src="/images/de.png" alt="HowtoForge.de - Linux Tutorials auf Deutsch" /> Deutsch</a>
+</div>
+</div>
+</div>
+</div>
+<div id="navigation" class="pageWidth withSearch">
+<div class="pageContent">
+<nav>
+<div class="navTabs">
+<ul class="publicTabs">
+
+<li class="navTab forums selected">
+<a href="/" class="navLink">Tutorials</a>
+<div class="tabLinks forumsTabLinks">
+<ul class="secondaryContent blockLinksList">
+<li><a href="/search/">Tutorial search</a></li>
+</ul>
+</div>
+</li>
+<li class="navTab forums PopupClosed">
+<a href="/tutorials/" class="navLink">Tags</a>
+</li>
+<li class="navTab forums PopupClosed"><a href="/community/" class="navLink">Forums</a></li>
+<li class="navTab forums PopupClosed"><a href="/linux-commands/" class="navLink">Linux Commands</a></li>
+<li class="navTab forums PopupClosed"><a href="/subscription/" class="navLink">Subscribe</a></li>
+<li class="navTab forums PopupClosed"><a href="http://www.ispconfig.org" class="navLink">ISPConfig</a></li>
+<li class="navTab forums PopupClosed"><a href="http://www.lxer.com" class="navLink">News</a></li>
+</ul>
+</div>
+<span class="helper"></span>
+</nav>
+</div>
+</div>
+<div id="searchBar" class="pageWidth">
+<span id="QuickSearchPlaceholder" title=" Search..."> Search</span>
+<fieldset id="QuickSearch">
+<form action="/" method="post" class="formPopup">
+<div class="primaryControls">
+
+<input type="search" name="q" value="" class="textCtrl" placeholder="Search..." results="0" title="Enter your search and hit enter..." id="QuickSearchQuery" />
+
+</div>
+<input type="hidden" name="_xfToken" value="" />
+</form>
+</fieldset>
+</div>
+</div>
+</header>
+<div id="content" class="forum_list">
+<div class="pageWidth">
+<div class="pageContent">
+
+<div class="mainContainer">
+<div class="mainContent">
+
+<div class="breadBoxTop">
+<nav>
+<fieldset class="breadcrumb">
+<span class="crumbs">
+<span class="crust homeCrumb" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
+<a href="/" class="crumb" rel="up" itemprop="url"><span itemprop="title">Tutorials</span></a>
+<span class="arrow"><span></span></span>
+</span>
+<span class="crust selectedTabCrumb" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
+<a href="/linux-commands/" class="crumb" rel="up" itemprop="url"><span itemprop="title">Linux Commands - Overview and Examples</span></a>
+<span class="arrow"><span>&gt;</span></span>
+</span>
+</span>
+</fieldset>
+</nav>
+</div>
+
+<div id="htfContentPage">
+<div class="bsa-apiads"><a href="//srv.buysellads.com/ads/click/x/GTND42QJC67DTK3ECKB4YKQMC6YI42QICEYI4Z3JCWYI4K3NFTYDT5QKC6BI4KQLCVSDTK3EHJNCLSIZ" target="_blank" rel="nofollow">Compare yourself to over 1,000 DevOps peers to see how they manage their processes.</a></div>
+<h1>Linux Commands - Overview and Examples</h1>
+<div class="contributeEdit" style="float:right; width:450px; max-width:100%;">
+
+<div id="tocContainer">
+<h3>On this page</h3>
+<ol class="toc">
+<li><a href="#adduseraddgroup">Adduser/Addgroup</a></li>
+<li><a href="#arch">Arch</a></li>
+<li><a href="#calncal">Cal/Ncal</a></li>
+<li><a href="#cat">Cat</a></li>
+<li><a href="#cd">Cd</a></li>
+<li><a href="#chgrp">Chgrp</a></li>
+<li><a href="#chmod">Chmod</a></li>
+<li><a href="#chown">Chown</a></li>
+<li><a href="#cksum">Cksum</a></li>
+<li><a href="#clear">Clear</a></li>
+<li><a href="#cmp">Cmp</a></li>
+<li><a href="#comm">Comm</a></li>
+<li><a href="#cp">Cp</a></li>
+<li><a href="#csplit">Csplit</a></li>
+<li><a href="#date">Date</a></li>
+<li><a href="#dd">Dd</a></li>
+<li><a href="#df">Df</a></li>
+<li><a href="#diff">Diff3</a></li>
+<li><a href="#dir">Dir</a></li>
+<li><a href="#dirname">Dirname</a></li>
+<li><a href="#dmidecode">Dmidecode</a></li>
+<li><a href="#du">Du</a></li>
+<li><a href="#echo">Echo</a></li>
+<li><a href="#ed">Ed</a></li>
+<li><a href="#eject">Eject</a></li>
+<li><a href="#env">Env</a></li>
+<li><a href="#exit">Exit</a></li>
+<li><a href="#expand">Expand</a></li>
+<li><a href="#expr">Expr</a></li>
+<li><a href="#factor">Factor</a></li>
+<li><a href="#fgrep">Fgrep</a></li>
+<li><a href="#find">Find</a></li>
+<li><a href="#fmt">Fmt</a></li>
+<li><a href="#fold">Fold</a></li>
+<li><a href="#free">Free</a></li>
+<li><a href="#grep">Grep</a></li>
+<li><a href="#groups">Groups</a></li>
+<li><a href="#gzip">Gzip</a></li>
+<li><a href="#gunzip">Gunzip</a></li>
+<li><a href="#head">Head</a></li>
+<li><a href="#hostname">Hostname</a></li>
+<li><a href="#id">Id</a></li>
+<li><a href="#join">Join</a></li>
+<li><a href="#kill">Kill</a></li>
+<li><a href="#killall">Killall</a></li>
+<li><a href="#last">Last</a></li>
+<li><a href="#ldd">Ldd</a></li>
+<li><a href="#ln">Ln</a></li>
+<li><a href="#locate">Locate</a></li>
+<li><a href="#logname">Logname</a></li>
+<li><a href="#ls">Ls</a></li>
+<li><a href="#lshw">Lshw</a></li>
+<li><a href="#lscpu">Lscpu</a></li>
+<li><a href="#lsof">Lsof</a></li>
+<li><a href="#man">Man</a></li>
+<li><a href="#mdsum">Md5sum</a></li>
+<li><a href="#mkdir">Mkdir</a></li>
+<li><a href="#mkfifo">Mkfifo</a></li>
+<li><a href="#more">More</a></li>
+<li><a href="#mv">Mv</a></li>
+<li><a href="#nano">Nano</a></li>
+<li><a href="#nice">Nice</a></li>
+<li><a href="#nl">Nl</a></li>
+<li><a href="#nm">Nm</a></li>
+<li><a href="#nproc">Nproc</a></li>
+<li><a href="#od">Od</a></li>
+<li><a href="#passwd">Passwd</a></li>
+<li><a href="#paste">Paste</a></li>
+<li><a href="#pidof">Pidof</a></li>
+<li><a href="#ping">Ping</a></li>
+<li><a href="#ps">Ps</a></li>
+<li><a href="#pstree">Pstree</a></li>
+<li><a href="#pwd">Pwd</a></li>
+<li><a href="#rm">Rm</a></li>
+<li><a href="#rmdir">Rmdir</a></li>
+<li><a href="#scp">Scp</a></li>
+<li><a href="#sdiff">Sdiff</a></li>
+<li><a href="#sed">Sed</a></li>
+<li><a href="#seq">Seq</a></li>
+<li><a href="#shasum">Sha1sum</a></li>
+<li><a href="#shutdown">Shutdown</a></li>
+<li><a href="#size">Size</a></li>
+<li><a href="#sleep">Sleep</a></li>
+<li><a href="#sort">Sort</a></li>
+<li><a href="#split">Split</a></li>
+<li><a href="#ssh">Ssh</a></li>
+<li><a href="#stat">Stat</a></li>
+<li><a href="#strings">Strings</a></li>
+<li><a href="#su">Su</a></li>
+<li><a href="#sudo">Sudo</a></li>
+<li><a href="#sum">Sum</a></li>
+<li><a href="#tac">Tac</a></li>
+<li><a href="#tail">Tail</a></li>
+<li><a href="#talk">Talk</a></li>
+<li><a href="#tar">Tar</a></li>
+<li><a href="#tee">Tee</a></li>
+<li><a href="#test">Test</a></li>
+<li><a href="#time">Time</a></li>
+<li><a href="#top">Top</a></li>
+<li><a href="#touch">Touch</a></li>
+<li><a href="#tr">Tr</a></li>
+<li><a href="#tty">Tty</a></li>
+<li><a href="#uname">Uname</a></li>
+<li><a href="#uniq">Uniq</a></li>
+<li><a href="#unexpand">Unexpand</a></li>
+<li><a href="#uptime">Uptime</a></li>
+<li><a href="#users">Users</a></li>
+<li><a href="#vdir">Vdir</a></li>
+<li><a href="#vim">Vim</a></li>
+<li><a href="#w">W</a></li>
+<li><a href="#wall">Wall</a></li>
+<li><a href="#watch">Watch</a></li>
+<li><a href="#wc">Wc</a></li>
+<li><a href="#wget">Wget</a></li>
+<li><a href="#whatis">Whatis</a></li>
+<li><a href="#which">Which</a></li>
+<li><a href="#who">Who</a></li>
+<li><a href="#whereis">Whereis</a></li>
+<li><a href="#whoami">Whoami</a></li>
+<li><a href="#xargs">Xargs</a></li>
+<li><a href="#yes">Yes</a></li>
+</ol>
+</div>
+</div>
+<p>The command line is one of the most powerful features of Linux. There exists a sea of Linux command line tools, allowing you to do almost everything you can think of doing on your Linux PC. However, this usually creates a problem: with&nbsp;so many commands available to use, you don't know where and how to start learning them, especially when&nbsp;you are beginner.&nbsp;</p>
+<p>If you are facing this issue, and are looking for an easy way to start off your command line journey in Linux, you've come to the correct place, as in this article, we will introduce you to a host of popular and useful Linux commands. The article is organized in a way that you will quickly learn what each&nbsp;command does through an easy to understand example. To learn more about a command, click on&nbsp;the 'More...' link at the end of its explanation.</p>
+<h2 id="adduseraddgroup">Adduser/Addgroup</h2>
+<p>The <em>adduser</em> and <em>addgroup</em> commands lets you add a new user and group to a system, respectively. Here's an example for adduser:</p>
+<p class="command">$ sudo <strong>adduser</strong> testuser<br />Adding user `testuser' ...<br />Adding new group `testuser' (1003) ...<br />Adding new user `testuser' (1003) with group `testuser' ...<br />Creating home directory `/home/testuser' ...<br />Copying files from `/etc/skel' ...<br />Enter new UNIX password:</p>
+<p></p>
+<h2 id="arch">Arch</h2>
+<p>The <em>arch</em> command is used to print the machine's architecture. For example:</p>
+<p class="command">$ <strong>arch</strong><br />i686</p>
+<p><em>Not sure what 'i686' means? Head <a href="http://askubuntu.com/questions/444394/what-is-the-meaning-of-i686-in-ubuntu" target="_blank">here</a>.</em></p>
+<p></p>
+<h2 id="calncal">Cal/Ncal</h2>
+<p>The <em>cal</em> and <em>ncal</em> commands&nbsp;display a calendar in the output.</p>
+<p class="command">$ <strong>cal</strong><br />March 2017 <br />Su Mo Tu We Th Fr Sa <br />1 2 3 4 <br />5 6 <strong>7</strong> 8 9 10 11 <br />12 13 14 15 16 17 18 <br />19 20 21 22 23 24 25 <br />26 27 28 29 30 31</p>
+<p class="command">$ <strong>ncal</strong><br />March 2017 <br />Su 5 12 19 26 <br />Mo 6 13 20 27 <br />Tu <strong>7</strong> 14 21 28 <br />We 1 8 15 22 29 <br />Th 2 9 16 23 30 <br />Fr 3 10 17 24 31 <br />Sa 4 11 18 25</p>
+<p>More examples of the cal and ncal commands:</p>
+<ul>
+<li><a href="https://www.howtoforge.com/linux-cal-ncal-command/">10 Practical Examples of Linux Cal/NCal command for Beginners</a></li>
+</ul>
+<p></p>
+<h2 id="cat">Cat</h2>
+<p>The <em>cat</em> command allows you to concatenate files, or data provided on standard input, and print it on the standard output.&nbsp;In layman terms, the command prints the information provided to it, whether through stdin or in the form a file.</p>
+<p class="command">$ <strong>cat</strong> test.txt<br />Hello...how are you?</p>
+<p>More CAT command examples:</p>
+<ul>
+<li><a href="https://www.howtoforge.com/linux-cat-command/">10 Linux Cat Command Examples for Beginners</a></li>
+</ul>
+<p></p><div style="width:336px;float:left; margin: 10px 15px 10px 0px;background-color:white;">
+
+<script type='text/javascript'>
+GA_googleFillSlot('howtoforge_com_article_rectangle_a_300x250');
+</script>
+</div>
+<h2 id="cd">Cd</h2>
+<p>The <em>cd</em> command is used to change user's&nbsp;present working directory.</p>
+<p class="command">$ <strong>cd</strong> /home/himanshu/</p>
+<p>More CD command examples:</p>
+<ul>
+<li><a href="https://www.howtoforge.com/linux-cd-command/">Linux cd command tutorial for beginners (8 Examples)</a></li>
+</ul>
+<p></p>
+<h2 id="chgrp">Chgrp</h2>
+<p>The <em>chgrp</em> command allows you to change the group ownership of a file. The command expects new group name as its first argument and the name of file (whose group is being changed) as second argument.</p>
+<p class="command">$ <strong>chgrp</strong> howtoforge test.txt</p>
+<p>More:&nbsp;<a href="https://www.howtoforge.com/linux-chgrp-command/">Linux Chgrp Command for Beginners (5 Examples)</a></p>
+<p></p>
+<h2 id="chmod">Chmod</h2>
+<p>The <em>chmod</em> command lets you change access permissions for a file. For example, if you have a binary file (say helloWorld), and you want to make it executable, you can run the following command:</p>
+<p class="command"><strong>chmod</strong> +x helloWorld</p>
+<p>More:&nbsp;<a href="https://www.howtoforge.com/tutorial/linux-chmod-command/">Linux chmod command tutorial for beginners</a></p>
+<p></p>
+<h2 id="chown">Chown</h2>
+<p>The <em>chown</em> command allows you to change the ownership and group of a file. For example, to change the owner of a file test.txt to root, as well as set its group as root, execute the following command:&nbsp;</p>
+<p class="command"><strong>chown</strong> root:root test.txt</p>
+<p>More:&nbsp;<a href="https://www.howtoforge.com/linux-chown-command/">Linux Chown Command Tutorial for Beginners (7 Examples)</a></p>
+<p></p>
+<h2 id="cksum">Cksum</h2>
+<p>The <em>cksum</em> command prints the CRC checksum and byte count for the input file.&nbsp;</p>
+<p class="command">$ <strong>cksum</strong> test.txt<br />3741370333 20 test.txt</p>
+<p><em>Not sure what checksum is? Head <a href="https://en.wikipedia.org/wiki/Cyclic_redundancy_check" target="_blank">here</a>.</em></p>
+<p><em>More about the Chksum command:&nbsp;</em><a href="https://www.howtoforge.com/linux-cksum-command/">Linux cksum command explained for beginners (with examples)</a></p>
+<p></p>
+<h2 id="clear">Clear</h2>
+<p>The <em>clear</em> command is used to clear the terminal screen.</p>
+<p class="command">$ <strong>clear</strong></p>
+<p>More:&nbsp;<a href="https://www.howtoforge.com/linux-clear-command/">Linux clear command tutorial for beginners (3 examples)</a></p>
+<p></p>
+<h2 id="cmp">Cmp</h2>
+<p>The <em>cmp</em> command is used to perform byte-by-byte comparison of two files.</p>
+<p class="command">$ <strong>cmp</strong> file1 file2<br />file1 file2 differ: byte 1, line 1</p>
+<p>More CMP command examples:</p>
+<ul>
+<li><a href="https://www.howtoforge.com/linux-cmp-command/">Linux cmp command tutorial for beginners (7 examples)</a></li>
+</ul>
+<p></p>
+<h2 id="comm">Comm</h2>
+<p>The <em>comm</em>&nbsp;command is used to compare two sorted files line-by-line. For example, if 'file1' contains numbers 1-5 and 'file2' contains number 4-8, here's what the 'comm' command produces in this case:</p>
+<p class="command">$ <strong>comm</strong> file1 file2<br />1<br />2<br />3<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;4<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;5<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;6<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;7<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;8</p>
+<ul>
+<li><a href="https://www.howtoforge.com/linux-comm-command/">Linux comm command tutorial for beginners (5 examples)</a></li>
+</ul>
+<p></p>
+<h2 id="cp">Cp</h2>
+<p>The <em>cp</em> command is used for copying files and directories.</p>
+<p class="command">$ <strong>cp</strong> test.txt /home//himanshu/Desktop/</p>
+<p>More:&nbsp;<a href="https://www.howtoforge.com/linux-cp-command/">Linux cp command tutorial for beginners (8 examples)</a></p>
+<p></p>
+<h2 id="csplit">Csplit</h2>
+<p>The <em>csplit</em> command lets you&nbsp;split a file into sections determined by context lines. For example, to split a file into two where the first part contains 'n-1' lines and the second contains the rest, use the following command:</p>
+<p class="command">$ <strong>csplit</strong> file1 [n]</p>
+<p>The two parts are saved as files with names 'xx00' and 'xx01', respectively.</p>
+<p>More:&nbsp;<a href="https://www.howtoforge.com/linux-csplit-command/">Linux Csplit Command Explained for Beginners (6 Examples)</a></p>
+<p></p>
+<h2 id="date">Date</h2>
+<p>The <em>date</em> command can be used to print (or even set) the system date and time.</p>
+<p class="command">$ <strong>date</strong><br />Tue Feb 28 17:14:57 IST 2017</p>
+<p>More:&nbsp;<a href="https://www.howtoforge.com/linux-date-command/">Linux Date Command Tutorial for Beginners (8 Examples)</a></p>
+<p></p>
+<h2 id="dd">Dd</h2>
+<p>The <em>dd</em> command copies a file, converting and formatting according to the operands. For example, the following command creates an image of /dev/sda partition.</p>
+<p class="command"><span>dd if=/dev/sda of=/tmp/dev-sda-part.img</span></p>
+<p>More:&nbsp;<a href="https://www.howtoforge.com/linux-dd-command/">Linux dd command explained for beginners (8 examples)</a></p>
+<p></p>
+<h2 id="df">Df</h2>
+<p>The <em>df</em> command displays the&nbsp;<span>file system disk space usage in output.</span></p>
+<p class="command">$ <strong>df</strong> /dev/sda1<br />Filesystem 1K-blocks Used &nbsp; &nbsp; Available Use% Mounted on<br />/dev/sda1 &nbsp;74985616 &nbsp;48138832 23014620 &nbsp;68% &nbsp; &nbsp; /</p>
+<p>More:&nbsp;<a href="https://www.howtoforge.com/linux-df-command/">Linux df Command Tutorial for Beginners (8 Examples)</a></p>
+<p></p>
+<h2><strong>Diff</strong></h2>
+<p>The <em>diff</em> command lets you compare two files line by line.</p>
+<p class="command"><span>$ <strong>diff</strong> file1 file2</span></p>
+<p></p>
+<h2 id="diff">Diff3</h2>
+<p>The <em>diff3</em> command, as the name suggests, allows you to compare three files line by line.</p>
+<p class="command"><span><strong>diff3</strong> file1 file2 file3</span></p>
+<p></p>
+<h2 id="dir">Dir</h2>
+<p>The <em>dir</em> command&nbsp;lists directory contents. For example:</p>
+<p class="command">$ <strong>dir</strong><br />test1 test2 test.7z test.zip</p>
+<p>More:&nbsp;<a href="https://www.howtoforge.com/linux-dir-command/">Linux dir command for beginners (10 examples)</a></p>
+<p></p>
+<h2 id="dirname">Dirname</h2>
+<p>The <em>dirname</em> command&nbsp;strips last component from a file name/path. In layman's terms, you can think of it as a tool that, for example, removes&nbsp;<span>file name from the file's absolute path.</span></p>
+<p class="command"><span>$ <strong>dirname</strong> /home/himanshu/file1<br />/home/himanshu</span></p>
+<p>More:&nbsp;<a href="https://www.howtoforge.com/linux-dirname-command/">Linux dirname command explained for beginners (4 examples)</a></p>
+<p></p>
+<h2 id="dmidecode">Dmidecode</h2>
+<p>The <em>dmidecode</em> command prints&nbsp;a system's&nbsp;DMI (aka SMBIOS) table contents in a human-readable format.</p>
+<p class="command">$ sudo <strong>dmidecode</strong><br /># dmidecode 2.12<br />SMBIOS 2.6 present.<br />50 structures occupying 2056 bytes.<br />Table at 0x000FCCA0.<br />Handle 0x0000, DMI type 0, 24 bytes<br />BIOS Information<br />Vendor: American Megatrends Inc.<br />Version: 080015 <br />Release Date: 08/22/2011<br />...<br />...<br />...</p>
+<p></p>
+<h2 id="du">Du</h2>
+<p>The <em>du</em> command displays disk usage of files present in a&nbsp;directory as well as its sub-directories.</p>
+<p class="command">$ <strong>du</strong> /home/himanshu/Desktop/<br />92 /home/himanshu/Desktop/Downloads/meld/meld/ui<br />88 /home/himanshu/Desktop/Downloads/meld/meld/vc<br />56 /home/himanshu/Desktop/Downloads/meld/meld/matchers<br />12 /home/himanshu/Desktop/Downloads/meld/meld/__pycache__<br />688 /home/himanshu/Desktop/Downloads/meld/meld<br />16 /home/himanshu/Desktop/Downloads/meld/bin<br />328 /home/himanshu/Desktop/Downloads/meld/data/ui<br />52 /home/himanshu/Desktop/Downloads/meld/data/icons/svg</p>
+<p>More:&nbsp;<a href="https://www.howtoforge.com/linux-du-command/">Linux du Command Tutorial for Beginners (10 Examples)</a></p>
+<p></p>
+<h2 id="echo">Echo</h2>
+<p>The <em>echo</em> command displays whatever input text is given to it.</p>
+<p class="command">$ <strong>echo</strong> hello hi<br />hello hi</p>
+<p>More:&nbsp;<a href="https://www.howtoforge.com/linux-echo-command/">Linux echo Command Tutorial for Beginners (5 Examples)</a></p>
+<p></p>
+<h2 id="ed">Ed</h2>
+<p><em>ed</em> is a&nbsp;line-oriented text editor.&nbsp;</p>
+<p class="command">$ <strong>ed</strong></p>
+<p></p>
+<h2 id="eject">Eject</h2>
+<p>The <em>eject</em> command lets you eject removable media (typically, a CD ROM or floppy disk)</p>
+<p class="command">$ eject</p>
+<p></p>
+<h2 id="env">Env</h2>
+<p>The <em>env</em> command not only displays&nbsp;<span>the current environment, but also lets you edit it.</span></p>
+<p class="command">$ env</p>
+<p>More:&nbsp;<a href="https://www.howtoforge.com/linux-env-command/">Linux env Command Tutorial For Beginners (5 Examples)</a></p>
+<p></p>
+<h2 id="exit">Exit</h2>
+<p>The <em>exit</em> command causes&nbsp;the shell to exit.</p>
+<p class="command">$ <strong>exit</strong></p>
+<p>More: <a href="https://www.howtoforge.com/linux-exit-command/">Linux exit Command Explained for Beginners (With Examples)</a></p>
+<p></p>
+<h2 id="expand">Expand</h2>
+<p>The <em>expand</em> command converts tabs present in the input file(s) into spaces, and writes the file contents to standard output.</p>
+<p class="command">$ <strong>expand</strong> file1</p>
+<p>More:&nbsp;<a href="https://www.howtoforge.com/linux-expand-command/">Linux expand Command Tutorial For Beginners (with Examples)</a></p>
+<p></p>
+<h2 id="expr">Expr</h2>
+<p>The <em>expr</em> command evaluates expressions. For example:</p>
+<p class="command">$ <strong>expr</strong> 1 + 2<br />3</p>
+<p>More:&nbsp;<a href="https://www.howtoforge.com/linux-expr-command/">Linux expr command tutorial for beginners (with examples)</a></p>
+<p></p>
+<h2 id="factor">Factor</h2>
+<p>The <em>factor</em> command prints the&nbsp;prime factors of the input number.</p>
+<p class="command">$ <strong>factor</strong> 135<br />135: 3 3 3 5</p>
+<p>More:&nbsp;<a href="https://www.howtoforge.com/linux-factor-command/">Linux factor command tutorial for beginners (with examples)</a></p>
+<p></p>
+<h2 id="fgrep">Fgrep</h2>
+<p>The <em>fgrep</em> command is equivalent to the grep command when executed with the -F command line option. The tool is also known as fixed or fast grep as it doesn't treat&nbsp;<span>regular expression metacharacters&nbsp;as special, processing the information as simple string instead.</span></p>
+<p>For example, if you want to search for dot (.) in a file, and don't want grep to interpret it as a wildcard character, use fgrep in the following way:</p>
+<p class="command">$ <strong>fgrep</strong> "." [file-name]</p>
+<p>More:&nbsp;<a href="https://www.howtoforge.com/linux-fgrep-command/">Linux fgrep Command Tutorial for Beginners (with Examples)</a></p>
+<p></p>
+<h2 id="find">Find</h2>
+<p><span>The <em>find</em> command lets you search for files in a directory as well as its sub-directories.</span></p>
+<p class="command"><span>$ <strong>find</strong> test*<br />test<br />test1<br />test2<br />test.7z<br />test.c<br />test.txt</span></p>
+<p><span>More examples for the Linux Find command:</span></p>
+<ul>
+<li><span></span><a href="https://www.howtoforge.com/tutorial/linux-find-command/">14 Practical Examples of Linux Find Command for Beginners</a></li>
+<li><a href="https://www.howtoforge.com/searching-for-files-and-folders-with-the-find-command">Searching For Files And Folders With The find Command</a></li>
+<li><a href="https://www.howtoforge.com/finding-files-on-the-command-line">Finding Files On The Command Line</a></li>
+</ul>
+<h2 id="fmt">Fmt</h2>
+<p><em>fmt</em>&nbsp;is a&nbsp;simple optimal text formatter. It reformats each paragraph in the file passed to it, and writes the file contents to standard output.</p>
+<p class="command">$ <strong>fmt</strong> file1</p>
+<p>More:&nbsp;<a href="https://www.howtoforge.com/linux-fmt-command/">Linux fmt command - usage and examples</a></p>
+<p></p>
+<h2 id="fold">Fold</h2>
+<p>The <em>fold</em> command&nbsp;wraps each input line to fit in specified width.</p>
+<p class="command">$ <strong>fold</strong> -w 10<br />Hi my name is himanshu Arora</p>
+<p class="command">Hi my name<br />is himans<br />hu Arora</p>
+<p>More:&nbsp;<a href="https://www.howtoforge.com/tutorial/linux-fold-command/">Linux fold command tutorial for beginners (with examples)</a></p>
+<p></p>
+<h2 id="free">Free</h2>
+<p>The <em>free</em> command displays the&nbsp;amount of free and used memory in the system.</p>
+<p class="command">$ <strong>free</strong><br />&nbsp; &nbsp; &nbsp; &nbsp;total &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; used &nbsp;free &nbsp; shared buffers cached<br />Mem: &nbsp; 1800032 &nbsp; &nbsp; &nbsp; 1355288 444744 79440 &nbsp; 9068 &nbsp; 216236<br />-/+ buffers/cache: 1129984 670048<br />Swap: &nbsp;1832956 &nbsp; &nbsp; &nbsp;995076 &nbsp;837880</p>
+<p></p>
+<h2 id="grep">Grep</h2>
+<p>The <em>grep</em> command searches for a specified pattern in a file (or files) and displays in output lines containing that pattern.</p>
+<p class="command">$ <strong><em>grep</em></strong> Hello test.txt<br />Hello...how are you?</p>
+<p>More tutorials and examples for the Linux Grep command:</p>
+<ul>
+<li><a href="https://www.howtoforge.com/tutorial/linux-grep-command/">How to use grep to search for strings in files on the shell</a></li>
+<li><a href="https://www.howtoforge.com/tutorial/how-to-perform-pattern-search-in-files-using-grep/">How to perform pattern search in files using Grep</a></li>
+</ul>
+<h2 id="groups">Groups</h2>
+<p>The <em>groups</em> command displays the name of groups a user is part of.</p>
+<p class="command">$ <strong>groups</strong> himanshu<br />himanshu : himanshu adm cdrom sudo dip plugdev lpadmin sambashare</p>
+<p></p>
+<h2 id="gzip">Gzip</h2>
+<p>The <em>gzip</em> command compresses the input file, replacing the file itself with one having a .gz extension.</p>
+<p class="command">$ <strong>gzip</strong> file1</p>
+<p>More:&nbsp;<a href="https://www.howtoforge.com/linux-gzip-command/">Linux Gzip Command Tutorial for Beginners (7 Examples)</a></p>
+<p></p>
+<h2 id="gunzip">Gunzip</h2>
+<p>Files compressed with <em>gzip</em> command&nbsp;can be restored to their original form using the <em>gunzip</em> command.</p>
+<p class="command">$ <strong>gunzip</strong> file1.gz</p>
+<p></p>
+<h2 id="head">Head</h2>
+<p>The <em>head</em> command displays&nbsp;the first 10 lines of the&nbsp;file to standard output</p>
+<p class="command">$ <strong>head</strong> CHANGELOG.txt <br />BEEBEEP (Secure Lan Messanger)<br />BeeBEEP <br />2.0.4<br />- Some GUI improvements (new icons, file sharing tree load faster)<br />- Always Beep on new message arrived (option)<br />- Favorite users (right click on user and enable star button) is on top of the list<br />- improved group usability<br />- Offline users can be removed from list (right click on an offline user in list and then remove)<br />- Clear all files shared (option)<br />- Load minimized at startup (option)</p>
+<p></p>
+<h2 id="hostname">Hostname</h2>
+<p>The <em>hostname</em> command not only displays&nbsp;the system's host name, but lets them set it as well.</p>
+<p class="command">$ <strong>hostname</strong><br />himanshu-desktop</p>
+<p></p>
+<h2 id="id">Id</h2>
+<p>The <em>id</em> command prints&nbsp;user and group information for the current user or specified username.</p>
+<p class="command">$ <strong>id</strong> himanshu<br />uid=1000(himanshu) gid=1000(himanshu) groups=1000(himanshu),4(adm),24(cdrom),27(sudo),30(dip),46(plugdev),108(lpadmin),124(sambashare)</p>
+<p></p>
+<h2 id="join">Join</h2>
+<p>The <em>join</em> command allows you to join lines of two files on a common field (default is first).</p>
+<p class="command">join [OPTION]... FILE1 FILE2</p>
+<p>Want to learn more about this command? Head <a href="https://www.howtoforge.com/tutorial/linux-join-command/">here</a>.</p>
+<p></p>
+<h2 id="kill">Kill</h2>
+<p>The <em>kill</em> command, as the name suggests, helps user kill a process by sending the TERM signal to it.</p>
+<p class="command">$ kill [process-id]</p>
+<p></p>
+<h2 id="killall">Killall</h2>
+<p>The <em>killall</em> command lets you kill a process by name. Unlike kill - which requires ID of the process to be killed - killall just requires the name of the process.</p>
+<p class="command">$&nbsp;<strong>killall</strong> nautilus</p>
+<p></p>
+<h2 id="last">Last</h2>
+<p>The <em>last</em> command shows&nbsp;listing of last logged in users.</p>
+<p class="command">$ <strong>last</strong><br />himanshu pts/11 :0 Thu Mar 2 09:46 still logged in <br />himanshu pts/1 :0 Thu Mar 2 09:46 still logged in <br />himanshu :0 :0 Thu Mar 2 09:42 still logged in <br />reboot system boot 4.4.0-62-generic Thu Mar 2 09:41 - 10:36 (00:54) <br />himanshu pts/14 :0 Wed Mar 1 15:17 - 15:52 (00:35) <br />himanshu pts/13 :0 Wed Mar 1 14:40 - down (08:06)</p>
+<p></p>
+<h2 id="ldd">Ldd</h2>
+<p>The <em>ldd</em> command displays in output&nbsp;dependencies of a shared library.</p>
+<p class="command">$ <strong>ldd</strong> /lib/i386-linux-gnu/libcrypt-2.19.so<br />linux-gate.so.1 =&gt; (0xb77df000)<br />libc.so.6 =&gt; /lib/i386-linux-gnu/libc.so.6 (0xb75da000)<br />/lib/ld-linux.so.2 (0x80088000)</p>
+<p></p>
+<h2 id="ln">Ln</h2>
+<p>The <em>ln</em> command is used for creating link between files. For example, the following command would create a link named 'lnk' to a file with name 'test.txt':</p>
+<p class="command">$ <strong>ln</strong> test.txt lnk</p>
+<p></p>
+<h2 id="locate">Locate</h2>
+<p>The <em>locate</em> command helps user find a file by name.</p>
+<p class="command">$ <strong>locate</strong> [file-name]</p>
+<p></p>
+<h2 id="logname">Logname</h2>
+<p>The logname command prints the user-name of the current user.</p>
+<p class="command">$ <strong>logname</strong><br />himanshu</p>
+<p></p>
+<h2 id="ls">Ls</h2>
+<p>The <em>ls</em> command lists contents of a directory in output.</p>
+<p class="command">$ <strong>ls</strong> progress<br />capture.png hlist.o progress progress.h sizes.c<br />hlist.c LICENSE progress.1 progress.o sizes.h<br />hlist.h Makefile progress.c README.md sizes.o</p>
+<p>More examples of the LS command:</p>
+<ul>
+<li><a href="https://www.howtoforge.com/linux-ls-command/">16 Practical Examples of Linux LS command for Beginners</a></li>
+</ul>
+<p></p>
+<h2 id="lshw">Lshw</h2>
+<p>The <em>lshw</em> command extracts and displays detailed information on the hardware configuration of the machine.</p>
+<p class="command">$ sudo <strong>lshw</strong><br />[sudo] password for himanshu: <br />himanshu-desktop <br />description: Desktop Computer<br />product: To Be Filled By O.E.M. (To Be Filled By O.E.M.)<br />vendor: To Be Filled By O.E.M.<br />version: To Be Filled By O.E.M.<br />serial: To Be Filled By O.E.M.<br />width: 32 bits<br />capabilities: smbios-2.6 dmi-2.6 smp-1.4 smp<br />...<br />...<br />..</p>
+<p></p>
+<h2 id="lscpu">Lscpu</h2>
+<p>The <em>lscpu</em> command displays in output system's&nbsp;CPU architecture information (such as number of CPUs,&nbsp;threads, cores, sockets, and more).</p>
+<p class="command">$ <strong>lscpu</strong><br />Architecture: i686<br />CPU op-mode(s): 32-bit, 64-bit<br />Byte Order: Little Endian<br />CPU(s): 1<br />On-line CPU(s) list: 0<br />Thread(s) per core: 1<br />Core(s) per socket: 1<br />Socket(s): 1<br />Vendor ID: AuthenticAMD<br />CPU family: 16<br />Model: 6<br />Stepping: 3<br />CPU MHz: 2800.234<br />BogoMIPS: 5600.46<br />Virtualization: AMD-V<br />L1d cache: 64K<br />L1i cache: 64K<br />L2 cache: 1024K</p>
+<p></p>
+<h2 id="lsof">Lsof</h2>
+<p>The<span>&nbsp;</span><em>lsof</em><span>&nbsp;</span>command displays information (on stdout) related to files opened by processes. Files can be of any type, including&nbsp;regular files, directories, block special files,&nbsp;character special files, executing text reference, libraries, and&nbsp;stream/network files.</p>
+<p class="command"><strong>lsof</strong></p>
+<p>Read more:</p>
+<ul>
+<li><a href="https://www.howtoforge.com/linux-lsof-command/">Linux lsof command tutorial for beginners (10 examples)</a></li>
+</ul>
+<p></p>
+<h2 id="man">Man</h2>
+<p><em>man</em>&nbsp;lets you access reference manual for commands, programs/utilities, as well as functions.</p>
+<p class="command">$ <strong>man</strong>&nbsp;ls</p>
+<p></p>
+<h2 id="mdsum">Md5sum</h2>
+<p>The <em>md5sum</em> command lets you print &nbsp;or check <a href="https://en.wikipedia.org/wiki/MD5" target="_blank">MD5</a>&nbsp;(128-bit) checksums.</p>
+<p class="command">$ <strong>md5sum</strong> test.txt<br />ac34b1f34803a6691ff8b732bb97fbba test.txt</p>
+<p></p>
+<h2 id="mkdir">Mkdir</h2>
+<p>The <em>mkdir</em> command lets you create directories.</p>
+<p class="command">$ <strong>mkdir</strong> [dir-name]</p>
+<p></p>
+<h2 id="mkfifo">Mkfifo</h2>
+<p>The <em>mkfifo</em> command is used to create named pipes.</p>
+<p class="command">$ mkfifo [pipe-name]</p>
+<p></p>
+<h2 id="more">More</h2>
+<p>more&nbsp;is basically a filter for paging through text one screenful at a time.</p>
+<p class="command">$ cat [large-file] | <strong>more</strong></p>
+<p></p>
+<h2 id="mv">Mv</h2>
+<p>The <em>mv</em> command lets you either move a file from one directory to another, or rename it.</p>
+<p class="command">$ <strong>mv</strong> test.txt /home/himanshu/Desktop/&nbsp;</p>
+<p></p>
+<h2 id="nano">Nano</h2>
+<p>The<span>&nbsp;</span><em>nano</em><span>&nbsp;</span>command in Linux launches the 'nano' editor. The editor is&nbsp;<span>designed to emulate the features&nbsp;and user-friendliness of&nbsp;the UW Pico text editor.</span></p>
+<p class="command">$<span>&nbsp;</span><strong>nano</strong></p>
+<p>or</p>
+<p class="command">$<span>&nbsp;</span><strong>nano</strong><span>&nbsp;</span>[file-name]</p>
+<p>More about the Nano Editor:</p>
+<ul>
+<li><a href="https://www.howtoforge.com/linux-nano-command/">Nano editor usage and examples</a>.</li>
+</ul>
+<p></p>
+<h2 id="nice">Nice</h2>
+<p>The <em>nice</em> command lets you&nbsp;run a program with modified scheduling priority.</p>
+<p class="command">$ <strong>nice</strong> -n[niceness-value] [program]</p>
+<p class="command">$ <strong>nice</strong> -n15 vim</p>
+<p></p>
+<h2 id="nl">Nl</h2>
+<p>The <em>nl</em> command writes contents of a file to output, and prepends each line with line number.</p>
+<p class="command">$ <strong>nl</strong> file1<br />1 Hi<br />2 How are you<br />3 Bye</p>
+<p></p>
+<h2 id="nm">Nm</h2>
+<p>The <em>nm</em> command is used to display&nbsp;symbols from object files.</p>
+<p class="command">$ <strong>nm</strong> test<br />0804a020 B __bss_start<br />0804841d T compare<br />0804a020 b completed.6591<br />0804a018 D __data_start<br />0804a018 W data_start<br />08048360 t deregister_tm_clones<br />080483d0 t __do_global_dtors_aux<br />08049f0c t __do_global_dtors_aux_fini_array_entry<br />0804a01c D __dso_handle<br />08049f14 d _DYNAMIC<br />0804a020 D _edata<br />0804a024 B _end<br />080484e4 T _fini<br />080484f8 R _fp_hw<br />080483f0 t frame_dummy<br />...<br />...<br />...</p>
+<p></p>
+<h2 id="nproc">Nproc</h2>
+<p>The <em>nproc</em> command displays&nbsp;the number of processing units available to the current process.</p>
+<p class="command">$ <strong>nproc</strong><br />1</p>
+<p></p>
+<h2 id="od">Od</h2>
+<p>The <em>od</em> command lets you dump files in octal as well as some other formats.</p>
+<p class="command">$ <strong>od</strong> /bin/ls<br />0000000 042577 043114 000401 000001 000000 000000 000000 000000<br />0000020 000002 000003 000001 000000 140101 004004 000064 000000<br />0000040 122104 000001 000000 000000 000064 000040 000011 000050<br />0000060 000034 000033 000006 000000 000064 000000 100064 004004<br />0000100 100064 004004 000440 000000 000440 000000 000005 000000<br />0000120 000004 000000 000003 000000 000524 000000 100524 004004<br />...<br />...<br />...</p>
+<p></p>
+<h2 id="passwd">Passwd</h2>
+<p>The <em>passwd</em> command is used for&nbsp;changing passwords for user accounts.</p>
+<p class="command">$ <strong>passwd</strong> himanshu<br />Changing password for himanshu.<br />(current) UNIX password:</p>
+<p></p>
+<h2 id="paste">Paste</h2>
+<p>The <em>paste</em> command lets you&nbsp;merge lines of files. For example, if 'file1' contains the following lines:</p>
+<p class="command">$ cat file1<br />Hi<br />My name is<br />Himanshu<br />Arora<br />I <br />Am<br />a <br />Linux researcher<br />and tutorial <br />writer</p>
+<p>Then the following 'paste' command will join all the lines of the file:</p>
+<p class="command">$ <strong>paste</strong> -s file1<br />Hi My name is Himanshu Arora I Am a Linux researcher and tutorial writer</p>
+<p></p>
+<h2 id="pidof">Pidof</h2>
+<p>The <em>pidof</em> command gives you&nbsp;the process ID of a running program/process.</p>
+<p class="command">$ <strong>pidof</strong> nautilus<br />2714</p>
+<p></p>
+<h2 id="ping">Ping</h2>
+<p>The <em>ping</em> command is used to check whether or not a system is up and responding. It sends&nbsp;ICMP ECHO_REQUEST to network hosts.</p>
+<p class="command">$ <strong>ping</strong> howtoforge.com<br />PING howtoforge.com (104.24.0.68) 56(84) bytes of data.<br />64 bytes from 104.24.0.68: icmp_seq=1 ttl=58 time=47.3 ms<br />64 bytes from 104.24.0.68: icmp_seq=2 ttl=58 time=51.9 ms<br />64 bytes from 104.24.0.68: icmp_seq=3 ttl=58 time=57.4 ms</p>
+<p></p>
+<h2 id="ps">Ps</h2>
+<p>The <em>ps</em> command displays information (in the form of a snapshot) about the currently active processes.</p>
+<p class="command">$ <strong>ps</strong><br />PID TTY TIME CMD<br />4537 pts/1 00:00:00 bash<br />20592 pts/1 00:00:00 ps</p>
+<p></p>
+<h2 id="pstree">Pstree</h2>
+<p>The <em>pstree</em> command produces&nbsp;information about&nbsp;running processes in the form of&nbsp;a tree.</p>
+<p class="command">$ <strong>pstree</strong><br />init???ModemManager???2*[{ModemManager}]<br />??NetworkManager???dhclient<br />? ??dnsmasq<br />? ??3*[{NetworkManager}]<br />??accounts-daemon???2*[{accounts-daemon}]<br />??acpid<br />??atop</p>
+<p></p>
+<h2 id="pwd">Pwd</h2>
+<p>The pwd command displays the&nbsp;name of current/working directory.</p>
+<p class="command">$ pwd<br />/home/himanshu</p>
+<p></p>
+<h2 id="rm">Rm</h2>
+<p>The <em>rm</em> command lets you remove files and/or directories.</p>
+<p class="command">$ <strong>rm</strong> [file-name]</p>
+<p></p>
+<h2 id="rmdir">Rmdir</h2>
+<p>The rmdir command allows you delete empty directories.</p>
+<p class="command">$ <strong>rmdir</strong> [dir-name]</p>
+<p></p>
+<h2 id="scp">Scp</h2>
+<p>The <em>scp</em> command lets you securely copy files between systems on a network.</p>
+<p class="command">$ <strong>scp</strong> [name-and-path-of-file-to-transfer] [user]@[host]:[dest-path]</p>
+<p></p>
+<h2 id="sdiff">Sdiff</h2>
+<p>The <em>sdiff</em> command lets you perform a side-by-side merge of differences between two files.</p>
+<p class="command">$ <strong>sdiff</strong> file1 file2</p>
+<p></p>
+<h2 id="sed">Sed</h2>
+<p><em>sed</em> is basically a&nbsp;&nbsp;stream editor that allows users to perform basic text transformations on an input stream (a file or input from a&nbsp;pipeline).</p>
+<p class="command">$ echo "Welcome to Howtoforge" | <strong>sed</strong> -e 's/Howtoforge/HowtoForge/g'<br />Welcome to HowtoForge</p>
+<p></p>
+<h2 id="seq">Seq</h2>
+<p>The <em>seq</em> commands prints numbers from FIRST to LAST, in steps of INCREMENT. For example, if FIRST is 1, LAST is 10, and INCREMENT is 2, then here's the output this command produces:</p>
+<p class="command">$ <strong>seq</strong> 1 2 10<br />1<br />3<br />5<br />7<br />9</p>
+<p></p>
+<h2 id="shasum">Sha1sum</h2>
+<p>The <em>sha1sum</em> command is used to print or check SHA1 (160-bit) checksums.</p>
+<p class="command">$ <strong>sha1sum</strong> test.txt<br />955e48dfc9256866b3e5138fcea5ea0406105e68 test.txt</p>
+<p></p>
+<h2 id="shutdown">Shutdown</h2>
+<p>The <em>shutdown</em> command lets user shut the system in a safe way.</p>
+<p class="command">$ <strong>shutdown</strong></p>
+<p></p>
+<h2 id="size">Size</h2>
+<p>The <em>size</em> command lists the section sizes as well as the total size for an object or archive file.</p>
+<p class="command">$ <strong>size</strong> test<br />text data bss dec hex filename<br />1204 280 4 1488 5d0 test</p>
+<p></p>
+<h2 id="sleep">Sleep</h2>
+<p>The <em>sleep</em> command lets user specify&nbsp;delay for a specified amount of time. You can use it to delay an operation like:</p>
+<p class="command">$ <strong>sleep</strong> 10; shutdown</p>
+<p></p>
+<h2 id="sort">Sort</h2>
+<p>The <em>sort</em> command lets you sort lines of text files. For example, if 'file2' contains the following names:</p>
+<p class="command">$ cat file2<br />zeus<br />kyan<br />sam<br />adam</p>
+<p>Then running the sort command produces the following output:</p>
+<p class="command">$ <strong>sort</strong> file2<br />adam<br />kyan<br />sam<br />zeus</p>
+<p></p>
+<h2 id="split">Split</h2>
+<p>The <em>split</em> command, as the name suggests, splits a file into fixed-size pieces. By default, files with name like xaa, xab, and xac are produced.</p>
+<p class="command">$ <strong>split</strong> [file-name]</p>
+<p></p>
+<h2 id="ssh">Ssh</h2>
+<p><em>ssh</em> is basically&nbsp;OpenSSH SSH client. It provides&nbsp;secure encrypted communication between two untrusted hosts over an insecure network.</p>
+<pre>$ ssh [user-name]@[remote-server]</pre>
+<p></p>
+<h2 id="stat">Stat</h2>
+<p>The <em>stat</em> command displays status related to a file or a file-system.</p>
+<p class="command">$ <strong>stat</strong> test.txt<br />File: &lsquo;test.txt&rsquo;<br />Size: 20 Blocks: 8 IO Block: 4096 regular file<br />Device: 801h/2049d Inode: 284762 Links: 2<br />Access: (0664/-rw-rw-r--) Uid: ( 0/ root) Gid: ( 0/ root)<br />Access: 2017-03-03 12:41:27.791206947 +0530<br />Modify: 2017-02-28 16:05:15.952472926 +0530<br />Change: 2017-03-02 11:10:00.028548636 +0530<br />Birth: -</p>
+<p></p>
+<h2 id="strings">Strings</h2>
+<p>The <em>strings</em> command displays in output&nbsp;printable character&nbsp;sequences that are at least 4 characters long. It is used to search for printable text (strings) in binary files. For example, when a binary executable 'test' was passed as an argument to this command, following output was produced:</p>
+<p class="command">$ <strong>strings</strong> test<br />/lib/ld-linux.so.2<br />libc.so.6<br />_IO_stdin_used<br />puts<br />__libc_start_main<br />__gmon_start__<br />GLIBC_2.0<br />PTRh<br />QVhI<br />[^_]<br />EQUAL <br />;*2$"<br />GCC: (Ubuntu 4.8.4-2ubuntu1~14.04.3) 4.8.4<br />....<br />....<br />....</p>
+<p></p>
+<h2 id="su">Su</h2>
+<p>The <em>su</em> command lets you change user-identity. Mostly, this command is used to become root or superuser.</p>
+<p class="command">$ <strong>su</strong> [user-name]</p>
+<p></p>
+<h2 id="sudo">Sudo</h2>
+<p>The <em>sudo</em> command lets a permitted user&nbsp;run a command as another user (usually root or superuser).</p>
+<p class="command">$ <strong>sudo</strong> [command]</p>
+<p></p>
+<h2 id="sum">Sum</h2>
+<p>The <em>sum</em> command prints&nbsp;checksum and block counts for each input file.</p>
+<p class="command">$ <strong>sum</strong> readme.txt<br />45252 5</p>
+<p></p>
+<h2 id="tac">Tac</h2>
+<p>The <em>tac</em> command prints input files in reverse. Functionality-wise, it does the reverse of what the <em>cat</em> command does.</p>
+<p class="command">$ cat file2<br />zeus<br />kyan<br />sam<br />adam</p>
+<p class="command">$ <strong>tac</strong> file2<br />adam<br />sam<br />kyan<br />zeus</p>
+<p></p>
+<h2 id="tail">Tail</h2>
+<p>The <em>tail</em> command displays in output the last 10 lines of a file.</p>
+<p class="command">$ <strong>tail</strong> [file-name]</p>
+<p></p>
+<h2 id="talk">Talk</h2>
+<p>The <em>talk</em> command lets users talk with each other.</p>
+<p class="command">$ <strong>talk</strong> [user-name]</p>
+<p></p>
+<h2 id="tar">Tar</h2>
+<p><em>tar</em> is an archiving utility that lets you create as well as extract archive files. For example, to create&nbsp;archive.tar from files 'foo' and 'bar', use the following command:</p>
+<p class="command">$&nbsp;<strong>tar</strong> -cf archive.tar foo bar</p>
+<p><a href="https://www.howtoforge.com/tutorial/linux-tar-command/">More...</a></p>
+<h2 id="tee">Tee</h2>
+<p>The <em>tee</em> command reads&nbsp;from standard input and write to standard output as well as&nbsp;files.</p>
+<p class="command">$ uname | <strong>tee</strong> file2<br />Linux</p>
+<p class="command">$ cat file2<br />Linux</p>
+<p></p>
+<h2 id="test">Test</h2>
+<p>The <em>test</em> command checks&nbsp;file types and compare values. For example, you can use it in the following way:</p>
+<p class="command">$ <strong>test</strong> 7 -gt 5 &amp;&amp; echo "true"<br />true</p>
+<p></p>
+<h2 id="time">Time</h2>
+<p>The <em>time</em> command is used to&nbsp;summarize system resource usage of a program. For example:</p>
+<p class="command">$ <strong>time</strong> ping google.com<br />PING google.com (216.58.220.206) 56(84) bytes of data.<br />64 bytes from del01s08-in-f14.1e100.net (216.58.220.206): icmp_seq=1 ttl=52 time=44.2 ms<br />^C<br />--- google.com ping statistics ---<br />1 packets transmitted, 1 received, 0% packet loss, time 0ms<br />rtt min/avg/max/mdev = 44.288/44.288/44.288/0.000 ms<br /><strong>real 0m0.676s</strong><br /><strong>user 0m0.000s</strong><br /><strong>sys 0m0.000s</strong></p>
+<p></p>
+<h2 id="top">Top</h2>
+<p>The <em>top</em> command gives&nbsp; a dynamic real-time view of a running&nbsp;system (in terms of its processes).&nbsp;For example:</p>
+<p class="command">$ top</p>
+<p></p>
+<h2 id="touch">Touch</h2>
+<p>The <em>touch</em> command lets you change file timestamps (the access and modification times). When name of&nbsp;a non-existent file is passed as an argument, that file gets created.</p>
+<p class="command">$ <strong>touch</strong> [file-name]</p>
+<p></p>
+<h2 id="tr">Tr</h2>
+<p>The <em>tr</em> command can be used to translate/squeeze/delete characters. For example, here's how you can use it to convert lowercase characters&nbsp;to uppercase:</p>
+<p class="command">$ echo 'howtoforge' | <strong>tr</strong> "[:lower:]" "[:upper:]"<br />HOWTOFORGE</p>
+<p></p>
+<h2 id="tty">Tty</h2>
+<p>The <em>tty</em>&nbsp;command prints the filename of the terminal connected to standard input.</p>
+<p class="command">$ <strong>tty</strong><br />/dev/pts/10</p>
+<p></p>
+<h2 id="uname">Uname</h2>
+<p>The <em>uname</em>&nbsp;command prints&nbsp;certain system information.</p>
+<p class="command">$ <strong>uname</strong> -a<br />Linux himanshu-desktop 4.4.0-62-generic #83~14.04.1-Ubuntu SMP Wed Jan 18 18:10:26 UTC 2017 i686 athlon i686 GNU/Linux</p>
+<p></p>
+<h2 id="uniq">Uniq</h2>
+<p>The <em>Uniq</em> command is used to&nbsp;report or omit repeated lines. For example, if 'file2' contains the following data:</p>
+<p class="command">$ cat file2<br />Welcome to HowtoForge<br />Welcome to HowtoForge<br />A Linux tutorial website<br />Thanks</p>
+<p>Then you can use the uniq command to omit the repeated line.</p>
+<p class="command">$ <strong>uniq</strong> file2<br />Welcome to HowtoForge<br />A Linux tutorial website<br />Thanks</p>
+<p>Read more:&nbsp;<a href="https://www.howtoforge.com/linux-uniq-command/">Linux Uniq Command Tutorial for Beginners (10 examples)</a></p>
+<p></p>
+<h2 id="unexpand">Unexpand</h2>
+<p>The <em>unexpand</em> command converts spaces&nbsp;present in the input file(s) into tabs, and writes the file contents to standard output.</p>
+<p class="command">$ <strong>unexpand</strong> file1</p>
+<p></p>
+<h2 id="uptime">Uptime</h2>
+<p>The <em>uptime</em>&nbsp;command tells how long the system has been running.</p>
+<p class="command">$ <strong>uptime</strong><br />15:59:59 up 6:20, 4 users, load average: 0.81, 0.92, 0.82</p>
+<p></p>
+<h2 id="users">Users</h2>
+<p>The <em>users</em> command displays in output the&nbsp;usernames of users currently logged in to the current host.</p>
+<p class="command">$ <strong>users</strong><br />himanshu himanshu himanshu himanshu</p>
+<p></p>
+<h2 id="vdir">Vdir</h2>
+<p>The <em>vdir</em> command lists information about contents of a directory (current directory by default).</p>
+<p class="command">$ <strong>vdir</strong><br />total 1088<br />-rw-rw-r-- 1 himanshu himanshu 4850 May 20 2015 test_backup.pdf<br />-rw-rw-r-- 1 himanshu himanshu 2082 May 28 2015 test-filled.pdf<br />-rw-rw-r-- 1 himanshu himanshu 7101 May 28 2015 test.pdf&nbsp;</p>
+<p></p>
+<h2 id="vim">Vim</h2>
+<p><em>vim</em> is basically a text/programming editor. The name 'vim' stands for Vi IMproved as the editor is&nbsp;upwards compatible to the Vi editor.</p>
+<p class="command">$ vim [file-name]</p>
+<p></p>
+<h2 id="w">W</h2>
+<p><span>The <em>w</em>&nbsp;command&nbsp;displays information about the users currently on the machine, and&nbsp;their processes.</span></p>
+<p class="command"><span>$ <strong>w</strong><br />16:18:07 up 6:39, 4 users, load average: 0.07, 0.32, 0.53<br />USER TTY FROM <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="632f2c242a2d23">[email&#160;protected]</a> IDLE JCPU PCPU WHAT<br />himanshu :0 :0 09:39 ?xdm? 1:08m 0.25s init --user<br />himanshu pts/0 :0 09:41 6:36m 0.84s 7.84s gnome-terminal<br />himanshu pts/10 :0 14:51 0.00s 0.16s 0.00s w<br />himanshu pts/11 :0 15:41 35:19 0.05s 0.05s bash</span></p>
+<p></p>
+<h2 id="wall">Wall</h2>
+<p><span>The <em>wall</em>&nbsp;command lets you write and send a message to other users that are currently logged in.</span></p>
+<p class="command">$ <strong>wall</strong> [your-message]</p>
+<p></p>
+<h2 id="watch">Watch</h2>
+<p>The <em>watch</em> command can be used to monitor a program's&nbsp;output. It&nbsp;runs the program&nbsp;repeatedly, displaying its output and errors. For example:</p>
+<p class="command">$ <strong>watch</strong> date</p>
+<p></p>
+<h2 id="wc">Wc</h2>
+<p><span>The <em>wc</em>&nbsp;command prints&nbsp;newline, word, and byte counts for a&nbsp;file.</span></p>
+<p class="command"><span>$ <strong>wc</strong> test.txt<br />0 3 20 test.txt</span></p>
+<p></p>
+<h2 id="wget">Wget</h2>
+<p>The<span>&nbsp;</span><em>w</em><em>get</em><span>&nbsp;</span>command line tool in Linux lets you perform a&nbsp;non-interactive download of files from&nbsp;the Web.</p>
+<p>Here's how you can use it:</p>
+<p class="command"><strong>wget</strong><span>&nbsp;</span>[URL]</p>
+<p>Read more about the wget command <a href="https://www.howtoforge.com/tutorial/linux-wget-command/">here</a>.</p>
+<p></p>
+<h2 id="whatis">Whatis</h2>
+<p><span>The <em>whatis</em>&nbsp;command&nbsp;displays single-line manual page descriptions.</span></p>
+<p class="command">$ <strong>whatis</strong> mkdir<br />mkdir (1) - make directories<br />mkdir (2) - create a directory<br />mkdir (1posix) - make directories</p>
+<p></p>
+<h2 id="which">Which</h2>
+<p>The <em>which</em> command basically lets you locate a command - the file and the path of the file that gets executed. For example:</p>
+<p class="command">$ <strong>which</strong> date<br />/bin/date</p>
+<p></p>
+<h2 id="who">Who</h2>
+<p>The <em>who</em> command shows who is logged on.</p>
+<p class="command">$ <strong>who</strong><br />himanshu :0 2017-03-03 09:39 (:0)<br />himanshu pts/0 2017-03-03 09:41 (:0)<br />himanshu pts/10 2017-03-03 14:51 (:0)<br />himanshu pts/11 2017-03-03 15:41 (:0)</p>
+<p></p>
+<h2 id="whereis">Whereis</h2>
+<p><span>The <em>whereis</em>&nbsp;command shows in output locations of&nbsp;the binary, source, and manual page files for a command.<br /></span></p>
+<p class="command"><span>$ <strong>whereis</strong> ls<br />ls: /bin/ls /usr/share/man/man1/ls.1posix.gz /usr/share/man/man1/ls.1.gz</span></p>
+<p></p>
+<h2 id="whoami">Whoami</h2>
+<p><span>The <em>whoami</em> command prints effective userid of the current user.</span></p>
+<p class="command"><span>$ <strong>whoami</strong><br />himanshu<br /></span></p>
+<p></p>
+<h2 id="xargs">Xargs</h2>
+<p>The <em>xargs</em> command&nbsp;builds and executes command lines from standard input. In layman's terms, it reads items from stdin and executes a command passed to it as an argument. For example, here's how you can use <em>xargs</em> to find the word "Linux" in the files whose names are passed to it as input.</p>
+<p class="command">$ <strong>xargs</strong> grep "Linux"<br />file1<br />file2<br />file3<br />file1:Linux researcher<br />file2:A Linux tutorial website<br />file3:Linux is opensource</p>
+<p><a href="https://www.howtoforge.com/tutorial/linux-xargs-command/">More...</a></p>
+<h2 id="yes">Yes</h2>
+<p>The <em>Yes</em> command outputs a string repeatedly until killed.</p>
+<p class="command">$ <strong>yes</strong> [string]</p>
+<p></p>
+<div style="height:30px; margin-top:20px;">
+<p style="text-align:right;"><img src="/images/pdficon_small.png" /> <a href="/subscription/">view as pdf</a> | <img src="/images/print.gif" /> <a href="/subscription/">print</a></p>
+</div>
+<div style="height:30px; margin-top:20px;">
+<div style="float:left;"><b>Share this page:</b></div>
+<div style="float:left; margin-left:10px;"><a href="https://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-lang="en-US" data-url="https://www.howtoforge.com/linux-commands/" data-via="howtoforgecom">Tweet</a> <a class="twitter-follow-button" href="https://twitter.com/howtoforgecom">Follow</a></div>
+<div style="float:left; margin-left:20px;"><fb:like href="https://www.howtoforge.com/linux-commands/" layout="button_count" action="recommend" font="trebuchet ms" colorscheme="light"></fb:like></div>
+<div style="float:left; margin-left:50px;"><div class="g-plusone" data-size="medium" data-count="true" data-href="https://www.howtoforge.com/linux-commands/"></div></div>
+</div>
+</div>
+
+
+<div id="htfContentPagePaging">
+<h2>Suggested articles</h2>
+<script src="/cdn-cgi/scripts/0e574bed/cloudflare-static/email-decode.min.js"></script><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle" style="display:block" data-ad-format="autorelaxed" data-ad-client="ca-pub-3043223216276099" data-ad-slot="8940054090"></ins>
+<script>
+
+     (adsbygoogle = window.adsbygoogle || []).push({});
+
+</script>
+</div>
+
+
+<div id="htfContentPageComment">
+<a name="comments"></a>
+<h2>4 Comment(s)</h2>
+
+<div id="commentform">
+<div class="commentContainerHead" style="font-size:18px;">Add comment</div>
+<div class="commentContainer">
+<form method="post" action="/linux-commands/#comments">
+<input type="hidden" name="reply_to" id="reply-to-comment" value="0" />
+<div id="commentFormDetail">
+<div style="width:48%; float:left; margin-right:3%">
+<label for="commentname">Name *</label>
+<input id="commentname" name="commentname" value="" />
+</div>
+<div style="width:48%;float:left;">
+<label for="commentname">Email *</label>
+<input id="commentemail" name="commentemail" value="" />
+</div>
+<div style="clear:both;"></div>
+</div>
+<textarea id="commentedit" name="commentedit" style="width:auto;"></textarea>
+<div>
+<div style="float:left;">
+<div class="g-recaptcha" data-sitekey="6LdX9fUSAAAAALWwVoPdeXScMSketz4npF-0QcQ1"></div>
+<script type="text/javascript" src="https://www.google.com/recaptcha/api.js?hl=en">
+
+      </script>
+</div>
+<div style="margin-top:10px;margin-bottom:10px;">
+<input type="submit" name="submit" class="button primary" style="float:right;" value="Submit comment">
+</div>
+<div style="clear:both;"></div>
+</div>
+
+<script>
+
+	tinymce.init({
+
+		selector: "textarea#commentedit",
+
+		theme: "modern",
+
+		height: 100,
+
+		apply_source_formatting : true,
+
+		remove_linebreaks : false,
+
+		menubar : false,
+
+		/*auto_focus : "commentedit",*/
+
+		plugins: [
+
+		"link"
+
+		],
+
+		/*plugins: [
+
+			"advlist autolink link image lists charmap print preview hr anchor pagebreak spellchecker",
+
+			"searchreplace wordcount visualblocks visualchars code fullscreen insertdatetime media nonbreaking",
+
+			"save table contextmenu directionality emoticons template paste textcolor"
+
+		],*/
+
+		content_css: "https://www.howtoforge.com/themes/howtoforge/css/custom.css",
+
+		toolbar: "undo redo | bold italic link", 
+
+		/*style_formats: [
+
+			{title: 'Bold text', inline: 'b'},
+
+			{title: 'Red text', inline: 'span', styles: {color: '#ff0000'}},
+
+			{title: 'Red header', block: 'h1', styles: {color: '#ff0000'}},
+
+			{title: 'Example 1', inline: 'span', classes: 'example1'},
+
+			{title: 'Example 2', inline: 'span', classes: 'example2'},
+
+			{title: 'Table styles'},
+
+			{title: 'Table row 1', selector: 'tr', classes: 'tablerow1'}
+
+		]*/
+
+	}); 
+
+	</script>
+</form>
+</div>
+</div>
+
+<h3>Comments</h3>
+<div class="commentContainerHead commentLevel0">
+<div class="floatLeft"><b>From:</b> vitor <b>at:</b> <i>2017-06-12 16:13:43</i></div>
+<div class="floatRight"><a href="#" data-comment="22186" class="reply-to">Reply</a> &nbsp;</div>
+<div class="clearBoth"></div>
+</div>
+<div id="comment22186" class="commentContainer commentLevel0">
+<p><p>Thank you very much!</p></p>
+</div>
+<div class="commentContainerHead commentLevel0">
+<div class="floatLeft"><b>From:</b> Emma Smith <b>at:</b> <i>2017-09-05 06:53:20</i></div>
+<div class="floatRight"><a href="#" data-comment="22822" class="reply-to">Reply</a> &nbsp;</div>
+<div class="clearBoth"></div>
+</div>
+<div id="comment22822" class="commentContainer commentLevel0">
+<p><p>Very useful commnads. Thx</p></p>
+</div>
+<div class="commentContainerHead commentLevel0">
+<div class="floatLeft"><b>From:</b> vikozo <b>at:</b> <i>2017-09-19 10:56:41</i></div>
+<div class="floatRight"><a href="#" data-comment="22902" class="reply-to">Reply</a> &nbsp;</div>
+<div class="clearBoth"></div>
+</div>
+<div id="comment22902" class="commentContainer commentLevel0">
+<p><p>Vielen Dank, das ist Praktisch</p></p>
+</div>
+<div class="commentContainerHead commentLevel0">
+<div class="floatLeft"><b>From:</b> rrom44n <b>at:</b> <i>2017-09-22 09:42:10</i></div>
+<div class="floatRight"><a href="#" data-comment="22914" class="reply-to">Reply</a> &nbsp;</div>
+<div class="clearBoth"></div>
+</div>
+<div id="comment22914" class="commentContainer commentLevel0">
+<p><p>nice one bro...</p></p>
+</div>
+</div>
+
+<div class="breadBoxBottom">
+<nav>
+<fieldset class="breadcrumb">
+<span class="crumbs">
+<span class="crust homeCrumb" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
+<a href="/" class="crumb" rel="up" itemprop="url"><span itemprop="title">Tutorials</span></a>
+<span class="arrow"><span></span></span>
+</span>
+<span class="crust selectedTabCrumb" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
+<a href="/linux-commands/" class="crumb" rel="up" itemprop="url"><span itemprop="title">Linux Commands - Overview and Examples</span></a>
+<span class="arrow"><span>&gt;</span></span>
+</span>
+</span>
+</fieldset>
+</nav>
+</div>
+<script>
+
+<!--
+
+
+
+$(document).on('click', 'a.reply-to', function(e) {
+
+	e.preventDefault();
+
+	
+
+	var self = $(this);
+
+	var cid = self.attr('data-comment');
+
+	console.log(cid);
+
+	if(!cid) return this;
+
+	
+
+	$('#commentform').insertAfter('#comment' + cid);
+
+	$('#reply-to-comment').val(cid);
+
+	/*tinyMCE.activeEditor.focus();*/
+
+	var textareaId = 'commentedit';
+
+	tinyMCE.get(textareaId).remove();
+
+	tinyMCE.execCommand("mceAddEditor", false, textareaId);
+
+	tinyMCE.activeEditor.focus();
+
+});
+
+//-->
+
+</script>
+<div style="margin-top:10px;margin-bottom:10px;text-align:center;">
+
+<center>
+
+
+<script type='text/javascript'>
+
+GA_googleFillSlot("howtoforge_com_article_leaderboard_b_728x90");
+
+</script>
+
+</center>
+</div>
+
+
+<form action="/community/login/login?redirect=/linux-commands/" method="post" class="xenForm eAuth" id="login" style="display:none">
+<ul id="eAuthUnit">
+<li><a href="/community/register/facebook?reg=1" class="fbLogin" tabindex="110"><span>Log in with Facebook</span></a></li>
+<li><a href="/community/register/twitter?reg=1" class="twitterLogin" tabindex="110"><span>Log in with Twitter</span></a></li>
+<li><span class="googleLogin GoogleLogin JsOnly" tabindex="110" data-client-id="198773272284-b6tfk0c28bje81p774prrcrkq9jb3o44.apps.googleusercontent.com" data-redirect-url="/community/register/google?code=__CODE__&amp;csrf=hVMXbW_3rnrmq4Em"><span>Log in with Google</span></span></li>
+</ul>
+<div class="ctrlWrapper">
+<dl class="ctrlUnit">
+<dt><label for="LoginControl">Your name or email address:</label></dt>
+<dd><input type="text" name="login" id="LoginControl" class="textCtrl" tabindex="101" /></dd>
+</dl>
+<dl class="ctrlUnit">
+<dt>
+<label for="ctrl_password">Do you already have an account?</label>
+</dt>
+<dd>
+<ul>
+<li><label for="ctrl_not_registered"><input type="radio" name="register" value="1" id="ctrl_not_registered" tabindex="105" />
+No, create an account now.</label></li>
+<li><label for="ctrl_registered"><input type="radio" name="register" value="0" id="ctrl_registered" tabindex="105" checked="checked" class="Disabler" />
+Yes, my password is:</label></li>
+<li id="ctrl_registered_Disabler">
+<input type="password" name="password" class="textCtrl" id="ctrl_password" tabindex="102" />
+<div class="lostPassword"><a href="/community/lost-password/" tabindex="106">Forgot your password?</a></div>
+</li>
+</ul>
+</dd>
+</dl>
+<dl class="ctrlUnit submitUnit">
+<dt></dt>
+<dd>
+<input type="submit" class="button primary" value="Log in" tabindex="104" data-loginPhrase="Log in" data-signupPhrase="Sign up" />
+<label for="ctrl_remember" class="rememberPassword"><input type="checkbox" name="remember" value="1" id="ctrl_remember" tabindex="103" /> Stay logged in</label>
+</dd>
+</dl>
+</div>
+<input type="hidden" name="cookie_check" value="1" />
+<input type="hidden" name="redirect" value="/community/" />
+<input type="hidden" name="_xfToken" value="" />
+</form>
+
+</div>
+</div>
+
+<aside>
+<div class="sidebar">
+<div class="section loginButton">
+<div class="secondaryContent">
+<label for="LoginControl" id="SignupButton"><a href="/community/login/" class="inner">Sign up now!</a></label>
+</div>
+</div>
+<div class="widget WidgetFramework_WidgetRenderer_ShareThisPage" id="widget-2">
+
+<div class="widget WidgetFramework_WidgetRenderer_ShareThisPage" id="widget-5">
+<div class="section infoBlock sharePage">
+<div class="secondaryContent socialMediaIcon">
+<a href="https://twitter.com/howtoforgecom" target="_blank"><img src="/images/socialmedia/64x64/twitter.png" /></a>
+<a href="https://www.facebook.com/howtoforge" target="_blank"><img src="/images/socialmedia/64x64/facebook.png" /></a>
+<a href="https://plus.google.com/+howtoforge/posts" target="_blank"><img src="/images/socialmedia/64x64/googleplus.png" /></a>
+<a href="https://www.howtoforge.com/feed" target="_blank"><img src="/images/socialmedia/64x64/rss.png" /></a>
+</div>
+</div>
+</div>
+<div class="section widget-group-no-name widget-container">
+<div class="secondaryContent widget WidgetFramework_WidgetRenderer_Stats" id="widget-3">
+<p class="mnuinfo">Tutorial Info</p>
+<div class="pairsJustified">
+<dl class="discussionCount">
+<dt>Author:</dt>
+<dd>Himanshu Arora</dd>
+</dl>
+<dl class="discussionCount">
+<dt>Last updated:</dt>
+<dd>Sep 18, 2017</dd>
+</dl>
+<dl class="discussionCount">
+<dt>Tags:</dt>
+<dd><a href='/tutorials/linux/' rel='tag'>linux</a>, <a href='/tutorials/shell/' rel='tag'>shell</a></dd>
+</dl>
+</div>
+</div>
+</div>
+
+<div class="widget WidgetFramework_WidgetRenderer_ShareThisPage" id="widget-5">
+<div class="section infoBlock sharePage">
+<div class="secondaryContent">
+<p class="mnuinfo mnushare">Share This Page</p>
+<div class="tweet shareControl">
+<a href="https://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-lang="en-US" data-url="https://www.howtoforge.com/linux-commands/" data-via="howtoforgecom">Tweet</a> <a class="twitter-follow-button" data-show-screen-name="false" href="https://twitter.com/howtoforgecom">Follow</a>
+</div>
+<div class="facebookLike shareControl">
+<fb:like href="https://www.howtoforge.com/linux-commands/" layout="button_count" action="recommend" font="trebuchet ms" colorscheme="light"></fb:like>
+</div>
+<div class="plusone shareControl">
+<div class="g-plusone" data-size="medium" data-count="true" data-href="https://www.howtoforge.com/linux-commands/"></div>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<script type="text/javascript">
+
+    google_ad_client = "ca-pub-3043223216276099";
+
+    google_ad_slot = "6709042890";
+
+    google_ad_width = 300;
+
+    google_ad_height = 600;
+
+</script>
+
+<script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+
+</script>
+
+
+<div class="section widget-group-no-name widget-container">
+<div class="secondaryContent widget WidgetFramework_WidgetRenderer_Stats" id="widget-3">
+<p class="mnuinfo">Popular Tutorials</p>
+<div class="pairsJustified">
+<ul>
+<li><a href="/tutorial/perfect-server-debian-9-stretch-apache-bind-dovecot-ispconfig-3-1/">The Perfect Server - Debian 9 (Stretch) with Apache, BIND, Dovecot, PureFTPD and ISPConfig 3.1</a></li>
+<li><hr /></li>
+<li><a href="/setting-changing-resetting-mysql-root-passwords">Setting, Changing And Resetting MySQL Root Passwords</a></li>
+<li><hr /></li>
+<li><a href="/tutorial/setup-fluxbox-desktop-on-kali-linux/">Perfect Fluxbox Desktop on Kali Linux</a></li>
+<li><hr /></li>
+<li><a href="/tutorial/how-to-setup-automatic-security-updates-on-ubuntu-1604/">How to Setup Automatic Security Updates on Ubuntu 16.04</a></li>
+<li><hr /></li>
+<li><a href="/tutorial/how-to-install-icinga2-on-debian-9/">How to Install Icinga 2 Monitoring Tool on Debian 9.2</a></li>
+<li><hr /></li>
+<li><a href="/linux_lvm">A Beginner's Guide To LVM</a></li>
+<li><hr /></li>
+<li><a href="/tutorial/install-apache-with-php-and-mysql-on-ubuntu-16-04-lamp/">Ubuntu 16.04 (LTS) LAMP server tutorial with Apache, PHP 7, and MySQL</a></li>
+<li><hr /></li>
+<li><a href="/tutorial/how-to-use-ftp-on-the-linux-shell/">How to use the Linux ftp command to up- and download files on the shell</a></li>
+<li><hr /></li>
+<li><a href="/tutorial/ubuntu-perfect-server-with-apache-php-myqsl-pureftpd-bind-postfix-doveot-and-ispconfig/">The Perfect Server - Ubuntu 17.10 (Artful Aardvark) with Apache, PHP, MySQL, PureFTPD, BIND, Postfix, Dovecot and ISPConfig 3.1</a></li>
+<li><hr /></li>
+<li><a href="/tutorial/linux-grep-command/">How to use grep to search for strings in files on the shell</a></li>
+<li><hr /></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</aside>
+</div>
+</div>
+</div>
+<footer>
+<div class="footer">
+<div class="pageWidth">
+<div class="pageContent">
+<div class='skin_branding'><a href="http://www.xenfocus.com" rel="nofollow">Xenforo skin</a><span> by <a href="http://www.xenfocus.com" rel="nofollow">Xenfocus</a></span></div>
+<ul class="footerLinks">
+<li><a href="/contribute/">Contribute</a></li>
+<li><a href="/community/misc/contact">Contact</a></li>
+<li><a href="/community/help/">Help</a></li>
+<li><a href="/imprint/">Imprint</a></li>
+<li><a href="/" class="homeLink">Tutorials</a></li>
+<li><a href="#navigation" class="topLink">Top</a></li>
+<li><a href="/feed" rel="alternate" class="globalFeed" target="_blank" title="RSS-Feed for Howtoforge">RSS-Feed</a></li>
+</ul>
+<span class="helper"></span>
+</div>
+</div>
+</div>
+<div class="footerLegal">
+<div class="pageWidth">
+<div class="pageContent">
+<ul id="legal">
+<li><a href="/community/help/terms">Terms</a></li>
+</ul>
+<div id="copyright"><a href="https://www.howtoforge.com" class="concealed">Howtoforge <span>&copy; projektfarm GmbH.</span></a></div>
+<span class="helper"></span>
+</div>
+</div>
+</div>
+</footer>
+<div style="height:100px;"></div>
+<script>
+
+
+
+jQuery.extend(true, XenForo,
+
+{
+
+	visitor: { user_id: 0 },
+
+	serverTimeInfo:
+
+	{
+
+		now: 1409831907,
+
+		today: 1409781600,
+
+		todayDow: 4
+
+	},
+
+	_lightBoxUniversal: "0",
+
+	_enableOverlays: "1",
+
+	_animationSpeedMultiplier: "1",
+
+	_overlayConfig:
+
+	{
+
+		top: "10%",
+
+		speed: 200,
+
+		closeSpeed: 100,
+
+		mask:
+
+		{
+
+			color: "rgb(0, 0, 0)",
+
+			opacity: "0.6",
+
+			loadSpeed: 200,
+
+			closeSpeed: 100
+
+		}
+
+	},
+
+	_ignoredUsers: [],
+
+	_loadedScripts: {"node_list":true,"node_category":true,"node_forum":true,"sidebar_share_page":true,"wf_default":true,"bbm_buttons":true,"login_bar":true,"twitter":true},
+
+	_cookieConfig: { path: "/", domain: "", prefix: "xf_"},
+
+	_csrfToken: "",
+
+	_csrfRefreshUrl: "/community/login/csrf-token-refresh",
+
+	_jsVersion: "303ae0ca"
+
+});
+
+jQuery.extend(XenForo.phrases,
+
+{
+
+	cancel: "Cancel",
+
+
+
+	a_moment_ago:    "A moment ago",
+
+	one_minute_ago:  "1 minute ago",
+
+	x_minutes_ago:   "%minutes% minutes ago",
+
+	today_at_x:      "Today at %time%",
+
+	yesterday_at_x:  "Yesterday at %time%",
+
+	day_x_at_time_y: "%day% at %time%",
+
+
+
+	day0: "Sunday",
+
+	day1: "Monday",
+
+	day2: "Tuesday",
+
+	day3: "Wednesday",
+
+	day4: "Thursday",
+
+	day5: "Friday",
+
+	day6: "Saturday",
+
+
+
+	_months: "January,February,March,April,May,June,July,August,September,October,November,December",
+
+	_daysShort: "Sun,Mon,Tue,Wed,Thu,Fri,Sat",
+
+
+
+	following_error_occurred: "The following error occurred",
+
+	server_did_not_respond_in_time_try_again: "The server did not respond in time. Please try again.",
+
+	logging_in: "Logging in",
+
+	click_image_show_full_size_version: "Click this image to show the full-size version.",
+
+	show_hidden_content_by_x: "Show hidden content by {names}"
+
+});
+
+
+
+// Facebook Javascript SDK
+
+XenForo.Facebook.appId = "";
+
+XenForo.Facebook.forceInit = true;
+
+
+
+/*
+
+document.addEventListener('DOMContentLoaded', function(event) {
+
+  cookieChoices.showCookieConsentBar('Cookies erleichtern die Bereitstellung unserer Dienste. Mit der Nutzung unserer Dienste erklären Sie sich damit einverstanden, dass wir Cookies verwenden.',
+
+  'OK');
+
+});
+
+*/
+
+
+
+$(document).ready(function() {
+
+	$("a.fancybox").fancybox();
+
+});
+
+
+
+</script>
+<script async type="text/javascript" src="//cdn.fancybar.net/ac/fancybar.js?zoneid=1502&serve=C6ADVKE&placement=howtoforge" id="_fancybar_js"></script>
+<script>
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+
+
+  ga('create', 'UA-2155872-1', 'auto');
+
+  ga('set', 'anonymizeIp', true);
+
+  ga('send', 'pageview');
+
+
+
+</script>
+</body>
+</html>

@@ -46,5 +46,16 @@ https://courses.cs.washington.edu/courses/cse390a/15wi/bash.html
 wikibooks: Linux Guide/Linux commands 16
 https://en.wikibooks.org/wiki/Linux_Guide/Linux_commands
 
+Overview of Unix and Linux Commands 17
+https://www.computerhope.com/unix/overview.htm
+
+Important Linux Commands 18
+https://www-uxsup.csx.cam.ac.uk/pub/doc/suse/suse9.0/userguide-9.0/ch24s04.html
+
+Linux Commands- Overviews and Examples 19
+https://www.howtoforge.com/linux-commands/
+
+Linux Command Quick Reference 20
+http://www.oreilly.com/openbook/debian/book/appe_01.html
 
 
