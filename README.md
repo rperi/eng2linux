@@ -8,3 +8,6 @@ Seq2seq model that converts english command description to linux command
 
 [Linux Command]@[Description]
 
+
+## Result ## 
+- Baseline performance (For non-augmented data) : 34.3971%
