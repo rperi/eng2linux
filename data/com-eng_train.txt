@@ -1,0 +1,2531 @@
+m e r g e@three-way file merge. includes all changes from file2 and file3 to file1
+h e x d u m p@ascii, decimal, hexadecimal, octal dump
+m k f i f o@make fifo special files
+y e s@prints a string repeatedly
+n i c e@set the priority of a command or job
+i n s t a l l@copies files and set attributes
+l p i n f o@show available devices or drivers
+x o s v i e w@displays bar graphs of system load, load average, memory usage, and swap usage
+m v@moves and renames files and directories
+l s p c i@list all pci devices
+n e t w o r k s e t u p@network and system preferences
+n e t s c a p e@display localhostname:0
+d i r@a variation of the gnu ls command that defaults to printing file names in columns
+c d@used to change directory
+i o s t a t@shows statistics for cpu, i/o devices, partitions, network filesystems
+i n s m o d@used (by root) to install modular device drivers
+m a k e d b m@creates an nis (network information services) database map
+b z m o r e@used to apply &#8216;more' (an inferior version of less) to bzip2 compressed files
+d v i l j 2 p@specialized version of dvilj for the iip series of printers
+g r e p@searches input files for a given pattern and displays the relevant lines
+i c o n v@converts the encoding of characters from one code page encoding scheme to another
+i f d o w n@shut down the network interface
+l s a t t r@list file attributes on a linux second extended file system
+e d i t r e s@a dynamic resource editor for x toolkit applications
+c o m m a n d@run a command - ignoring shellfunctions
+g e n c a t@generate a formatted message catalog
+w c@output a count of the number of characters, lines, words, etc. in a file
+s y s k l o g d@linux system logging utilities. provides syslogd and klogd functionalities
+b z l e s s@view bzipped files
+r m d i r@remove folder(s)
+g s@ghostscript (postscript and pdf language interpreter and previewer)
+t o p@display linux processes
+b a s e 6 4@base64 encodes or decodes data and prints to standard output
+p a t h c h k@determine validity and portability of filenames
+u p t i m e@shows the uptime
+d u@report disk space used by a file/directory
+t a r@tape archiver
+n m@list symbols from object files
+w h o a m i@display information about userid that is currently logged in
+b i s o n@parser generator similar to yacc
+m o d p r o b e@add and remove modules from the linux kernel
+x@a portable, network-transparent window system
+t o p@dynamically displays process status
+f r o m d o s@takes a dos text file from stdin and sends a unix file to stdout
+y p i n i t@sets up nis maps on an nis server
+n o h u p@run a command immune to hangups
+p a s t e@merge lines of files. write to standard output, tab-separated lines consisting of sqentially correspnding lines from each file
+s h i f t@shifts positional parameters
+r u n l e v e l@print previous and current sysv runlevel
+s l o c a t e@find files
+f o l d@the name is quite suggestive, it wraps textin order to fit a certain width
+b u i l t i n@execute a shell builtin
+q s i g@signal pbs batch job
+d i s k u t i l@disk utilities - format, verify, repair
+f g c o n s o l e@display the number of the current virtual console
+m t o o l s t e s t@tests and displays the mtools configuration files
+n e w g r p@log-in to a new group
+l d@the unix linker, it combines archives and object files. it then puts them into one output file, resolving external references
+p s 2 p d f 1 2@convert postscript to pdf 1.2 (acrobat 3 and later compatible) using ghostscript
+l n@create a link to the specified target with optional link_name
+h e a d@shows first 10 lines from each specified file
+v m s t a t@reports on the virtual memory statistics
+i f@conditionally perform a command
+i m p o r t@capture an x server screen and saves it as an image
+p s 2 p d f w r@convert postscript to pdf without specifying compatibilitylevel, using ghostscript
+s i z e@list section sizes and total size
+e c h o@displays a specified line of text
+f i l e@determines the file type
+c p@make a copy of files to a differentlocation
+h o s t@look up host names using domain server
+v i@another complicated text editor (not recommended)
+t r a c e p a t h@trace path to a network host discovering mtu along this path
+m a n@help manual
+s l o c a t e@security enhanced version of the gnu locate
+s e t m e t a m o d e@define keyboard meta key handling. without arguments, shows current meta key mode
+l e s s@displays the output on a single screen at a time
+p u s h d@pushes the argument onto the top of the directory stack and uses cd to change to that directory
+t t y@print filename of terminal on stdin
+n l@number lines and write files
+h w c l o c k@variables that affect the behaviour of the hwclock boot script
+d o s@invoke the dosemu dos emulator
+t y p e@displays how a name would be interpreted if used as a command
+@log in to system
+t c p d@access control facility for internet services
+i d@print real and effective user and group ids
+g v@postscript and pdf previewer, based on ghostview
+l s m o d@used (by root) to show kernel modules currently loaded
+l o c a l@create variables
+l s b l k@list block devices
+t a i l@outputs the last part of files
+r c p@when using two machines, this command copiesfiles between them
+s y n c@synchronize cached writes to persistent storage
+m v@move or rename files
+t t y@shows special file that represents your terminal
+d c@an arbitrary precision calculator
+p r i n t f@formatted output conversion
+q s e l e c t@select batch jobs
+l l@#ls -l list information about file(s)
+l o g n a m e@this is used to print the login name being usedcurrently
+c v s@cvs version-control systems
+m k t e m p@make a unique temporary filename
+d e v d u m p@interactively displays the contents of device or file system iso
+w i s h@simple windowing shell
+b z c m p@used to call the cmp program for bzip2 compressed files
+d i g@need to lookup the dns? use this
+t i m e@measures the running time of a program
+g e t k e y c o d e s@print kernel's scancode
+m o r e@list file contents, stopping after each full screen
+m d u@used to display the amount of space occupied by an ms-dos directory
+r e s t o r e@restore files from a backup created using dump
+c o m m a n d@run a command (not a function)
+p k i l l@look up or signal processes based on name and other attributes
+m k n o d@this is to create character special files or block files
+m c d@changes working directory on dos disk
+m a k e s w a p@configures swap space
+k b d r a t e@reset keyboard repeat rate and delay time
+p w d@print name of current/working directory
+e g r e p@print lines matching a pattern
+c u r l@used to transfer data from or to a server using supported protocols
+p s@report a snapshot of the current processes
+s e t@set or display value of shell variables
+r a m@ram disk device
+a t r m@delete jobs queued by the at command
+r e a d@read a line from standard input 
+s l e e p@pause for a given number of seconds or ms
+x z@compress/ decompress .xz and .lzma files
+f d f o r m a t@low-level format a floppy disk
+m d i r@used to display an ms-dos directory
+m v@moves files or rename files
+t t y@prints terminal name
+w h o@print all usernames currently logged on
+r e s e t@terminal initialization
+s c r e e n c a p t u r e@capture screen image to file or disk
+m o r e@display files on a page-by-page basis
+q d e l@delete pbs batch job
+p o p d@pops the top directory of the directory stack and uses cd to change to that directory
+e 2 l a b e l@show or change the label on an ext2/ext3/ext4 filesystem
+c a l@displays calendar
+k i l l@send a signal to a process
+i f@conditional command
+h a s h@remember the full pathname of a name argument
+d c@command line calculator
+s e q@this command is used for printing numericsequences
+e x e c@execute a command
+u s l e e p@suspend execution for microsecond intervals
+p a t h c h k@check if file names are valid or portable
+m a i l s t a t s@shows current mail statistics
+q r l s@release batch jobs
+d m e s g@use this command when you want to print kernel and drivermessages
+u s e r d e l@delete a user account and related files
+l p r i n t q@lists the print queue
+k b d r a t e@reset the keyboard repeat rate and delay time
+p i n e@email program used by the university of washington
+a u t o m a k e@manual page for automake 1.15
+p w d@displays the shell's current working directory
+m k m a n i f e s t@makes a list of file names and their dos 8.3 equivalent
+b a s h@gnu bourne-again shell
+n m@lists the symbols from object files objfile
+b c@access the gnu bc calculator utility
+i n s m o d@simple program to insert a module into the linux kernel
+i m p o r t@saves any visible window on an x server and outputs it as an image file. you can capture a single window, the entire screen, or any rectangular portion of the screen
+g r o u p d e l@used to remove a user group
+u s e r s@prints list of users on the system
+a c c e s s@check user's permissions for a file
+t e e@redirects output into multiple files
+m a k e d e v@manage a device number
+s h r e d@overwrite a file to hide its contents, and optionally delete it
+w h i c h@find command path
+c a t@concatenate a file print it to the screen
+s c u t i l@manage system configuration parameters
+x a r g s@build and execute command lines from standard input
+t u n e l p@set various parameters for the lp device
+i f d o w n@take a network interface down
+c a l@displays a calendar and the date of easter
+s c p@this is used tocreate a secure copy
+d a t e@outputs the current date/time
+t r u n c a t e@shrink or extend the size of a file to the specified size
+t i m i d i t y@play midi files and set up software synth to play midi files with other commands
+b a s e n a m e@remove directory and suffix from a file name
+l p r@print files
+s o u r c e@run commands from a specified file
+h a s h@hash database access method
+f a l s e@exit with a status code indicating failure
+l o g i n@create a new session on the system
+h y l a f a x@commercial fax program
+g r e p@search file(s) for lines that match a given pattern
+q r e r u n@rerun batch jobs
+e v a l@evaluates many commands
+u s e r s@this command gives youa list of users who are currently logged in
+s e d@edits a file (not interactively)
+u s e r d e l@this commandwill delete an user account from your system
+t r u e@does nothing, but exits successfully
+e x@text editor
+w h o a m i@prints the current name and user id
+b a s e n a m e@strips suffixes off files and directories
+r l o g i n d@acts as the server for rlogin. it facilitates remote login, and authentication based on privileged port numbers from trusted hosts
+a r@create, modify and extract from archives
+l o c k@temporarily lock terminal
+r c p@copies files between two devices
+i f d o w n@stops a network interface
+l o g n a m e@consult /etc/utmp for user's login name
+i p t a b l e s@administration tool for ipv4/ipv6 packet filtering and nat
+l e t@used to perform integer artithmetic on shell variables
+z c a t@used to compress/uncompress files. similar to gzip
+t p u t@change terminal characteristics
+f c@process the command history list
+f s t a t@list open files
+x m a n@manual page display program for the x window system
+d d@data dump - convert and copy a file
+u n z i p@list, test and extract compressed files in a zip archive
+s s h - a d d@adds private key identities to the authentication agent
+m d 5 s u m@compute and check md5 message digest
+m e s g@enables/disables reception of messages
+d c@desk calculator utility
+a p l a y@sound recorder and player for cli
+g e t f i l e i n f o@get attributes of hfs+ files
+r v i e w@vi improved, a programmer's text editor
+u m a s k@this is used todetermine the file permission for a new file
+a l s a c t l@access advanced controls for alsa soundcard driver
+d m e s g@print kernel & driver messages
+h e x d u m p@shows specified file output in hexadecimal, octal, decimal, or ascii format
+d f@report file system disk space usage
+d v i l j 2 p@convert a tex dvi file to pcl, for hp laserjet printers
+x e d i t@a simple text editor for x
+t i m e s@user and system times
+h a l t@variables that affect the behavior of the shutdown scripts
+g r o u p m o d@modify a group
+t r a c e r o u t e@print the route packets take to network host
+s e t f d p r m@sets floppy disk parameters as provided by the user
+e 2 i m a g e@store important ext2/ext3/ext4 filesystem metadata to a file
+t t y@print name of terminal connected to standard output
+l p@send files to a printer
+t r a c e r o u t e@trace route to host
+c o l o r@xterm
+d i r@list directory contents
+s t t y@set the options for a terminal
+s t o p@init daemon control tool
+u u i d g e n@generate a unique id (uuid/guid)
+t i m e@measure program resource use
+c u t@cut out selected fields of each line of a file
+l o g i n@write utmp and wtmp entries
+r e t u r n@exit a function
+b u i l t i n@used to run shell builtin commands, make custom functions for commands extending their functionality
+t a c@concatenates and prints files in reverse order line by line
+c c / c 9 9@compile standard c programs
+n c f t p@browser program for the file transfer protocol
+t l o a d@graphic representation of system load average
+r c p@copy one or more files to or from remote computer
+e x p a n d@convert tabs in files to spaces and write to standard output
+t o u c h@changes file timestamps
+r e a d c d@read/write compact disks
+l a s t l o g@formats and prints the contents of the last login log /var/log/lastlog file
+m o r e@display output one screen at a time
+s s h d@openssh ssh daemon
+f c@fix command (history)
+e s d p l a y@use esound system to play a file
+w h o@display who is on the system
+d a t e@display the date and time
+e v a l@evaluate several commands/arguments
+n p r o c@queries the number of (active) processors
+p i c o@nano's another editor, an enhanced free pico clone
+p r@convert text files for printing
+l o g g e r@log messages
+d e c l a r e@declare variables and give them attributes
+s s@another utility to investigate sockets
+s o u r c e@run commands from a file `.'
+r e j e c t@accept/reject jobs sent to a destination
+i n s t a l l@copy files and set attributes
+f c@views, edits, and executes commands for the history list
+c r o n@a daemon to execute scheduled commands
+y p b i n d@a daemon that helps client processes to connect to an nis server
+x r a n d r@change resolution running xwindows ( command line )
+i o s t a t@report cpu and i/o statistics
+f s t a t@get file status
+l o g o u t@write utmp and wtmp entries
+a s h@a shell, a very simple shell program sometimes used on boot diskettes since it takes up much less space than bash, tcsh, zsh, etc
+t i m e@measure how long a program takes to run
+g t a r@see the tar command
+t i m e s@print shell & shell process times
+d i s p l a y@displays an image or image sequence on any x server
+z n e w@recompress .z files to .gz files
+e l v i s@a version of the vi text editor
+l d@the gnu linker
+d v i p s@convert a tex dvi file to postscript
+m k n o d@creates character special files or block files
+f i n d@search for files that meet a desired criteria
+x b i f f@graphical mail delivery notification utility
+p a t c h@apply changes to files
+q u o t a@shows disk usage, and space limits for a user or group. without arguments, only shows user quotas
+f m t@reformat paragraph text
+z d u m p@displays time for the timezone mentioned
+p e r l@practical extraction and report language
+w h e r e i s@report all known instances of a command
+d n s s e c - s i g n k e y@sign a secure dns keyset with key signatures specified in the list of key-identifiers
+n i c e@invoke a utility with an altered nice value
+d a t e@changes the date and time
+m d i r@display an msdos directory
+s l e e p@sleep for the specified number of seconds
+e x p o r t@set an environment variable
+b g@send processes to the background
+s u d o@execute a single command as the super-user
+p i n g 6@ping
+x c a l c@scientific calculator for x
+u n i c o d e _ s t a r t@put keyboard and console into unicode (utf-8) mode
+b a t c h@queue, examine, or delete jobs for later execution
+p s 2 e p s i@generate conforming encapsulated postscript
+r e t u r n@thisis used to exit from a shell function
+a r@create, modify, and extract from archives
+m k e 2 f s@used create an ext2/ext3/ext4 filesystem
+s s h@connect to a remote unix server; open a shell on it or send/receive files from it
+f g@run jobs in the foreground
+t r a c e p a t h 6@traces path to a network host discovering mtu along this path
+c v s@manages concurrent access to files in a hierarchy
+y a c c@parser generator
+h e a d@copy the first part of files
+n e w a l i a s e s@rebuilds mail alias database
+m e s g@permit or deny messages
+u n l i n k@call the unlink function
+s l a b t o p@show kernel slab cache information in real-time
+v m s t a t@shows information about processes, memory, paging, block io, traps, disks, and cpu activity
+s o u r c e@this command is used for running commands from afile
+n o h u p@this one runs a command, which is not affected byhangups
+f a c t o r@display prime factors of a number
+l s a t t r@shows file attributes on a linux ext2 file system
+c o l c r t@filter nroff output for crt previewing
+m a n@provides help on a command
+t a i l@print the last 10 lines of a file standard output
+u p t i m e@tells how long the system has been running
+l s m o d@list loaded kernel modules
+c o m m a n d@used to execute a command with arguments ignoring shell function named command
+t a i l@output the last part of file
+t a s k s e t@set or retrieve a process's cpu affinity
+l d d@print shared object dependencies
+c p@copy files and directories
+n e w u s e r s@update/create new users in batch
+i n s t a l l@sets attributes and copies files
+i p c r m@used to remove system v interprocess communication (ipc) objects and associated data structures
+s l a t t a c h@attack a network interface to a serial line
+e x i t@exit from the terminal
+c p@copy command
+m t r@network diagnostics command
+c o m m a n d@run a command - ignoring shell functions 
+w g e t@retrieves the web pages or files through http, https or ftp
+r p m@rpm command options
+u p d a t e d b@update file database used by locate command
+l p r i n t@used to print a file
+t y p e@displays how each argument would be interpreted as a command
+m k s w a p@set up a linux swap area
+m s h o w f a t@show fta clusters allocated to a file
+m m o u n t@mount an ms-dos disk
+a s m o d e m@afterstep utility to monitor modem status
+p r i n t f@write formatted output
+x@the x server
+u m o u n t@unmount a filesystem
+e x e c v e@a variation of the exec command
+t y p e@write a description for a command type
+s t a t@returns data about an inode
+c o m m a n d@that invokes nedit-nc on current systems)
+e c h o@display message on screen 
+u l i m i t@get and set user limits for the calling process
+e l i n k s@a text mode www browser (supports frames)
+t s o r t@perform topological sort
+m k d i r@make directories
+d i f f 3@compare three files line by line
+r e a d@this commands is used for reading a linefrom standard input
+d e l t a@make a delta (change) to an sccs file
+v d i r@ verbosely list directory contents
+d i f f@output differences between two files
+f s _ u s a g e@filesystem usage (process/pathname)
+x c a l c@simple calculator program
+c r o n t a b@schedules a command that will run at a specified time
+c h g r p@change group ownership
+l p c@line printer control program
+s y n c@flushes file system buffers
+n a n o@simple text editor
+i s o v f y@utility programs for dumping and verifying iso9660 images
+g r o u p a d d@add a user security group
+c h m o d@change file permissions
+y e s@output a string repeatedly until killed
+w h i l e@loop command
+l p r m@removes the jobs from the print queue
+a s m a i l@afterstep mail checking utility
+u m o u n t@unmounts a device from the system
+r e d@red is a restricted ed: it can only edit files in the current directory and cannot execute shell commands
+u s l e e p@sleep a given number of microseconds. default is 1
+o b j d u m p@display information from object files
+t k d e s k@graphical desktop file manager for x
+t o u c h@changes timestamps on a file
+l p r i n t q@list the print queue
+c a t@concatenate and print (display) the content of files
+i p t a b l e s - r e s t o r e@restore ip tables
+r p c i n f o@shows rpc information. makes an rpc call to an rpc server and reports the findings
+b z i p 2@compresses with algorithm different from gzip
+e c h o@display text on screen
+p r i n t f@format and print data 
+s e t f o n t@load ega/vga console screen font
+z c a t@show contents of compressed file(s)
+p s t r e e@display a tree of processes
+x p d f@gpl'd utility for previewing dvi files
+l e s s k e y@specify key bindings for less
+r e m s y n c@synchronises remote files through email
+g e t e n t@shows entries from name service switch libraries for specified keys
+p r i n t e n v@prints environment variables
+f a l s e@null command that returns an unsuccessful exit status
+s t a t@display file or file system status
+l o g r o t a t e@rotates, compresses, and mails system logs
+e x e c@executes a command
+a r e c o r d@command-line sound recorder and player for alsa soundcard driver
+n a m e i f@name network interfaces based on mac addresses
+n e t s t a t@show network status
+m b a d b l o c k s@checks md-dos filesystems for bad blocks
+i s p e l l@checks files for spelling errors
+x w u d@image displayer for x
+s e t s i d@run a program in a new session
+g r o u p a d d@used to add a new user group
+t s e t@terminal initialization
+w a i t@directs the system to wait for a process to finish
+c p@copy contents of one file to another
+z f o r c e@adds .gz extension to all gzipped files
+s e q@prints a sequence of numbers
+c o m m@select or reject lines common to two files
+c h c o n@changes file security context (selinux)
+a u t o h e a d e r@create a template header for configure
+g r o f f@serves as the front-end of the groff document formatting system
+z l e s s@displays information of a compressed file (using less command) on the terminal one screen at a time
+l o g o u t@exit a login shell
+p w c o n v@convert to and from shadow passwords and groups
+d e c l a r e@this command isused to declare the variables and to give attributes
+h d i u t i l@manipulate iso disk images
+p r i n t e n v@list environment variables
+v@this command lists the contents of a directory
+i s o s i z e@show the length of an iso9660 filesystem contained in a specified file
+e x p a n d@convert tabs into spaces in a given file and show the output
+u u x@remote command execution
+z l e s s@file perusal filter for crt viewing of compressed text
+r e b o o t@restart the machine
+n f s s t a t@list nfs statistics
+s h i f t@this command is used for shifting positionalparameters
+e n a b l e@disable/enable bulletin shell commands
+m k s w a p@creates a linux swap space on the specified hard disk parition (root privileges neede)
+g u n z i p@a utility to compress/expand files
+p o r t m a p@converts rpc program numbers to ip port numbers
+l s@list directory contents
+a r e c o r d@just like aplay, it's a sound recorder and player for alsa soundcard driver
+o p e n s n o o p@snoop file opens as they occur
+d f@report free disk space
+r w a l l@write to all users over a network
+l s@shows the list of files in the current directory
+m a i l@a mail processing system, which has a command syntax like ed
+d i f f@displays differences between two files
+l a s t l o g@prints the last login times of all users
+p d f t e x@pdf output from tex
+g r o u p s@shows which groups you are in
+f d f o r m a t@this command is used for lowlevel format of a floppy disk
+r m@removes specified files and directories (not by default)
+w h i c h@for a given command, lists the pathnames for the files which would be executed when the command runs
+s t r i p@discard symbols from object files
+l s@list files in a directory
+u p t i m e@show uptime
+e s d r e c@use esound to record audio to a specified file
+m t o o l s@utilities to access ms-dos disks
+c o n t r o l@panel
+w h o a m i@this is a command thatprints the current name and user id
+x i n i t@start x window
+l o c k f i l e@create semaphore file(s), used to limit access to a file
+f c - c a c h e@build font information cache files
+c o m m a n d@execute a simple command
+a t@executes a shell script at specified time
+y p w h i c h@shows the hostname for nis server or master server for a given map
+n i s d o m a i n n a m e@show or set system's nis/yp domain name
+f d f o r m a t@do a low-level format on a floppy disk
+d i r s@thiscommand shows you the list of directories that are remembered
+j o b s@lists jobs that are active
+h i s t o r y@display entire command history
+r m d i r@remove directories, if they are empty
+s l o c a t e@display matches by searching filename databases. takes ownership and file permission into consideration
+t r u e@null command that returns a successful exit status
+c p i o@copy files from and to archives
+y p p a s s w d d@acts as a server for the yppasswd command. receives and executes requests
+c a t@output the contents of a file
+s h o p t@set shell options
+m k d o s f s@used to create an ms-dos filesystem under linux
+q h o l d@hold batch jobs
+d s e d i t g r o u p@edit, create, manipulate, or delete groups
+d l p s h@interactive desktop link protocol (dlp) shell for palmos
+i f u p@starts a network interface app
+n a m e d@internet domain name server
+u l i m i t@set or report file size limit
+c h m o d@change access permission for a file(s)
+t r@translation utility that can be used, for example, to replace specified characters in a text file
+x a r g s@launch a command over each of a set of lines of input (often used with find)
+w h e r e i s@search the user's $path, man pages and source files for a program
+e n v@list or set environment variables
+f i n d@find files according to a large variety of search criteria
+p r i n t f@show arguments formatted according to a specified format
+m m o u n t@mount an msdos disk
+w h a t i s@search the whatis database for complete words (command names)
+b z i p@improved compression/decompression programs
+c p i o@copy files to and from archives
+f a c t o r@print prime factors
+h e a d@simple command line user agent
+g e t o p t s@parse positional parameters
+e c h o@displays message on the screen
+n e w g r p@change to a new group (functionaliy similar to sg[1])
+r m@removes particular files
+s t r i n g s@find printable strings in files
+p r i n t e n v@print all or part of environment
+m o d i n f o@show information about a linux kernel module
+t a i l@output the ending of a file
+p r@prepare files for printing
+e x p o r t@sets an environment variable
+s o r t@sort lines of a text file
+l a s t b@show a listing of last logged in users
+p s@report process status
+i p@display/manipulate routing, devices, policy, routing and tunnels
+a s p e l l@interactive spell checker
+s h o w m o u n t@show information about an nfs server
+s s h - a g e n t@it holds private keys used for public key authentication
+u s e r s@show the list of active users on the machine
+p a s t e@merge corresponding or subsequent lines of files
+t r@deletes characters, translates or squeezes them
+u n i q@uniquify files (remove all duplicate lines)
+r e a d l i n k@print resolved symbolic links or canonical file names
+c s p l i t@splits a file into context-determined pieces
+i p c r m@remove certain ipc resources
+i c o n v@codeset conversion
+n o t i f y - s e n d@sends desktop notifications
+v i@vi improved, a programmers text editor
+n e t s t a t@print network connections, routing tables, interface statistics, masquerade connections, and multicast memberships
+g r o u p a d d@adds security user groups
+r m d i r@used to remove empty directories
+e n a b l e@enable and disable builtin shell commands
+r e p q u o t a@report disk usage and quotas for a specified filesystem
+b a s e n a m e@convert a full pathname to just a filename
+e m a c s@a complicated text editor (not recommended)
+r p m 2 t g z@an extremely useful utility on slackware systems that converts rpm packages to tgz format
+t o p@see what processes are using the most cpu/memory, and show system memory/cpu stats
+a w k@pattern scanning and processing language
+t o p@displays real-time view of processes running on the system
+b z i p 2@compresses or decompresses files
+m k d i r@used to create directories
+l a s t@file
+o p e n@start a program on a new virtual terminal (vt)
+l o o k@display lines beginning with a given string
+c r o n@daemon to execute scheduled commands at predefined time
+f i n g e r@displays information about the system users
+p k g u t i l@query and manipulate installed packages
+z d i f f@read compressed files and pass them to diff
+z i p@compression and file packaging utility
+g u n z i p@unzip .gz files
+n e t c o n f@used (as root) to set up network
+s f t p@secure file transfer protocol (ftp)
+y e s@prints a string until it is interrupted
+v r f y@query remote host to verify the accuracy of an email address
+a s@a portable gnu assembler
+l f t p@an ftp utility with extra features
+c h v t@change foreground virtual terminal
+m a k e d e v@executable script to make device files on /dev
+f d i s k@manipulate disk partition table
+f l e x@generate programs that perform pattern-matching on text
+e g r e p@searches for files that have lines matching an extended expression
+e c h o@display a line of text
+m e s g@allow/disallow osends to sedn write messages to your terminal
+r c p@secure copy (remote file copy program)
+m k m a n i f e s t@makes list of file names and their dos 8+3 equivalent
+d i g@interrogate dns name servers
+p l u t i l@property list utility
+d s m e m b e r u t i l@view user and groups rights
+h e l p@display the built in help for a command
+f r e e@disp, s memory usage
+o p e n@open a file in its default application
+q h o l d@hold pbs batch jobs
+e n a b l e@enable and disable builtin shell commands 
+j o i n@merges two sorted text files based on the presence of a common field
+b u n z i p 2@used to uncompress files compressed with bzip2
+c r o n@executes scheduled commands
+n c@arbitrary tcp and udp connections and listens
+d i t t o@copy files and folders
+d i r@list the contents of a directory
+c h f n@change real user name and information
+e x p r@evaluates expressions
+p w c o n v@creates shadow from passwd and an optionally existing shadow
+g v i m@see vi
+f m t@this is used for reformattingparagraph text
+a c l o c a l@gnu autoconf too
+e l m@an interactive mail system
+d a t e@print or set the system date and time
+f o l d@wrap each input line to fit in specified width
+s t r a c e@trace system calls and signals
+l p r@used to submit files for printing
+b z g r e p@used to call grep for bzip2 compressed files
+e s d c t l@esound control program
+y p c a t@shows the nis map (or database) for the specified mapname parameter
+p r i n t f@formats and prints data
+d o t _ c l e a n@remove dot-underscore files
+s t t y@raw  unformatted output to terminal
+t s o r t@topological sorting
+m e t a m a i l@for sending and showing rich text or multimedia email using mime typing metadata
+t e x t u t i l@manipulate text files in various formats (doc,html,rtf)
+c h r o o t@run a command with root privileges
+y p t e s t@calls various functions to check the configuration of nis services
+d i r s@show the list of remembered directories
+t u n e l p@set various parameters for the line printer devices
+a p r o p o s@search the manual page names and descriptions
+c a t@concatenates and prints files on the standard output
+f i l e@determine type of file
+f t p@file transfer protocol
+m m o v e@move or rename an ms-dos file or subdirectory
+m t y p e@displays contents of a dos file
+f t p@file transfer over network
+a c l o c a l@manual page for aclocal 1.15
+t a r@store, list or extract files in an archive
+r e a d o n l y@mark variables/functions as readonly
+w h o@this command will print the usernames that arecurrently logged into the system
+l e x@generate programs for lexical tasks
+h t d i g e s t@manage the user authentication file used by the apache web server
+s c r e e n@multiplex terminal, run remote shells via ssh
+b i f f@mail notification utility
+t r a c e p a t h 6@see tracepath
+i c o n v@perform character set conversion
+k b d _ m o d e@report or set the keyboard mode (raw, medi- umraw or xlate)
+g z i p@gnu compression/decompression programs
+p s 2 p d f 1 4@convert postscript to pdf 1.4 (acrobat 5-and-later compatible) using ghostscript
+t y p e@describe a command
+w@see who is logged in to this computer
+s d i f f@merge two files interactively
+r m@remove files or directories
+x s e t r o o t@utility to configure root window of an x terminal
+m a k e@recompile a group of programs
+x d g - o p e n@used to open a file or url in an application preferred by the user
+t h e@c option to lilo has lilo use the lilo
+d i f f 3@show differences among three files
+r p m@rpm package manager (was redhat package manager)
+c a l l e r@return the context of a subroutine call
+m t r@a network diagnostic tool
+t r e e@display file tree
+i f@execute a command conditionally
+n e d i t - n c@nedit-nc is the client interface to the nedit text editor
+m a k e@determine which parts of a system must be recompiled, and compile them
+e x p o r t@place the value of a variable in the calling environment (makes it global)
+t o p@display process information
+s o r t@sort, merge, or sequence check text files
+g e t c o n f@get configuration values
+a c p i d@advanced configuration and power interface event daemon
+m k e 2 f s@create an ext2/ext3/ext4 filesystem
+p a s t e@this command isused for merging lines in files
+s e l e c t@synchronous i/o multiplexing
+w h e r e i s@locate the binary, source, and manual page files for a command
+w h i c h@search the user's $path for a program file
+u s e r a d d@use this command whenyou need a new user account to be created
+i f u p@start a network interface up
+f s c k@checks the consistency of the file system and repairs it
+n i c e@use this to set the priorityof a job or a command
+e m a c s@screen oriented text editor
+d o m a i n n a m e@show or set the name of current nis (network information services) domain
+m k d i r@create new folder(s)
+w a l l@broadcasts a message to all other users logged in to this computer
+f i l e@determine file type for a file
+q u o t a c h e c k@scan a file system for disk usage
+t e l i n i t@used to change run level
+j o b s@list active jobs
+u n i q@report or omit repeated lines
+d i f f@compare two files; see also cmp
+l i n u x c o n f@interactive tool for configuring linux system
+s a n e - f i n d - s c a n n e r@find scsi and usb scanners and their device files
+g z c a t@show contents of compressed file(s)
+s t r i n g s@search a specified file and prints any printable strings with at least four characters and followed by an unprintable character
+u m a s k@set file mode creation mask
+c a l@outputs an ascii calendar
+c x r e f@generate a c-language program cross-reference table
+m c d@used to change ms-dos directory
+c h p a s s w d@update passwords in batch mode
+l o g i n@sign on
+f u s e r@find and kill a process accessing a file
+c u t@divide a file into several parts
+a p t - g e t@install and search for software packages
+r a r@archive files with compression
+i p t a b l e s - s a v e@dump iptables rules to stdout
+s u s p e n d@suspends the execution of the current shell
+p w c h k@checks the integrity of password and shadow files
+y p x f r@transfers nis server map from server to a local host
+s l e e p@suspend execution for an interval
+t i m e s@shows accumulated user and system times for the shell and it's child processes
+r u p t i m e@show host status of local machines
+r e t u r n@exits from a function
+w c@prints the word, byte and line counts
+.@run a command script in the current shell
+x p a i n t@simple paint program for x
+s s h - k e y g e n@it generates, manages, converts authentication keys for ssh
+l s b o m@list a bill of materials file
+g u n z i p@used to uncompress files compressed with gzip
+l s o f@list open files
+x v i d t u n e@video mode tuner for xorg
+m a k e@recompiles the group of programs
+e 2 f s c k@check a linux ext2/ext3/ext4 file system
+x d v i@view a dvi file compiled under latex
+a c c e p t@accept/reject jobs sent to a destination
+c f l o w@generate a c-language call graph
+m d 5 s u m@computes and checks md5 message digest
+r s y n c@synchronises file trees
+m o r e@file perusal filter for crt viewing
+p e r l@the perl 5 language interpreter
+a l s a c t l@advanced controls for alsa soundcard driver
+r e a d@reads a value from standard input
+e m a c s@emacs text editor command line utility
+m t o o l s@manipulates files from ms-dos
+e t a g s@used to create a list of functions and macros from a programming source file. these etags are used by emacs. for vi, use ctags
+b h@puts a job in the background
+t e e@read from standard input and write to standard output and files
+r e a d o n l y@mark a variable or function as read-only
+f o l d@wrap text to fit a specified width
+c o l r m@remove columns from the lines of a file
+u n r a r@extract files from a rar archive
+t i m e o u t@puts a time limit on a command
+w a i t@waits for a specified process id(s) to terminate and returns the termination status
+f t p@file transfer protocol user interface
+z i p i n f o@list detailed information about a zip archive
+t r u e@do nothing, successfully
+t i m e s@use thisto find the user and system times
+n c@netcat, read and write data across networks
+x d g - o p e n@open a file or url in the user's preferred application
+t a c@print file in reverse
+t a l k@visual communication program that copies lines from one terminal to that of another user
+b a s e n a m e@return non-directory portion of a pathname; see also dirname
+p s@displays status of processes
+d e c l a r e@declare variables and give them attributes 
+r w a l l@sends messages to all users on the local network
+o p e n@this command opens a file in its default application
+w a i t@wait for a process to complete
+m e t a s e n d@an interface for sending non-text mail
+v d i r@list directory contents
+c r o n t a b@scheduling is sometimes very important
+t c p d u m p@dump traffic on network. displays a description of the contents of packets on a network interface that match the boolean expression
+s t r i n g s@print the strings of printable characters in (binary) files
+s h u t d o w n@use this command when you want to shutdown linux or restartit
+s e t g i d@set group identity
+p g a w k@the profiling version of gawk
+e v a l@this command is used when you need to evaluate amany commands
+f o r t u n e@available in the bsdgames package in slackware and other distributions
+m k f s@used to build a linux filesystem on a hard disk partition
+p b c o p y@copy data to the clipboard
+s s h@this is used to run the remote login program, that is,the secure shell client
+g + +@run the g++ compiler
+o p e n@opens a file in its default application
+c l e a r@used to clear the terminal window
+f g@this command is used forsending a task to the foreground
+d e a l l o c v t@deallocate unused virtual consoles
+p i n k y@a lightweight version of finger
+h i s t o r y@show a list of all past commands you have typed into this shell
+p g@browse pagewise through text files
+u f s . u t i l@mount/unmount ufs file system
+f m t@used to convert text to a specified width by filling lines and removing new lines, displaying the output
+w g e t@the non-interactive network downloader
+. p e r i o d@run commands from a file
+d d r e s c u e@disk recovery tool
+s u s p e n d@suspend the execution of the current shell
+c h g r p@this is how youchange the ownership of a group
+e s d m o n@used to copy the sound being sent to a device. also, send it to a secondary device
+p a t c h@updates source code
+r e j e c t@accept/reject print jobs sent to a specified destination
+z d i f f@compare compressed files
+f a l s e@do nothing, unsuccessfully. exit with a status code indicating failure
+p r a l i a s e s@prints the current system mail aliases
+s t o p@stop a job or process
+p s b o o k@rearrange pages in postscript file into signatures
+s e t@give values to a variable, or delete a variable
+n p r o c@print the number of processing units available
+q s t a t@show status of batch jobs
+i f c o n f i g@configure a network interface
+s u m@print a checksum for a file
+f g@send job to foreground
+z g r e p@search possibly compressed files for a regular expression
+j o i n@joins lines on a common field
+s o r t@sort text files
+p r@prepare your files forprinting using this
+s e d@stream editor
+m k d i r@creating directories
+s u@substitute the user identity using thiscommand
+u n e x p a n d@this command will convert the spaces in afile to tabs
+r o o t f l a g s@show/set flags for the kernel image
+v i e w@vi in read
+b r e a k@used to exit from a loop (eg: for, while, select)
+l i n k@creates a link to a file
+f 7 7@fortran 77 compiler
+l o c a t e@find files by name
+x a r g s@execute utility - passing arguments
+b z i p 2@a block-sorting file compressor, v1.0.6
+a s p e l l@a spell checking program along the lines of ispell
+i f d o w n@use this command forstopping a network interface
+p i d o f@find the process id of a running program
+p i n g@send icmp echo_request to network hosts
+a c o n n e c t@alsa sequencer connection manager
+r e v@this command reversesthe lines in a file
+l o o k@shows any lines in a file containing a given string in the beginning
+a s h@ash command interpreter (shell)
+d i f f@determine difference between two files
+p w d@print working directory - return working directory name
+c f d i s k@in linux, thiscommand is the partition table manipulator
+m a i l t o@used to send mail with multimedia content in mime format
+s c a n a d f@retrieve multiple images from a scanner equipped with an automatic document feeder (adf)
+l p i n f o@shows the list of avaiable devices and drivers known to the cups server
+l o g n a m e@print user's login name
+g 7 7@gnu fortran 77 compiler
+b a n n e r@used to print characters as a poster
+r e a d e l f@shows information about elf (executable and linkable fomrat) files
+p d f i n f o@print contents of the 'info' dictionary (plus some other useful information) from a pdf file
+s s@display socket statistics, similar to netstat
+d m e s g@examine and control the kernel ring buffer
+c h r o o t@run command or interactive shell with special root directory
+h o s t n a m e@show or set the system's host name
+t r@delete characters, translateor squeeze them
+w a t c h@runs commands repeatedly until interrupted and shows their output and errors
+u m o u n t@this commandwill unmount a device from the system
+a w k@used to find and replace text in a file(s)
+n e t s t a t@provides information on networking
+f i l e@operations	cp	copies a file/directory
+u s e r m o d@modify user account
+r o u t e@n
+e n v@run a program in a modified environment
+u n s e t@gid  group id change
+z c m p@compare compressed files
+g e t c o n f@query system configuration variables
+a p r o p o s@search help manual pages (man -k)
+h i s t o r y@command history
+k i l l@stop a process from running
+h o s t n a m e@print or set system name
+a d d r e s s e s@formats for internet mail addresses
+a g e t t y@alternative linux getty
+w a l l@display a message on the terminals all the users who are currently logged-in
+b g@bgcould stand for background couldn't it? regardless, that's whatit does, sends to the background
+x h o s t@tell x server that remote computer has access to your machine and that you will use the remote computer
+s l o c a t e@finds particular files
+c h r o o t@run a command with a different root directory
+s e q@print a sequence of numbers
+a s@the portable gnu assembler
+f g@used to send a job to the foreground
+v i@this is a text editor
+b l e s s@set volume bootability and startup disk options
+c o l u m n@columnate lists
+b u n z i p 2@decompress file from bzip2 format
+s h a s u m@print or check sha checksums
+d i r n a m e@parse pathname components
+s e l e c t@generate a list of items
+s e t l e d s@set the keyboard leds
+p w d@prints the current working directory
+p d f t o t e x t@portable document format (pdf) to text converter (version 3.03)
+p i n g@tests network connections
+x h o s t@server access control program for x
+n e w u s e r s@update and create new users in batch
+p a t h c h k@check whether file names are valid or portable
+i d@prints real or effective uid and gid
+p i c o@text editor that comes with pine (from the university of washington)
+u n i q@strip duplicate lines
+l s u s b@list usb devices
+t s e t@initializes terminal
+t s o r t@this is used for topological sorting
+c k s u m@perform a crc checksum for files
+s h u t d o w n@power-off the machine
+u n a m e@prints system information
+m d e l ,   m d e l t r e e@used to delete ms-dos file. mdeltree recursively deletes ms-dos directory and its contents
+p a t h c h k@check file name portability
+d u m p k e y s@print information about the keyboard driver's translation tables to standard output
+c m p@compare two files (byte by byte)
+e d q u o t a@used to edit filesystem quotas using a text editor, such as vi
+g e t i p t s@parses arguments to a shell script
+e n a b l e@use this to disable or enable bulletin shellcommands
+p d f 2 p s@ghostscript pdf to postscript translator
+s s h@secure shell connection command
+g p r o f@display call graph profile data
+c h o w n@change the owner or group for a file
+s y s t e m _ p r o f i l e r@report system configuration
+r e s e t@used to reset the screen characteristics
+r o u t e d@a daemon, invoked at boot time, to manage internet routing tables
+i p c a l c@calculate ip information for a host
+r m@deletes a file
+s o u r c e@execute commands from a file
+r p c g e n@an rpc protocol compiler. parse a file written in the rpc language
+c o m m@compares two sorted files line by line
+l n@creates a symbolic link to another file
+w h i l e@use this to executecommands
+w r i t e@send messages to another local user
+c f d i s k@display or manipulate a disk partition table
+b r e a k@unimplemented system calls
+t l o a d@display system load average in graph format
+r o u t e@show / manipulate the ip routing table
+d u m p k e y s@write keyboard driver's translation tables to std output
+d f@displays capacity and free capacity on different physical devices such as hard drive partitions and floppy drives that are mounted on the file system
+g p g@enables encryption and signing services as per the openpgp standard
+p v@monitor progress of data through a pipe
+e x i t@quits the shell
+r s h@execute shell command on a remote computer
+c u t@removes sections from each line of files
+d o s f s c k@check and repair ms-dos file systems
+t i m e o u t@execute a command with a time limit
+c l e a r@clear terminal screen
+t a c@concatenate and print files in reverse
+i n s t a l l p k g@slackware command to install one of the packages from the program sets
+e x p e c t@programmed dialogue with interactive programs
+u s e r m o d@modify a user account
+u l@underline text
+u n s e t@remove variable or function names
+u m o u n t@unmount a device
+c r o n t a b@schedule a command to run at a later date/time
+b z i p 2@compress or decompress named file(s)
+u n a l i a s@remove alias definitions
+u p t i m e@this command will show the uptime
+b c@arbitrary precision calculator language
+a d d r 2 l i n e@convert addresses into file names and line numbers
+d e b u g f s@ext2/ext3/ext4 file system debugger
+s c a n i m a g e@read images from image aquistion devices (scanner or camera) and display on standard output in pnm (portable anymap) format
+s e n d m a i l@it's a mail router or an mta (mail transfer agent). sendmail support can send a mail to one or more recepients using necessary protocols
+t i n@netnews reader
+c h o w n@changes the owner and group of a file
+d i f f 3@compares three files and reports on differences
+u l i m i t@limit the use of system-wide resources
+x m o d m a p@utility for modifying keymaps and pointer button mappings in x
+s l e e p@delays for a specified amount of time
+i s o s i z e@output the length of an iso9660 filesystem
+g p g s p l i t@used to split an openpgp message into packets
+i p t a b l e s@administration tool for ipv4 packet filtering and nat
+n o h u p@run a command immune to hangups, with output to a non-tty
+n a n o@an enhanced free pico clone
+h d p a r m@get/set harddisk parameters
+c l e a r@clear all previous commands' output text from the terminal
+s d i f f@merges two files in a secure manner
+d i r c o l o r s@color setup for ls
+d a t e@prints or sets the system date and time
+q u o t a@display disk usage and limits
+t t y@controlling terminal
+g e t k e y c o d e s@print kernel scancode-to-keycode mapping table
+f o l d@wrap input line to fit in a specified width
+g e t e n t@get entries from name service switch libraries
+i n i t@the mother of all processes, run at bootup, executes commands in /etc/inittab
+x v i d t u n e@utility for fine tuning of monitor settings under x
+f s c k@check and repair a linux filesystem
+s u m@checksum and count the blocks in a file
+s l e e p@add a delay using this command
+p s 2 p d f@convert postscript to pdf using ghostscript
+c d p a r a n o i a@record audio from cd more reliably using data-verification algorithms
+r m@removes (deletes) files
+g c c@compile or run programs in various other languages
+b a d b l o c k s@search a device for bad blocks
+e s d@start the enlightenment sound daemon (esound or esd). enables multiple applications to access the same audio device simultaneously
+a n a c r o n@runs commands periodically
+r e b o o t@in slackware, reboots the system
+m o u n t@mount a filesystem/device
+p k i l l@kill processes by name
+u n e x p a n d@converts spaces to tabs
+r e b o o t@stop the system, poweroff, reboot
+p r i n t c a p@printer capability database
+e 2 i m a g e@save critical ext2/ext3/ext4 filesystem metadata to a file
+t a i l@copy the last part of a file
+l p r i n t d@use this to abort an ongoing print job
+t r a p@run a command when a signal is set(bourne)
+t e l n e t@user interface to the telnet protocol
+c h k c o n f i g@query or update system services/daemons for different runlevels
+s o r t@text files are sorted usingthis
+q r l s@release hold on pbs batch jobs
+c h o w n@change the file ownership
+s e l e c t@this is used when you need to accept keyboardinputs
+p a t h c h k@checks the portability of a file name
+e x p e c t@a program that ``talks'' to other interactive programs according to a script
+n a m e i@follow a pathname until a terminal point is found
+s y m l i n k s@provide list of and information about symbolic links
+g z e x e@compress executable files in place
+p k i l l@send kill signal to processes based on name and other attributes
+d i r n a m e@use thiscommand to change a full pathname into just a path
+m k f i f o@makes fifos
+w h o i s@client for the whois service
+y e s@repeatedly output a line with a specified string(s) until killed
+c o m m@compare two sorted files
+e x p r@evaluate expressions
+f d i s k@make changes to the disk partition table
+s y n c@force changed blocks to disk, update the super block
+g p g v@used to verify openpgp signatures
+s o u r c e@runs commands from a file
+u s e r a d d@same as adduser
+b z l e s s@file perusal filter for crt viewing of bzip2 compressed text
+g s@invokes ghostscript, and interpreter and previewer for adobe's postscript and pdf languages
+u n a l i a s@removes an alias
+l s@list information about file(s)
+q u o t a@this command displays the disk usage and its limits
+g r o f f e r@displays groff files and man pages
+d i r n a m e@changes a full pathname into just a path
+w h o a m i@displays the username tied to the current effective user id
+m 4@an implementation of the traditional unix macro processor
+f a c t o r@factors numbers
+b z g r e p@search possibly bzip2 compressed files for a regular expression
+c k s u m@checksum and count the bytes in a file
+q u o t a c t l@make changes to disk quotas
+c k s u m@it displays the crc checksum ad bytecounts
+i p c s@report interprocess communication facilities status
+x i n e t d@extended internet services daemon. works similar to inetd
+w h o a m i@print effective userid
+m k f s@build a linux filesystem
+a r p@manipulate the system arp cache
+a n a c r o n@used to run commands periodically
+r e a d@read one line from standard input
+w o r k b o n e@console based cd player
+s h u f@generate random permutations
+c a r d c t l@used to control pcmcia sockets and select configuration schemes
+q d e l@delete batch jobs
+n o t i f y - s e n d@a program to send desktop notifications
+x l o a d@system load average display for x
+q u o t a o n@disable enforcement of filesystem quotas
+y p p o l l@shows the id number or version of nis map currently used on the nis server
+l o c a l@set a local (function) variable
+m a n@displays information from online unix reference manual
+r s y n c@remote file copy - sync file tree (also rsyncx)
+m c@midnight commander file manager and visual shell
+l o o k@displays any lines in file which contain "string" as a prefix
+r e x e c@remote execution client for exec server
+a p m@show advanced power management (apm) hardware info on older systems
+s f t p@run the secure file transfer program usingthis
+# # #@comment / remark
+i d e n t i f y@describes the format and characteristics of one or more image files
+h a l t@command used to half the machine
+b a s e 3 2@base32 encodes or decodes data and prints to standard output
+x w d@screen capture command
+d u m p k e y s@dump keyboard translation tables
+p r@prepares your files for printing
+c o n f i g u r e@automatically configures software source code
+r e m s y n c@synchronize remote files over email
+p a s s w d@modify a user password
+u p t i m e@tell how long the system has been running
+c o m m a n d@description
+m o u n t@t ext2 /dev/fd0 /mnt/floppy
+f d f o r m a t@perform low level format of a floppy disk
+b a s e n a m e@sometimes files and directories have suffixes to their names
+l n@make links between files (hard links, symbolic links)
+k i l l@sends a signal to (especially to terminate) a job or process
+l o g n a m e@print the login name being used currently
+s c p@copy files between hosts on a network securely using ssh
+m k f s@make a filesystem on a drive
+q m s g@send message to pbs batch jobs
+p r i n t e n v@print environment variables
+m a k e@gnu make utility to maintain groups of programs
+p d f 2 p s@convert pdf file "input.pdf" to postscript(tm) in "output.ps"
+s w a p o f f@enable/disable devices and files for paging and swapping
+u n i q@remove duplicate lines from sorted file
+c m p@compares two files
+s p l i t@this command is used to break a file into fixedsizes
+d e b u g f s@file system debugger for ext2/ext3/ext4
+m c o p y@copy msdos files to/from unix
+h o s t@a utility to perform dns lookups
+d n s s e c - m a k e k e y s e t@produce domain key set from one or more dns security keys generated by dnssec-keygen
+d o e x e c@used to run an executable with an arbitrary argv list provided
+p o w e r o f f@halt, power-off or reboot the machine
+t i m e@run programs and summarize system resource usage
+s f t p@secure file transfer program
+s s h@secure shell
+h a s h@complete pathname of a name argument
+l p m o v e@move on or more printing jobs to a new destination
+u n i q@displays lines of a file that are unique
+b c@a language (compiler) similar to c, with unlimited precision arithmetic
+x a r g s@converts standard output of one command into arguments for another
+g r o u p d e l@delete a group
+w h e r e@report all known instances of a command
+r e a d@reads line from standard input
+e x p a n d@this command converts all the tabs tospaces
+f g r e p@search for patterns in files
+r m a i l@handle remote mail received via uucp
+d i r c o l o r s@set up color for ls
+g h o s t s c r i p t@ghostscript (postscript and pdf language interpreter and previewer)
+a p l a y m i d i@cli utility used to play midi files
+k i l l@kill a process by specifying its pid
+e j e c t@use this when you need to eject a removablemedia
+f a l s e@do nothing, unsuccessfully
+g p g@openpgp encryption and signing tool
+t r o f f@the troff processor of the groff text formatting system
+o p e n@open a file/folder/url/application
+l y n x@command to start the lynx browser
+h e a d@outputs the first part of files
+k i l l a l l@kills a process(es) running a specified command
+w a l l@write a message to all users
+m i n i c o m@terminal program
+c h g r p@changes the ownership of a group
+p u s h d@change the directory and save itfirst
+h a l t@stop and restart the operating system
+l n@make links between files
+n l@numbers lines of files
+t e l i n i t@change sysv runlevel
+s c p@creates a secure copy
+h i s t s i z e@change history size
+x p l a y c d@x window audio cd player utility
+a s p e l l@got bad spellings? use thespell checker
+t c s h@extended version of the c shell
+s e t e n v@set or display value of environment variables
+c h o w n@change the owner of a file
+h o s t i d@print the numeric identifier for the current host
+m o u s e c o n f i g@mouse configuration utility under red hat
+l p r i n t d@abort a print job
+s u d o@executes commands as a different user
+a l i a s@if creating an alias is what you want, then this is it
+s w a p o n@enable devices for paging and swapping
+g h o s t s c r i p t@set of printing utilities
+s u d o@execute a command as superuser
+m p g 3 2 1@similar to mpg123
+f g@starts a suspended process running in the foreground
+r m d i r@removes the directory with the given name (the directory must be empty)
+e s d - c o n f i g@manage esound configuration
+e x p e c t@an extension to the tcl script, it's used to automate interaction with other applications based on their expected output
+w h i c h@shows the complete path of a command or file
+f a x@simple user interface to efax and efix programs
+r w h o@show who is logged in on a lan
+l p r i n t@prints a file
+s n i c e@send a signal or report process status
+x d v i@dvi previewer for the x window system
+p a s s w d@modifies user passwords
+d u m p e 2 f s@dump ext2/ext3/ext4 filesystem information
+n a n o@nano's another editor, an enhanced free pico clone
+u n i t s@convert units from one scalar to another
+a t d@used to execute jobs queued by the at command
+c a l@display a calendar
+r e v@reverses the lines in a file
+i n f o@help info
+m o r e@displays the output in a single screen at a time
+t a i l@outputs only the last part of a file
+f s c k@file system check and repair
+a g e t t y@enables login on terminals
+w c@prints the number of bytes, words, and lines in files
+d f@shows disk free space on file systems
+r s h@openssh ssh client (remote login program)
+m v@moves (or renames) a file/directory
+t a i l f@follow the growth of a log file
+s h@standard unix shell
+u n i q@this command will uniquify your files
+i m p o r t@used for the x server
+r e a d l i n k@displays value of a symbolic link
+i n s t a l l@used to copy files to specified locations and set attributions during the install process
+p o p d@restores the previous value of the directory you’re currently in
+f i n g e r@display information about a specified userid or userids
+p y t h o n@
+m d f i n d@spotlight search
+u n s h a r@unpacks the shell archive scripts
+m t y p e@display contents of an msdos file
+i d@display userid and groupid
+c r o n t a b@manage crontab files (containing schedules commands) for users
+i f c o n f i g@configure network interface parameters
+f u s e r@identify process using file
+r a m s i z e@show usage information for the ram disk
+r u n c o n@run command with specified security context
+m d i r@lists contents of dos directories
+h o s t@dns lookup utility
+m t o o l s@package of ms
+n s l o o k u p@query internet name servers interactively
+u s e r m o d@selfexplanatory, modify an user account
+t a i l@displays the last part of a file
+u n a l i a s@remove alias definitions for specified alias names
+p y t h o n@an interpreted, interactive, object-oriented programming language
+s e t g i d@set group id
+c o m m@compare two sorted files line by line
+b a s e n a m e@removes the path prefix from a given pathname
+a p t@command-line interface
+s o r t@sorts and/or merge files
+e 2 f s c k@used to check ext2/ext3/ext4 file systems
+s e l e c t@accept keyboard input
+c o l r m@remove columns from a file
+k i l l a l l 5@send a signal to all processes
+a m i x e r@access cli-based mixer for alsa soundcard driver
+p a s t e@joins corresponding lines from files
+a c p i d@informs user-space programs about acpi events
+n o h u p@invoke a utility immune to hangups
+c d p l a y@command line utility for playing audio cds
+l e s s@command
+i n t r@interrupt key, usually [ctrl
+b a s h@bourne again shell
+r a r p d@respond to reverse address resoultion protocol (rarp) requests
+e x@vi improved, a programmers text editor
+i s o v f y@verifies the integrity of an iso9660 image
+p s@processes running
+t o p@this is used to get a list of theprocesses that are running on the system
+c a t@in programming, 'cat' usually stands for concatenate
+l p r@offline print
+r l o g i n@log in to remote computer
+g p m@it enables cut and paste functionality and a mouse server for the linux console
+p s 2 p d f 1 2@convert postscript to pdf 1.2 (acrobat 3-and-later compatible) using ghostscript
+r a n l i b@generate index to the contents of an archive and store it in the archive
+e x@interactive command
+d i f f 3@determine difference between 3 files
+h w c l o c k@show or configure the system's hardware clock
+w h o i s@looks for an object in a whois database
+r e n a m e@renames files
+b z l e s s@used to apply &#8216;less' (show info one page at a time) to bzip2 compressed files
+g p g s p l i t@split an openpgp message into packets
+c h a t t r@change file attributes on a linux file system
+t r a p@trap function responds to hardware signals. it defines and creates handlers to run when the shell receives signals
+c c@gnu project c and c++ compiler
+s y n c@synchronize data on disk with memory
+p s 2 p d f 1 3@convert postscript to pdf 1.3 (acrobat 4 and later compatible) using ghostscript
+s y m l i n k@create a symbolic link to a file
+p a s s w d@use this command to modify user passwords
+u l@translate underscores to underlining
+b z i p 2@a block-sorting file compressor used to shrink given files
+c o m m@compare two sorted filesline by line
+z n e w@recompress .z files to .gz. files
+d s c a c h e u t i l@query or flush the directory service/dns cache
+a l i a s@create your own name for a command
+f i x p s@try to fix common postscript problems that break postprocessing
+l p q@shows current print queue status for a specified printer
+v o l n a m e@returns volume name for a device formatted with an iso-9660 filesystem. for example, cd-rom
+c h a g e@change user password expiry information
+w h i c h@used to find utilities in search path
+n e t s t a t@networking information
+m a k e@utility to maintain groups of programs, recompile them if needed
+m a n@this is short for manual and provides help on a command
+g r e p@search a file for a given string or expression
+r e b o o t@self explanatory, use thiscommand to reboot your system
+s h u t d o w n@shuts down linux or restarts it
+m a n p a t h@attempt to determine path to manual pages
+m m v@mass move and rename files
+u n i c o d e _ s t a r t@put keyboard and console in unicode mode
+b z i p 2@compress file to bzip2 format
+t o u c h@update the last-modified time of a file (or create an empty file)
+x i n i t@start xserver
+m t@control magnetic tape drive operation
+a u d i o s e n d@used to send an audio recording as an email
+s t a t d@a daemon that listens for reboot notifications from other hosts, and manages the list of hosts to be notified when the local system reboots
+g p a s s w d@administer /etc/group and /etc/gshadow
+i n i t@systemd system and service manager
+s l o c a t e@this isused to find particular files
+d o m a i n n a m e@show or set the system's nis/yp domain name
+r e v@reverse lines of a file
+i s o i n f o@a utility to perform directory like listings of iso9660 images
+c s p l i t@splits a file into sections determined by context lines
+u m o u n t@unmount specified file systems
+l p r@this isfor offline print
+v d i r@same asabove
+q u o t a c t l@manipulate disk quotas
+c k s u m@it displays the crc checksum ad byte counts
+c p p@gnu c
+u n t i l@executes a command until there is an error
+p a s t e@merges lines in files
+b a s e 3 2@base32 encode/decode data and print to standard output
+t i m e@measure program running time
+y p s e r v@a daemon activated at system startup. it looks for information in local nis maps
+w c@word count of a file
+t r a c e p a t h@traces path to a network host discovering mtu along this path
+m t r@network diagnostics command for thingslike ping and traceroute
+x v@utility for viewing and manipulating many types of image files
+s o r t@convert an input into a sorted output
+s p l i t@breaks a file into fixed sizes
+r a n l i b@generate index to archive
+t a r@unix archiving/de-archiving program
+j o b s@display status of jobs in the current session
+u n l i n k@removes the specified file using the unlink function
+e x e c@system call which creates a subshell to execute a binary or a script
+g r o u p m o d@used to modify a group definition
+u n c o m p r e s s@compress or expand files
+j o i n@joins lines of two files on a common field
+m a t t r i b@used to change ms-dos file attribute flags
+d s e n a b l e r o o t@enable root access
+d o e x e c@run an executable with an arbitrary argv
+f g r e p@display lines from a file(s) that match a specified string. a variant of grep
+s c r i p t@used to make a typescript of everything displayed on the screen during a terminal session
+s e t@set a shell variable = value
+b c@an arbitrary precision calculator language
+c a t@concatenate files to standard output
+s c p@secure copy (remote file copy)
+u n i t s@this will convert the units from one scale to another
+r e t u r n@exit a shell function
+w h o@shows who is logged on
+d u@show disk usage summary for a file(s)
+i f c o n f i g@display network and hardware addresses
+e c h o@write arguments to standard output
+p s 2 a s c i i@ghostscript translator from postscript or pdf to ascii
+p o p d@this command restores the previous value of thedirectory you're currently in
+b i s o n@a gnu parser generator, compatible with yacc
+p a s s w d@change login password
+u n i q@removes duplicate lines from a sorted file
+b u n z i p 2@unzip .bz2 files
+c a l@print a calendar
+t s o r t@topological sort
+m a n p a t h@format of the /etc/manpath.config file
+w h a t i s@search the whatis database for complete words
+w h i l e@conditionally execute commands (while loop)
+b u n z i p 2@a block-sorting file compressor, v1.0.6
+f c - c a c h e@make font information cache after scanning the directories
+c u t@remove sections from each line of files
+r c p@remote copy command to copy files between remote computers
+f s c k@filesystem consistency check and repair
+i d@return user identity
+f o r m a t@this simply formats tapesor disks
+g + +@gnu project c and c++ compiler
+g e n c a t@generate message catalog
+p d f l a t e x@part of the pdftex program suite
+s e c u r i t y@unimplemented system calls
+m v@moves (renames) files
+i d@print information for username, or the current user
+s s h@an ssh client for logging in to a remote machine. it provides encrypted communication between the hosts
+t a b s@set tabs on a terminal
+b g@sends to the background
+m c d@change msdos directory
+s c a n i m a g e@scan an image
+m f o r m a t@add an msdos filesystem to a low-level formatted floppy disk
+m l a b e l@make an md-dos volume label
+v i@start the vi editor
+g r o u p d e l@this oneis used for deleting a certain group
+s l a t t a c h@attach a network interface to a serial line
+r v i@vi / vim editor
+v i@a text editor utility
+u l i m i t@limit user resources 
+e x p r@evaluate arguments as an expression
+f g r e p@use this command tosearch through files for tasks that match a string
+n l@writes files and number lines
+t r a c e r o u t e@use thiscommand to trace route to a host
+w h i c h@locate a command
+l o g r o t a t e@used for automatic rotation, compression, removal, and mailing of system log files
+a t q@list a user's pending jobs for the at command
+u n t i l@thiscommand will execute a command until there is an error
+f s c k@this isused for checking the consistency of the file system and repairit
+v i m@improved vi editor
+d i r n a m e@return the directory portion of a pathname; see also basename
+l a s t l o g@displays information about the most recent login of all users or a specified user
+x r a n d r@x resize, rotate and reflection extension
+u m a s k@determines the file permission for a new file
+e x p o r t@used to set an environment variable
+b z m o r e@file perusal filter for crt viewing of bzip2 compressed text
+l p s t a t@print cups status information
+s l e e p@suspend execution for a specified amount of time (in seconds)
+g z i p@compress file(s) to gnu zip format
+g z i p@compress or decompress files
+n o h u p@run a command immune to hangup
+c a t@used to concatenate files and print them on the screen
+n i c e@modifies scheduling priority
+x i n i t@x window system initializer
+r w h o d@acts as a server for rwho and ruptime commands
+g c c@gnu project c and c++ compiler
+s w a p o n@enables swap disk
+s e t q u o t a@set disk quotas for users and groups
+k l o g d@control and prioritize the kernel messages to be displayed on the console, and log them through syslogd
+u u c p@unix to unix copy
+d i p l o g i n@used for setting up incoming dip connections
+w a i t@wait for a process to complete 
+z i p@zip utility compatible with dos pkzip
+w c@print byte, word, and line counts of a file
+w c@this command prints the word, byte and linecounts
+c r o n@daemon to execute scheduled commands (vixie cron)
+s e q@print numeric sequences
+d i r@is exactly like "ls -c -b". (files are by default listed in columns and sorted vertically.)
+l o c a l@use this forcreating variables
+l o g n a m e@return the user's login name
+c h m o d@change file mode bits
+s e t t e r m@set terminal attributes
+c f d i s k@show or change the disk partition table
+r e s i z e@xterm window size
+c h a t@automated conversational script with a modem
+r a i d s t a r t@start/stop raid devices
+d u@get an estimation of the file space usage
+l e t@perform arithmetic on shell variables 
+c m p@compare two files
+p d f l a t e x@pdf output from tex
+f g r e p@print lines matching a pattern
+i n f o@readable online documentation
+d o s 2 u n i x@converts plain text files in dos/mac format to unix format
+l l@list files in long format, showing invisible files (ls -la)
+s e t s e r i a l@used by root to configure a serial port
+t i m e s@get process times
+c h r o o t@run a command, but with a different root directory
+s h u t d o w n@shutdown or restart linux
+b g@send to background
+s a y@convert text to audible speech
+r s h@remote shell. connects to a specified host and executes commands
+z i c@timezone compiler
+l o g o u t@use this command to exit a login shell
+v d i r@is exactly like "ls -l -b". (files are by default listed in long format.)
+u s e r a d d@add new user
+e f i x@convert between fax, text, bit
+a s a p m@afterstep laptop advanced power management utility
+d i f f@compare files line by line
+q u o t a c t l@set disk quotas
+b c@thiscommand is an arbitrary precision calculator language
+r s t a t@summarize host's status: uptime, load averages, and current time
+u n a l i a s@remove name previously defined by alias
+a s a@interpret carriage-control characters
+a t@schedule a job to run in the future
+d e c l a r e@declare variable & set attributes
+x f i g@utility for interactive generation of figures
+l d c o n f i g@configure dynamic linker run-time bindings
+u n a m e@show system information
+r e x e c d@remote execution server
+r e d@random early detection
+s a n e - f i n d - s c a n n e r@find scsi and usb scanner and determine their device files
+o d@dump files in octal and other formats
+c o m m@compares sorted files
+w h i c h@locate a program file in the user's path
+d d@convert and copy a file, write disk headers, boot records
+l o g o u t@exit a login shell 
+a f i o@utility to copy or restore files to an archive file
+d n s s e c - s i g n z o n e@sign a secure dns zonefile with the signatures in the specified list of key-identifiers
+c h r t@alter process attributed in real-time
+p k i l l@this command stops processes fromrunning
+s t a r t x@front end to xinit in linux
+k i l l a l l@kills processes by name
+s e t u i d@set user id
+i m a p d@an imap (interactive mail access protocol) server daemon
+m p g 1 2 3@command-line mp3 player
+s l i p l o g i n@attaches a slip interface to standard input
+p s@process status
+m k t e m p@create a temporary file or directory
+t m u t i l@time machine utility
+l p r i n t@print a file
+t r u e@return true value
+o p@provides operator access
+t i m e@run the specified program command with the given arguments
+u u d e c o d e@decode a file created by uuencode
+i f c o n f i g@display (as root) information on network interfaces that are currently active
+s e d@stream editor for filtering and transforming text (from a file or a pipe input)
+d d r e s c u e@like most other suchcommands, this is the disk recovery tool
+s h r e d@safely remove data from disk drive
+m a n@an interface to the on-line reference manuals
+a s p e l l@an interactive spell checker utility
+w h e r e i s@locate the binary, source, and man page files for a command
+c d@change working directory
+w h i l e@execute commands
+b a s e 6 4@base64 encode/decode data and print to standard output
+s t r a c e@this is used to trace signals andsystem calls
+g h o s t v i e w@aladdin ghostscript interpreter/previewer
+x d g - o p e n@opens a file or url in the user's preferred application
+t s o r t@performs a topological sort
+u n s e t@uid  user id change
+a s p o s t i t@x window postit note utility
+p a s s w d@changes your password
+c u r l@transfer data from or to a server
+d a t e@display date and time
+f a l s e@does nothing, but exits unsuccessfully
+r s y n c@a versitile to for copying files remotely and locally
+c p@copies on or more files
+j o b s@show the list of active jobs and their status
+h t o p@an interactive process viewer for the command line
+m a k e@this command is used for recompiling the group of programs
+f i n d@find files that match a desired criteria
+p a x@archive file(s)
+s c r e e n@terminal window manager
+c p@copy one or more files to another location
+n l@write files and number lines
+s e q@prints numeric sequences
+s s h@secure shell client (remote login program)
+d a t e@use this command to change the date and time
+s n i c e@reset priority for processes
+w a t c h@displays or executes a program periodically
+e t h t o o l@used to query and control network driver and hardware settings
+u n i t s@decimal and binary prefixes
+f e t c h m a i l@fetch mail from mail servers and forward it to the local mail delivery system
+s u d o@execute a command as another user
+u s e r a d d@create a new user or update default new user information
+f t p@internet file transfer program
+i n f o@used to read the documentation in info format
+d e f a u l t s@set preferences, show hidden files
+m c a t@dump raw disk image
+e t h t o o l@ethernet cardsettings
+b s h@equivalent to ash
+i n e t d@extended internet services daemon, it starts the programs that provide internet services
+s o r t@sort lines of text files
+m a n w e b@manweb is part of the netpbm package
+s e t m e t a m o d e@define the keyboard meta key handling
+c p k g t o o l@slackware tool to install, uninstall and query packages
+i s p e l l@a cli-based spell-check utility
+s e t u p@setup devices and filesystems, mount root filesystem
+n e w a l i a s e s@rebuilds the /etc/aliases database used by sendmail
+e j e c t@eject media from device ( command line )
+s c r i p t@make typescript of terminal session
+p r@convert (column or paginate) text files for printing
+b c@command line calculator
+r e n a m e@rename one or more files
+m o u n t d@nfs mount daemon
+t e l n e t@telnet protocol user interface. used to interact with another host using telnet
+g r o u p s@prints the groups of which the user is a member
+c o m p r e s s@compress file(s) to old unix compress format
+t c l@scripting language
+c m p@compares two files for differences
+m v@move and / or rename files
+s h@command interpreter (shell)
+s u m@checksum and count the block in a file
+c o n v m v@a perl script that converts filenames from one encoding to another
+f t p d@ftp server process
+g e t k e y c o d e s@displays the kernel scancode-to-keycode mapping table
+r x v t@a terminal program similar to xterm, but which has less features and uses less memory
+t r a c e p a t h@traces path to a network host discovering mtu (maximum transmission unit) along this path
+m r e n@rename an existing msdos file
+p i c o@simple screen oriented text editor
+t a r@stores a list or extracts files in an archive
+p r@print files
+s u d o@this is used for executing commands as a differentuser
+a s l o a d@afterstep cpu load monitor
+u n a l i a s@remove an alias
+b r u@a powerful backup utility program
+l o c a t e@locate a file
+i p t a b l e s - s a v e@used to dump ip table contents to standard output
+c o n t i n u e@resume the next iteration of a loop 
+u m a s k@change the default permissions given to newly created files
+h i s t o r y@shows the command history
+r e n i c e@change priority of active processes
+c h s h@switch login shell
+r l o g@prints a summary of the history of an rcs file
+f i n g e r d@provides a network interface for the finger program
+s s h - a g e n t@authentication agent
+r e m s y n c@synchronize remote files via email
+b g@run jobs in the background
+w h o a m i@print the current user id and name (`id -un')
+c h m o d@changes the permissions of a file or directory
+e l v t u n e@used to set latency in the elevator algorithm used to schedule i/o activities for specified block devices
+d i r@briefly list directory contents
+g a w k@pattern scanning and processing language
+p o p d@restore the previous value of the current directory
+a p t - g e t@this one works on debianand ubuntu distros
+d u@shows disk usage on file systems
+s w a p o n@enable/disable devices and files for paging and swapping
+j o b s@list the processes you are running; every process has a unique integer id number (pid)
+m z i p@change protection mode and eject disk on zip/jaz drive
+x p d f@portable document format (pdf) file viewer for x windows
+l e s s@display output one screen at a time
+m t o o l s@mtools configuration files
+n e t c o n f i g@configure your network
+w g e t@retrieve web pages or files via http, https or ftp
+s a c t@print current sccs file-editing activity
+z g r e p@read compressed files and pass them to grep
+m a i l q@shows to list all emails queued for delivery (sendmail queue)
+s t d b u f@controls buffering for commands that use stdio
+m k r a i d@used to setup raid device arrays
+c o@retrieves an unencoded version of an rcs file
+a r e c o r d m i d i@record standard midi files
+d f@when youwant to know the free space on your disk, use this
+l d c o n f i g@creates the necessary links and cache (for use by the run
+m o u n t@mounts a particular filesystem
+m b a d b l o c k s@tests a floppy disk, and marks the bad blocks in the fat
+a u t o u p d a t e@update a configure.in file to newer autoconf
+f i n d@search for files in a directory hierarchy
+t a r@gnu version of the tar archiving utility. used to store and extract multiple files from a single archive
+c h g r p@change the file group ownership
+m k f s . e x t 3@create an ext2/ext3/ext4 filesystem
+e d@a line-oriented text editor
+n s l o o k u p@query internet domain name servers
+g r p c o n v@convert to and from shadow passwords and groups
+c u r l@download from a url and output its contents to the console
+i s o d u m p@a utility that shows the content iso9660 images to verify the integrity of directory contents
+u s e r s@output who is currently logged in according to system records
+f g@sends a task to the foreground
+m k l o s t + f o u n d@create a lost+found directory on a mounted ext2 filesystem
+c h g r p@used to change group ownership for file
+g c c@invoke c, c++ compiler
+t e s t@evaluate a conditional expression
+l o c a l e@shows information about current or all locales
+c l e a r@clear screen command
+t r a c e r o u t e 6@traces path to a network host
+u n c o m p r e s s@uncompress the files compressed with the compress command
+t m p w a t c h@recursively remove files and directories which haven't been accessed for the specified period of time
+h o s t n a m e@outputs the name of the current computer/server
+c s p l i t@separate files into sections
+k b d _ m o d e@set a keyboard mode. without arguments, shows the current keyboard mode
+l a s t@show a listing of last logged in users
+v i m@vi improved, a text-based editor which is a successor to vi
+c o l@filter reverse line feeds from input
+u u i d g e n@create a new uuid value
+i p c r m@remove a message queue, semaphore set, or shared memory segment identifier
+t c p s l i c e@extract pieces of tcpdump files or merge them
+o p e n v t@start a program on a new virtual terminal (vt)
+r n d c@name server control utility. send command to a bind dns server over a tcp connection
+f i n d@this is used to find filesthat match a desired criteria
+r l o g i n@openssh ssh client (remote login program)
+c r o n t a b@schedule a command to run at a later time
+e d@gnu ed &#8211; a line-oriented text editor
+g + +@c++ compiler
+s t r i n g s@print the strings of printable characters in files
+c a t@combine, copy standard input to standard output
+m k d i r@creates a directory
+d i r@lists directory contents briefly
+q s u b@submit a script
+u l@do underlining
+r m d e l@remove a delta from an sccs file
+/ s b i n / l i l o@c /etc/lilo
+r m@use this to remove particularfiles
+l p a d m i n@used to configure printer and class queues provided by cups (common unix printing system)
+s e q@outputs a sequence of integers (used with for loops)
+a r c h@display print machine hardware name
+r e b o o t@reboots your system
+u s e r s@list users currently logged in
+c o n t i n u e@this is for resuming the next iteration of aparticular loop
+l i n k@creates a link to another file
+s o u r c e@executes commands/statements stored in another file
+p t x@produces a permuted index of file contents
+e x i t@cause normal process termination
+f g r e p@variant of grep
+l o g o u t@performs the logout operation by making changes to the utmp and wtmp files
+l i l o@installs boot loader on the boot sector of a hard drive, of a diskette, or in another location
+a l i@list mail aliases
+c l e a r@clear the terminal screen
+d i r n a m e@convert a full pathname to just a path
+c m p@compare two files byte by byte
+f d i s k@the fdisk command with usage examples
+s f t p@runs the secure file transfer program
+a p r o p o s@shows the list of all man pages containing a specific keyword
+g r e p@print lines matching a pattern
+s e d@stream editor for filtering and transforming text
+s d i f f@shows two files side-by-side and highlights the differences
+f o l d@break lines of specified files so they are no wider than a specified lengths
+w a t c h@this command will display or execute a programperiodically
+f i n d@find files
+h a s h@this command is used to refer to the complete pathname of a nameargument
+b i n d@set or display readline key and function bindings 
+r d i s t d@start the rdist server
+g a w k@used for pattern scanning and language processing. a gnu implementation of awk language
+c h m o d@change the file modes/attributes/permissions
+m k f i f o@used to create named pipes (fifos) with the given names
+t e e@copy standard input to each file, and also to standard output
+f d f o r m a t@low level format of a floppy device
+f o r m a i l@used to filter standard input into mailbox format
+b z i p 2@compress or decompress files
+p r s@print an sccs file
+b i n d@displays or redefines key bindings
+a w k@it lets you find text and replace it
+a c p i _ a v a i l a b l e@check if acpi functionality exists on the system
+v@lists the contents of a directory
+e n v@desplay the current environment or set a variable equal to a new value
+a p r o p o s@display command names based on keyword search
+d n s s e c - k e y g e n@generate encrypted secure dns keys for a given domain name
+d d r e s c u e@used to recover data from a crashed partition
+u l i m i t@limits the user resources
+j o i n@join lines of two files on a common field
+l p r m@remove jobs from the print queue
+p w u n c o n v@convert to and from shadow passwords and groups
+s y m l i n k@make a new name for a file
+z l e s s@view zipped files
+l n@create a symbolic link to a file
+m o r e@this displays the output, but in a single screen at a time
+d e v d u m p@utility programs for dumping and verifying iso9660 images
+a p l a y m i d i@play standard midi files
+g e t@get a version of an sccs file
+g d b@a utility to debug programs and know about where it crashes
+w c@line, word and byte or character count
+z h a r f@afterstep button panel module
+c k s u m@print crc checksum and byte counts
+u n s h a r@this command unpacks the shell archive scripts
+s e t f i l e@set attributes of hfs+ files
+m 4@macro processor
+e s d c a t@use esound to send audio data from a specified file
+n i c e@sets the priority of a job or a command
+r c p@copy files between two machines
+p a t h c h k@check pathnames
+r m@remove (delete) files
+c u t@print selected parts of lines to standard output
+s c r e e n@run remote shells using ssh
+c h v t@change the virtual terminal
+s u m@file cheksums are printed using this command
+p i n g@check if internet computer is responding
+b c@arbitrary-precision arithmetic language
+k i l l@terminate or signal processes
+p s t r e e@display processes in the form of a tree structure
+r i c h t e x t@view &#8220;richtext&#8221; on an acsii terminal
+r e s i z e 2 f s@ext2/ext3/ext4 file system resizer
+l o c k f i l e@create semaphore file(s) which can be used to limit access to a file
+f o r m a t@format disks or tapes
+d u@estimate file space usage
+s e t u i d@set user identity
+c f d i s k@partition table manipulator
+a p r o p o s@search manual for keyword
+w g e t@a non-interactive file download utility
+e x i t@exit a shell
+r p m@a package manager for linux distributions. originally developed for redhat linux
+t e l n e t@remote login over network (to login to serverx, use the command telnet serverx)
+s s h - k e y g e n@authentication key generation, management and conversion
+a g e t t y@an alternative linux getty
+c m p@compare two files; see also diff
+t a c@concatenate and print files in reverse order. opposite of cat command
+u s e r d e l@remove an account (as root)
+r e a d e l f@displays information about elf files
+e x p r@evaluate expressions and display them on standard output
+l a u n c h c t l@load or unload daemons/agents
+u n a m e@return system name
+e j e c t@eject removable media
+a u t o s c a n@generate a preliminary configure.in
+g z i p@compress using lempel-ziv coding (lz77)
+g r o f f@front-end for the groff document formatting system
+s y s c t l@configure kernel parameters at runtime
+c j p e g@compress an image file to a jpeg file
+a u m i x@an audio mixer utility
+e x p r@utility evaluates an expression and displays the result
+p u s h d@save and then change the current directory
+f r e e@reveals the memory usage
+a l i a s@create an alias for linux commands
+p s 2 p s@ghostscript postscript "distiller"
+c s p l i t@split files based on context
+a s p e l l@spell checker
+t e e@duplicate the standard output
+r p c g e n@an rpc protocol compiler
+x w d@dump an image of an x window
+f o r m a t@used to format disks
+l n@this onecreates a symbolic link to another file
+z i p@create a .zip archive or extract its contents
+j o b s@displays list of current jobs in the background
+p w d@show current directory
+e x p e c t@automate arbitrary applications accessed over a terminal
+m s h o w f a t@shows fat clusters allocated to file
+b z d i f f@used to call the diff program for bzip2 compressed files
+l a s t@generate a listing of user logins
+a c c e p t@accept or reject jobs to a destination, such as a printer
+l a t e x@compile a latex file
+x f m@graphical file manager for x
+v d i r@variant of the gnu version of the ls command
+n o h u p@runs a command that keeps running after logout
+r l o g i n@used to connect a local host system with a remote host
+s e t l e d s@show/change led light settings of the keyboard
+s t t y@cooked  formatting the display of text in a terminal
+f r e e@allocate and free dynamic memory
+s l a b t o p@display kernel slab cache information in real time
+t r a p@execute a command when the shell receives a signal
+f r e e@gives used and free memory on system along with other useful information
+m m v@mass move and rename (files)
+l p c@it stands for line printer control
+m o u n t@mount a file system
+s c p@secure copy (remote file copy program)
+l o g n a m e@shows the login name of the current user
+l o c a l@creates variables
+e x i t@exiting the shell
+w a i t@waits for a background process to terminate
+f d i s k@used to partition hard drives
+f i n d@do a file search in a directory hierarchy
+s e t t e r m@set terminal attributes for a virtual console
+s h@shell (bash)
+n o h u p@runs a command not affected by hangups
+c v s@concurrent versions system. used to track file versions, allow storage/retrieval of previous versions, and enables multiple users to work on the same file
+p b p a s t e@paste data from the clipboard
+c h s h@change default shell
+g e t o p t@parse positional parameters
+a c p i@show information about the advanced configuration and power interface
+e g r e p@extended version of grep that matches regular expressions
+u u e n c o d e@encode a binary file
+v i m@vi improved, a programmer's text editor
+m e s g@display (or do not display) messages from other users
+s t r f i l e@create a random access file for storing strings
+t a b s@set terminal tabs
+s i p s@scriptable image processing system
+i c o n v@convert the character set of a file
+g r e p@search for a pattern using regular expression
+e c h o@send input string(s) to standard output i.e. display text on the screen
+l s b l k@lists information about all available or the specified block devices
+p r i n t e n v@display list of environment variables
+u n i c o d e _ s t o p@revert keyboard and console from unicode mode
+t r@translate, squeeze, or delete characters from standard input and display on standard output
+u n i q@uniquify your files
+c u t@selects characters or tab
+p i n k y@lightweight finger
+t a i l f@follow the growth of a log file. (deprecated command)
+g a w k@this command is used to find text within files and replaceit
+a p m d@used to handle events reported by apm bios drivers
+c u r l@transfer data  from or to a server
+y p d o m a i n n a m e@show or set the system's nis/yp domain name
+t a r@create an archive
+g z e x e@used compress executable files in place and have them automatically uncompress and run at a later stage
+p r i n t f@format and print data
+r u s e r s d@the rsuerd daemon acts as a server that responds to the queries from rsuers command
+b s h@command interpreter (shell)
+l i n k@create a hard link to a file
+p s 2 p d f 1 4@use ps2pdfwr: convert postscript to pdf without specifying compatibility level, using ghostscript
+g z i p@used to compress or decompress files
+v i@text editor
+f s a c l c t l@filesystem enable/disable acl support
+c o l u m n@a utility that formats its input into columns
+m a n@display a particular manual entry
+s i z e@lists section size and the total size of a specified file
+w h e r e i s@locate a command or file
+e s d d s p@used to reroute non-esd audio data to esd and control all the audio using esd
+h o s t i d@prints the numeric identifier for the current host
+s s h@openssh ssh client (remote login program)
+p t x@produce a permuted index of file contents
+m a k e@maintain, update, and regenerate groups of programs
+l s p n p@utility to display information about pnp devices
+o b j c o p y@copy and translate object files
+w h o@display information about currently logged in userids
+p a t c h@apply a patchfile (containing differences listing by diff program) to an original file
+s e t u p@slackware program to set up program sets and configure system
+r e a d o n l y@declares a variable to be read only
+d c@desk calculator
+s f d i s k@display or manipulate a disk partition table
+b a s e n a m e@used to display filenames with directoy or suffix
+n e t s t a t@get information on networking
+c o m m a n d@run a command - ignoring shell functions
+c h r o o t@changes the root directory
+w h o@print all usernames currently logged in
+g r o u p s@print the names ofgroups in which an user is located
+n i c e@run a program with modified scheduling priority
+t i m e@displays times for the current shell and its children
+q u o t a c h e c k@this commands lets you scan a file system to find its diskusage
+t e e@sends output to multiple files
+d i r c o l o r s@set colors for &#8216;ls' by altering the ls_colors environment variable
+t e s t@this command is usedfor evaluating conditional expressions
+s h a 1 s u m@compute and check 160-bit sha1 checksum to verify file integrity
+i p c s@show information on ipc facilities for which calling process has read access
+t p u t@set terminal-dependent capabilities, color, position
+a l i e n@utility to convert to and from different linux package formats
+m r e n@rename an existing ms-dos file
+w@show who is logged-on and what they're doing
+h o s t n a m e@display/set the hostname of the system
+g r o u p s@print group names a user is in
+u m a s k@file creation mask / bash builtins
+p r@format for printing
+s u@substitutes the user identity
+t e s t@evaluate expression
+a m i x e r@command-line mixer for alsa soundcard driver
+e c h o@display message on screen
+t a i l@output the last part of files
+u u c p@system-to-system copy
+a u t o u p d a t e@update a configure.in to a newer autoconf
+p w d@print working directory
+d u m p@backup utility for ext2/ext3 file systems
+u n c o m p r e s s@expand compressed data
+l a s t@show listing of last logged in users
+l a s t@indicate last logins of users and ttys
+l e s s@linux alternative to ``more'' command
+m o u n t@mount a filesystem
+c h d i r@used to change active working directory
+h e a d@use this for output for the first part offiles
+j e d@programmer's file editor
+c s h@c shell
+a u t o c o n f@generate configuration scripts
+w r i t e@display a message on other user's terminal
+m f o r m a t@adds dos formatting information to a disk
+w r i t e@sends a message to another user logged in to this computer
+i s o d u m p@format of ieee 1394 isochronous packets dump file
+a c r o r e a d@adobe utility for viewing pdf files
+w r i t e@send a message to another user
+d i f f@display the differences between two files
+g z e x e@compresses executables
+g z i p@compress or decompress named file(s)
+b i f f@notify about incoming mail and sender's name on a system running comsat server
+r e m s y n c@this command synchronises remote files through email
+u n i t s@converts the units from one scale to another
+b g@starts a suspended process running in the background
+m k d o s f s@create an ms-dos filesystem under linux
+m a n p a t h@determine search path for manual pages
+e g r e p@search and display text matching a pattern
+g r e p@through this youcan search in files for lines matching a certain pattern
+c p p@gnu c language processor
+h t t p d@start apache
+t p u t@modify terminal-dependent capabilities, color, etc
+x a d m@display advanced power management bios information
+a t r m@removes pending jobs queued by at
+s t t y@sets or displays operating options for terminal
+r d a t e@set system date and time by fetching information from a remote machine
+a p t i t u d e@see the similarity with the above command?this one does the same thing
+f o r t 7 7@fortran compiler
+e c h o@like println for the shell; outputs a message or value
+q m o v e@move pbs batch job
+w h e r e i s@use to find utilities in standard locations
+e x i t@exiting theshell
+d d@copies and converts a file
+t c p d@access control utility for internet services
+m c o p y@used to copy ms-dos files from or to unix
+z d i f f@compare compressed files line by line
+f m t@reformats paragraph text
+t f t p d@tftp server
+q m s g@send message to batch jobs
+w h i c h@this command searches only for auser's $path for a program
+a m i d i@perform read/write operation for alsa rawmidi ports
+r e b o o t@stop and restart the system
+d i r@use this command forlisting directory contents briefly
+f u s e r@list process ids of all processes that have one or more files open
+v i e w@start vim in read-only mode
+i s o i n f o@utility programs for dumping and verifying iso9660 images
+g r e p@searches in files for lines matching a certain pattern
+e n v@displays and modifies environment variables
+i n e t d@daemon which starts up other daemons on demand
+h i s t o r y@gnu history library
+u u s t a t@uucp status inquiry and job control
+f o l d@wraps each input line to fit in specified width
+f r e e@display free memory
+p r i n t f@thiscommand is used for formatting and printing data
+w g e t@this will retrieve theweb pages or files through http, https or ftp
+w h o a m i@outputs your user name
+e n v@run a command in a modified environment. show/set/delete environment variables
+q s i g@signal batch jobs
+h a s h@refresh the cached/remembered location of commands
+h o s t n a m e@used to get or set hostname
+g p g v@verify openpgp signatures
+p r i n t t o o l@run (as root) in an x terminal to configure your printer(s)
+u n e x p a n d@convert spaces to tabs
+p u s h d@changes the directory and saves it first
+l a s t b@file
+g r e p@used to find a string within a file
+n e w g r p@similar to login
+u s e r a d d@create a new user or update default user information
+a p t i t u d e@another utility to add/remove/upgrade packages based on the apt system
+m a i l@sends or reads electronic mail
+r e b o o t@reboot the system
+a c p i _ a v a i l a b l e@test whether acpi subsystem is available
+c h g r p@changes file group ownership
+s y n c@writes memory buffers to physical devices
+u s e r a d d@create new user account
+d i f f@thiscommand prints the differences between two files
+p w c o n v@converts passwords to the shadow password format
+w c@print byte, word, and line counts
+g r o u p a d d@create a new group
+s h@shell, the standard command language interpreter
+b a s e n a m e@parse pathname components
+p m s e t@power management settings
+d c@the commandstands for desk calculator
+r c s@creates or changes the attributes of an rcs file
+f u s e r@identify processes using files or sockets
+s s h - k e y s c a n@gather ssh public keys
+n u m f m t@reformat numbers
+e x p a n d@converts tabs to spaces
+s p l i t@split files into pieces
+t s e t@initialize terminal
+m k n o d@make block or character special files
+t e s t@check file type and compare values
+u n t a r@unarchive ( untar ) a file
+m d 5 s u m@used to check md5 checksum for a file
+l o c a t e@used to find files by their name
+u s e r s@print login names of users currently logged in
+g e t o p t@parse command-line options
+l i n k@thiscommand is used for creating a link to another file
+r u s e r s@shows the list of the users logged-in to the host or on all machines on the local network
+u s e r s@gives you a list of users who are currently logged in
+( n o t e@that nc is also called the client interface
+c h k c o n f i g@manage execution of runlevel services
+b i n d@used to attach a name to a socket
+k i l l@send a kill (termination) signal to one more processes
+s e t@used to manipulate shell variables and functions
+p d f t o t e x t@convert pdf files to plain text
+w a t c h@execute/display a program periodically
+s p l i t@split a file into fixed-size pieces
+b y a c c@parser generator
+g r o u p s@list the groups to which a user belongs
+m a n@shows manual pages for linux commands
+t y p e@describe a command 
+r e b o o t@halt, power-off or reboot the machine
+x f 8 6 c o n f i g@graphical configuration tool for x
+e c h o@this command is used for displaying message on the screen
+l i n k@call the link function to create a link to a file
+s e c u r i t y@administer keychains, keys, certificates and the security framework
+a s r@apple software restore
+h i s t o r y@command for viewing and manipulating the shell command history list
+z i p@compress and archive file(s) to zip format
+a r c h@prints machine hardware name (same as uname -m)
+a l i a s@give a pseudonym to another command
+w h a r f@the afterstep application dock module
+r d e v@query/set image root device, swap device, ram disk size, or video mode in kernel
+k u d z u@used to detect new and enhanced hardware by comparing it with existing database. only for rhel and derivates
+d s c l@directory service command line utility
+k b d _ m o d e@report or set the keyboard mode
+r m d i r@removes empty directories
+g z i p@same as gzip
+m t o o l s@manipulatingfiles from ms-dos
+g e t o p t s@a utility to parse positional parameters
+w@show who is logged on and what they are doing
+t r u e@exit with a status code indicating success
+c r o n d@same work as cron
+t i m e s@finds the user and system times
+n m@write the name list of an object file
+h e a d@displays first part of a file
+l e t@for computing integer variable values
+x l s f o n t s@server font list displayer for x
+d e a l l o c v t@deallocates kernel memory for unused virtual consoles
+a p t - g e t@search for and install software packages (debian/ubuntu)
+s e t s e r i a l@get / set linux serial port info
+r u n d i g@sample script to create a search database for ht://dig
+s t r a c e@traces signals and system calls
+t y p e s e t@declares attributes for a variaable (same as declare)
+u n i q@report or omit repeating lines
+c a t@concatenate and print files
+m p a g e@print multiple pages per sheet on a postscript printer
+u n g e t@undo a previous get of an sccs file
+x f 8 6 s e t u p@graphical configuration tool for x
+d i g@dns lookup
+c l e a r@if you need to clear the terminal screen, use thiscommand
+u l i m i t@limit user resources
+d f@show disk usage
+j o b s@use this for listing jobs that are active
+r s h d@a daemon that acts as a server for rsh and rcp commands
+n s u p d a t e@dynamic dns update utility
+d i r s@display list of remembered directories
+d m e s g@print or control the kernel ring buffer (print out bootup messages)
+c l e a r@clears the terminal screen
+s p l i t@split a file into pieces
+r o u t e@show/change ip routing table
+j o b s@list active jobs 
+c h k c o n f i g@system services (runlevel)
+s h u t d o w n@shutdown or restart os x
+i p@show / manipulate routing, devices, policy routing and tunnels
+l p m o v e@move a job or all jobs to a new destination
+a u t o r e c o n f@update generated configuration files
+s u@substitute user identity
+p i d o f@find process id of a running program
+s w i t c h d e s k@graphical and text mode interface for choosing desktop environment
+m t r@network diagnostics (traceroute/ping)
+a m i d i@read from and write to alsa rawmidi ports
+t i m e@time functions for gawk
+a w k@find and replace text within file(s)
+t e s t@condition evaluation
+o s a c o m p i l e@compile applescript
+k e x t f i n d@list kernel extensions
+c k s u m@write file checksums and sizes
+m k f i f o@make fifos (named pipes)
+r d i s t@remote file distribution client, maintains identical file copies over multiple hosts
+l d d@list the shared libraries on which a given executable depends, and where they are located
+t o p@list processes running on the system
+p i n e@text-only email programs
+u n l i n k@call the unlink function to remove the specified file
+c a l@show calendar
+l e t@evaluate expression
+x c l i p b o a r d@x clipboard client
+z i p@package and compress (archive) files
+s c c s@front end for the sccs subsystem
+f r e e@use this to see the memory usage
+s u@log in to a shell as the super-user
+a c c e s s@check a user's rwx permission for a file
+u s e r m o d@modifies a user account
+u n s h a r@unpack shell archive scripts
+u n t i l@execute commands (until error)
+i n s m o d@a program that inserts a module into the linux kernel
+c s h@run c shell
+d i r c o l o r s@this command isused for colour setup for the 'ls' command
+f a c t o r@factor numbers
+d f@show amount of disk space free
+u m a s k@establishes the file
+s k i l l@send a signal or report process status
+s u s p e n d@suspend execution of this shell
+r u p t i m e@shows uptime and login details of the machines on the local network
+c r o n t a b@tables for driving cron
+l n@create links between files. links can be hard (two names for the same file) or soft (a shortcut of the first file)
+o d@view binary files
+s s h d@server for the ssh program
+l e s s@this command displays the output on a single screen at a time
+s t t y@change and print terminal line settings
+n e t@manage network resources
+r a m@ram disk device used to access the ram disk in raw mode
+c h o w n@this one soundstoo much like clown! anyway, it's not funny though
+w g e t@non-interactive download of files from the web
+a d d u s e r@used by root to add user to system
+e n v s u b s t@substitute environment variable values in shell format strings
+s y n c@synchronises data from a disk with the memory
+w o r k m a n@graphical cd player program
+r m a i l@interpret and handle remote mail received via uucp
+u s e r d e l@delete a user account
+b a t c h@used to run commands entered on a standard input
+e 2 l a b e l@change the label on an ext2/ext3/ext4 filesystem
+g p r o f@shows call graph profile data
+s d i f f@this command is used to merge twofiles in a secure manner
+a t@execute commands at a later time
+z m o r e@displays output of a compressed file (using more command) on the terminal one page at a time
+p d f i n f o@portable document format (pdf) document information extractor (version 3.03)
+u n a m e@this command will print the systeminformation
+n l@line numbering filter
+c d@change the working directory
+i d@show user and group information for a specified user
+e x p a n d@converts all the tabs to spaces
+k i c k s t a r t@configure apple remote desktop
+r e a d@read a line from standard input
+b a n n e r@print banner to standard output
+p s 2 p s@ps2ps uses gs to convert postscript(tm) file "input.ps" to simpler and (usually) faster postscript in "output.ps"
+s u s p e n d@this command is used to suspend the execution of the currentshell
+f u n c t i o n@define function macros
+s p l i t@split file into specified number of segments
+t e l n e t d@a server for the telnet protocol
+e d@line-oriented text editor
+n f s d@special filesystem for controlling linux nfs server
+p a s t e@merges lines of files
+x c l i p b o a r d@name says it all
+s l e e p@delay for a specified time
+s o f t w a r e u p d a t e@system software update tool
+i n f o@display system information
+t r a p@traps a signal
+a p t@advanced package tool, a package management system for debian and derivatives
+c h m o d@change access permissions
+l p c@line printer control program, it provides limited control over cups printer and class queues
+c a s e@execute a command conditionally by matching a pattern
+a r p@used to make changes to the system's arp cache
+l p r m@cancel print jobs
+u n z i p@uncompress files compressed with the zip utility, compatible with dos pkzip
+w a r n q u o t a@send mail to the users who've exceeded their disk quota soft limit
+s u@log in as another user, including root
+l d d@shows shared object dependencies
+l p r m@cancel a job from print queue
+c d d a 2 w a v@used to rip a cd-rom and make wav file
+l e t@this is for doing arithmetic on shell variables
+h a s h@remembers the location of commands in the search path
+f d i s k@partition table manipulator for linux systems
+l e t@performs arithmetic on shell variables
+u p d a t e d b@update the slocate database
+a c c e s s@determine whether a file can be accessed
+s e t@manipulate shell variables and functions
+c h o w n@changes file ownership
+s h o w k e y@examine the codes sent by the keyboard
+h o s t i d@shows host's numeric id in hexadecimal format
+l p r i n t d@aborts an ongoing print job
+d i f f 3@this isthe same command as the previous one, but for three files
+d a t e@displays or sets date and time
+g a w k@gnu awk, mostly for processing delimited text files
+t a r@this command is used in order to store a list orextract files in an archive
+i f u p@starts a network interface
+g o t o@jump to label and continue execution
+w@display info about userids and active processes
+a t@used to schedule command execution at specified date &amp; time, reading commands from an input file
+m a k e w h a t i s@rebuild whatis database
+a d d u s e r@add a user or group to the system
+r e n a m e@renames multiple files
+h e a d@output the first part of file(s)
+k i k b d@a utility program that comes with kde that allows users to switch on the fly among different international keyboards
+w h a t i s@display one-line manual page descriptions
+m t o o l s@manipulate ms-dos files
+l o g n a m e@print the user's login name
+n o t i f y - s e n d@send desktop notifications
+s h i f t@shift positional parameters
+x s e t r o o t@root window parameter setting utility for x
+g r o u p s@prints the names of groups in which a user is located
+m a g i c f i l t e r@general purpose printer filter
+u u d e c o d e@decode a binary file
+m k d i r@creates a new directory with the given name
+b 2 s u m@computes and checks blake2 message digest
+c h m o d@set permissions (modes) of files or directories
+k i l l a l l@terminate a group of processes by name
+q u o t a c t l@sets disk quotas
+! !@run the last command again
+q a l t e r@alter batch job
+p e r l@perl 5 language interpreter
+p a t c h@apply a diff file to an original
+x e y e s@a follow the mouse x demo
+u n s e t@removes the variable names or the function names
+t p u t@initialize a terminal or query terminfo database
+c h d i r@change working directory
+m i n f o@print the parameters of a msdos filesystem
+m a k e m a p@creates database maps used by the keyed map lookups in sendmail
+d o s f s c k@check and repair ms-dos filesystems
+m t o o l s t e s t@tests and displays the configuration
+d i g@looks up the dns
+l s m o d@show the status of modules in the linux kernel
+l p q@show print jobs that are waiting
+m a n@display system documentation
+b u i l t i n@run a shell builtin
+x a r g s@this command execute's a utility and passes a constructed argumentlist
+l p r i n t q@this command lists the print queue
+l p r@send file to be printed
+m a n@print manual pages
+r e a d o n l y@marks the variables and functions as readonly
+s s@socket statistics
+v i@standard screen oriented unix editor
+h o s t n a m e@local hostname configuration file
+s h o p t@shopt stands for shell options
+x a r g s@executes a utility and passes a constructed argument list
+t e s t@evaluates an expression or compares arguments
+s t a t@display the status of a file
+d u@show disk useage
+d m e s g@displays messages from /var/log relative to the most recent boot
+x a r g s@execute utility, passing constructed argument list(s)
+w h a t i s@display one line manual page descriptions
+t i m e@the running time ofa program can be measured using this command
+s w a p o f f@disables swap disk
+l p r i n t d@used to abort a print job
+u n a l i a s@this command willremove an alias
+g r o u p m o d@modify a group definition on the system
+a 2 p@translation utility from awk to perl
+u u i d g e n@created a new uuid (universally unique identifier) table
+z m o r e@file perusal filter for crt viewing of compressed text
+m k f s@create a file system (format) on a device or partition
+g r o u p a d d@create a new group on the system
+q u o t a@displays the disk usage and its limits
+e x i t@exit the shell
+e d@a line-oriented text editor (edlin)
+p r@converts text files for printing
+n i c e@set the priority of a command
+l p r@off line print
+r m m o d@simple program to remove a module from the linux kernel
+a l l o c@list used and free memory
+t t y@display the filename of the terminal connected to standard input
+m a i l x@process messages
+c o m p r e s s@compress data
+e n v s u b s t@substitutes environment variables in shell format strings
+m o r e@output the contents of a file, one page at a time
+a r c h@print machine architecture type
+w r i t e@sends messages to other users
+s t t y@changes and prints terminal line settings
+u n s e t@thiscommand removes the variable names or the function names
+l o g g e r@make entries in the system log
+m l a b e l@make an msdos volume label
+f o r@expand words, and execute commands
+m k t e m p@make temporary filename (unique)
+r p m@invokes the red hat package manager in command line mode
+m d u t i l@manage spotlight metadata store
+s w a p o f f@disable devices for paging and swapping
+a p t - g e t@- command-line interface
+c h f l a g s@change a file or folder's flags
+m k f i f o@make a fifo special file (a named pipe)
+l s r e g i s t e r@reset the launch services database
+m m d@make an msdos subdirectory
+l o o k@when you just want to see lines that start with a particularstring
+z i p@a file compression and packaging utility
+g r o u p m o d@while the last onedeletes, this one modified a group
+p w c k@verify integrity of password files
+s h a 1 s u m@compute and check sha1 message digest
+c d@change directory
+p a s s w d@change user password
+c a s e@in 'case'you want to perform a command conditionally
+p y t h o n@interpreted, interactive, object
+e n a b l e@used to enable/disable shell builtin commands
+y p s e t@point a client (running ypbind) to a specifc server (running ypserv)
+m m v@mass move and rename
+i p c s@show information on ipc facilities
+l o c a l@used to create function variables
+m k n o d@makes block or character special files
+l@list files in long format (ls -l)
+u s e r s@print the user names of users currently logged in to the current host
+s p l i t@splits a file into pieces
+l o a d k e y s@load keyboard translation tables
+t o u c h@timestamps on a file canbe changed using this
+x l s f o n t s@list fonts available under the x window system
+c p@copies a file or directory
+p i c o@crappy but simple text editors (recommended)
+d r u t i l@interact with cd/dvd burners
+a w k@searches for and process patterns in a file
+a l i a s@assign name to specified command list
+s o u r c e@run commands from a file '.'
+h t o p@interactive process viewer
+s e t u i d@set the id of a program when it is run
+g u n z i p@decompress file(s) from gnu zip format
+p i n k y@a lightweight 'finger' program;
+t e e@redirect output to multiple files
+c o m p r e s s@used to compress one or more file(s) and replacing the originals ones
+x t e r m@start an x window terminal session
+s h i f t@promotes each command
+s h r e d@overwrite a file to hide its content (optionally delete it), making it harder to recover it
+t c s h@enhanced completely compatible version of the berkeley unix c shell, csh
+w h o@prints a list of all users currently logged in
+e x e c v e@execute program
+d i r s@shows you the list of directories that are remembered
+s e t@this command lets you manipulate shell functionsand variables
+u p d a t e d b@update a database for mlocate
+t e s t@evaluates an expression
+c h r o o t@using this you can run acommand, but with a different root directory
+k e r n e l d@kernel daemon, a process that stays in memory and does all sorts of useful stuff, like automatic loading of device driver modules
+c l e a r@clear terminal screen (command line)
+u n t i l@loop command
+g r o u p m o d@modifies a group
+c s p l i t@split a file into context-determined pieces
+s l e e p@adds a delay
+b i n d@display readline key and function bindings
+d n s d o m a i n n a m e@show the system's dns domain name
+p w d@print absolute path of working directory
+c s p l i t@split a file into sections on the basis of context lines
+u n a l i a s@remove an alias 
+n l@number lines of files
+n t f s . u t i l@ntfs file system utility
+d i r c o l o r s@colour setup for `ls'
+r e a d@reads a line from standard input
+y p p u s h@forces slave nis servers to copy updated nis maps
+g r o u p s@print the groups a user is in
+g r o u p d e l@deletes a certain group
+p e r l@(start) practical extraction and report language
+e x@start vim in ex mode
+r e a d l i n k@display value of a symbolic link or canonical file name
+u n s e t@removes a variable or function
+p a x@portable archive interchange
+f m t@simple text formatting utility
+q r e r u n@rerun a pbs batch job
+c t a g s@make a list of functions and macro names defined in a programming source file
+h d p a r m@get/set sata/ide device parameters
+b a d b l o c k s@search a disk partition for bad sectors
+t t y@return user's terminal name
+u m o u n t@unmount file systems
+k i l l a l l@kill processes by name
+c h g r p@change the group associated with a file
+p p p d@point-to-point protocol daemon
+c p@makes a copy of files to a different location
+v@verbosely list directory contents (`ls -l -b')
+t f t p@user interface to tftp protocol
+s u@become super user ( root )
+s h u t d o w n@reboot or shut down system as root, after specified amount of time
+m m o v e@move or rename an msdos file or subdirectory
+c p i o@direct copy of files to an output device
+m k l o s t + f o u n d@create a lost+found directory on a mounted linux second extended file system
+g r p c o n v@creates a gshadow file from a group or an already existing gshadow
+f u s e r@identify/kill the process that is accessing a file
+r u p@remote status display. shows current system status for all or specified hosts on the local network
+l p a d m i n@configure cups printers and classes
+a p r o p o s@we're not the only ones providing help
+i c o n v@converts the character set in files
+k i l l a l l 5@a systemv killall command. kills all the processes excluding the ones which it depends on
+t o u c h@change file access and modification times
+j o e@simple wordstar
+v i e w@vi improved, a programmers text editor
+l o c k@unimplemented system calls
+c h m o d@change the permissions on a file or group of files
+z c a t@compress or expand files
+g z i p@compress or expand files
+l o c a l e@get locale-specific information
+l o c a t e@find files
+c a t@concatenate files and print on the standard output
+e v a l@scans and evaluates the command line
+p o p d@removes directory on the head of the directory stack and takes you to the new directory on the head
+g r o u p a d d@use this command to add security user groups
+c a l e n d a r@reminder service
+s o r t@sorts text files
+g r p c k@verify integrity of group files
+p i n g@test a network connection
+p w u n c o n v@unconverts passwords from the shadow password format
+l p q@show printer queue status
+p d f t e x@produces pdf output from a tex file
+t a l k@a two-way screen-oriented communication utility that allows two user to exchange messages simulateneously
+s y m l i n k@symbolic link handling
+e x e c@for executing a command
+k b d _ m o d e@print current keyboard mode
+u n i q@report or filter out repeated lines in a file
+c d r d a o@used to write all the content specified to a file to a cd all at once
+t r a c e r o u t e 6@see traceroute
+t c p d u m p@dump traffic on a network
+r e a l p a t h@return the canonicalized absolute pathname
+l i n k s@see elinks
+h w c l o c k@used to query and set the hardware clock
+t a s k s e t@set/retrieve a process's cpu affinity
+m k n o d@create a fifo, block (buffered) special file, character (unbuffered) special file with the specified name
+p g r e p@list processes by name
+c r o n t a b@schedules command to run at regularly specified time
+d d@convert and copy a file
+m a c 2 u n i x@converts plain text files in dos/mac format to unix format
+h d p a r m@show/configure parameters for sata/ide devices
+h a l t@shut down system as root, without reboot, immediately
+b r e a k@exit from a loop
+h a l t@stop the system
+w a i t@await process completion
+d i s p l a y@set display for output of programs under x window
+w h a t i s@list manual pages by name
+x m h@graphical front end under x to the nmh mail handling system
+f i n g e r@in each user's home directory
+l o g g e r@enter messages into the system log
+m o r e@display content of a file page-by-page
+f e t c h m a i l@retrieve mail from a remote mail server and pass it to local smtp agents on the local machine
+x l p q@graphical interface to print manager
+g l i n t@red hat graphical front end for the rpm package installer and manager
+t a i l@show the last 10 lines of each specified file(s)
+g r p c k@verifies the integrity of group files
+f g r e p@search file(s) for lines that match a fixed string
+a l i a s@create an alias 
+f o r@expand words and run commands for each one in the resultant list
+y e s@output "y" (or another string) over and over
+c o n t i n u e@resume the next iteration of a loop
+u m a s k@users file creation mask
+i g a w k@gawk with include files
+s h r e d@overwrites a file to hide its contents, and optionally deletes it
+s l e e p@delay for a specified amount of time
+t a l k d@
+d e p m o d@generate modules.dep and map files
+t a c@print files out in reverse line order
+t e s t@check file types and compare values
+g c c@a c and c++ compiler by gnu
+w c@displays number of lines, characters and words in a file
+a c@print statistics concerning user connect time
+d d r e s c u e@data recovery tool
+d i r n a m e@strips non-directory suffix from file name
+y p m a t c h@shows values for specified keys from an nis map
+u n e x p a n d@converts the spaces in a file to tabs
+g r o u p s@show the group(s) to which a user belongs
+p v@monitor the progress of data through a pipe
+b a s h@bourne-again shell
+m k d i r@creates directories
+s h@command interpreter (shell) utility
+s k i l l@send a signal to processes
+c h f n@used to change real user name and information
+c h a g e@used to change user password information
+d d@used to convert and copy a file, create disk clone, write disk headers, etc
+q a l t e r@alter pbs batch job
+d a t e@display or change the date & time
+a w k@pattern scanning and text processing language
+g e t o p t s@parse utility options
+q s e l e c t@select pbs batch jobs
+c h g r p@changes group associated with file
+s u s p e n d@suspend execution of this shell 
+a r c h@print machine architecture
+s e t@manipulates shell functions and variables
+d e c l a r e@declares attributes for a variable (same as typeset)
+o d@dumps contents of a file
+i f u p@start a network interface appwith this command
+t u n e 2 f s@adjust tunable filesystem parameters on ext2/ext3/ext4 filesystems
+b r e a k@exit from a for, while, until or select loop
+l i n k@create links between two files. similar to ln command
+z i c@creates time conversion information files using the specified input files
+w i s h@front end to tk, an x window extension of tcl
+t f t p@user interface to the internet tftp (trivial file transfer protocol)
+p g@display data one screenful at a time
+p a t h c h k@checks whether file names are valid or portable
+o d@dumps files in octal and other formats
+o n i n t r@control the action of a shell interrupt
+c k s u m@checksums and count the bytes in a file
+p g r e p@look up or signal processes based on name and other attributes
+c u p s d@cups scheduler
+s t a r t x@initialize an x session
+p s@this standsfor process status
+f r e e@display memory usage
+p s b o o k@rearranges pages from a postscript document into "signatures" for printing books or booklets
+m v@used for moving and renaming filesand directories
+c + +@gnu project c and c++ compiler
+e g r e p@search file(s) for lines that match an extended expression
+c h a t t r@used to change file attributes
+u p t i m e@show how long system has been running
+s l e e p@creates process that sleeps for specified interval
+u n t i l@execute command until a given condition is true
+n i s d o m a i n n a m e@show or set the system's nis/yp domain name
+m k f i f o@makes named pipes (fifos)
+l f t p g e t@uses lftop to retrieve http, ftp, and other protocol urls supported by lftp
+e x p o r t@this command sets an environment variable
+l o o k@look for strings in files
+r c p@copy files between machines
+b z d i f f@compare bzip2 compressed files
+f i n d@find a file
+i d@displays the group ids/user ids
+c o m m@used to compare two sorted files line by line
+c s p l i t@split a file into sections determined by context lines
+m o d p r o b e@add or remove modules from the linux kernel
+h e a d@output the beginning of a file
+e x p a n d@convert tabs to spaces
+v o l n a m e@return volume name
+i n i t@upstart init daemon job configuration
+r e n i c e@alter priority of running processes
+s t a t@display file or filesystem status
+n t s y s v@run level editor under red hat
+y a c c@yet another compiler compiler, a gnu project parser generator
+r w h o@reports who is logged-in to the hosts on the local network
+c r o n t a b@schedule periodic background work
+t a r@the gnu version of the tar archiving utility
+r e a d@read from a file descriptor
+x a r g s@runs a command using initial arguments and then reads remaining arguments from standard input
+e x p o r t@sets a variable that any sub-programs launched by this shell can see
+l o c a t e@search for files by name on the entire system
+l p@line printer devices
+s y s t a t@query host for system information
+u u e n c o d e@encode a binary file into 7-bit ascii characters
+a u t o c o n f@generate configuration scripts from a template-file and send the output to standard output
+d i f f@prints the differences between two files
+e 2 f s c k@check an ext2 filesystem
+w h o@prints the usernames that are currently logged into the system
+z c m p@read compressed files and pass them to cmp
+v a l@validate sccs files
+o p@operator access, allows system administrators to grant users access to certain root operations that require superuser privileges
+n o t i f y - s e n d@this command sends desktopnotifications
+d a t e@show system date and time
+r e a d a r r a y@read from stdin into an array variable 
+h e a d@display the first lines of a file
+n u m f m t@convert numbers from/to human-readable strings
+x f d@display an available font in x
+s h u t d o w n@halt, power-off or reboot the machine
+t a l k@talk to another user
+x t e r m@terminal emulator for x
+r e a d o n l y@mark functions and variables as read-only
+r m d i r@remove a directory
+e n v@environment variables
+t r a c e r o u t e@traces the route taken by the packets to reach the network host
+q u o t a c h e c k@lets you scan a file system to find its disk usage
+c d@changes the shell's working directory to the given directory; can be a relative or absolute path
+c h c o n@change file security context
+l a t e x@structured text formatting and typesetting
+u l i m i t@this commands limits the user resources
+a r@a utility to create/modify/extract from archives
+w c@print newline, word, and byte counts for each file
+t a i l@use this command when you want to output only the last part of afile
+i p t a b l e s - r e s t o r e@used to restore ip tables from data specified in the input or a file
+r m@remove files
+c a s e@perform a command conditionally
+l o c a t e@finds files
+k i l l@stops a process from running
+s y s t e m s e t u p@computer and display system settings
+e j e c t@eject cd-rom
+d u@displays information on disk usage
+s u d o@allows individual users to have root permission to perform specified tasks
+e f a x@fax program
+r v i e w@the gui version of vim in easy mode with restrictions
+c a l@displays a 12
+e g r e p@this searches for files that have lines matching an extendedexpression
+d f@display free disk space
+d i r n a m e@display pathname after removing the last slash and characters thereafter
+o p e n@open a file using its default application
+d j p e g@decompress a jpeg file to an image file
+m v@move (rename) files
+z c a t@read one or more files that have been compressed with gzip or compress and write to standard output
+p r@paginates files for printing
+m p a r t i t i o n@partition an ms-dos disk
+u m a s k@get or set the file mode creation mask
+j o i n@for each pair of input lines, join them using a command field and display on standard output
+l i n k@create a link to a file
+d e c l a r e@declares the variables and gives attributes
+l o c a l e d e f@compile locale definition files
+v m s t a t@report virtual memory statistics
+e t h t o o l@query or control network driver and hardware settings
+e x e c@an interactive line-based text editor
+k i l l a l l 5@kill all processes except the ones on which it depends
+m d e l@delete an msdos file
+z f o r c e@force a '.gz' extension on all gzip files
+t e e@this command is used forredirecting output into multiple files
+i d@display thegroup ids or user ids
+p u s h d@appends a given directory name to the head of the stack and then cd to the given directory
+r e v@reverse lines characterwise
+f c - l i s t@show the list of available fonts
+r m m o d@a program to remove modules from linux kernel
+w h o a m i@prints the effective userid
+v i d m o d e@set the video mode for a kernel image. displays current mode value without arguments. alternative: rdev -v
+m a k e b o o t d i s k@command in slackware to do just what the name says
+b z c m p@compare bzip2 compressed files
+q m o v e@move batch jobs
+c h g r p@change the group designation of a file
+s e t k e y c o d e s@load kernel scancode-to-keycode mapping table entries
+n e t s t a t@show network information
+t r@translate or delete characters
+c h r t@manipulate the real-time attributes of a process
+v d i r@verbosely list directory contents (`ls -l -b')
+x d m@used to start an x login session
+t o u c h@update access and modification times of a file
+p a t h c h k@it is used to check theportability of a file name
+c h a t@used to interact with a modem via a chat script
+g p a s s w d@allows an administrator to change group passwords
+p r i n t e n v@show values of all or specified environment variables
+r e a d o n l y@this command marks the variablesand functions as readonly
+l s p c i@utility to display information on pci buses and hardware devices attached to them
+e s d s a m p l e@sample audio using esd
+d v i l j@send a dvi file to a laserjet printer
+o s a s c r i p t@execute applescript
+r e a l p a t h@returns the resolved absolute or relative path for a file
+i f c o n f i g@configures network interfaces
+e n v@disp, set, or remove environment variables
+q u o t a o f f@enable enforcement of filesystem quotas
+c o n t i n u e@resumes the next iteration of a particular loop
+s e t e n v@change or add an environment variable
+x c o n f i g u r a t o r@red hat utility for configuring settings for x
+i c o n v@use this to convert the character set in files
+x e d i t@simple text editor for x
+s y s l o g d@read and log system messages to the system console and log files
+l n@link files
+x e y e s@googley eyes that follow your mouse cursor
+r e n i c e@set nice values of running processes
+k e r n e l c f g@gui to add/remove kernel modules (as root in x terminal)
+m o r e@page through text one screenful at a time
+d n s d o m a i n n a m e@show the dns domain name of the system
+w h o@show who is logged on
+a r c h@print machine hardware name (same as uname -m)
+a p t - g e t@command-line utility to install/remove/update packages based on apt system

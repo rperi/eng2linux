@@ -19,8 +19,17 @@ use_cuda = torch.cuda.is_available()
 
 
 if __name__ == '__main__':
+    
+    hidden_size = 128
+    encoder1 = EncoderRNN(input_lang.n_words, hidden_size)
+    attn_decoder1 = AttnDecoderRNN(hidden_size, output_lang.n_words,
+                                   1, dropout_p=0.1)
+    if use_cuda:
+        encoder1 = encoder1.cuda()
+        attn_decoder1 = attn_decoder1.cuda()
+
     # Start the training process.
-    trainIters(eng2linux.encoder1, attn_decoder1, repeat=30, print_every=100)
+    trainIters(encoder1, attn_decoder1,  repeat=20, print_every=100)
 
     enc_dec = [encoder1, attn_decoder1]
     evaluateRandomly(encoder1, attn_decoder1)

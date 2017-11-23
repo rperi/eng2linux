@@ -63,11 +63,11 @@ def readLangs(lang1, lang2, reverse=False):
     print("Reading lines...")
 
     # Read the file and split into lines
-    lines = open('data/%s-%s.txt' % (lang1, lang2), encoding='utf-8').\
+    lines = open('../data/%s-%s_train.txt' % (lang1, lang2), encoding='utf-8').\
         read().strip().split('\n')
 
     # Split every line into pairs and normalize
-    pairs = [[normalizeString(s) for s in l.split('\t')] for l in lines]
+    pairs = [[normalizeString(s) for s in l.split('@')] for l in lines]
 
     # Reverse pairs, make Lang instances
     if reverse:
@@ -129,14 +129,20 @@ def prepareData(lang1, lang2, reverse=False):
     print("Counted words:")
     print(input_lang.name, input_lang.n_words)
     print(output_lang.name, output_lang.n_words)
+    print("add <unk> word:")
+    input_lang.addWord('<unk>')
+    print(input_lang.name, input_lang.n_words)
+    print(output_lang.name, output_lang.n_words)
+
     return input_lang, output_lang, pairs
 
 
-input_lang, output_lang, pairs = prepareData('com', 'eng', True)
+# input_lang, output_lang, pairs = prepareData('com', 'eng', True)
 
 # input_lang, output_lang, pairs = prepareData('eng', 'fra', True)
-print(random.choice(pairs))
+# print(random.choice(pairs))
 
+input_lang, output_lang, pairs = prepareData('com', 'eng', True)
 
 
 class EncoderRNN(nn.Module):
@@ -460,12 +466,10 @@ def evaluateRandomly(encoder, decoder, n=10):
         print('<', output_sentence)
         print('')
 
-
-
-hidden_size = 128
-encoder1 = EncoderRNN(input_lang.n_words, hidden_size)
-attn_decoder1 = AttnDecoderRNN(hidden_size, output_lang.n_words,
-                               1, dropout_p=0.1)
+# hidden_size = 128
+# encoder1 = EncoderRNN(input_lang.n_words, hidden_size)
+# attn_decoder1 = AttnDecoderRNN(hidden_size, output_lang.n_words,
+                               # 1, dropout_p=0.1)
 def showAttention(input_sentence, output_words, attentions):
     # Set up figure with colorbar
     fig = plt.figure()
@@ -492,8 +496,5 @@ def evaluateAndShowAttention(input_sentence):
     print('output =', ' '.join(output_words))
     # showAttention(input_sentence, output_words, attentions)
 
-if use_cuda:
-    encoder1 = encoder1.cuda()
-    attn_decoder1 = attn_decoder1.cuda()
 
 
