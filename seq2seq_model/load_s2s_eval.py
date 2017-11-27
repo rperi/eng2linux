@@ -1,4 +1,7 @@
 from __future__ import unicode_literals, print_function, division
+import sys
+import os
+from eng2linux import *
 from io import open
 import unicodedata
 import string
@@ -12,7 +15,6 @@ import torch.nn.functional as F
 import ipdb
 import pickle
 from datetime import datetime
-from eng2linux import *
 from nltk.corpus import wordnet
 import itertools as IT
 from nltk.metrics import *
@@ -129,13 +131,15 @@ def get_nearest(dec_comm, comm_list_train):
 
     return est_comm
 def eval_est(est_comm_list, des_list_test, comm_list_test):
-    
+    out = open("character_level_test.txt", "a+")
     grade_list = []
     for k, val in enumerate(comm_list_test):
         val_join = ''.join(val.split(' '))
         grade_list.append(val_join == est_comm_list[k])
         print('description:', des_list_test[k])
+        out.writelines('description:'+ des_list_test[k] + "\n")
         print('EST:', est_comm_list[k], 'ACTUAL:', val_join, '\n')
+        out.writelines('EST: ' + est_comm_list[k] + ' ACTUAL: ' + val_join + '\n' + "\n")
     score = sum(grade_list)/len(comm_list_test)
     print('Score:', score)
     return grade_list, score
@@ -144,7 +148,9 @@ def ev_test_set(des_list_test, input_lang):
     dec_comm = []
     for k, des in enumerate(des_list_test):
         print(k, '/', len(des_list_test), ' description:', des)
-        dec_comm.append( ev(mwr(des, input_lang) ) )
+        #dec_comm.append( ev(mwr(des, input_lang) ) )
+        tmp = ev(des)
+        dec_comm.append(tmp)
 
     return dec_comm
 
@@ -158,7 +164,7 @@ if __name__ == '__main__':
         encoder1 = encoder1.cuda()
         attn_decoder1 = attn_decoder1.cuda()
 
-    enc_dec_filename = 'enc_dec_07_29PM_November_22_2017.pickle'
+    enc_dec_filename = 'enc_dec_04_47PM_November_26_2017.pickle' #'enc_dec_03_48PM_November_23_2017.pickle' #'enc_dec_02_40PM_November_24_2017_ch.pickle'
     print('Loading saved encoder and decoder...')
     with open(enc_dec_filename, 'rb') as handle:
         encoder1, attn_decoder1 = pickle.load(handle)
@@ -168,8 +174,8 @@ if __name__ == '__main__':
     # replace_mat = mwr('gummy bear sisters', input_lang)
     # replace_mat = mwr('Where are all the people ? we have been waiting here for like 19 hours', input_lang)
 
-    train_data_list = read_and_store('../data/com-eng_train.txt') 
-    test_data_list = read_and_store('../data/com-eng_test.txt') 
+    train_data_list = read_and_store('../data/com-eng_train_character.txt')
+    test_data_list = read_and_store('../data/com-eng_test_character.txt')
     subs = len(test_data_list)
 
     des_list_test = [ line.split('@')[1] for k, line in enumerate(test_data_list) ]
