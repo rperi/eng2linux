@@ -1,6 +1,7 @@
 import numpy as np
 import json
 import random
+import re
 
 def read_and_store(list_path):
     with open(list_path) as f:
@@ -23,15 +24,20 @@ def read_json(json_fn):
     return data_loaded
 
 if __name__ == '__main__':
-   
+
     json_dict = read_json('../data/com2des_TJ.json')
     
     data_out = []
     for key, val in json_dict.items():
         sep_let = list(key)
         for desc in val:
-            COM = ' '.join(sep_let).strip() 
-            DES = desc
+            COM = ' '.join(sep_let).strip()
+            COM = re.sub(r"[^a-zA-Z0-9]+", r" ", COM)
+
+            desc = [d.lower() for d in desc]
+            desc = [d for d in desc if d.find('\xe2') == -1]
+            DES = " ".join(desc)
+            DES = re.sub(r"[^a-zA-Z0-9]+", r" ", DES)
             data_out.append(COM + '@'+ DES)
     random.shuffle(data_out)
 
@@ -40,7 +46,7 @@ if __name__ == '__main__':
     train_set = data_out[:int(split_ratio*len(data_out))]
     dev_set = data_out[int(split_ratio*len(data_out)):]
     
-    read_and_write('../data/com-eng_train.txt', train_set)
-    read_and_write('../data/com-eng_test.txt', dev_set)
+    read_and_write('../data/com-eng_train_character.txt', train_set)
+    read_and_write('../data/com-eng_test_character.txt', dev_set)
 
 
