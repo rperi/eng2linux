@@ -55,7 +55,8 @@ def unicodeToAscii(s):
 def normalizeString(s):
     s = unicodeToAscii(s.lower().strip())
     s = re.sub(r"([.!?])", r" \1", s)
-    s = re.sub(r"[^a-zA-Z.!?]+", r" ", s)
+    #s = re.sub(r"[^a-zA-Z.!?]+", r" ", s)
+    s = re.sub(r"[^a-zA-Z0-9]+", r" ", s)
     return s
 
 
@@ -63,7 +64,7 @@ def readLangs(lang1, lang2, reverse=False):
     print("Reading lines...")
 
     # Read the file and split into lines
-    lines = open('../data/%s-%s_train.txt' % (lang1, lang2), encoding='utf-8').\
+    lines = open('../data/%s-%s_train_character.txt' % (lang1, lang2), encoding='utf-8').\
         read().strip().split('\n')
 
     # Split every line into pairs and normalize
@@ -81,7 +82,7 @@ def readLangs(lang1, lang2, reverse=False):
     return input_lang, output_lang, pairs
 
 
-MAX_LENGTH = 50
+MAX_LENGTH = 200
 print_every = 100
 
 eng_prefixes = (
@@ -144,7 +145,7 @@ def prepareData(lang1, lang2, reverse=False):
 
 input_lang, output_lang, pairs = prepareData('com', 'eng', True)
 
-
+x = 0
 class EncoderRNN(nn.Module):
     def __init__(self, input_size, hidden_size, n_layers=1):
         super(EncoderRNN, self).__init__()
