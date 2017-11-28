@@ -1,0 +1,5 @@
+e s d c a t@use esound to send audio data from a specified file
+s i z e@list section sizes and total size
+c r o n t a b@schedule periodic background work
+p a s t e@merge lines of files
+z c a t@read one or more files that have been compressed with gzip or compress and write to standard output
