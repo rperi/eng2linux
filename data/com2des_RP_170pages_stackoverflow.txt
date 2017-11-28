@@ -1,0 +1,359 @@
+ln@how to symlink a file in linux
+compgen@linux command to list all available commands and aliases
+watch@repeat command automatically in linux
+wc@how to count lines in a document
+date@linux command to get time in milliseconds
+which@uninstall node js using linux command line
+xdg open@linux equivalent of the mac os x open command
+date@how to get the current date and time in the terminal and set a custom command in
+sort@linux command or script counting duplicated lines in a text file
+awk@omitting the first line from any linux command output
+exec@linux commands in ruby
+exec@linux commands in ruby
+ls@run linux command from symfony command
+free@linux command for percentage of memory that is free
+find@how to linux command find many types
+groups@is there a command to list all unix group names
+echo@generating a sha256 from the linux command line
+setsid@linux command setsid
+cut@what linux shell command returns a part of a string
+find@removing files and folders using linux command
+cut@what linux shell command returns a part of a string
+grep@performing set operations using linux command
+wc@linux command wc output format
+dmesg@who killed my process and why
+dmesg@who killed my process and why
+dir@how do i run two commands in one line in windows cmd
+find@linux command to find a file
+less@linux command to check zip file hierarchy
+ps@running a linux command from python
+host@linux command for a raw dns response
+man@aspect execution time on the every linux command executed
+host@linux command for a raw dns response
+mv@linux command or php function
+cat@linux command to subsample from stdin
+export@call r function in linux command line
+ls@how to join multiple lines of file names into one with custom delimiter
+cd@java executing linux commands
+awk@running linux commands in windows command prompt
+sh@run linux command succeed but failed in sh file no such file or directory
+which@bash script check element of an array if its a linux command or not
+cat@executing multiple commands on command line linux
+echo@is the md5sum linux command working right
+rename@linux rename command pattern
+wget@windows cmd commands corresponding to linux commands
+echo@mathematica script run in linux command line
+cat@cat command in linux
+time@linux command for distcp time
+perl@perl regex where pattern is output from linux command
+exec@how can i run a linux command from a php script
+cat@executing multiple commands on command line linux
+grep@sorting using linux commands
+sed@what gnu linux command line tool would i use for performing a search and replace
+ls@linux command to list the file names which have numbers
+pidof@linux unix command to determine if process is running
+watch@how to show result dynamically in linux terminal like top command
+pidof@linux unix command to determine if process is running
+dd@how to avoid linux command messages in linux
+command@using os system in python to execute linux command
+ssh@copy paste command in text based linux server no gui
+sed@linux command to get lines in specified format
+pushd@linux command for store frequently used commands
+ls@available linux commands across android versions
+help@linux which cd worked but cd is a builtin command in bash
+open@how can i write the pipe command linux in windows batch
+top@check the main memory usage by a linux command
+cat@linux command line vs linux command pipeline
+cat@linux command to get the first non system user id
+command@using os system in python to execute linux command
+grep@linux command find string in files content
+ps@linux command ps
+cat@are linux commands really c object files
+mkfifo@sequential fifo queue for linux command line
+start@mule esb run in background from linux command
+pwd@how to list the classlist file with the absolute and relative path using linux c
+od@explain octal and the linux command od understanding 0x00
+head@linux command like cat to read a specified quantity of characters
+curl@how to use linux command line ftp with a sign in my username
+cd@how to fix keytool command error linux
+man@linux commands what do they mean
+exec@run linux commands using php
+awk@random selection of columns using linux command
+tar@how to convert multiline linux commands to one line of command
+ls@counting file with linux command
+ps@what is the difference between ps ef and ps ef more command in linux
+kill@executing linux command in java
+sort@linux command sort issues
+date@linux command to display date in unix format
+bash@linux terminal command in java does not work
+cd@how to fix keytool command error linux
+sudo@an htop like tool to display disk activity in linux
+wget@naming conventions for linux command flag option names
+ls@linux command most recent non soft link file
+touch@redirect argument from a file to a linux command
+date@linux command to display date in unix format
+ls@linux command find usage confuse
+which@where is exit command file in linux
+export@how to see linux command exec time by each user
+echo@java home directory in linux
+echo@help sending email usings the linux mail command in a perl cgi script
+exec@running linux commands on java through jsch
+grep@linux command to search for a name which has reference in multiple files inside
+cp@linux commands to copy one file to many files
+sh@how to automate some linux commands
+ls@linux command most recent non soft link file
+stat@linux unix command to check when a file was renamed
+top@how to do console input like in the top linux command
+awk@linux command calculating the sum
+exec@running linux command from java runtime exe
+alias@how to bookmark most using linux command line
+man@n option with echo command in linux
+grep@to remove undesired lines using linux command
+ps@how can i get the cpu usage and memory usage of a single process on linux ubunt
+exec@single quote issue when executing linux command in java
+awk@sort and add data inside a file using a linux command
+ls@error while running linux commands in jupyter notebook on windows
+rm@linux command pipelining understanding
+find@linux commands piping commands
+xargs@pipe lines of text into a linux command
+for@how to copy one directory to many directory using linux command
+ls@linux command not working
+cat@about the composition of linux command
+nohup@linux prevent a background process from being stopped after closing ssh client
+compgen@how is tab completion implemented for linux commands
+sudo@how to yum install node js on amazon linux
+cat@linux kernel compilation speed up command
+timeout@run a bash linux command for a specified time
+for@how to copy one directory to many directory using linux command
+cat@about the composition of linux command
+ls@linux command not working
+nohup@linux prevent a background process from being stopped after closing ssh client
+objdump@equivalent of dumpstabs s solaris command in linux
+ssh keygen@complete password field scp command on linux
+less@more command linux
+paste@how to insert custom string in the result of linux paste command
+debconf set selections@pass file contents to linux command arguments
+awk@linux awk command to with operarion
+cat@linux kernel compilation speed up command
+compgen@how is tab completion implemented for linux commands
+sudo@how to yum install node js on amazon linux
+objdump@equivalent of dumpstabs s solaris command in linux
+ssh keygen@complete password field scp command on linux
+time@windows command line equivalent to time in linux
+test@linux using grep command
+grep@how to grep lines that start with double forward slash in linux command line
+cat@linux command to replace specified content at the end of line
+awk@linux command line help extract specific parts from file
+awk@linux command to get info from a line
+cat@about the composition of linux command
+sort@linux sorting awk command
+from@how to call combined linux commands on python subprocess
+apropos@linux utility to know command for a particular task
+find@find all files matching name on linux system and search with them for text
+updatedb@error while installing aws autoscaling command line tools on linux
+echo@unix linux do ever command have return value
+make@what command on cmd works just the same as the makefiles command on linux
+printf@linux command prompt reading and passing date to java d option
+ls@viewing the largest file in the directory using linux
+find@how do i include a pipe in my linux find exec command
+pwd@in linux terminal what is the command thatll tell me in which folder am i
+cat@how can i know on which flavour of linux i was using through command
+find@how to delete files matching linux command output
+cat@linux command for physical memory getting the value only
+if@linux command copy a file one hundred times
+printf@linux command prompt reading and passing date to java d option
+make@what command on cmd works just the same as the makefiles command on linux
+pgrep@finding process count in linux via command line
+ls@how to use python in the linux command
+grep@how to sum numbers with linux
+sed@sed in place flag that works both on mac bsd and linux
+chmod@executing command from specific user and group context in linux
+man@why count differs between ls and ls l linux command
+sed@how to set vriable for echo in linux command line
+sed@linux command to add a word after a specific line
+date@date command does not follow linux specifications mac os x lion
+awk@linux bc command total counts
+ls@how to use python in the linux command
+column@linux column command or other want some padding before output
+sed@linux command to add a word after a specific line
+command@linux shell commands behave strange with runtime exec screen command
+zip@linux command variable substitution assistance is appreciated
+zipsplit@benefit of linux unix zipsplit vs split command
+env@how to set proxy value and run linux command in python
+alias@get current command in linux
+echo@linux multiple command execution using semicolon
+command@linux shell commands behave strange with runtime exec screen command
+xterm@linux equivalent of the dos start command
+cat@how to read from the console linux
+grep@linux grep command with file name that exist
+split@convert output of linux command to python list using regex
+ln@why cant i use gem install command linux ruby rails
+cd@delete contents but not directory in linux
+alias@command or alias in echo command linux ubuntu bash
+nproc@number of processors cores in command line
+nslookup@how to use nslookup command to check email domains in linux
+chmod@executing command from specific user and group context in linux
+shuf@pipeline in linux command is not working
+alias@get current command in linux
+cd@find command in linux
+open@what similar command to xload in linux will be for os x
+awk@ubuntu linux command extract substring inside
+cd@delete contents but not directory in linux
+split@convert output of linux command to python list using regex
+ln@why cant i use gem install command linux ruby rails
+curl@linux command line programs config file on home dir less setup
+sudo@linux command to list file systems available for mounting
+exec@executing a linux command from a tcl file
+shuf@pipeline in linux command is not working
+sed@how switch a specific expression to lower case in a file linux command
+dir@how to make dir command in windows output like ls command on linux
+env@linux command to get location of env file
+grep@multiple grep command in linux
+ls@linux bash script error handling
+nslookup@how to use nslookup command to check email domains in linux
+find@show only subdirectories in command line linux
+nproc@number of processors cores in command line
+sudo@linux command to list file systems available for mounting
+function@one liner for setting global default options for unix linux commands best prac
+sudo@sudo apt get command not found linux server
+file@applying file linux command to binary buffer in perl
+getent@command to get groupid of a group name in mac or linux
+if@kill linux processes based on commands present
+env@ldap search user based on certificate in linux command line
+strace@equivalent of strace feopen command on mac os x
+rename@using util linux rename command
+find@find all files matching name on linux system and search with them for text
+ls@linux bash script error handling
+rename@using util linux rename command
+stat@linux read file permissions
+sed@linux command line extracting name from text
+find@how do i include a pipe in my linux find exec command
+strace@equivalent of strace feopen command on mac os x
+iw@evaluate output of a background linux command with c or bash shell script
+awk@how can i remove specific lines block wise using linux commands
+gpg@pgp encryption in linux
+ls@how commands are processed in linux
+bash@define function in unix linux command line e g bash
+sudo@install r packages from linux command line fresh r install
+sed@stripping single and double quotes in a string using bash standard linux comma
+exec@need explanations for linux bash builtin exec command behavior
+print@what is the equivalent python script of linux command strings
+if@what system function and cp command return in c linux
+wait@linux 30 digit random number generator
+file@applying file linux command to binary buffer in perl
+awk@how can i remove specific lines block wise using linux commands
+which@how to use a c program to determine if the user entered a command that exists in
+netstat@how to test which port mysql is running on and whether it can be connected to
+whoami@run consecutive commands linux with java runtime exec
+nm@checking existence of a function in a library in linux
+sudo@list all harddrives in a linux system
+for@how to download batch of data with linux command line
+do@does every shell command in linux calls a system call at the back end
+vmstat@what is equivalent of linuxs free command on freebsd v8 1
+ssh@run command remotely on linux environment
+sed@how to remove a special character in a string in a file using linux commands
+awk@how can i display lines under a sub heading alone ignoring other lines in a file
+netstat@list ip in command netstat in linux
+nm@checking existence of a function in a library in linux
+do@does every shell command in linux calls a system call at the back end
+wget@linux and wget specify alternate link
+wget@using systemcommand in linux
+curl@how to do http request call with json payload from command line
+cp@linux combining the ls and cp command
+dd@how to create a file with a given size in linux
+sed@piping functions with other commands in linux
+whoami@run consecutive commands linux with java runtime exec
+import@using a python list as input for linux command that uses stdin as input
+cut@how do i change the output order in a linux command
+cd@changing the current directory in java to implement cd command in linux
+awk@how to remove some string with awk sed or another command in linux
+ls@what does this command mean in linux
+zip@how to use command zip in linux that folder have short path
+strace@in linux where does the netstat su command get the statistics
+passwd@passwd command to change the linux pcs password through php script shows permis
+ps@trying to join output from ps and pwdx linux commands
+find@how to fix path contain space in find command of linux bash
+while@execute linux command in java and display output to html table
+ssh@linux run a shell command remotely and print result
+time@linux how using tee in piped command
+ps@any linux command similar to ps but instead logs process activity
+import@how to execute linux command in python which changes default prompt
+man@is there a command to list all syscall names and numbers on linux in bash
+import@using a python list as input for linux command that uses stdin as input
+import@how to clear the interpreter console
+ls@what does this command mean in linux
+zip@how to use command zip in linux that folder have short path
+awk@how can i display lines under a sub heading alone ignoring other lines in a file
+watch@linux using watch command with a seperator
+sed@how to remove a special character in a string in a file using linux commands
+ls@file content as a command input on linux
+ssh@linux run a shell command remotely and print result
+sort@why using pipe for sort linux command is slow
+while@execute linux command in java and display output to html table
+file@guess file type windows similar to linux file
+tar@linux backup files command
+top@linux top command giving output of both the cpu cores using command line
+alias@linux shell commands execution
+ls@how to get output of ls command to an array in c
+find@how linux find command works with exec
+set@windows batch echo without new line
+for@linux shell append variable parameters to command
+zip@how to create zip file in php using shell command on linux server
+sh@find command in linux bash shell
+find@linux command line remove files recursively which dont exist in other folder
+less@recursive search and replace in text files on mac and linux
+ps@what is the difference between ps and ps e command in linux
+while@execute linux command in java and display output to html table
+find@linux find command viewing results
+bzgrep@linux search text string from bz2 files recursevely in subdirectories
+netstat@execute windows command in java
+ls@not able to understand the outputs of commands of linux
+awk@linux awk command for isolation
+chmod@assign permission folder to specific group in linux
+find@linux shell command find how to sort and exec without using pipes
+useradd@use a linux command in a perl programm and use perl through php exec
+file@how to pipe the output of the linux which command into the linux file command
+rsh@running commands in remote linux from java
+paste@linux command to layout tab separated list nicely
+awk@using tr command inside awk command in linux
+bash@running the linux subsystem from visual studios post build command line
+python@linux time command causes exception for multi context with statement
+top@top c command in linux to filter processes listed based on processname
+ssh@running history command remotely in linux
+wait@linux execute command after finishing of multiple curl commands
+dd@how to create a file with any given size in linux
+cat@how can display txt file in terminal through a linux command
+netstat@execute windows command in java
+mv@move all files and folder from html folder to html using linux command
+top@top c command in linux to filter processes listed based on processname
+killall@linux bash pidof command wont work
+ssh@linux ssh with multiple commands
+gdb@how do i pass a command line argument while starting up gdb in linux
+find@copying files in multiple subdirectories in the linux command line
+bash@combine two linux command to show as single string
+sed@replace text with formatted text on linux
+find@linux find command weird behavior
+from@how to store output from linux call in python
+awk@using tr command inside awk command in linux
+cut@how to use cut command in linux
+script@linux script command with ps1 change
+sed@linux bash sed command with variable
+find@copying files in multiple subdirectories in the linux command line
+if@if post then do command or commands
+ssh@run command remotely on linux environment
+sed@remove occurrences of string in text file
+dd@how to create a file with any given size in linux
+wait@linux execute command after finishing of multiple curl commands
+ls@ftp ls lt command how does it list the file details for linux ftp and window
+find@linux find command weird behavior
+from@how to store output from linux call in python
+sha1sum@java sha1 output not the same as linuxs sha1sum command
+find@how to remove folders with a certain name
+paste@linux paste command standard input
+make@what does the linux make command do
+date@how can i use date command in linux to read ansi date
+ps@trying to join output from ps and pwdx linux commands
+ls@how to get output of ls command to an array in c
+make@getting arm buildroot linux uclibcgnueabihf gcc command not found
+whoami@run consecutive commands linux with java runtime exec
+sed@linux bash sed command with variable
