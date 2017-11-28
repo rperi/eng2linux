@@ -97,8 +97,8 @@ def mwr(input_sent, input_lang):
                 # print(' %s %s %s'%(word, tr_word, dist) )
                 if dist == None:
                     dist_val = 0
-                # elif dist == 0:
-                    # dist_val = 0
+                elif dist == 0:
+                    dist_val = 0
                 else:
                     dist_val = dist
                 dist_buff.append(dist_val)
@@ -174,20 +174,23 @@ if __name__ == '__main__':
         encoder1 = encoder1.cuda()
         attn_decoder1 = attn_decoder1.cuda()
 
-    enc_dec_filename = 'enc_dec_03_52PM_November_27_2017.pickle'
-    # enc_dec_filename = 'enc_dec_11_30PM_November_21_2017.pickle'
+    # enc_dec_filename = 'enc_dec_03_52PM_November_27_2017.pickle'
+    enc_dec_filename = 'enc_dec_08_16PM_November_27_2017.pickle'
     print('Loading saved encoder and decoder...')
     with open(enc_dec_filename, 'rb') as handle:
         encoder1, attn_decoder1 = pickle.load(handle)
     
-    evaluate_randomly(encoder1, attn_decoder1) 
+    # evaluate_randomly(encoder1, attn_decoder1) 
     
     # replace_mat = mwr('gummy bear sisters', input_lang)
     # replace_mat = mwr('Where are all the people ? we have been waiting here for like 19 hours', input_lang)
 
     train_data_list = read_and_store('../data/com-eng_train.txt')
     test_data_list = read_and_store('../data/com-eng_test.txt')
-    subs = len(test_data_list)
+    train_data_list = read_and_store('../data/com-eng_train_unclean.txt')
+    test_data_list = read_and_store('../data/com-eng_test_unclean.txt')
+    # test_data_list = read_and_store('../data/com-eng_stoflw_test_short.txt')
+    # test_data_list = read_and_store('../data/com-eng_stoflw_test.txt')
 
     # Description and Command from test set
     des_list_test = [ line.split('@')[1] for k, line in enumerate(test_data_list) ]
@@ -196,12 +199,28 @@ if __name__ == '__main__':
     # Description and Command from train set
     des_list_train = [ line.split('@')[1] for k, line in enumerate(train_data_list) ]
     comm_list_train = [ line.split('@')[0] for k, line in enumerate(train_data_list) ]
-    
-    # Description and Command from train set
-    dec_comm_list = ev_test_set(des_list_test[:subs], input_lang)
-    est_comm = get_nearest(dec_comm_list, comm_list_train)
-    print(est_comm)
-    
-    # Evaluate the system
-    eval_est(est_comm, des_list_test[:subs], comm_list_test[:subs])
+   
+    tr_tst = 1
+
+    if tr_tst == 1 :
+        subs = len(test_data_list)
+       
+        # Description and Command from train set
+        dec_comm_list = ev_test_set(des_list_test[:subs], input_lang)
+        est_comm = get_nearest(dec_comm_list, comm_list_train)
+        print(est_comm)
+        
+        # Evaluate the system - TEST set
+        eval_est(est_comm, des_list_test[:subs], comm_list_test[:subs])
+       
+    elif tr_tst == 2:
+        subs = len(train_data_list)
+        
+        # Description and Command from train set
+        dec_comm_list_train = ev_test_set(des_list_train[:subs], input_lang)
+        est_comm = get_nearest(dec_comm_list_train, comm_list_train)
+        # print(est_comm)
+        
+        # Evaluate the system - TRAIN set
+        eval_est(est_comm, des_list_train[:subs], comm_list_train[:subs])
 

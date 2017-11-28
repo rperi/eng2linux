@@ -29,7 +29,7 @@ if __name__ == '__main__':
         attn_decoder1 = attn_decoder1.cuda()
 
     # Start the training process.
-    trainIters(encoder1, attn_decoder1,  repeat=20, print_every=100)
+    trainIters(encoder1, attn_decoder1,  repeat=40, print_every=100)
 
     enc_dec = [encoder1, attn_decoder1]
     evaluateRandomly(encoder1, attn_decoder1)

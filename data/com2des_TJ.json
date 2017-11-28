@@ -40,7 +40,7 @@
     ],
     "alias": [
         "create an alias for linux commands",
-        "create an alias ",
+        "create an alias \u2022",
         "if creating an alias is what you want, then this is it",
         "give a pseudonym to another command",
         "create an alias",
@@ -242,7 +242,7 @@
     ],
     "bind": [
         "used to attach a name to a socket",
-        "set or display readline key and function bindings ",
+        "set or display readline key and function bindings \u2022",
         "display readline key and function bindings",
         "displays or redefines key bindings",
         "bind a name to a socket"
@@ -253,7 +253,7 @@
     ],
     "break": [
         "used to exit from a loop (eg: for, while, select)",
-        "exit from a loop ",
+        "exit from a loop \u2022",
         "exit from a loop",
         "exit from a for, while, until or select loop",
         "unimplemented system calls"
@@ -491,7 +491,7 @@
     ],
     "command": [
         "used to execute a command with arguments ignoring shell function named command",
-        "run a command - ignoring shell functions ",
+        "run a command - ignoring shell functions \u2022",
         "execute a simple command",
         "run a command (not a function)",
         "run a command - ignoring shellfunctions",
@@ -506,7 +506,7 @@
     ],
     "continue": [
         "resume the next iteration of a loop",
-        "resume the next iteration of a loop ",
+        "resume the next iteration of a loop \u2022",
         "resumes the next iteration of a particular loop",
         "this is for resuming the next iteration of aparticular loop"
     ],
@@ -633,7 +633,7 @@
     ],
     "declare": [
         "used to declare variables and assign attributes",
-        "declare variables and give them attributes ",
+        "declare variables and give them attributes \u2022",
         "declares the variables and gives attributes",
         "declare variable & set attributes",
         "this command isused to declare the variables and to give attributes",
@@ -795,7 +795,7 @@
     ],
     "echo": [
         "send input string(s) to standard output i.e. display text on the screen",
-        "display message on screen ",
+        "display message on screen \u2022",
         "displays message on the screen",
         "write arguments to standard output",
         "displays a specified line of text",
@@ -840,7 +840,7 @@
     ],
     "enable": [
         "used to enable/disable shell builtin commands",
-        "enable and disable builtin shell commands ",
+        "enable and disable builtin shell commands \u2022",
         "disable/enable bulletin shell commands",
         "enable and disable builtin shell commands",
         "use this to disable or enable bulletin shellcommands"
@@ -1302,7 +1302,7 @@
     ],
     "help": [
         "display's help for a built-in command",
-        "display help for a built-in command ",
+        "display help for a built-in command \u2022",
         "display the built in help for a command"
     ],
     "hexdump": [
@@ -1486,7 +1486,7 @@
     ],
     "jobs": [
         "show the list of active jobs and their status",
-        "list active jobs ",
+        "list active jobs \u2022",
         "lists jobs that are active",
         "display status of jobs in the current session",
         "list active jobs",
@@ -1583,7 +1583,7 @@
     ],
     "let": [
         "used to perform integer artithmetic on shell variables",
-        "perform arithmetic on shell variables ",
+        "perform arithmetic on shell variables \u2022",
         "performs arithmetic on shell variables",
         "evaluate expression",
         "this is for doing arithmetic on shell variables",
@@ -1622,7 +1622,7 @@
     ],
     "local": [
         "used to create function variables",
-        "create a function variable ",
+        "create a function variable \u2022",
         "creates variables",
         "set a local (function) variable",
         "use this forcreating variables",
@@ -1669,7 +1669,7 @@
     ],
     "logout": [
         "performs the logout operation by making changes to the utmp and wtmp files",
-        "exit a login shell ",
+        "exit a login shell \u2022",
         "use this command to exit a login shell",
         "exit a login shell (bye)",
         "exit a login shell",
@@ -2317,7 +2317,7 @@
     ],
     "printf": [
         "show arguments formatted according to a specified format",
-        "format and print data ",
+        "format and print data \u2022",
         "formats and prints data",
         "write formatted output",
         "format and print data",
@@ -2441,7 +2441,7 @@
     ],
     "read": [
         "read from a file descriptor",
-        "read a line from standard input ",
+        "read a line from standard input \u2022",
         "reads a line from standard input",
         "read a line from standard input",
         "read one line from standard input",
@@ -2451,7 +2451,7 @@
     ],
     "readarray": [
         "read lines from a file into an array variable",
-        "read from stdin into an array variable ",
+        "read from stdin into an array variable \u2022",
         "reads from stdin into an array variable",
         "this commands reads from stdininto an array variable"
     ],
@@ -2967,7 +2967,7 @@
     ],
     "suspend": [
         "suspend the execution of the current shell",
-        "suspend execution of this shell ",
+        "suspend execution of this shell \u2022",
         "suspends the execution of the current shell",
         "suspend execution of this shell",
         "this command is used to suspend the execution of the currentshell"
@@ -3226,7 +3226,7 @@
     ],
     "type": [
         "write a description for a command type",
-        "describe a command ",
+        "describe a command \u2022",
         "displays how a name would be interpreted if used as a command",
         "describe a command",
         "displays how each argument would be interpreted as a command"
@@ -3238,7 +3238,7 @@
     ],
     "ulimit": [
         "get and set user limits for the calling process",
-        "limit user resources ",
+        "limit user resources \u2022",
         "limits the user resources",
         "set or report file size limit",
         "limit the use of system-wide resources",
@@ -3266,7 +3266,7 @@
     ],
     "unalias": [
         "remove alias definitions for specified alias names",
-        "remove an alias ",
+        "remove an alias \u2022",
         "removes an alias",
         "remove alias definitions",
         "remove an alias",
@@ -3448,7 +3448,7 @@
     ],
     "wait": [
         "waits for a specified process id(s) to terminate and returns the termination status",
-        "wait for a process to complete ",
+        "wait for a process to complete \u2022",
         "directs the system to wait for a process to finish",
         "await process completion",
         "wait for a process to complete",

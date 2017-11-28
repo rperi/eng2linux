@@ -53,6 +53,7 @@ def eval(est_comm_list, des_list_test, comm_list_test):
 if __name__ == '__main__':
     train_data_list = read_and_store('../data/com-eng_train.txt') 
     test_data_list = read_and_store('../data/com-eng_test.txt') 
+    # test_data_list = read_and_store('../data/com-eng_stoflw_test_short.txt') 
    
     des_list_test = [ line.split('@')[1] for k, line in enumerate(test_data_list) ]
     comm_list_test = [ line.split('@')[0] for k, line in enumerate(test_data_list) ]
