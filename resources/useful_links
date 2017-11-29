@@ -7,8 +7,11 @@ https://github.com/julianser/hed-dlg-truncated/tree/master/Evaluation
 3) Apparently well-known code for BLEU score computation
 https://github.com/jhclark/multeval
 
-4) Paraphrase tool
+4) Paraphrase tool - not used
 https://github.com/orenmel/word2parvec
 
 5) synonym generator using nltk and wordnet (currently used)
 http://www.nltk.org/howto/wordnet.html
+
+6) This paper combines word and character level embeddings for NMT
+https://arxiv.org/pdf/1604.00788.pdf
