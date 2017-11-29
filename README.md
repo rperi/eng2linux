@@ -10,7 +10,8 @@ Seq2seq model that converts english command description to linux command
 
 
 ## Result ## 
-- Baseline performance (For non-augmented data) : 34.3971%
+- Baseline performance (non-augmented data, Uncleaned) : 34.3971%
+- Baseline performance (non-augmented data, cleaned) : 39.361702127659576%
 - First eng2linux test with word level encoder : 9.57%
 
 
