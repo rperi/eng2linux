@@ -15,3 +15,4 @@ http://www.nltk.org/howto/wordnet.html
 
 6) This paper combines word and character level embeddings for NMT
 https://arxiv.org/pdf/1604.00788.pdf
+Corresponding MATLAB code : https://github.com/lmthang/nmt.hybrid
