@@ -89,6 +89,13 @@ def mwr(input_sent, input_lang):
     wn_word_list = [ x for x in word_list if len(wordnet.synsets(x)) > 0 ]
     replace_mat = []
     
+    # for k, word in enumerate(input_sent):
+        # dist_buff = []
+        # if word not in word_list:
+            # replace_mat.append('<unk>')
+        # else:
+            # replace_mat.append(word)
+
     for k, word in enumerate(input_sent):
         dist_buff = []
         if word not in word_list:
@@ -97,8 +104,8 @@ def mwr(input_sent, input_lang):
                 # print(' %s %s %s'%(word, tr_word, dist) )
                 if dist == None:
                     dist_val = 0
-                elif dist == 0:
-                    dist_val = 0
+                # elif dist == 0:
+                    # dist_val = 0
                 else:
                     dist_val = dist
                 dist_buff.append(dist_val)
@@ -158,7 +165,7 @@ def eval_est(est_comm_list, des_list_test, comm_list_test):
 def ev_test_set(des_list_test, input_lang):
     dec_comm = []
     for k, des in enumerate(des_list_test):
-        print(k, '/', len(des_list_test), ' description:', des)
+        print(k+1, '/', len(des_list_test), ' description:', des)
         dec_comm.append( ev(mwr(des, input_lang) ) )
 
     return dec_comm
@@ -170,15 +177,24 @@ if __name__ == '__main__':
     attn_decoder1 = AttnDecoderRNN(hidden_size, output_lang.n_words,
                                        1, dropout_p=0.1)
     
-    if use_cuda:
-        encoder1 = encoder1.cuda()
-        attn_decoder1 = attn_decoder1.cuda()
+    # if use_cuda:
+        # encoder1 = encoder1.cuda()
+        # attn_decoder1 = attn_decoder1.cuda()
+    
 
+    # enc_dec_filename = 'enc_dec_07_29PM_November_22_2017.pickle'
     # enc_dec_filename = 'enc_dec_03_52PM_November_27_2017.pickle'
-    enc_dec_filename = 'enc_dec_08_16PM_November_27_2017.pickle'
+    # enc_dec_filename = 'enc_dec_08_16PM_November_27_2017.pickle'
+    # enc_dec_filename = 'enc_dec_10_38PM_November_27_2017.pickle'
+    # enc_dec_filename = 'enc_dec_11_37PM_November_27_2017.pickle'
+    # enc_dec_filename = 'enc_dec_03_03PM_November_28_2017_clean.pickle'
+    # enc_dec_filename = 'enc_dec_03_54PM_November_28_2017_clean_inlang.pickle'
+    # enc_dec_filename = 'enc_dec_03_03PM_November_28_2017_clean.pickle'
+    enc_dec_filename = 'enc_dec_12_38PM_November_29_2017_clean_withlangs_t1.pickle'
+
     print('Loading saved encoder and decoder...')
     with open(enc_dec_filename, 'rb') as handle:
-        encoder1, attn_decoder1 = pickle.load(handle)
+        encoder1, attn_decoder1, input_lang, output_lang = pickle.load(handle)
     
     # evaluate_randomly(encoder1, attn_decoder1) 
     
@@ -187,14 +203,17 @@ if __name__ == '__main__':
 
     train_data_list = read_and_store('../data/com-eng_train.txt')
     test_data_list = read_and_store('../data/com-eng_test.txt')
-    train_data_list = read_and_store('../data/com-eng_train_unclean.txt')
-    test_data_list = read_and_store('../data/com-eng_test_unclean.txt')
+    # train_data_list = read_and_store('../data/com-eng_train_org.txt')
+    # test_data_list_org = read_and_store('../data/com-eng_test_org.txt')
+    # train_data_list = read_and_store('../data/com-eng_train_unclean.txt')
+    # test_data_list = read_and_store('../data/com-eng_test_unclean.txt')
     # test_data_list = read_and_store('../data/com-eng_stoflw_test_short.txt')
     # test_data_list = read_and_store('../data/com-eng_stoflw_test.txt')
 
     # Description and Command from test set
     des_list_test = [ line.split('@')[1] for k, line in enumerate(test_data_list) ]
     comm_list_test = [ line.split('@')[0] for k, line in enumerate(test_data_list) ]
+    # comm_list_test_org = [ line.split('@')[0] for k, line in enumerate(test_data_list_org) ]
     
     # Description and Command from train set
     des_list_train = [ line.split('@')[1] for k, line in enumerate(train_data_list) ]

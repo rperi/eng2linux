@@ -67,10 +67,10 @@ if __name__ == '__main__':
     train_set = data_out[:int(split_ratio*len(data_out))]
     dev_set = data_out[int(split_ratio*len(data_out)):]
     
-    # read_and_write('../data/com-eng_train_test.txt', train_set)
-    # read_and_write('../data/com-eng_test.txt', dev_set)
-    read_and_write('../data/com-eng_train_unclean.txt', train_set)
-    read_and_write('../data/com-eng_test_unclean.txt', dev_set)
+    read_and_write('../data/com-eng_train.txt', train_set)
+    read_and_write('../data/com-eng_test.txt', dev_set)
+    # read_and_write('../data/com-eng_train_unclean.txt', train_set)
+    # read_and_write('../data/com-eng_test_unclean.txt', dev_set)
 
     stoflw_test_set = read_and_store2('../data/com2des_RP_170pages_stackoverflow.txt')
 
