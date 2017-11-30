@@ -10,8 +10,8 @@ splits = ["train", "test"]
 
 for split in splits:
 
-    input_file = "/home/raghuveer/PycharmProjects/NLP/final_project/eng2linux-character/data/com-eng_" + split + ".txt"
-    output_file = "/home/raghuveer/PycharmProjects/NLP/final_project/eng2linux-character/data/com-eng_" + split + "_stop.txt"
+    input_file = "../data/com-eng_" + split + ".txt"
+    output_file = "../data/com-eng_" + split + "_stop.txt"
 
     if not os.path.exists(output_file):
         f = open(input_file, 'r')
@@ -37,5 +37,4 @@ for split in splits:
         o.close()
     else:
         print("Output file already exists. Not writing to it again. Exiting...")
-
 
