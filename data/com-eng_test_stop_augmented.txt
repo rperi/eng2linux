@@ -1,0 +1,1180 @@
+b z i p@better compression decompression programs
+b z i p@improve compression decompression programs
+b z i p@amend compression decompression programs
+b z i p@ameliorate compression decompression programs
+a c p i _ a v a i l a b l e@check acpi functionality exist system
+a c p i _ a v a i l a b l e@check acpi functionality be system
+a c p i _ a v a i l a b l e@check acpi functionality survive system
+a c p i _ a v a i l a b l e@check acpi functionality live system
+i c o n v@change_over character set file
+i c o n v@change character set file
+i c o n v@exchange character set file
+i c o n v@commute character set file
+a d d r 2 l i n e@use change_over addresses file names line numbers
+a d d r 2 l i n e@use change addresses file names line numbers
+a d d r 2 l i n e@use exchange addresses file names line numbers
+a d d r 2 l i n e@use commute addresses file names line numbers
+a d d r 2 l i n e@utilize change_over addresses file names line numbers
+a d d r 2 l i n e@utilize change addresses file names line numbers
+a d d r 2 l i n e@utilize exchange addresses file names line numbers
+a d d r 2 l i n e@utilize commute addresses file names line numbers
+a d d r 2 l i n e@utilise change_over addresses file names line numbers
+a d d r 2 l i n e@utilise change addresses file names line numbers
+a d d r 2 l i n e@utilise exchange addresses file names line numbers
+a d d r 2 l i n e@utilise commute addresses file names line numbers
+a d d r 2 l i n e@apply change_over addresses file names line numbers
+a d d r 2 l i n e@apply change addresses file names line numbers
+a d d r 2 l i n e@apply exchange addresses file names line numbers
+a d d r 2 l i n e@apply commute addresses file names line numbers
+p s 2 p d f@change_over postscript pdf use ghostscript
+p s 2 p d f@change_over postscript pdf utilize ghostscript
+p s 2 p d f@change_over postscript pdf utilise ghostscript
+p s 2 p d f@change_over postscript pdf apply ghostscript
+p s 2 p d f@change postscript pdf use ghostscript
+p s 2 p d f@change postscript pdf utilize ghostscript
+p s 2 p d f@change postscript pdf utilise ghostscript
+p s 2 p d f@change postscript pdf apply ghostscript
+p s 2 p d f@exchange postscript pdf use ghostscript
+p s 2 p d f@exchange postscript pdf utilize ghostscript
+p s 2 p d f@exchange postscript pdf utilise ghostscript
+p s 2 p d f@exchange postscript pdf apply ghostscript
+p s 2 p d f@commute postscript pdf use ghostscript
+p s 2 p d f@commute postscript pdf utilize ghostscript
+p s 2 p d f@commute postscript pdf utilise ghostscript
+p s 2 p d f@commute postscript pdf apply ghostscript
+s e n s o r s@show current readings sensor chips
+s e n s o r s@demo current readings sensor chips
+s e n s o r s@exhibit current readings sensor chips
+s e n s o r s@present current readings sensor chips
+r o u t e@show pull_strings ip route table
+r o u t e@show pull_strings ip rout table
+r o u t e@show pull_strings ip rout_out table
+r o u t e@show pull_strings ip expel table
+r o u t e@show pull_wires ip route table
+r o u t e@show pull_wires ip rout table
+r o u t e@show pull_wires ip rout_out table
+r o u t e@show pull_wires ip expel table
+r o u t e@show fudge ip route table
+r o u t e@show fudge ip rout table
+r o u t e@show fudge ip rout_out table
+r o u t e@show fudge ip expel table
+r o u t e@show fake ip route table
+r o u t e@show fake ip rout table
+r o u t e@show fake ip rout_out table
+r o u t e@show fake ip expel table
+w h e r e i s@utilize happen utilities standard locations
+w h e r e i s@utilize chance utilities standard locations
+w h e r e i s@utilize bump utilities standard locations
+w h e r e i s@utilize encounter utilities standard locations
+w h e r e i s@utilise happen utilities standard locations
+w h e r e i s@utilise chance utilities standard locations
+w h e r e i s@utilise bump utilities standard locations
+w h e r e i s@utilise encounter utilities standard locations
+w h e r e i s@apply happen utilities standard locations
+w h e r e i s@apply chance utilities standard locations
+w h e r e i s@apply bump utilities standard locations
+w h e r e i s@apply encounter utilities standard locations
+w h e r e i s@employ happen utilities standard locations
+w h e r e i s@employ chance utilities standard locations
+w h e r e i s@employ bump utilities standard locations
+w h e r e i s@employ encounter utilities standard locations
+c d d a 2 w a v@use rip cd rom do wav file
+c d d a 2 w a v@use rip cd rom get wav file
+c d d a 2 w a v@use rip cd rom create wav file
+c d d a 2 w a v@use rip cd rom induce wav file
+c d d a 2 w a v@utilize rip cd rom do wav file
+c d d a 2 w a v@utilize rip cd rom get wav file
+c d d a 2 w a v@utilize rip cd rom create wav file
+c d d a 2 w a v@utilize rip cd rom induce wav file
+c d d a 2 w a v@utilise rip cd rom do wav file
+c d d a 2 w a v@utilise rip cd rom get wav file
+c d d a 2 w a v@utilise rip cd rom create wav file
+c d d a 2 w a v@utilise rip cd rom induce wav file
+c d d a 2 w a v@apply rip cd rom do wav file
+c d d a 2 w a v@apply rip cd rom get wav file
+c d d a 2 w a v@apply rip cd rom create wav file
+c d d a 2 w a v@apply rip cd rom induce wav file
+n e t s t a t@acquire information networking
+n e t s t a t@become information networking
+n e t s t a t@go information networking
+n e t s t a t@let information networking
+b z g r e p@seek possibly bzip2 compress files regular expression
+b z g r e p@seek possibly bzip2 compact files regular expression
+b z g r e p@seek possibly bzip2 pack_together files regular expression
+b z g r e p@seek possibly bzip2 constrict files regular expression
+b z g r e p@look_for possibly bzip2 compress files regular expression
+b z g r e p@look_for possibly bzip2 compact files regular expression
+b z g r e p@look_for possibly bzip2 pack_together files regular expression
+b z g r e p@look_for possibly bzip2 constrict files regular expression
+b z g r e p@look possibly bzip2 compress files regular expression
+b z g r e p@look possibly bzip2 compact files regular expression
+b z g r e p@look possibly bzip2 pack_together files regular expression
+b z g r e p@look possibly bzip2 constrict files regular expression
+b z g r e p@research possibly bzip2 compress files regular expression
+b z g r e p@research possibly bzip2 compact files regular expression
+b z g r e p@research possibly bzip2 pack_together files regular expression
+b z g r e p@research possibly bzip2 constrict files regular expression
+a c c e p t@take refuse jobs destination printer
+a c c e p t@take pass_up jobs destination printer
+a c c e p t@take turn_down jobs destination printer
+a c c e p t@take decline jobs destination printer
+a c c e p t@have refuse jobs destination printer
+a c c e p t@have pass_up jobs destination printer
+a c c e p t@have turn_down jobs destination printer
+a c c e p t@have decline jobs destination printer
+a c c e p t@consent refuse jobs destination printer
+a c c e p t@consent pass_up jobs destination printer
+a c c e p t@consent turn_down jobs destination printer
+a c c e p t@consent decline jobs destination printer
+a c c e p t@go_for refuse jobs destination printer
+a c c e p t@go_for pass_up jobs destination printer
+a c c e p t@go_for turn_down jobs destination printer
+a c c e p t@go_for decline jobs destination printer
+m d u t i l@pull_off spotlight metadata store
+m d u t i l@negociate spotlight metadata store
+m d u t i l@bring_off spotlight metadata store
+m d u t i l@carry_off spotlight metadata store
+x z@compress uncompress xz lzma files
+x z@compress depressurize xz lzma files
+x z@compress depressurise xz lzma files
+x z@compress relax xz lzma files
+s s h - a g e n t@keep private keys use public key authentication
+s s h - a g e n t@keep private keys utilize public key authentication
+s s h - a g e n t@keep private keys utilise public key authentication
+s s h - a g e n t@keep private keys apply public key authentication
+s s h - a g e n t@maintain private keys use public key authentication
+s s h - a g e n t@maintain private keys utilize public key authentication
+s s h - a g e n t@maintain private keys utilise public key authentication
+s s h - a g e n t@maintain private keys apply public key authentication
+s s h - a g e n t@hold private keys use public key authentication
+s s h - a g e n t@hold private keys utilize public key authentication
+s s h - a g e n t@hold private keys utilise public key authentication
+s s h - a g e n t@hold private keys apply public key authentication
+s s h - a g e n t@take_hold private keys use public key authentication
+s s h - a g e n t@take_hold private keys utilize public key authentication
+s s h - a g e n t@take_hold private keys utilise public key authentication
+s s h - a g e n t@take_hold private keys apply public key authentication
+f g@starts suspend process run foreground
+f g@starts suspend process scat foreground
+f g@starts suspend process scarper foreground
+f g@starts suspend process turn_tail foreground
+f g@starts debar process run foreground
+f g@starts debar process scat foreground
+f g@starts debar process scarper foreground
+f g@starts debar process turn_tail foreground
+f g@starts freeze process run foreground
+f g@starts freeze process scat foreground
+f g@starts freeze process scarper foreground
+f g@starts freeze process turn_tail foreground
+f g@starts set_aside process run foreground
+f g@starts set_aside process scat foreground
+f g@starts set_aside process scarper foreground
+f g@starts set_aside process turn_tail foreground
+c h r t@pull_strings real time impute process
+c h r t@pull_strings real time ascribe process
+c h r t@pull_strings real time assign process
+c h r t@pull_strings real time attribute process
+c h r t@pull_wires real time impute process
+c h r t@pull_wires real time ascribe process
+c h r t@pull_wires real time assign process
+c h r t@pull_wires real time attribute process
+c h r t@fudge real time impute process
+c h r t@fudge real time ascribe process
+c h r t@fudge real time assign process
+c h r t@fudge real time attribute process
+c h r t@fake real time impute process
+c h r t@fake real time ascribe process
+c h r t@fake real time assign process
+c h r t@fake real time attribute process
+c a t@programming cat usually stand concatenate
+c a t@programming cat usually stand_up concatenate
+c a t@programming cat usually remain_firm concatenate
+c a t@programming cat usually digest concatenate
+z c m p@say compress files pass cmp
+z c m p@say compact files pass cmp
+z c m p@say pack_together files pass cmp
+z c m p@say constrict files pass cmp
+z c m p@scan compress files pass cmp
+z c m p@scan compact files pass cmp
+z c m p@scan pack_together files pass cmp
+z c m p@scan constrict files pass cmp
+z c m p@take compress files pass cmp
+z c m p@take compact files pass cmp
+z c m p@take pack_together files pass cmp
+z c m p@take constrict files pass cmp
+z c m p@learn compress files pass cmp
+z c m p@learn compact files pass cmp
+z c m p@learn pack_together files pass cmp
+z c m p@learn constrict files pass cmp
+r e a d@read line standard input
+r e a d@say line standard input
+r e a d@scan line standard input
+r e a d@take line standard input
+i m p o r t@capture screen salvage image x server
+i m p o r t@capture screen salve image x server
+i m p o r t@capture screen relieve image x server
+i m p o r t@capture screen save image x server
+i m p o r t@enamour screen salvage image x server
+i m p o r t@enamour screen salve image x server
+i m p o r t@enamour screen relieve image x server
+i m p o r t@enamour screen save image x server
+i m p o r t@trance screen salvage image x server
+i m p o r t@trance screen salve image x server
+i m p o r t@trance screen relieve image x server
+i m p o r t@trance screen save image x server
+i m p o r t@catch screen salvage image x server
+i m p o r t@catch screen salve image x server
+i m p o r t@catch screen relieve image x server
+i m p o r t@catch screen save image x server
+k i l l@kill process stipulate pid
+k i l l@kill process qualify pid
+k i l l@kill process condition pid
+k i l l@kill process specify pid
+f i l e@find file type file
+f i l e@find_out file type file
+f i l e@ascertain file type file
+f i l e@shape file type file
+n o h u p@let command go_on running logging
+n o h u p@let command proceed running logging
+n o h u p@let command go_along running logging
+n o h u p@let command keep running logging
+n o h u p@allow command go_on running logging
+n o h u p@allow command proceed running logging
+n o h u p@allow command go_along running logging
+n o h u p@allow command keep running logging
+n o h u p@permit command go_on running logging
+n o h u p@permit command proceed running logging
+n o h u p@permit command go_along running logging
+n o h u p@permit command keep running logging
+n o h u p@countenance command go_on running logging
+n o h u p@countenance command proceed running logging
+n o h u p@countenance command go_along running logging
+n o h u p@countenance command keep running logging
+s d i f f@command use unify twofiles secure manner
+s d i f f@command use unite twofiles secure manner
+s d i f f@command use blend twofiles secure manner
+s d i f f@command use flux twofiles secure manner
+s d i f f@command utilize unify twofiles secure manner
+s d i f f@command utilize unite twofiles secure manner
+s d i f f@command utilize blend twofiles secure manner
+s d i f f@command utilize flux twofiles secure manner
+s d i f f@command utilise unify twofiles secure manner
+s d i f f@command utilise unite twofiles secure manner
+s d i f f@command utilise blend twofiles secure manner
+s d i f f@command utilise flux twofiles secure manner
+s d i f f@command apply unify twofiles secure manner
+s d i f f@command apply unite twofiles secure manner
+s d i f f@command apply blend twofiles secure manner
+s d i f f@command apply flux twofiles secure manner
+r e s i z e@put environment terminal puttings current xterm window size
+r e s i z e@place environment terminal placetings current xterm window size
+r e s i z e@pose environment terminal posetings current xterm window size
+r e s i z e@position environment terminal positiontings current xterm window size
+e n v@scat command modified environment show put delete environment variables
+e n v@scat command modified environment show place delete environment variables
+e n v@scat command modified environment show pose delete environment variables
+e n v@scat command modified environment show position delete environment variables
+e n v@scarper command modified environment show put delete environment variables
+e n v@scarper command modified environment show place delete environment variables
+e n v@scarper command modified environment show pose delete environment variables
+e n v@scarper command modified environment show position delete environment variables
+e n v@turn_tail command modified environment show put delete environment variables
+e n v@turn_tail command modified environment show place delete environment variables
+e n v@turn_tail command modified environment show pose delete environment variables
+e n v@turn_tail command modified environment show position delete environment variables
+e n v@lam command modified environment show put delete environment variables
+e n v@lam command modified environment show place delete environment variables
+e n v@lam command modified environment show pose delete environment variables
+e n v@lam command modified environment show position delete environment variables
+m a n p a t h@attempt find path manual pages
+m a n p a t h@attempt find_out path manual pages
+m a n p a t h@attempt ascertain path manual pages
+m a n p a t h@attempt shape path manual pages
+t i m e s@shows roll_up user system times blast child processes
+t i m e s@shows roll_up user system times beat child processes
+t i m e s@shows roll_up user system times beat_out child processes
+t i m e s@shows roll_up user system times crush child processes
+t i m e s@shows collect user system times blast child processes
+t i m e s@shows collect user system times beat child processes
+t i m e s@shows collect user system times beat_out child processes
+t i m e s@shows collect user system times crush child processes
+t i m e s@shows accumulate user system times blast child processes
+t i m e s@shows accumulate user system times beat child processes
+t i m e s@shows accumulate user system times beat_out child processes
+t i m e s@shows accumulate user system times crush child processes
+t i m e s@shows pile_up user system times blast child processes
+t i m e s@shows pile_up user system times beat child processes
+t i m e s@shows pile_up user system times beat_out child processes
+t i m e s@shows pile_up user system times crush child processes
+k i l l@stop process run
+k i l l@stop process scat
+k i l l@stop process scarper
+k i l l@stop process turn_tail
+e n v s u b s t@substitute environment variables blast format strings
+e n v s u b s t@substitute environment variables beat format strings
+e n v s u b s t@substitute environment variables beat_out format strings
+e n v s u b s t@substitute environment variables crush format strings
+e n v s u b s t@replace environment variables blast format strings
+e n v s u b s t@replace environment variables beat format strings
+e n v s u b s t@replace environment variables beat_out format strings
+e n v s u b s t@replace environment variables crush format strings
+e n v s u b s t@interchange environment variables blast format strings
+e n v s u b s t@interchange environment variables beat format strings
+e n v s u b s t@interchange environment variables beat_out format strings
+e n v s u b s t@interchange environment variables crush format strings
+e n v s u b s t@exchange environment variables blast format strings
+e n v s u b s t@exchange environment variables beat format strings
+e n v s u b s t@exchange environment variables beat_out format strings
+e n v s u b s t@exchange environment variables crush format strings
+r s t a t@sum_up host status uptime load averages current time
+r s t a t@summarise host status uptime load averages current time
+r s t a t@resume host status uptime load averages current time
+r s t a t@sum host status uptime load averages current time
+n o t i f y - s e n d@direct desktop notifications
+n o t i f y - s e n d@send_out desktop notifications
+n o t i f y - s e n d@mail desktop notifications
+n o t i f y - s e n d@post desktop notifications
+x d g - o p e n@open url file user preferred application
+x d g - o p e n@open_up url file user preferred application
+x d g - o p e n@unfold url file user preferred application
+x d g - o p e n@spread url file user preferred application
+f d f o r m a t@command use lowlevel format floppy disk
+f d f o r m a t@command utilize lowlevel format floppy disk
+f d f o r m a t@command utilise lowlevel format floppy disk
+f d f o r m a t@command apply lowlevel format floppy disk
+r e n i c e@change priority run processes
+r e n i c e@change priority scat processes
+r e n i c e@change priority scarper processes
+r e n i c e@change priority turn_tail processes
+r e n i c e@modify priority run processes
+r e n i c e@modify priority scat processes
+r e n i c e@modify priority scarper processes
+r e n i c e@modify priority turn_tail processes
+r e n i c e@vary priority run processes
+r e n i c e@vary priority scat processes
+r e n i c e@vary priority scarper processes
+r e n i c e@vary priority turn_tail processes
+r e n i c e@interpolate priority run processes
+r e n i c e@interpolate priority scat processes
+r e n i c e@interpolate priority scarper processes
+r e n i c e@interpolate priority turn_tail processes
+s a n e - f i n d - s c a n n e r@happen scsi usb scanners device files
+s a n e - f i n d - s c a n n e r@chance scsi usb scanners device files
+s a n e - f i n d - s c a n n e r@bump scsi usb scanners device files
+s a n e - f i n d - s c a n n e r@encounter scsi usb scanners device files
+s p l i t@split file pieces
+s p l i t@split register pieces
+s p l i t@split charge pieces
+s p l i t@split lodge pieces
+d e f a u l t s@set preferences demo hidden files
+d e f a u l t s@set preferences exhibit hidden files
+d e f a u l t s@set preferences present hidden files
+d e f a u l t s@set preferences demonstrate hidden files
+d o e x e c@scat executable arbitrary argv
+d o e x e c@scarper executable arbitrary argv
+d o e x e c@turn_tail executable arbitrary argv
+d o e x e c@lam executable arbitrary argv
+p a s s w d@modify user passwords
+p a s s w d@qualify user passwords
+p a s s w d@change user passwords
+p a s s w d@alter user passwords
+f i n d@search files run_into desire criteria
+f i n d@search files run_into want criteria
+f i n d@search files run_into hope criteria
+f i n d@search files run_into trust criteria
+f i n d@search files encounter desire criteria
+f i n d@search files encounter want criteria
+f i n d@search files encounter hope criteria
+f i n d@search files encounter trust criteria
+f i n d@search files run_across desire criteria
+f i n d@search files run_across want criteria
+f i n d@search files run_across hope criteria
+f i n d@search files run_across trust criteria
+f i n d@search files come_across desire criteria
+f i n d@search files come_across want criteria
+f i n d@search files come_across hope criteria
+f i n d@search files come_across trust criteria
+c h m o d@change file modes impute permissions
+c h m o d@change file modes ascribe permissions
+c h m o d@change file modes assign permissions
+c h m o d@change file modes attribute permissions
+h e a d@shows first 10 lines stipulate file
+h e a d@shows first 10 lines qualify file
+h e a d@shows first 10 lines condition file
+h e a d@shows first 10 lines specify file
+f o r m a i l@use filter standard input mailbox format
+f o r m a i l@utilize filter standard input mailbox format
+f o r m a i l@utilise filter standard input mailbox format
+f o r m a i l@apply filter standard input mailbox format
+t a s k s e t@put recover process cpu affinity
+t a s k s e t@put find process cpu affinity
+t a s k s e t@put regain process cpu affinity
+t a s k s e t@put remember process cpu affinity
+t a s k s e t@place recover process cpu affinity
+t a s k s e t@place find process cpu affinity
+t a s k s e t@place regain process cpu affinity
+t a s k s e t@place remember process cpu affinity
+t a s k s e t@pose recover process cpu affinity
+t a s k s e t@pose find process cpu affinity
+t a s k s e t@pose regain process cpu affinity
+t a s k s e t@pose remember process cpu affinity
+t a s k s e t@position recover process cpu affinity
+t a s k s e t@position find process cpu affinity
+t a s k s e t@position regain process cpu affinity
+t a s k s e t@position remember process cpu affinity
+g z i p@compact use lempel ziv coding lz77
+g z i p@compact utilize lempel ziv coding lz77
+g z i p@compact utilise lempel ziv coding lz77
+g z i p@compact apply lempel ziv coding lz77
+g z i p@pack_together use lempel ziv coding lz77
+g z i p@pack_together utilize lempel ziv coding lz77
+g z i p@pack_together utilise lempel ziv coding lz77
+g z i p@pack_together apply lempel ziv coding lz77
+g z i p@constrict use lempel ziv coding lz77
+g z i p@constrict utilize lempel ziv coding lz77
+g z i p@constrict utilise lempel ziv coding lz77
+g z i p@constrict apply lempel ziv coding lz77
+g z i p@squeeze use lempel ziv coding lz77
+g z i p@squeeze utilize lempel ziv coding lz77
+g z i p@squeeze utilise lempel ziv coding lz77
+g z i p@squeeze apply lempel ziv coding lz77
+s y m l i n k s@supply list information symbolic links
+s y m l i n k s@render list information symbolic links
+s y m l i n k s@furnish list information symbolic links
+s y m l i n k s@ply list information symbolic links
+c o m p l e t e@redact command completion word pattern list
+c o m p l e t e@cut command completion word pattern list
+c o m p l e t e@edit_out command completion word pattern list
+c o m p l e t e@blue-pencil command completion word pattern list
+b z i p 2@compress uncompress name file
+b z i p 2@compress uncompress call file
+b z i p 2@compress uncompress identify file
+b z i p 2@compress uncompress nominate file
+b z i p 2@compress depressurize name file
+b z i p 2@compress depressurize call file
+b z i p 2@compress depressurize identify file
+b z i p 2@compress depressurize nominate file
+b z i p 2@compress depressurise name file
+b z i p 2@compress depressurise call file
+b z i p 2@compress depressurise identify file
+b z i p 2@compress depressurise nominate file
+b z i p 2@compress relax name file
+b z i p 2@compress relax call file
+b z i p 2@compress relax identify file
+b z i p 2@compress relax nominate file
+t a i l f@postdate growth log file
+t a i l f@fall_out growth log file
+t a i l f@travel_along growth log file
+t a i l f@comply growth log file
+u m a s k@determine file permission new file
+u m a s k@find file permission new file
+u m a s k@find_out file permission new file
+u m a s k@ascertain file permission new file
+s e t e n v@put display value environment variables
+s e t e n v@place display value environment variables
+s e t e n v@pose display value environment variables
+s e t e n v@position display value environment variables
+s l o c a t e@display matches search filename databases take ownership file permission consideration
+s l o c a t e@display matches search filename databases occupy ownership file permission consideration
+s l o c a t e@display matches search filename databases use_up ownership file permission consideration
+s l o c a t e@display matches search filename databases lead ownership file permission consideration
+s l o c a t e@display matches seek filename databases take ownership file permission consideration
+s l o c a t e@display matches seek filename databases occupy ownership file permission consideration
+s l o c a t e@display matches seek filename databases use_up ownership file permission consideration
+s l o c a t e@display matches seek filename databases lead ownership file permission consideration
+s l o c a t e@display matches look_for filename databases take ownership file permission consideration
+s l o c a t e@display matches look_for filename databases occupy ownership file permission consideration
+s l o c a t e@display matches look_for filename databases use_up ownership file permission consideration
+s l o c a t e@display matches look_for filename databases lead ownership file permission consideration
+s l o c a t e@display matches look filename databases take ownership file permission consideration
+s l o c a t e@display matches look filename databases occupy ownership file permission consideration
+s l o c a t e@display matches look filename databases use_up ownership file permission consideration
+s l o c a t e@display matches look filename databases lead ownership file permission consideration
+p i d o f@happen process id run program
+p i d o f@happen process id scat program
+p i d o f@happen process id scarper program
+p i d o f@happen process id turn_tail program
+p i d o f@chance process id run program
+p i d o f@chance process id scat program
+p i d o f@chance process id scarper program
+p i d o f@chance process id turn_tail program
+p i d o f@bump process id run program
+p i d o f@bump process id scat program
+p i d o f@bump process id scarper program
+p i d o f@bump process id turn_tail program
+p i d o f@encounter process id run program
+p i d o f@encounter process id scat program
+p i d o f@encounter process id scarper program
+p i d o f@encounter process id turn_tail program
+m k f s@use construct linux filesystem hard disk partition
+m k f s@use make linux filesystem hard disk partition
+m k f s@use build_up linux filesystem hard disk partition
+m k f s@use work_up linux filesystem hard disk partition
+m k f s@utilize construct linux filesystem hard disk partition
+m k f s@utilize make linux filesystem hard disk partition
+m k f s@utilize build_up linux filesystem hard disk partition
+m k f s@utilize work_up linux filesystem hard disk partition
+m k f s@utilise construct linux filesystem hard disk partition
+m k f s@utilise make linux filesystem hard disk partition
+m k f s@utilise build_up linux filesystem hard disk partition
+m k f s@utilise work_up linux filesystem hard disk partition
+m k f s@apply construct linux filesystem hard disk partition
+m k f s@apply make linux filesystem hard disk partition
+m k f s@apply build_up linux filesystem hard disk partition
+m k f s@apply work_up linux filesystem hard disk partition
+i f d o w n@occupy network interface
+i f d o w n@use_up network interface
+i f d o w n@lead network interface
+i f d o w n@direct network interface
+l o c a t e@happen files name
+l o c a t e@chance files name
+l o c a t e@bump files name
+l o c a t e@encounter files name
+h o s t n a m e@print put system name
+h o s t n a m e@print place system name
+h o s t n a m e@print pose system name
+h o s t n a m e@print position system name
+b r e a k@go_out select loop
+b r e a k@get_out select loop
+b r e a k@leave select loop
+b r e a k@die select loop
+d n s s e c - k e y g e n@bring_forth encrypted secure dns keys give domain name
+d n s s e c - k e y g e n@bring_forth encrypted secure dns keys yield domain name
+d n s s e c - k e y g e n@bring_forth encrypted secure dns keys afford domain name
+d n s s e c - k e y g e n@bring_forth encrypted secure dns keys pay domain name
+d n s s e c - k e y g e n@render encrypted secure dns keys give domain name
+d n s s e c - k e y g e n@render encrypted secure dns keys yield domain name
+d n s s e c - k e y g e n@render encrypted secure dns keys afford domain name
+d n s s e c - k e y g e n@render encrypted secure dns keys pay domain name
+d n s s e c - k e y g e n@yield encrypted secure dns keys give domain name
+d n s s e c - k e y g e n@yield encrypted secure dns keys yield domain name
+d n s s e c - k e y g e n@yield encrypted secure dns keys afford domain name
+d n s s e c - k e y g e n@yield encrypted secure dns keys pay domain name
+d n s s e c - k e y g e n@return encrypted secure dns keys give domain name
+d n s s e c - k e y g e n@return encrypted secure dns keys yield domain name
+d n s s e c - k e y g e n@return encrypted secure dns keys afford domain name
+d n s s e c - k e y g e n@return encrypted secure dns keys pay domain name
+q u o t a c h e c k@use skim file system disk usage
+q u o t a c h e c k@use rake file system disk usage
+q u o t a c h e c k@use glance_over file system disk usage
+q u o t a c h e c k@use run_down file system disk usage
+q u o t a c h e c k@utilize skim file system disk usage
+q u o t a c h e c k@utilize rake file system disk usage
+q u o t a c h e c k@utilize glance_over file system disk usage
+q u o t a c h e c k@utilize run_down file system disk usage
+q u o t a c h e c k@utilise skim file system disk usage
+q u o t a c h e c k@utilise rake file system disk usage
+q u o t a c h e c k@utilise glance_over file system disk usage
+q u o t a c h e c k@utilise run_down file system disk usage
+q u o t a c h e c k@apply skim file system disk usage
+q u o t a c h e c k@apply rake file system disk usage
+q u o t a c h e c k@apply glance_over file system disk usage
+q u o t a c h e c k@apply run_down file system disk usage
+d a t e@changes date_stamp time
+d a t e@changes go_steady time
+d a t e@changes go_out time
+d a t e@changes see time
+x i n i t@get_down xserver
+x i n i t@begin xserver
+x i n i t@get xserver
+x i n i t@start_out xserver
+a s a@construe carriage control characters
+a s a@see carriage control characters
+a s a@rede carriage control characters
+a s a@render carriage control characters
+o s a s c r i p t@put_to_death applescript
+o s a s c r i p t@carry_through applescript
+o s a s c r i p t@accomplish applescript
+o s a s c r i p t@carry_out applescript
+g r o u p a d d@use append new user group
+g r o u p a d d@use supply new user group
+g r o u p a d d@use lend new user group
+g r o u p a d d@use impart new user group
+g r o u p a d d@utilize append new user group
+g r o u p a d d@utilize supply new user group
+g r o u p a d d@utilize lend new user group
+g r o u p a d d@utilize impart new user group
+g r o u p a d d@utilise append new user group
+g r o u p a d d@utilise supply new user group
+g r o u p a d d@utilise lend new user group
+g r o u p a d d@utilise impart new user group
+g r o u p a d d@apply append new user group
+g r o u p a d d@apply supply new user group
+g r o u p a d d@apply lend new user group
+g r o u p a d d@apply impart new user group
+e c h o@compose arguments standard output
+e c h o@pen arguments standard output
+e c h o@indite arguments standard output
+e c h o@publish arguments standard output
+b a s e n a m e@use display filenames directoy suffix
+b a s e n a m e@utilize display filenames directoy suffix
+b a s e n a m e@utilise display filenames directoy suffix
+b a s e n a m e@apply display filenames directoy suffix
+c o m m a n d@run command ignore shell functions
+c o m m a n d@run command disregard shell functions
+c o m m a n d@run command snub shell functions
+c o m m a n d@run command cut shell functions
+l a u n c h c t l@load drop daemons agents
+l a u n c h c t l@load drop_off daemons agents
+l a u n c h c t l@load set_down daemons agents
+l a u n c h c t l@load put_down daemons agents
+e x p o r t@use set environment variable
+e x p o r t@utilize set environment variable
+e x p o r t@utilise set environment variable
+e x p o r t@apply set environment variable
+c h r o o t@scat command root privileges
+c h r o o t@scarper command root privileges
+c h r o o t@turn_tail command root privileges
+c h r o o t@lam command root privileges
+s h a 1 s u m@calculate check sha1 message endure
+s h a 1 s u m@calculate check sha1 message stick_out
+s h a 1 s u m@calculate check sha1 message stomach
+s h a 1 s u m@calculate check sha1 message bear
+s h a 1 s u m@cipher check sha1 message endure
+s h a 1 s u m@cipher check sha1 message stick_out
+s h a 1 s u m@cipher check sha1 message stomach
+s h a 1 s u m@cipher check sha1 message bear
+s h a 1 s u m@cypher check sha1 message endure
+s h a 1 s u m@cypher check sha1 message stick_out
+s h a 1 s u m@cypher check sha1 message stomach
+s h a 1 s u m@cypher check sha1 message bear
+s h a 1 s u m@work_out check sha1 message endure
+s h a 1 s u m@work_out check sha1 message stick_out
+s h a 1 s u m@work_out check sha1 message stomach
+s h a 1 s u m@work_out check sha1 message bear
+f r e e@demo free used system memory
+f r e e@exhibit free used system memory
+f r e e@present free used system memory
+f r e e@demonstrate free used system memory
+q u o t a c t l@pull_strings disk quotas
+q u o t a c t l@pull_wires disk quotas
+q u o t a c t l@fudge disk quotas
+q u o t a c t l@fake disk quotas
+i f d o w n@close network interface
+i f d o w n@exclude network interface
+i f d o w n@keep_out network interface
+i f d o w n@shut_out network interface
+d o e x e c@use scat executable arbitrary argv list provided
+d o e x e c@use scarper executable arbitrary argv list provided
+d o e x e c@use turn_tail executable arbitrary argv list provided
+d o e x e c@use lam executable arbitrary argv list provided
+d o e x e c@utilize scat executable arbitrary argv list provided
+d o e x e c@utilize scarper executable arbitrary argv list provided
+d o e x e c@utilize turn_tail executable arbitrary argv list provided
+d o e x e c@utilize lam executable arbitrary argv list provided
+d o e x e c@utilise scat executable arbitrary argv list provided
+d o e x e c@utilise scarper executable arbitrary argv list provided
+d o e x e c@utilise turn_tail executable arbitrary argv list provided
+d o e x e c@utilise lam executable arbitrary argv list provided
+d o e x e c@apply scat executable arbitrary argv list provided
+d o e x e c@apply scarper executable arbitrary argv list provided
+d o e x e c@apply turn_tail executable arbitrary argv list provided
+d o e x e c@apply lam executable arbitrary argv list provided
+l p r@use subject files printing
+l p r@use state files printing
+l p r@use put_forward files printing
+l p r@use posit files printing
+l p r@utilize subject files printing
+l p r@utilize state files printing
+l p r@utilize put_forward files printing
+l p r@utilize posit files printing
+l p r@utilise subject files printing
+l p r@utilise state files printing
+l p r@utilise put_forward files printing
+l p r@utilise posit files printing
+l p r@apply subject files printing
+l p r@apply state files printing
+l p r@apply put_forward files printing
+l p r@apply posit files printing
+g r o u p d e l@cancel group
+g r o u p d e l@erase group
+g r o u p d e l@edit group
+g r o u p d e l@blue-pencil group
+n o h u p@scat command immune hangups output non tty
+n o h u p@scarper command immune hangups output non tty
+n o h u p@turn_tail command immune hangups output non tty
+n o h u p@lam command immune hangups output non tty
+x o s v i e w@displays debar graphs system load load average memory usage swap usage
+x o s v i e w@displays exclude graphs system load load average memory usage swap usage
+x o s v i e w@displays barricade graphs system load load average memory usage swap usage
+x o s v i e w@displays block graphs system load load average memory usage swap usage
+n c@netcat utility arbitrary tcp udp connections listen
+n c@netcat utility arbitrary tcp udp connections hear
+n c@netcat utility arbitrary tcp udp connections take_heed
+n c@netcat utility arbitrary tcp udp connections heed
+t r a p@trap function react hardware signals specify creates handlers run shell receives signals
+t r a p@trap function react hardware signals define creates handlers run shell receives signals
+t r a p@trap function react hardware signals delineate creates handlers run shell receives signals
+t r a p@trap function react hardware signals delimit creates handlers run shell receives signals
+t r a p@trap function respond hardware signals specify creates handlers run shell receives signals
+t r a p@trap function respond hardware signals define creates handlers run shell receives signals
+t r a p@trap function respond hardware signals delineate creates handlers run shell receives signals
+t r a p@trap function respond hardware signals delimit creates handlers run shell receives signals
+t r a p@trap function answer hardware signals specify creates handlers run shell receives signals
+t r a p@trap function answer hardware signals define creates handlers run shell receives signals
+t r a p@trap function answer hardware signals delineate creates handlers run shell receives signals
+t r a p@trap function answer hardware signals delimit creates handlers run shell receives signals
+t r a p@trap function reply hardware signals specify creates handlers run shell receives signals
+t r a p@trap function reply hardware signals define creates handlers run shell receives signals
+t r a p@trap function reply hardware signals delineate creates handlers run shell receives signals
+t r a p@trap function reply hardware signals delimit creates handlers run shell receives signals
+s t r i n g s@happen printable strings files
+s t r i n g s@chance printable strings files
+s t r i n g s@bump printable strings files
+s t r i n g s@encounter printable strings files
+l p r m@call_off print jobs
+l p r m@scratch print jobs
+l p r m@scrub print jobs
+l p r m@offset print jobs
+l o c a l e d e f@specify locale environment
+l o c a l e d e f@delineate locale environment
+l o c a l e d e f@delimit locale environment
+l o c a l e d e f@delimitate locale environment
+u p t i m e@state long system run
+u p t i m e@state long system scat
+u p t i m e@state long system scarper
+u p t i m e@state long system turn_tail
+u p t i m e@say long system run
+u p t i m e@say long system scat
+u p t i m e@say long system scarper
+u p t i m e@say long system turn_tail
+u p t i m e@tell long system run
+u p t i m e@tell long system scat
+u p t i m e@tell long system scarper
+u p t i m e@tell long system turn_tail
+u p t i m e@narrate long system run
+u p t i m e@narrate long system scat
+u p t i m e@narrate long system scarper
+u p t i m e@narrate long system turn_tail
+l p r m@take jobs print queue
+l p r m@take_away jobs print queue
+l p r m@withdraw jobs print queue
+l p r m@get_rid_of jobs print queue
+u s e r d e l@cancel user account
+u s e r d e l@erase user account
+u s e r d e l@edit user account
+u s e r d e l@blue-pencil user account
+w a t c h@put_to_death display program periodically
+w a t c h@carry_through display program periodically
+w a t c h@accomplish display program periodically
+w a t c h@carry_out display program periodically
+c p i o@copy file archives
+c p i o@copy register archives
+c p i o@copy charge archives
+c p i o@copy lodge archives
+b z g r e p@use call grep bzip2 compress files
+b z g r e p@use call grep bzip2 compact files
+b z g r e p@use call grep bzip2 pack_together files
+b z g r e p@use call grep bzip2 constrict files
+b z g r e p@utilize call grep bzip2 compress files
+b z g r e p@utilize call grep bzip2 compact files
+b z g r e p@utilize call grep bzip2 pack_together files
+b z g r e p@utilize call grep bzip2 constrict files
+b z g r e p@utilise call grep bzip2 compress files
+b z g r e p@utilise call grep bzip2 compact files
+b z g r e p@utilise call grep bzip2 pack_together files
+b z g r e p@utilise call grep bzip2 constrict files
+b z g r e p@apply call grep bzip2 compress files
+b z g r e p@apply call grep bzip2 compact files
+b z g r e p@apply call grep bzip2 pack_together files
+b z g r e p@apply call grep bzip2 constrict files
+e l v t u n e@use set latency elevator algorithm use schedule activities specified block devices
+e l v t u n e@use set latency elevator algorithm use schedule activities specified block devices
+e l v t u n e@use set latency elevator algorithm use schedule activities specified block devices
+e l v t u n e@use set latency elevator algorithm use schedule activities specified block devices
+e l v t u n e@utilize set latency elevator algorithm utilize schedule activities specified block devices
+e l v t u n e@utilize set latency elevator algorithm utilize schedule activities specified block devices
+e l v t u n e@utilize set latency elevator algorithm utilize schedule activities specified block devices
+e l v t u n e@utilize set latency elevator algorithm utilize schedule activities specified block devices
+e l v t u n e@utilise set latency elevator algorithm utilise schedule activities specified block devices
+e l v t u n e@utilise set latency elevator algorithm utilise schedule activities specified block devices
+e l v t u n e@utilise set latency elevator algorithm utilise schedule activities specified block devices
+e l v t u n e@utilise set latency elevator algorithm utilise schedule activities specified block devices
+e l v t u n e@apply set latency elevator algorithm apply schedule activities specified block devices
+e l v t u n e@apply set latency elevator algorithm apply schedule activities specified block devices
+e l v t u n e@apply set latency elevator algorithm apply schedule activities specified block devices
+e l v t u n e@apply set latency elevator algorithm apply schedule activities specified block devices
+t e s t@measure expression
+t e s t@evaluate expression
+t e s t@valuate expression
+t e s t@assess expression
+p i n e@email program use university washington
+p i n e@email program utilize university washington
+p i n e@email program utilise university washington
+p i n e@email program apply university washington
+b g@bgcould stand background regardless whatit send background
+b g@bgcould stand background regardless whatit direct background
+b g@bgcould stand background regardless whatit send_out background
+b g@bgcould stand background regardless whatit mail background
+g r e p@youcan search file lines match certain pattern
+g r e p@youcan search file lines fit certain pattern
+g r e p@youcan search file lines correspond certain pattern
+g r e p@youcan search file lines check certain pattern
+g r e p@youcan search register lines match certain pattern
+g r e p@youcan search register lines fit certain pattern
+g r e p@youcan search register lines correspond certain pattern
+g r e p@youcan search register lines check certain pattern
+g r e p@youcan search charge lines match certain pattern
+g r e p@youcan search charge lines fit certain pattern
+g r e p@youcan search charge lines correspond certain pattern
+g r e p@youcan search charge lines check certain pattern
+g r e p@youcan search lodge lines match certain pattern
+g r e p@youcan search lodge lines fit certain pattern
+g r e p@youcan search lodge lines correspond certain pattern
+g r e p@youcan search lodge lines check certain pattern
+g r o u p a d d@use command append security user groups
+g r o u p a d d@use command supply security user groups
+g r o u p a d d@use command lend security user groups
+g r o u p a d d@use command impart security user groups
+g p g s p l i t@use split openpgp message packets
+g p g s p l i t@utilize split openpgp message packets
+g p g s p l i t@utilise split openpgp message packets
+g p g s p l i t@apply split openpgp message packets
+k i l l a l l 5@systemv killall command kill processes exclude ones depends
+k i l l a l l 5@systemv killall command kill processes except ones depends
+k i l l a l l 5@systemv killall command kill processes leave_out ones depends
+k i l l a l l 5@systemv killall command kill processes leave_off ones depends
+k i l l a l l 5@systemv killall command shoot_down processes exclude ones depends
+k i l l a l l 5@systemv killall command shoot_down processes except ones depends
+k i l l a l l 5@systemv killall command shoot_down processes leave_out ones depends
+k i l l a l l 5@systemv killall command shoot_down processes leave_off ones depends
+k i l l a l l 5@systemv killall command defeat processes exclude ones depends
+k i l l a l l 5@systemv killall command defeat processes except ones depends
+k i l l a l l 5@systemv killall command defeat processes leave_out ones depends
+k i l l a l l 5@systemv killall command defeat processes leave_off ones depends
+k i l l a l l 5@systemv killall command vote_down processes exclude ones depends
+k i l l a l l 5@systemv killall command vote_down processes except ones depends
+k i l l a l l 5@systemv killall command vote_down processes leave_out ones depends
+k i l l a l l 5@systemv killall command vote_down processes leave_off ones depends
+! !@scat last command
+! !@scarper last command
+! !@turn_tail last command
+! !@lam last command
+s s h@use scat remote login program secure shell client
+s s h@use scarper remote login program secure shell client
+s s h@use turn_tail remote login program secure shell client
+s s h@use lam remote login program secure shell client
+s s h@utilize scat remote login program secure shell client
+s s h@utilize scarper remote login program secure shell client
+s s h@utilize turn_tail remote login program secure shell client
+s s h@utilize lam remote login program secure shell client
+s s h@utilise scat remote login program secure shell client
+s s h@utilise scarper remote login program secure shell client
+s s h@utilise turn_tail remote login program secure shell client
+s s h@utilise lam remote login program secure shell client
+s s h@apply scat remote login program secure shell client
+s s h@apply scarper remote login program secure shell client
+s s h@apply turn_tail remote login program secure shell client
+s s h@apply lam remote login program secure shell client
+m a n p a t h@find search path manual pages
+m a n p a t h@find_out search path manual pages
+m a n p a t h@ascertain search path manual pages
+m a n p a t h@shape search path manual pages
+h d p a r m@acquire put sata ide device parameters
+h d p a r m@acquire place sata ide device parameters
+h d p a r m@acquire pose sata ide device parameters
+h d p a r m@acquire position sata ide device parameters
+h d p a r m@become put sata ide device parameters
+h d p a r m@become place sata ide device parameters
+h d p a r m@become pose sata ide device parameters
+h d p a r m@become position sata ide device parameters
+h d p a r m@go put sata ide device parameters
+h d p a r m@go place sata ide device parameters
+h d p a r m@go pose sata ide device parameters
+h d p a r m@go position sata ide device parameters
+h d p a r m@let put sata ide device parameters
+h d p a r m@let place sata ide device parameters
+h d p a r m@let pose sata ide device parameters
+h d p a r m@let position sata ide device parameters
+w a t c h@run commands repeatedly interrupt shows output errors
+w a t c h@run commands repeatedly disrupt shows output errors
+w a t c h@run commands repeatedly break_up shows output errors
+w a t c h@run commands repeatedly cut_off shows output errors
+w a t c h@scat commands repeatedly interrupt shows output errors
+w a t c h@scat commands repeatedly disrupt shows output errors
+w a t c h@scat commands repeatedly break_up shows output errors
+w a t c h@scat commands repeatedly cut_off shows output errors
+w a t c h@scarper commands repeatedly interrupt shows output errors
+w a t c h@scarper commands repeatedly disrupt shows output errors
+w a t c h@scarper commands repeatedly break_up shows output errors
+w a t c h@scarper commands repeatedly cut_off shows output errors
+w a t c h@turn_tail commands repeatedly interrupt shows output errors
+w a t c h@turn_tail commands repeatedly disrupt shows output errors
+w a t c h@turn_tail commands repeatedly break_up shows output errors
+w a t c h@turn_tail commands repeatedly cut_off shows output errors
+w h e r e i s@turn_up binary source man page files require
+w h e r e i s@turn_up binary source man page files dominate
+w h e r e i s@turn_up binary source man page files overlook
+w h e r e i s@turn_up binary source man page files overtop
+w h e r e i s@situate binary source man page files require
+w h e r e i s@situate binary source man page files dominate
+w h e r e i s@situate binary source man page files overlook
+w h e r e i s@situate binary source man page files overtop
+w h e r e i s@place binary source man page files require
+w h e r e i s@place binary source man page files dominate
+w h e r e i s@place binary source man page files overlook
+w h e r e i s@place binary source man page files overtop
+w h e r e i s@site binary source man page files require
+w h e r e i s@site binary source man page files dominate
+w h e r e i s@site binary source man page files overlook
+w h e r e i s@site binary source man page files overtop
+m d 5 s u m@use check md5 checksum file
+m d 5 s u m@utilize check md5 checksum file
+m d 5 s u m@utilise check md5 checksum file
+m d 5 s u m@apply check md5 checksum file
+w h i l e@conditionally put_to_death commands loop
+w h i l e@conditionally carry_through commands loop
+w h i l e@conditionally accomplish commands loop
+w h i l e@conditionally carry_out commands loop
+t r@interpret characters
+t r@render characters
+t r@transform characters
+t r@understand characters
+m t r@network diagnostics require thingslike ping traceroute
+m t r@network diagnostics dominate thingslike ping traceroute
+m t r@network diagnostics overlook thingslike ping traceroute
+m t r@network diagnostics overtop thingslike ping traceroute
+i f u p@get_down network interface appwith command
+i f u p@begin network interface appwith command
+i f u p@get network interface appwith command
+i f u p@start_out network interface appwith command
+z c a t@say one file compressed gzip compress write standard output
+z c a t@say one register compressed gzip compress write standard output
+z c a t@say one charge compressed gzip compress write standard output
+z c a t@say one lodge compressed gzip compress write standard output
+z c a t@scan one file compressed gzip compress write standard output
+z c a t@scan one register compressed gzip compress write standard output
+z c a t@scan one charge compressed gzip compress write standard output
+z c a t@scan one lodge compressed gzip compress write standard output
+z c a t@take one file compressed gzip compress write standard output
+z c a t@take one register compressed gzip compress write standard output
+z c a t@take one charge compressed gzip compress write standard output
+z c a t@take one lodge compressed gzip compress write standard output
+z c a t@learn one file compressed gzip compress write standard output
+z c a t@learn one register compressed gzip compress write standard output
+z c a t@learn one charge compressed gzip compress write standard output
+z c a t@learn one lodge compressed gzip compress write standard output
+c h r o o t@changes rout directory
+c h r o o t@changes rootle directory
+c h r o o t@changes settle directory
+c h r o o t@changes take_root directory
+n m@compose name list object file
+n m@pen name list object file
+n m@indite name list object file
+n m@publish name list object file
+c s h@scat c shell
+c s h@scarper c shell
+c s h@turn_tail c shell
+c s h@lam c shell
+x w u d@view images capture xwd
+x w u d@view images enamour xwd
+x w u d@view images trance xwd
+x w u d@view images catch xwd
+r m d i r@remove empty directories
+r m d i r@take empty directories
+r m d i r@take_away empty directories
+r m d i r@withdraw empty directories
+a p t i t u d e@understand similarity command one thing
+a p t i t u d e@realize similarity command one thing
+a p t i t u d e@realise similarity command one thing
+a p t i t u d e@witness similarity command one thing
+w h e r e i s@turn_up command file
+w h e r e i s@situate command file
+w h e r e i s@place command file
+w h e r e i s@site command file
+c h r o o t@scat command different root directory
+c h r o o t@scarper command different root directory
+c h r o o t@turn_tail command different root directory
+c h r o o t@lam command different root directory
+s p l i t@command use break file fixedsizes
+s p l i t@command utilize break file fixedsizes
+s p l i t@command utilise break file fixedsizes
+s p l i t@command apply break file fixedsizes
+t e s t@command usedfor measure conditional expressions
+t e s t@command usedfor evaluate conditional expressions
+t e s t@command usedfor valuate conditional expressions
+t e s t@command usedfor assess conditional expressions
+s l e e p@add delay
+s l e e p@append delay
+s l e e p@supply delay
+s l e e p@lend delay
+x a r g s@convert standard output one command arguments another
+x a r g s@change_over standard output one command arguments another
+x a r g s@change standard output one command arguments another
+x a r g s@exchange standard output one command arguments another
+t e e@say standard input compose standard output files
+t e e@say standard input pen standard output files
+t e e@say standard input indite standard output files
+t e e@say standard input publish standard output files
+t e e@scan standard input compose standard output files
+t e e@scan standard input pen standard output files
+t e e@scan standard input indite standard output files
+t e e@scan standard input publish standard output files
+t e e@take standard input compose standard output files
+t e e@take standard input pen standard output files
+t e e@take standard input indite standard output files
+t e e@take standard input publish standard output files
+t e e@learn standard input compose standard output files
+t e e@learn standard input pen standard output files
+t e e@learn standard input indite standard output files
+t e e@learn standard input publish standard output files
+n i c e@modify scheduling priority
+n i c e@qualify scheduling priority
+n i c e@change scheduling priority
+n i c e@alter scheduling priority
+c o m m a n d@use put_to_death command arguments ignoring shell function named command
+c o m m a n d@use carry_through command arguments ignoring shell function named command
+c o m m a n d@use accomplish command arguments ignoring shell function named command
+c o m m a n d@use carry_out command arguments ignoring shell function named command
+c o m m a n d@utilize put_to_death command arguments ignoring shell function named command
+c o m m a n d@utilize carry_through command arguments ignoring shell function named command
+c o m m a n d@utilize accomplish command arguments ignoring shell function named command
+c o m m a n d@utilize carry_out command arguments ignoring shell function named command
+c o m m a n d@utilise put_to_death command arguments ignoring shell function named command
+c o m m a n d@utilise carry_through command arguments ignoring shell function named command
+c o m m a n d@utilise accomplish command arguments ignoring shell function named command
+c o m m a n d@utilise carry_out command arguments ignoring shell function named command
+c o m m a n d@apply put_to_death command arguments ignoring shell function named command
+c o m m a n d@apply carry_through command arguments ignoring shell function named command
+c o m m a n d@apply accomplish command arguments ignoring shell function named command
+c o m m a n d@apply carry_out command arguments ignoring shell function named command
+d e c l a r e@declare variables give attributes
+d e c l a r e@declare variables yield attributes
+d e c l a r e@declare variables afford attributes
+d e c l a r e@declare variables pay attributes
+d e c l a r e@announce variables give attributes
+d e c l a r e@announce variables yield attributes
+d e c l a r e@announce variables afford attributes
+d e c l a r e@announce variables pay attributes
+d e c l a r e@adjudge variables give attributes
+d e c l a r e@adjudge variables yield attributes
+d e c l a r e@adjudge variables afford attributes
+d e c l a r e@adjudge variables pay attributes
+d e c l a r e@hold variables give attributes
+d e c l a r e@hold variables yield attributes
+d e c l a r e@hold variables afford attributes
+d e c l a r e@hold variables pay attributes
+m o d p r o b e@append take modules linux kernel
+m o d p r o b e@append take_away modules linux kernel
+m o d p r o b e@append withdraw modules linux kernel
+m o d p r o b e@append get_rid_of modules linux kernel
+m o d p r o b e@supply take modules linux kernel
+m o d p r o b e@supply take_away modules linux kernel
+m o d p r o b e@supply withdraw modules linux kernel
+m o d p r o b e@supply get_rid_of modules linux kernel
+m o d p r o b e@lend take modules linux kernel
+m o d p r o b e@lend take_away modules linux kernel
+m o d p r o b e@lend withdraw modules linux kernel
+m o d p r o b e@lend get_rid_of modules linux kernel
+m o d p r o b e@impart take modules linux kernel
+m o d p r o b e@impart take_away modules linux kernel
+m o d p r o b e@impart withdraw modules linux kernel
+m o d p r o b e@impart get_rid_of modules linux kernel
+e x p o r t@put environment variable
+e x p o r t@set environment variable
+e x p o r t@place environment variable
+e x p o r t@pose environment variable
+a d d u s e r@use root append user system
+a d d u s e r@use root supply user system
+a d d u s e r@use root lend user system
+a d d u s e r@use root impart user system
+a d d u s e r@utilize root append user system
+a d d u s e r@utilize root supply user system
+a d d u s e r@utilize root lend user system
+a d d u s e r@utilize root impart user system
+a d d u s e r@utilise root append user system
+a d d u s e r@utilise root supply user system
+a d d u s e r@utilise root lend user system
+a d d u s e r@utilise root impart user system
+a d d u s e r@apply root append user system
+a d d u s e r@apply root supply user system
+a d d u s e r@apply root lend user system
+a d d u s e r@apply root impart user system
+d d@change_over copy file compose disk headers boot records
+d d@change_over copy file pen disk headers boot records
+d d@change_over copy file indite disk headers boot records
+d d@change_over copy file publish disk headers boot records
+d d@change copy file compose disk headers boot records
+d d@change copy file pen disk headers boot records
+d d@change copy file indite disk headers boot records
+d d@change copy file publish disk headers boot records
+d d@exchange copy file compose disk headers boot records
+d d@exchange copy file pen disk headers boot records
+d d@exchange copy file indite disk headers boot records
+d d@exchange copy file publish disk headers boot records
+d d@commute copy file compose disk headers boot records
+d d@commute copy file pen disk headers boot records
+d d@commute copy file indite disk headers boot records
+d d@commute copy file publish disk headers boot records
+m a i l@send read electronic mail
+m a i l@send say electronic mail
+m a i l@send scan electronic mail
+m a i l@send take electronic mail
+m a i l@direct read electronic mail
+m a i l@direct say electronic mail
+m a i l@direct scan electronic mail
+m a i l@direct take electronic mail
+m a i l@send_out read electronic mail
+m a i l@send_out say electronic mail
+m a i l@send_out scan electronic mail
+m a i l@send_out take electronic mail
+m a i l@mail read electronic mail
+m a i l@mail say electronic mail
+m a i l@mail scan electronic mail
+m a i l@mail take electronic mail
+e v a l@command use need measure amany commands
+e v a l@command use need valuate amany commands
+e v a l@command use need assess amany commands
+e v a l@command use need appraise amany commands
+e v a l@command utilize need measure amany commands
+e v a l@command utilize need valuate amany commands
+e v a l@command utilize need assess amany commands
+e v a l@command utilize need appraise amany commands
+e v a l@command utilise need measure amany commands
+e v a l@command utilise need valuate amany commands
+e v a l@command utilise need assess amany commands
+e v a l@command utilise need appraise amany commands
+e v a l@command apply need measure amany commands
+e v a l@command apply need valuate amany commands
+e v a l@command apply need assess amany commands
+e v a l@command apply need appraise amany commands
+r s h d@daemon act server rsh rcp commands
+r s h d@daemon move server rsh rcp commands
+r s h d@daemon behave server rsh rcp commands
+r s h d@daemon do server rsh rcp commands
+u n e x p a n d@change_over spaces tabs stipulate file
+u n e x p a n d@change_over spaces tabs qualify file
+u n e x p a n d@change_over spaces tabs condition file
+u n e x p a n d@change_over spaces tabs specify file
+u n e x p a n d@change spaces tabs stipulate file
+u n e x p a n d@change spaces tabs qualify file
+u n e x p a n d@change spaces tabs condition file
+u n e x p a n d@change spaces tabs specify file
+u n e x p a n d@exchange spaces tabs stipulate file
+u n e x p a n d@exchange spaces tabs qualify file
+u n e x p a n d@exchange spaces tabs condition file
+u n e x p a n d@exchange spaces tabs specify file
+u n e x p a n d@commute spaces tabs stipulate file
+u n e x p a n d@commute spaces tabs qualify file
+u n e x p a n d@commute spaces tabs condition file
+u n e x p a n d@commute spaces tabs specify file
+b z i p 2@compress algorithm different gzip
+b z i p 2@compact algorithm different gzip
+b z i p 2@pack_together algorithm different gzip
+b z i p 2@constrict algorithm different gzip
+s e t@command let pull_strings shell functionsand variables
+s e t@command let pull_wires shell functionsand variables
+s e t@command let fudge shell functionsand variables
+s e t@command let fake shell functionsand variables
+s e t@command allow pull_strings shell functionsand variables
+s e t@command allow pull_wires shell functionsand variables
+s e t@command allow fudge shell functionsand variables
+s e t@command allow fake shell functionsand variables
+s e t@command permit pull_strings shell functionsand variables
+s e t@command permit pull_wires shell functionsand variables
+s e t@command permit fudge shell functionsand variables
+s e t@command permit fake shell functionsand variables
+s e t@command countenance pull_strings shell functionsand variables
+s e t@command countenance pull_wires shell functionsand variables
+s e t@command countenance fudge shell functionsand variables
+s e t@command countenance fake shell functionsand variables
