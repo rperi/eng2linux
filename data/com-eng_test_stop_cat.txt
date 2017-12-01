@@ -1,0 +1,282 @@
+d e b u g f s@f i l e _ s y s t e m _ d e b u g g e r _ e x t 2 _ e x t 3 _ e x t 4 - file system debugger ext2 ext3 ext4
+b z i p@i m p r o v e d _ c o m p r e s s i o n _ d e c o m p r e s s i o n _ p r o g r a m s - improved compression decompression programs
+u s l e e p@s u s p e n d _ e x e c u t i o n _ m i c r o s e c o n d _ i n t e r v a l s - suspend execution microsecond intervals
+a c p i _ a v a i l a b l e@c h e c k _ a c p i _ f u n c t i o n a l i t y _ e x i s t s _ s y s t e m - check acpi functionality exists system
+a r@u t i l i t y _ c r e a t e _ m o d i f y _ e x t r a c t _ a r c h i v e s - utility create modify extract archives
+i c o n v@c o n v e r t _ c h a r a c t e r _ s e t _ f i l e - convert character set file
+a d d r 2 l i n e@u s e d _ c o n v e r t _ a d d r e s s e s _ f i l e _ n a m e s _ l i n e _ n u m b e r s - used convert addresses file names line numbers
+p s 2 p d f@c o n v e r t _ p o s t s c r i p t _ p d f _ u s i n g _ g h o s t s c r i p t - convert postscript pdf using ghostscript
+s e n s o r s@s h o w s _ c u r r e n t _ r e a d i n g s _ s e n s o r _ c h i p s - shows current readings sensor chips
+r o u t e@s h o w _ m a n i p u l a t e _ i p _ r o u t i n g _ t a b l e - show manipulate ip routing table
+a r@c r e a t e _ m o d i f y _ e x t r a c t _ a r c h i v e s - create modify extract archives
+e m a c s@e m a c s _ t e x t _ e d i t o r _ c o m m a n d _ l i n e _ u t i l i t y - emacs text editor command line utility
+c r o n t a b@s c h e d u l e _ p e r i o d i c _ b a c k g r o u n d _ w o r k - schedule periodic background work
+w h e r e i s@u s e _ f i n d _ u t i l i t i e s _ s t a n d a r d _ l o c a t i o n s - use find utilities standard locations
+g r o f f@f r o n t _ e n d _ g r o f f _ d o c u m e n t _ f o r m a t t i n g _ s y s t e m - front end groff document formatting system
+s e d@s t r e a m _ e d i t o r - stream editor
+c d d a 2 w a v@u s e d _ r i p _ c d _ r o m _ m a k e _ w a v _ f i l e - used rip cd rom make wav file
+t a i l f@f o l l o w _ g r o w t h _ l o g _ f i l e _ d e p r e c a t e d _ c o m m a n d - follow growth log file deprecated command
+m o r e@p a g e _ t e x t _ o n e _ s c r e e n f u l _ t i m e - page text one screenful time
+n e t s t a t@g e t _ i n f o r m a t i o n _ n e t w o r k i n g - get information networking
+t r u e@n o t h i n g _ e x i t s _ s u c c e s s f u l l y - nothing exits successfully
+b z g r e p@s e a r c h _ p o s s i b l y _ b z i p 2 _ c o m p r e s s e d _ f i l e s _ r e g u l a r _ e x p r e s s i o n - search possibly bzip2 compressed files regular expression
+a c c e p t@a c c e p t _ r e j e c t _ j o b s _ d e s t i n a t i o n _ p r i n t e r - accept reject jobs destination printer
+m d u t i l@m a n a g e _ s p o t l i g h t _ m e t a d a t a _ s t o r e - manage spotlight metadata store
+x z@c o m p r e s s _ d e c o m p r e s s _ x z _ l z m a _ f i l e s - compress decompress xz lzma files
+t o u c h@u p d a t e _ l a s t _ m o d i f i e d _ t i m e _ f i l e _ c r e a t e _ e m p t y _ f i l e - update last modified time file create empty file
+u s e r s@c o m m a n d _ g i v e s _ y o u a _ l i s t _ u s e r s _ c u r r e n t l y _ l o g g e d - command gives youa list users currently logged
+s s h - a g e n t@h o l d s _ p r i v a t e _ k e y s _ u s e d _ p u b l i c _ k e y _ a u t h e n t i c a t i o n - holds private keys used public key authentication
+f g@s t a r t s _ s u s p e n d e d _ p r o c e s s _ r u n n i n g _ f o r e g r o u n d - starts suspended process running foreground
+l o c a t e@o n e _ u s e d _ f i n d i n g f i l e s - one used findingfiles
+c h r t@m a n i p u l a t e _ r e a l _ t i m e _ a t t r i b u t e s _ p r o c e s s - manipulate real time attributes process
+s s h@s e c u r e _ s h e l l - secure shell
+f m t@r e f o r m a t s _ p a r a g r a p h _ t e x t - reformats paragraph text
+c a t@p r o g r a m m i n g _ c a t _ u s u a l l y _ s t a n d s _ c o n c a t e n a t e - programming cat usually stands concatenate
+s e q@p r i n t s _ n u m e r i c _ s e q u e n c e s - prints numeric sequences
+t o@n e d i t _ p r o g r a m - nedit program
+r p c g e n@r p c _ p r o t o c o l _ c o m p i l e r _ p a r s e _ f i l e _ w r i t t e n _ r p c _ l a n g u a g e - rpc protocol compiler parse file written rpc language
+b c@c o m m a n d _ l i n e _ c a l c u l a t o r - command line calculator
+x c a l c@s i m p l e _ c a l c u l a t o r _ p r o g r a m - simple calculator program
+z c m p@r e a d _ c o m p r e s s e d _ f i l e s _ p a s s _ c m p - read compressed files pass cmp
+r e a d@r e a d s _ l i n e _ s t a n d a r d _ i n p u t - reads line standard input
+s t a t@d i s p l a y _ f i l e _ f i l e s y s t e m _ s t a t u s - display file filesystem status
+i m p o r t@c a p t u r e s _ s c r e e n _ s a v e s _ i m a g e _ x _ s e r v e r - captures screen saves image x server
+k i l l@k i l l _ p r o c e s s _ s p e c i f y i n g _ p i d - kill process specifying pid
+f i l e@d e t e r m i n e _ f i l e _ t y p e _ f i l e - determine file type file
+n o h u p@a l l o w s _ c o m m a n d _ c o n t i n u e _ r u n n i n g _ l o g g i n g - allows command continue running logging
+g r o u p s@s h o w _ g r o u p _ u s e r _ b e l o n g s - show group user belongs
+s t d b u f@c o n t r o l s _ b u f f e r i n g _ c o m m a n d s _ u s e _ s t d i o - controls buffering commands use stdio
+a c l o c a l@m a n u a l _ p a g e _ a c l o c a l _ 1 _ 1 5 - manual page aclocal 1 15
+c p p@g n u _ c - gnu c
+s d i f f@c o m m a n d _ u s e d _ m e r g e _ t w o f i l e s _ s e c u r e _ m a n n e r - command used merge twofiles secure manner
+r e n a m e@r e n a m e s _ m u l t i p l e _ f i l e s - renames multiple files
+r e s i z e@s e t _ e n v i r o n m e n t _ t e r m i n a l _ s e t t i n g s _ c u r r e n t _ x t e r m _ w i n d o w _ s i z e - set environment terminal settings current xterm window size
+e n v@r u n _ c o m m a n d _ m o d i f i e d _ e n v i r o n m e n t _ s h o w _ s e t _ d e l e t e _ e n v i r o n m e n t _ v a r i a b l e s - run command modified environment show set delete environment variables
+a s m o d e m@a f t e r s t e p _ u t i l i t y _ m o n i t o r _ m o d e m _ s t a t u s - afterstep utility monitor modem status
+v a l@v a l i d a t e _ s c c s _ f i l e s - validate sccs files
+p r i n t e n v@p r i n t _ e n v i r o n m e n t _ v a r i a b l e s - print environment variables
+m a n p a t h@a t t e m p t _ d e t e r m i n e _ p a t h _ m a n u a l _ p a g e s - attempt determine path manual pages
+s t o p@i n i t _ d a e m o n _ c o n t r o l _ t o o l - init daemon control tool
+p i n k y@l i g h t w e i g h t _ f i n g e r _ p r o g r a m - lightweight finger program
+t i m e s@s h o w s _ a c c u m u l a t e d _ u s e r _ s y s t e m _ t i m e s _ s h e l l _ c h i l d _ p r o c e s s e s - shows accumulated user system times shell child processes
+k i l l@s t o p _ p r o c e s s _ r u n n i n g - stop process running
+e n v s u b s t@s u b s t i t u t e s _ e n v i r o n m e n t _ v a r i a b l e s _ s h e l l _ f o r m a t _ s t r i n g s - substitutes environment variables shell format strings
+l s u s b@l i s t _ u s b _ d e v i c e s - list usb devices
+r s t a t@s u m m a r i z e _ h o s t _ s t a t u s _ u p t i m e _ l o a d _ a v e r a g e s _ c u r r e n t _ t i m e - summarize host status uptime load averages current time
+c a t@c o n c a t e n a t e _ p r i n t _ d i s p l a y _ c o n t e n t _ f i l e s - concatenate print display content files
+n o t i f y - s e n d@s e n d _ d e s k t o p _ n o t i f i c a t i o n s - send desktop notifications
+c p@c o p i e s _ f i l e s - copies files
+s u s p e n d@s u s p e n d _ e x e c u t i o n _ s h e l l - suspend execution shell
+a p t - g e t@c o m m a n d _ l i n e _ u t i l i t y _ i n s t a l l _ r e m o v e _ u p d a t e _ p a c k a g e s _ b a s e d _ a p t _ s y s t e m - command line utility install remove update packages based apt system
+x d g - o p e n@o p e n s _ u r l _ f i l e _ u s e r _ p r e f e r r e d _ a p p l i c a t i o n - opens url file user preferred application
+f d f o r m a t@c o m m a n d _ u s e d _ l o w l e v e l _ f o r m a t _ f l o p p y _ d i s k - command used lowlevel format floppy disk
+l e t@c o m p u t i n g _ i n t e g e r _ v a r i a b l e _ v a l u e s - computing integer variable values
+r e n i c e@a l t e r _ p r i o r i t y _ r u n n i n g _ p r o c e s s e s - alter priority running processes
+p r@c o n v e r t s _ t e x t _ f i l e s _ p r i n t i n g - converts text files printing
+m o r e@d i s p l a y s _ o u t p u t _ s i n g l e _ s c r e e n _ t i m e - displays output single screen time
+u n a m e@p r i n t _ s y s t e m _ i n f o r m a t i o n - print system information
+z d u m p@d i s p l a y s _ t i m e _ t i m e z o n e _ m e n t i o n e d - displays time timezone mentioned
+s a n e - f i n d - s c a n n e r@f i n d _ s c s i _ u s b _ s c a n n e r s _ d e v i c e _ f i l e s - find scsi usb scanners device files
+t c p d u m p@d u m p _ t r a f f i c _ n e t w o r k - dump traffic network
+a p t - g e t@c o m m a n d _ l i n e _ i n t e r f a c e - command line interface
+f t p@f i l e _ t r a n s f e r _ n e t w o r k - file transfer network
+s p l i t@s p l i t _ f i l e s _ p i e c e s - split files pieces
+d e f a u l t s@s e t _ p r e f e r e n c e s _ s h o w _ h i d d e n _ f i l e s - set preferences show hidden files
+d o e x e c@r u n _ e x e c u t a b l e _ a r b i t r a r y _ a r g v - run executable arbitrary argv
+r v i e w@g u i _ v e r s i o n _ v i m _ e a s y _ m o d e _ r e s t r i c t i o n s - gui version vim easy mode restrictions
+u u e n c o d e@e n c o d e _ b i n a r y _ f i l e - encode binary file
+p a s s w d@m o d i f i e s _ u s e r _ p a s s w o r d s - modifies user passwords
+f i n d@s e a r c h _ f i l e s _ m e e t _ d e s i r e d _ c r i t e r i a - search files meet desired criteria
+f g r e p@d i s p l a y _ l i n e s _ f i l e _ m a t c h _ s p e c i f i e d _ s t r i n g _ v a r i a n t _ g r e p - display lines file match specified string variant grep
+c h m o d@c h a n g e _ f i l e _ m o d e s _ a t t r i b u t e s _ p e r m i s s i o n s - change file modes attributes permissions
+h e a d@s h o w s _ f i r s t _ 1 0 _ l i n e s _ s p e c i f i e d _ f i l e - shows first 10 lines specified file
+f o r m a i l@u s e d _ f i l t e r _ s t a n d a r d _ i n p u t _ m a i l b o x _ f o r m a t - used filter standard input mailbox format
+z f o r c e@a d d s _ g z _ e x t e n s i o n _ g z i p p e d _ f i l e s - adds gz extension gzipped files
+t a s k s e t@s e t _ r e t r i e v e _ p r o c e s s _ c p u _ a f f i n i t y - set retrieve process cpu affinity
+p r i n t c a p@p r i n t e r _ c a p a b i l i t y _ d a t a b a s e - printer capability database
+x m h@g r a p h i c a l _ f r o n t _ e n d _ x _ n m h _ m a i l _ h a n d l i n g _ s y s t e m - graphical front end x nmh mail handling system
+g z i p@c o m p r e s s _ u s i n g _ l e m p e l _ z i v _ c o d i n g _ l z 7 7 - compress using lempel ziv coding lz77
+s y m l i n k s@p r o v i d e _ l i s t _ i n f o r m a t i o n _ s y m b o l i c _ l i n k s - provide list information symbolic links
+d f@d i s p l a y _ f r e e _ d i s k _ s p a c e - display free disk space
+c o m p l e t e@e d i t _ c o m m a n d _ c o m p l e t i o n _ w o r d _ p a t t e r n _ l i s t - edit command completion word pattern list
+b z i p 2@c o m p r e s s _ d e c o m p r e s s _ n a m e d _ f i l e - compress decompress named file
+t a i l f@f o l l o w _ g r o w t h _ l o g _ f i l e - follow growth log file
+u m a s k@d e t e r m i n e s _ f i l e _ p e r m i s s i o n _ n e w _ f i l e - determines file permission new file
+s e t e n v@s e t _ d i s p l a y _ v a l u e _ e n v i r o n m e n t _ v a r i a b l e s - set display value environment variables
+g c c@g n u _ p r o j e c t _ c _ c _ c o m p i l e r - gnu project c c compiler
+s l o c a t e@d i s p l a y _ m a t c h e s _ s e a r c h i n g _ f i l e n a m e _ d a t a b a s e s _ t a k e s _ o w n e r s h i p _ f i l e _ p e r m i s s i o n _ c o n s i d e r a t i o n - display matches searching filename databases takes ownership file permission consideration
+p i d o f@f i n d _ p r o c e s s _ i d _ r u n n i n g _ p r o g r a m - find process id running program
+m k f s@u s e d _ b u i l d _ l i n u x _ f i l e s y s t e m _ h a r d _ d i s k _ p a r t i t i o n - used build linux filesystem hard disk partition
+c o l u m n@c o l u m n a t e _ l i s t s - columnate lists
+i f d o w n@t a k e _ n e t w o r k _ i n t e r f a c e - take network interface
+c m p@c o m p a r e s _ t w o _ f i l e s _ d i f f e r e n c e s - compares two files differences
+l o c a t e@f i n d _ f i l e s _ n a m e - find files name
+d f@r e p o r t _ f r e e _ d i s k _ s p a c e - report free disk space
+a s l o a d@a f t e r s t e p _ c p u _ l o a d _ m o n i t o r - afterstep cpu load monitor
+s h@c o m m a n d _ i n t e r p r e t e r _ s h e l l - command interpreter shell
+w g e t@n o n _ i n t e r a c t i v e _ f i l e _ d o w n l o a d _ u t i l i t y - non interactive file download utility
+a u t o m a k e@m a n u a l _ p a g e _ a u t o m a k e _ 1 _ 1 5 - manual page automake 1 15
+c h o w n@c h a n g e _ o w n e r _ f i l e - change owner file
+h o s t n a m e@p r i n t _ s e t _ s y s t e m _ n a m e - print set system name
+t i m e@t i m e _ s i m p l e _ c o m m a n d - time simple command
+e c h o@d i s p l a y _ m e s s a g e _ s c r e e n - display message screen
+g p m@e n a b l e s _ c u t _ p a s t e _ f u n c t i o n a l i t y _ m o u s e _ s e r v e r _ l i n u x _ c o n s o l e - enables cut paste functionality mouse server linux console
+g r p c o n v@c r e a t e s _ g s h a d o w _ f i l e _ g r o u p _ a l r e a d y _ e x i s t i n g _ g s h a d o w - creates gshadow file group already existing gshadow
+a u m i x@a u d i o _ m i x e r _ u t i l i t y - audio mixer utility
+o n i n t r@c o n t r o l _ a c t i o n _ s h e l l _ i n t e r r u p t - control action shell interrupt
+b r e a k@e x i t _ s e l e c t _ l o o p - exit select loop
+d n s s e c - k e y g e n@g e n e r a t e _ e n c r y p t e d _ s e c u r e _ d n s _ k e y s _ g i v e n _ d o m a i n _ n a m e - generate encrypted secure dns keys given domain name
+q u o t a c h e c k@u s e d _ s c a n _ f i l e _ s y s t e m _ d i s k _ u s a g e - used scan file system disk usage
+d a t e@c h a n g e s _ d a t e _ t i m e - changes date time
+x i n i t@s t a r t _ x s e r v e r - start xserver
+d u@d i s p l a y s _ i n f o r m a t i o n _ d i s k _ u s a g e - displays information disk usage
+a s a@i n t e r p r e t _ c a r r i a g e _ c o n t r o l _ c h a r a c t e r s - interpret carriage control characters
+o s a s c r i p t@e x e c u t e _ a p p l e s c r i p t - execute applescript
+g r o u p a d d@u s e d _ a d d _ n e w _ u s e r _ g r o u p - used add new user group
+j o e@s i m p l e _ w o r d s t a r - simple wordstar
+e c h o@w r i t e _ a r g u m e n t s _ s t a n d a r d _ o u t p u t - write arguments standard output
+b a s e n a m e@u s e d _ d i s p l a y _ f i l e n a m e s _ d i r e c t o y _ s u f f i x - used display filenames directoy suffix
+c o m m a n d@r u n _ c o m m a n d _ i g n o r i n g _ s h e l l _ f u n c t i o n s - run command ignoring shell functions
+l a u n c h c t l@l o a d _ u n l o a d _ d a e m o n s _ a g e n t s - load unload daemons agents
+v i d m o d e@s e t _ v i d e o _ m o d e _ k e r n e l _ i m a g e _ d i s p l a y s _ c u r r e n t _ m o d e _ v a l u e _ w i t h o u t _ a r g u m e n t s _ a l t e r n a t i v e _ r d e v _ v - set video mode kernel image displays current mode value without arguments alternative rdev v
+i n s t a l l p k g@s l a c k w a r e _ c o m m a n d _ i n s t a l l _ o n e _ p a c k a g e s _ p r o g r a m _ s e t s - slackware command install one packages program sets
+z m o r e@f i l e _ p e r u s a l _ f i l t e r _ c r t _ v i e w i n g _ c o m p r e s s e d _ t e x t - file perusal filter crt viewing compressed text
+c a s e@c a s e _ w a n t _ p e r f o r m _ c o m m a n d _ c o n d i t i o n a l l y - case want perform command conditionally
+i f c o n f i g@c o n f i g u r e _ n e t w o r k _ i n t e r f a c e _ p a r a m e t e r s - configure network interface parameters
+e x p o r t@u s e d _ s e t _ e n v i r o n m e n t _ v a r i a b l e - used set environment variable
+p s 2 p k@c r e a t e s _ t e x _ p k f o n t _ t y p e 1 _ p o s t s c r i p t _ f o n t - creates tex pkfont type1 postscript font
+c h r o o t@r u n _ c o m m a n d _ r o o t _ p r i v i l e g e s - run command root privileges
+s h a 1 s u m@c o m p u t e _ c h e c k _ s h a 1 _ m e s s a g e _ d i g e s t - compute check sha1 message digest
+c j p e g@c o m p r e s s _ i m a g e _ f i l e _ j p e g _ f i l e - compress image file jpeg file
+f r e e@s h o w _ f r e e _ u s e d _ s y s t e m _ m e m o r y - show free used system memory
+q u o t a c t l@m a n i p u l a t e _ d i s k _ q u o t a s - manipulate disk quotas
+i f d o w n@s h u t _ n e t w o r k _ i n t e r f a c e - shut network interface
+d o e x e c@u s e d _ r u n _ e x e c u t a b l e _ a r b i t r a r y _ a r g v _ l i s t _ p r o v i d e d - used run executable arbitrary argv list provided
+l p r@u s e d _ s u b m i t _ f i l e s _ p r i n t i n g - used submit files printing
+a r e c o r d@l i k e _ a p l a y _ s o u n d _ r e c o r d e r _ p l a y e r _ a l s a _ s o u n d c a r d _ d r i v e r - like aplay sound recorder player alsa soundcard driver
+k u d z u@u s e d _ d e t e c t _ n e w _ e n h a n c e d _ h a r d w a r e _ c o m p a r i n g _ e x i s t i n g _ d a t a b a s e _ r h e l _ d e r i v a t e s - used detect new enhanced hardware comparing existing database rhel derivates
+g r o u p d e l@d e l e t e _ g r o u p - delete group
+n o h u p@r u n _ c o m m a n d _ i m m u n e _ h a n g u p s _ o u t p u t _ n o n _ t t y - run command immune hangups output non tty
+f 2 c@f o r t r a n _ c _ t r a n s l a t o r - fortran c translator
+r m d e l@r e m o v e _ d e l t a _ s c c s _ f i l e - remove delta sccs file
+t o u c h@c h a n g e s _ t i m e s t a m p s _ f i l e - changes timestamps file
+d m e s g@p r i n t _ c o n t r o l _ k e r n e l _ r i n g _ b u f f e r - print control kernel ring buffer
+x o s v i e w@d i s p l a y s _ b a r _ g r a p h s _ s y s t e m _ l o a d _ l o a d _ a v e r a g e _ m e m o r y _ u s a g e _ s w a p _ u s a g e - displays bar graphs system load load average memory usage swap usage
+n c@n e t c a t _ u t i l i t y _ a r b i t r a r y _ t c p _ u d p _ c o n n e c t i o n s _ l i s t e n s - netcat utility arbitrary tcp udp connections listens
+c r o n d@w o r k _ c r o n - work cron
+p r@c o n v e r t _ t e x t _ f i l e s _ p r i n t i n g - convert text files printing
+m d e l@d e l e t e _ m s d o s _ f i l e - delete msdos file
+t r a p@t r a p _ f u n c t i o n _ r e s p o n d s _ h a r d w a r e _ s i g n a l s _ d e f i n e s _ c r e a t e s _ h a n d l e r s _ r u n _ s h e l l _ r e c e i v e s _ s i g n a l s - trap function responds hardware signals defines creates handlers run shell receives signals
+s t r i n g s@f i n d _ p r i n t a b l e _ s t r i n g s _ f i l e s - find printable strings files
+l p r m@c a n c e l _ p r i n t _ j o b s - cancel print jobs
+l o c a l e d e f@d e f i n e _ l o c a l e _ e n v i r o n m e n t - define locale environment
+s e q@p r i n t _ s e q u e n c e _ n u m b e r s - print sequence numbers
+u u s t a t@u u c p _ s t a t u s _ i n q u i r y _ j o b _ c o n t r o l - uucp status inquiry job control
+i d@p r i n t _ u s e r _ g r o u p _ i d - print user group id
+j o b s@u s e _ l i s t i n g _ j o b s _ a c t i v e - use listing jobs active
+u p t i m e@t e l l s _ l o n g _ s y s t e m _ r u n n i n g - tells long system running
+l p r m@r e m o v e _ j o b s _ p r i n t _ q u e u e - remove jobs print queue
+u s e r d e l@d e l e t e _ u s e r _ a c c o u n t - delete user account
+r e t u r n@e x i t _ s h e l l _ f u n c t i o n - exit shell function
+w a t c h@e x e c u t e _ d i s p l a y _ p r o g r a m _ p e r i o d i c a l l y - execute display program periodically
+c p i o@c o p y _ f i l e s _ a r c h i v e s - copy files archives
+b z g r e p@u s e d _ c a l l _ g r e p _ b z i p 2 _ c o m p r e s s e d _ f i l e s - used call grep bzip2 compressed files
+f a c t o r@p r i n t _ p r i m e _ f a c t o r s - print prime factors
+e l v t u n e@u s e d _ s e t _ l a t e n c y _ e l e v a t o r _ a l g o r i t h m _ u s e d _ s c h e d u l e _ a c t i v i t i e s _ s p e c i f i e d _ b l o c k _ d e v i c e s - used set latency elevator algorithm used schedule activities specified block devices
+c u t@p r i n t _ s e l e c t e d _ p a r t s _ l i n e s _ s t a n d a r d _ o u t p u t - print selected parts lines standard output
+c m p@c o m p a r e _ t w o _ f i l e s _ b y t e _ b y t e - compare two files byte byte
+t e s t@e v a l u a t e s _ e x p r e s s i o n - evaluates expression
+l o c k f i l e@c r e a t e _ s e m a p h o r e _ f i l e _ u s e d _ l i m i t _ a c c e s s _ f i l e - create semaphore file used limit access file
+x b i f f@m a i l b o x _ f l a g _ x - mailbox flag x
+p i n e@e m a i l _ p r o g r a m _ u s e d _ u n i v e r s i t y _ w a s h i n g t o n - email program used university washington
+b g@b g c o u l d _ s t a n d _ b a c k g r o u n d _ r e g a r d l e s s _ w h a t i t _ s e n d s _ b a c k g r o u n d - bgcould stand background regardless whatit sends background
+g r e p@y o u c a n _ s e a r c h _ f i l e s _ l i n e s _ m a t c h i n g _ c e r t a i n _ p a t t e r n - youcan search files lines matching certain pattern
+g r o u p a d d@u s e _ c o m m a n d _ a d d _ s e c u r i t y _ u s e r _ g r o u p s - use command add security user groups
+g p g s p l i t@u s e d _ s p l i t _ o p e n p g p _ m e s s a g e _ p a c k e t s - used split openpgp message packets
+m c o p y@u s e d _ c o p y _ m s _ d o s _ f i l e s _ u n i x - used copy ms dos files unix
+k i l l a l l 5@s y s t e m v _ k i l l a l l _ c o m m a n d _ k i l l s _ p r o c e s s e s _ e x c l u d i n g _ o n e s _ d e p e n d s - systemv killall command kills processes excluding ones depends
+! !@r u n _ l a s t _ c o m m a n d - run last command
+m t@c o n t r o l _ m a g n e t i c _ t a p e _ d r i v e _ o p e r a t i o n - control magnetic tape drive operation
+r e b o o t@s e l f _ e x p l a n a t o r y _ u s e _ t h i s c o m m a n d _ r e b o o t _ s y s t e m - self explanatory use thiscommand reboot system
+c h f l a g s@c h a n g e _ f i l e _ f o l d e r _ f l a g s - change file folder flags
+d a t e@d i s p l a y _ d a t e _ t i m e - display date time
+s s h@u s e d _ r u n _ r e m o t e _ l o g i n _ p r o g r a m _ s e c u r e _ s h e l l _ c l i e n t - used run remote login program secure shell client
+m a n p a t h@d e t e r m i n e _ s e a r c h _ p a t h _ m a n u a l _ p a g e s - determine search path manual pages
+s c c s@f r o n t _ e n d _ s c c s _ s u b s y s t e m - front end sccs subsystem
+w h a t i s@d i s p l a y _ o n e _ l i n e _ m a n u a l _ p a g e _ d e s c r i p t i o n s - display one line manual page descriptions
+l s r e g i s t e r@r e s e t _ l a u n c h _ s e r v i c e s _ d a t a b a s e - reset launch services database
+h d p a r m@g e t _ s e t _ s a t a _ i d e _ d e v i c e _ p a r a m e t e r s - get set sata ide device parameters
+w a t c h@r u n s _ c o m m a n d s _ r e p e a t e d l y _ i n t e r r u p t e d _ s h o w s _ o u t p u t _ e r r o r s - runs commands repeatedly interrupted shows output errors
+n l@n u m b e r _ l i n e s _ f i l e s - number lines files
+w h e r e i s@l o c a t e _ b i n a r y _ s o u r c e _ m a n _ p a g e _ f i l e s _ c o m m a n d - locate binary source man page files command
+e c h o@d i s p l a y _ t e x t _ s c r e e n - display text screen
+m d 5 s u m@u s e d _ c h e c k _ m d 5 _ c h e c k s u m _ f i l e - used check md5 checksum file
+w h i l e@c o n d i t i o n a l l y _ e x e c u t e _ c o m m a n d s _ l o o p - conditionally execute commands loop
+m k f s@c r e a t e _ f i l e _ s y s t e m _ f o r m a t _ d e v i c e _ p a r t i t i o n - create file system format device partition
+d i r@v a r i a t i o n _ g n u _ l s _ c o m m a n d _ d e f a u l t s _ p r i n t i n g _ f i l e _ n a m e s _ c o l u m n s - variation gnu ls command defaults printing file names columns
+t r@t r a n s l a t e _ c h a r a c t e r s - translate characters
+u n a l i a s@c o m m a n d _ w i l l r e m o v e _ a l i a s - command willremove alias
+m t r@n e t w o r k _ d i a g n o s t i c s _ c o m m a n d _ t h i n g s l i k e _ p i n g _ t r a c e r o u t e - network diagnostics command thingslike ping traceroute
+c p p@g n u _ c _ l a n g u a g e _ p r o c e s s o r - gnu c language processor
+d a t e@d i s p l a y _ c h a n g e _ d a t e _ t i m e - display change date time
+s s h d@o p e n s s h _ s s h _ d a e m o n - openssh ssh daemon
+w c@o u t p u t _ c o u n t _ n u m b e r _ c h a r a c t e r s _ l i n e s _ w o r d s _ e t c _ f i l e - output count number characters lines words etc file
+e x i t@e x i t _ s h e l l - exit shell
+k b d r a t e@r e s e t _ k e y b o a r d _ r e p e a t _ r a t e _ d e l a y _ t i m e - reset keyboard repeat rate delay time
+i f u p@s t a r t _ n e t w o r k _ i n t e r f a c e _ a p p w i t h _ c o m m a n d - start network interface appwith command
+z c a t@r e a d _ o n e _ f i l e s _ c o m p r e s s e d _ g z i p _ c o m p r e s s _ w r i t e _ s t a n d a r d _ o u t p u t - read one files compressed gzip compress write standard output
+g r o u p m o d@u s e d _ m o d i f y _ g r o u p _ d e f i n i t i o n - used modify group definition
+c h r o o t@c h a n g e s _ r o o t _ d i r e c t o r y - changes root directory
+n e t s t a t@n e t w o r k i n g _ i n f o r m a t i o n - networking information
+l a s t@s h o w _ l i s t i n g _ l a s t _ l o g g e d _ u s e r s - show listing last logged users
+n m@w r i t e _ n a m e _ l i s t _ o b j e c t _ f i l e - write name list object file
+t r o f f@t r o f f _ p r o c e s s o r _ g r o f f _ t e x t _ f o r m a t t i n g _ s y s t e m - troff processor groff text formatting system
+w h e r e@r e p o r t _ k n o w n _ i n s t a n c e s _ c o m m a n d - report known instances command
+a c c e s s@c h e c k _ u s e r _ p e r m i s s i o n s _ f i l e - check user permissions file
+c s h@r u n _ c _ s h e l l - run c shell
+x w u d@v i e w _ i m a g e s _ c a p t u r e d _ x w d - view images captured xwd
+r m d i r@r e m o v e s _ e m p t y _ d i r e c t o r i e s - removes empty directories
+d c@d e s k _ c a l c u l a t o r _ u t i l i t y - desk calculator utility
+a p t i t u d e@s e e _ s i m i l a r i t y _ c o m m a n d _ o n e _ t h i n g - see similarity command one thing
+w h e r e i s@l o c a t e _ c o m m a n d _ f i l e - locate command file
+c h r o o t@r u n _ c o m m a n d _ d i f f e r e n t _ r o o t _ d i r e c t o r y - run command different root directory
+l o c k f i l e@c r e a t e _ s e m a p h o r e _ f i l e _ u s e d _ l i m i t _ a c c e s s _ f i l e - create semaphore file used limit access file
+u p t i m e@s h o w _ u p t i m e - show uptime
+s p l i t@c o m m a n d _ u s e d _ b r e a k _ f i l e _ f i x e d s i z e s - command used break file fixedsizes
+t e s t@c o m m a n d _ u s e d f o r _ e v a l u a t i n g _ c o n d i t i o n a l _ e x p r e s s i o n s - command usedfor evaluating conditional expressions
+w h o@p r i n t _ u s e r n a m e s _ c u r r e n t l y _ l o g g e d - print usernames currently logged
+h e a d@d i s p l a y _ f i r s t _ l i n e s _ f i l e - display first lines file
+m o u s e c o n f i g@m o u s e _ c o n f i g u r a t i o n _ u t i l i t y _ r e d _ h a t - mouse configuration utility red hat
+s y s t e m s e t u p@c o m p u t e r _ d i s p l a y _ s y s t e m _ s e t t i n g s - computer display system settings
+m r e n@r e n a m e _ e x i s t i n g _ m s d o s _ f i l e - rename existing msdos file
+s l e e p@a d d s _ d e l a y - adds delay
+p o p d@r e m o v e s _ d i r e c t o r y _ h e a d _ d i r e c t o r y _ s t a c k _ t a k e s _ n e w _ d i r e c t o r y _ h e a d - removes directory head directory stack takes new directory head
+d f@s h o w _ d i s k _ u s a g e - show disk usage
+x a r g s@c o n v e r t s _ s t a n d a r d _ o u t p u t _ o n e _ c o m m a n d _ a r g u m e n t s _ a n o t h e r - converts standard output one command arguments another
+t e e@r e a d _ s t a n d a r d _ i n p u t _ w r i t e _ s t a n d a r d _ o u t p u t _ f i l e s - read standard input write standard output files
+n i c e@m o d i f i e s _ s c h e d u l i n g _ p r i o r i t y - modifies scheduling priority
+c o m m a n d@u s e d _ e x e c u t e _ c o m m a n d _ a r g u m e n t s _ i g n o r i n g _ s h e l l _ f u n c t i o n _ n a m e d _ c o m m a n d - used execute command arguments ignoring shell function named command
+d e c l a r e@d e c l a r e s _ v a r i a b l e s _ g i v e s _ a t t r i b u t e s - declares variables gives attributes
+m o d p r o b e@a d d _ r e m o v e _ m o d u l e s _ l i n u x _ k e r n e l - add remove modules linux kernel
+e x p o r t@s e t s _ e n v i r o n m e n t _ v a r i a b l e - sets environment variable
+l@l i s t _ f i l e s _ l o n g _ f o r m a t _ l s _ l - list files long format ls l
+v i@t e x t _ e d i t o r - text editor
+l e t@a r i t h m e t i c _ s h e l l _ v a r i a b l e s - arithmetic shell variables
+a d d u s e r@u s e d _ r o o t _ a d d _ u s e r _ s y s t e m - used root add user system
+d d@c o n v e r t _ c o p y _ f i l e _ w r i t e _ d i s k _ h e a d e r s _ b o o t _ r e c o r d s - convert copy file write disk headers boot records
+e x@i n t e r a c t i v e _ c o m m a n d - interactive command
+m a i l@s e n d s _ r e a d s _ e l e c t r o n i c _ m a i l - sends reads electronic mail
+e v a l@c o m m a n d _ u s e d _ n e e d _ e v a l u a t e _ a m a n y _ c o m m a n d s - command used need evaluate amany commands
+u m a s k@f i l e _ c r e a t i o n _ m a s k _ b a s h _ b u i l t i n s - file creation mask bash builtins
+i f c o n f i g@c o n f i g u r e _ n e t w o r k _ i n t e r f a c e - configure network interface
+q m o v e@m o v e _ p b s _ b a t c h _ j o b - move pbs batch job
+p r@f o r m a t _ p r i n t i n g - format printing
+t e s t@c o n d i t i o n _ e v a l u a t i o n - condition evaluation
+m k l o s t + f o u n d@c r e a t e _ l o s t _ f o u n d _ d i r e c t o r y _ m o u n t e d _ l i n u x _ s e c o n d _ e x t e n d e d _ f i l e _ s y s t e m - create lost found directory mounted linux second extended file system
+r s h d@d a e m o n _ a c t s _ s e r v e r _ r s h _ r c p _ c o m m a n d s - daemon acts server rsh rcp commands
+t o u c h@c h a n g e _ f i l e _ a c c e s s _ m o d i f i c a t i o n _ t i m e s - change file access modification times
+u n e x p a n d@c o n v e r t _ s p a c e s _ t a b s _ s p e c i f i e d _ f i l e - convert spaces tabs specified file
+l o c a t e@f i n d s _ f i l e s - finds files
+b z i p 2@c o m p r e s s e s _ a l g o r i t h m _ d i f f e r e n t _ g z i p - compresses algorithm different gzip
+s e t@c o m m a n d _ l e t s _ m a n i p u l a t e _ s h e l l _ f u n c t i o n s a n d _ v a r i a b l e s - command lets manipulate shell functionsand variables
+r e b o o t@s l a c k w a r e _ r e b o o t s _ s y s t e m - slackware reboots system
