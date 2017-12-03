@@ -29,13 +29,13 @@ if __name__ == '__main__':
         attn_decoder1 = attn_decoder1.cuda()
 
     # Start the training process.
-    trainIters(encoder1, attn_decoder1,  repeat=1, print_every=100)
+    trainIters(encoder1, attn_decoder1,  repeat=50, print_every=100)
 
     enc_dec = [encoder1, attn_decoder1]
     evaluateRandomly(encoder1, attn_decoder1)
     
     dtime = datetime.now().strftime("%I_%M%p_%B_%d_%Y")
-    with open('enc_dec_'+ dtime + '_debug.pickle', 'wb') as handle:
+    with open('enc_dec_'+ dtime + '_iter50_TeacherForcing1_stop_merged.pickle', 'wb') as handle:
         # pickle.dump([encoder1, attn_decoder1], handle, protocol=pickle.HIGHEST_PROTOCOL)
         pickle.dump([encoder1, attn_decoder1, input_lang_word, input_lang_char, output_lang], handle, protocol=pickle.HIGHEST_PROTOCOL)
 
