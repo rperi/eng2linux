@@ -19,7 +19,7 @@ SOS_token = 0
 EOS_token = 1
 
 
-class Lang:
+class Lang_word:
     def __init__(self, name):
         self.name = name
         self.word2index = {}
@@ -40,7 +40,26 @@ class Lang:
         else:
             self.word2count[word] += 1
 
+class Lang_char:
+    def __init__(self, name):
+        self.name = name
+        self.word2index = {}
+        self.word2count = {}
+        self.index2word = {0: "SOS", 1: "EOS"}
+        self.n_words = 2  # Count SOS and EOS
 
+    def addSentence(self, sentence):
+        for word in sentence.split(' '):
+            self.addWord(word)
+
+    def addWord(self, word):
+        if word not in self.word2index:
+            self.word2index[word] = self.n_words
+            self.word2count[word] = 1
+            self.index2word[self.n_words] = word
+            self.n_words += 1
+        else:
+            self.word2count[word] += 1
 # Turn a Unicode string to plain ASCII, thanks to
 # http://stackoverflow.com/a/518232/2809427
 def unicodeToAscii(s):
@@ -55,7 +74,7 @@ def unicodeToAscii(s):
 def normalizeString(s):
     s = unicodeToAscii(s.lower().strip())
     s = re.sub(r"([.!?])", r" \1", s)
-    s = re.sub(r"[^a-zA-Z.!?]+", r" ", s)
+    s = re.sub(r"[^a-zA-Z.!?_0-9’]+", r" ", s)
     return s
 
 
@@ -64,25 +83,42 @@ def readLangs(lang1, lang2, reverse=False):
 
     # Read the file and split into lines
     # lines = open('../data/%s-%s_train_unclean.txt' % (lang1, lang2), encoding='utf-8').\
-    lines = open('../data/%s-%s_train.txt' % (lang1, lang2), encoding='utf-8').\
+    lines = open('../data/%s-%s_train_stop_repeat.txt' % (lang1, lang2), encoding='utf-8').\
         read().strip().split('\n')
 
     # Split every line into pairs and normalize
-    pairs = [[normalizeString(s) for s in l.split('@')] for l in lines]
+    pairs_word = [[normalizeString(s) for s in l.split('@')] for l in lines]
 
     # Reverse pairs, make Lang instances
     if reverse:
-        pairs = [list(reversed(p)) for p in pairs]
-        input_lang = Lang(lang2)
-        output_lang = Lang(lang1)
+        pairs_word = [list(reversed(p)) for p in pairs_word]
+        input_lang_word = Lang_word(lang2)
+        output_lang = Lang_word(lang1)
     else:
-        input_lang = Lang(lang1)
-        output_lang = Lang(lang2)
+        input_lang_word = Lang_word(lang1)
+        output_lang = Lang_word(lang2)
 
-    return input_lang, output_lang, pairs
+    # Character level language
+
+    lines = open('../data/%s-%s_train_stop_character.txt' % (lang1, lang2), encoding='utf-8').\
+        read().strip().split('\n')
+
+    # Split every line into pairs and normalize
+    pairs_char = [[normalizeString(s) for s in l.split('@')] for l in lines]
+
+    # Reverse pairs, make Lang instances
+    if reverse:
+        pairs_char = [list(reversed(p)) for p in pairs_char]
+        input_lang_char = Lang_char(lang2)
+        #output_lang = Lang(lang1)
+    else:
+        input_lang_char = Lang_char(lang1)
+        #output_lang = Lang(lang2)
+
+    return input_lang_word, input_lang_char, output_lang, pairs_word, pairs_char
 
 
-MAX_LENGTH = 50
+MAX_LENGTH = 150
 print_every = 100
 
 eng_prefixes = (
@@ -118,24 +154,45 @@ def filterPairs(pairs):
 #
 
 def prepareData(lang1, lang2, reverse=False):
-    input_lang, output_lang, pairs = readLangs(lang1, lang2, reverse)
-    print("Read %s sentence pairs" % len(pairs))
-    pairs = filterPairs(pairs)
-    print("Trimmed to %s sentence pairs" % len(pairs))
+    input_lang_word, input_lang_char, output_lang, pairs_word, pairs_char = readLangs(lang1, lang2, reverse)
+
+    # Word level
+    print("Read %s sentence pairs" % len(pairs_word))
+    pairs_word = filterPairs(pairs_word)
+    print("Trimmed to %s sentence pairs" % len(pairs_word))
     print("Counting words...")
    
-    for pair in pairs:
-        input_lang.addSentence(pair[0])
+    for pair in pairs_word:
+        input_lang_word.addSentence(pair[0])
         output_lang.addSentence(pair[1])
     print("Counted words:")
-    print(input_lang.name, input_lang.n_words)
-    print(output_lang.name, output_lang.n_words)
+    print(input_lang_word.name, input_lang_word.n_words)
+    print(input_lang_word.name, input_lang_word.n_words)
     print("add <unk> word:")
-    input_lang.addWord('<unk>')
-    print(input_lang.name, input_lang.n_words)
+    input_lang_word.addWord('<unk>')
+    print(input_lang_word.name, input_lang_word.n_words)
     print(output_lang.name, output_lang.n_words)
 
-    return input_lang, output_lang, pairs
+
+    # Character level
+
+    print("Read %s sentence pairs" % len(pairs_char))
+    pairs_char = filterPairs(pairs_char)
+    print("Trimmed to %s sentence pairs" % len(pairs_char))
+    print("Counting words...")
+
+    for pair in pairs_char:
+        input_lang_char.addSentence(pair[0])
+        #output_lang.addSentence(pair[1])
+    print("Counted words:")
+    print(input_lang_char.name, input_lang_char.n_words)
+    print(output_lang.name, output_lang.n_words)
+    print("add <unk> word:")
+    input_lang_char.addWord('<unk>')
+    print(input_lang_char.name, input_lang_char.n_words)
+    print(output_lang.name, output_lang.n_words)
+
+    return input_lang_word, input_lang_char, output_lang, pairs_word, pairs_char
 
 
 # input_lang, output_lang, pairs = prepareData('com', 'eng', True)
@@ -143,20 +200,24 @@ def prepareData(lang1, lang2, reverse=False):
 # input_lang, output_lang, pairs = prepareData('eng', 'fra', True)
 # print(random.choice(pairs))
 
-input_lang, output_lang, pairs = prepareData('com', 'eng', True)
+input_lang_word, input_lang_char, output_lang, pairs_word, pairs_char = prepareData('com', 'eng', True)
 
 
 class EncoderRNN(nn.Module):
-    def __init__(self, input_size, hidden_size, n_layers=1):
+    def __init__(self, input_size_word, input_size_char, hidden_size, n_layers=1):
         super(EncoderRNN, self).__init__()
         self.n_layers = n_layers
         self.hidden_size = hidden_size
 
-        self.embedding = nn.Embedding(input_size, hidden_size)
-        self.gru = nn.GRU(hidden_size, hidden_size)
+        self.embedding_word = nn.Embedding(input_size_word, hidden_size)
+        self.embedding_char = nn.Embedding(input_size_char, hidden_size)
+        self.gru = nn.GRU(hidden_size*2, hidden_size)
 
-    def forward(self, input, hidden):
-        embedded = self.embedding(input).view(1, 1, -1)
+    def forward(self, input_word, input_char, hidden):
+        embedded_word = self.embedding_word(input_word).view(1, 1, -1)
+        embedded_char = self.embedding_char(input_char).view(1, 1, -1)
+
+        embedded = torch.cat([embedded_word, embedded_char], 2)
         output = embedded
         for i in range(self.n_layers):
             output, hidden = self.gru(output, hidden)
@@ -255,8 +316,13 @@ def variableFromSentence(lang, sentence):
         return result
 
 
-def variablesFromPair(pair):
-    input_variable = variableFromSentence(input_lang, pair[0])
+def variablesFromPair_word(pair):
+    input_variable = variableFromSentence(input_lang_word, pair[0])
+    target_variable = variableFromSentence(output_lang, pair[1])
+    return (input_variable, target_variable)
+
+def variablesFromPair_char(pair):
+    input_variable = variableFromSentence(input_lang_char, pair[0])
     target_variable = variableFromSentence(output_lang, pair[1])
     return (input_variable, target_variable)
 
@@ -264,23 +330,25 @@ def variablesFromPair(pair):
 teacher_forcing_ratio = 1.0
 
 
-def train(input_variable, target_variable, encoder, decoder, encoder_optimizer, decoder_optimizer, criterion, max_length=MAX_LENGTH):
+def train(input_variable_word, input_variable_char, target_variable, encoder, decoder, encoder_optimizer, decoder_optimizer, criterion, max_length=MAX_LENGTH):
     encoder_hidden = encoder.initHidden()
 
     encoder_optimizer.zero_grad()
     decoder_optimizer.zero_grad()
 
-    input_length = input_variable.size()[0]
+    input_length = input_variable_word.size()[0]
     target_length = target_variable.size()[0]
-    
+
+    assert input_variable_word.size()[0] == input_variable_char.size()[0]
+
     encoder_outputs = Variable(torch.zeros(max_length, encoder.hidden_size))
     encoder_outputs = encoder_outputs.cuda() if use_cuda else encoder_outputs
-   
+
     loss = 0
 
     for ei in range(input_length):
         encoder_output, encoder_hidden = encoder(
-            input_variable[ei], encoder_hidden)
+            input_variable_word[ei], input_variable_char[ei],  encoder_hidden)
         encoder_outputs[ei] = encoder_output[0][0]
 
     decoder_input = Variable(torch.LongTensor([[SOS_token]]))
@@ -369,23 +437,53 @@ def trainIters(encoder, decoder, repeat, print_every=50, plot_every=100, learnin
 
     #TJ: Don't randomize it. we have very little dataset.
     # repeat = 10
-    training_pairs = []
+    training_pairs_word = []
+    training_pairs_char = []
 
+    assert len(pairs_word) == len(pairs_char)
+
+    pairs_all = list(zip(pairs_word, pairs_char))
+    # word level
+    random.seed(0)
     for r in range(repeat):
-        random.shuffle(pairs) 
-        pairs_shuffle = [variablesFromPair(pairs[k]) for k in range(len(pairs))]
-        training_pairs.extend(pairs_shuffle)
+        random.shuffle(pairs_all)
+        pairs_word_shuf, pairs_char_shuf = zip(*pairs_all)
 
-        
-    n_iters = len(pairs) * repeat
+        # Debugging RP
+
+        for idx in range(len(pairs_word_shuf)):
+            #print(len(pairs_word_shuf[idx][0].split()))
+            #print(len(list(pairs_char_shuf[idx][0])))
+            if len(pairs_word_shuf[idx][0].split()) != len(pairs_char_shuf[idx][0].split()):
+                print('not matching', idx)
+
+        pairs_shuffle = [variablesFromPair_word(pairs_word_shuf[k]) for k in range(len(pairs_word))]
+        training_pairs_word.extend(pairs_shuffle)
+
+    # char level
+        pairs_shuffle = [variablesFromPair_char(pairs_char_shuf[k]) for k in range(len(pairs_char))]
+        training_pairs_char.extend(pairs_shuffle)
+
+
+
+    n_iters = len(pairs_word) * repeat
     criterion = nn.NLLLoss()
 
     for iter in range(1, n_iters + 1):
-        training_pair = training_pairs[iter - 1]
-        input_variable = training_pair[0]
-        target_variable = training_pair[1]
- 
-        loss = train(input_variable, target_variable, encoder,
+        training_pair_word = training_pairs_word[iter - 1]
+        training_pair_char = training_pairs_char[iter - 1]
+
+        input_variable_word = training_pair_word[0]
+        input_variable_char = training_pair_char[0]
+
+        target_variable = training_pair_word[1]
+
+        #input_variable = training_pair[0]
+        #target_variable = training_pair[1]
+
+        #input_variable = torch.cat([input_variable_word, input_variable_char], 0)
+
+        loss = train(input_variable_word, input_variable_char, target_variable, encoder,
                      decoder, encoder_optimizer, decoder_optimizer, criterion)
         print_loss_total += loss
         plot_loss_total += loss
@@ -418,16 +516,21 @@ def showPlot(points):
     plt.plot(points)
 
 
-def evaluate(encoder, decoder, sentence, max_length=MAX_LENGTH):
-    input_variable = variableFromSentence(input_lang, sentence)
-    input_length = input_variable.size()[0]
+def evaluate(encoder, decoder, sentence_word, sentence_char, max_length=MAX_LENGTH):
+    input_variable_word = variableFromSentence(input_lang_word, sentence_word)
+    input_variable_char = variableFromSentence(input_lang_char, sentence_char)
+
+    input_length = input_variable_word.size()[0]
+
+    assert input_variable_word.size()[0] == input_variable_char.size()[0]
+
     encoder_hidden = encoder.initHidden()
 
     encoder_outputs = Variable(torch.zeros(max_length, encoder.hidden_size))
     encoder_outputs = encoder_outputs.cuda() if use_cuda else encoder_outputs
 
     for ei in range(input_length):
-        encoder_output, encoder_hidden = encoder(input_variable[ei],
+        encoder_output, encoder_hidden = encoder(input_variable_word[ei], input_variable_char[ei],
                                                  encoder_hidden)
         encoder_outputs[ei] = encoder_outputs[ei] + encoder_output[0][0]
 
@@ -459,10 +562,15 @@ def evaluate(encoder, decoder, sentence, max_length=MAX_LENGTH):
 
 def evaluateRandomly(encoder, decoder, n=10):
     for i in range(n):
-        pair = random.choice(pairs)
-        print('>', pair[0])
-        print('=', pair[1])
-        output_words, attentions = evaluate(encoder, decoder, pair[0])
+        #pair = random.choice(pairs)
+        index = random.randint(0, len(pairs_word) - 1)
+
+        pair_word = pairs_word[index]
+        pair_char = pairs_char[index]
+        print('>', pair_word[0])
+        print('>', pair_char[0])
+        print('=', pair_word[1])
+        output_words, attentions = evaluate(encoder, decoder, pair_word[0], pair_char[0])
         output_sentence = ' '.join(output_words)
         print('<', output_sentence)
         print('')
