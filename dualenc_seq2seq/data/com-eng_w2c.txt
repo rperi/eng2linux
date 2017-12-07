@@ -1,0 +1,2531 @@
+s h u f@g e n e r a t e _ r a n d o m _ p e r m u t a t i o n s
+s l o c a t e@s e c u r i t y _ e n h a n c e d _ v e r s i o n _ g n u _ l o c a t e
+r e a d@r e a d s _ l i n e _ s t a n d a r d _ i n p u t
+j o v e@j o s e p h _ v e r s i o n _ e m a c s
+w h i l e@e x e c u t e _ c o m m a n d s
+m v@m o v e _ r e n a m e _ f i l e s
+u n a l i a s@r e m o v e _ a l i a s _ d e f i n i t i o n s
+c a t@u s e d _ c o n c a t e n a t e _ f i l e s _ p r i n t _ s c r e e n
+s l e e p@d e l a y _ s p e c i f i e d _ a m o u n t _ t i m e
+d s e n a b l e r o o t@e n a b l e _ r o o t _ a c c e s s
+l p c@s t a n d s _ l i n e _ p r i n t e r _ c o n t r o l
+w h e r e i s@c o m m a n d _ s e a r c h _ u s e r _ p a t h _ s o u r c e f i l e s _ m a n _ p a g e s
+n e w g r p@s i m i l a r _ l o g i n
+k e r n e l d@k e r n e l _ d a e m o n _ p r o c e s s _ s t a y s _ m e m o r y _ s o r t s _ u s e f u l _ s t u f f _ l i k e _ a u t o m a t i c _ l o a d i n g _ d e v i c e _ d r i v e r _ m o d u l e s
+h e x d u m p@s h o w s _ s p e c i f i e d _ f i l e _ o u t p u t _ h e x a d e c i m a l _ o c t a l _ d e c i m a l _ a s c i i _ f o r m a t
+s l a b t o p@d i s p l a y _ k e r n e l _ s l a b _ c a c h e _ i n f o r m a t i o n _ r e a l _ t i m e
+x w d@d u m p _ i m a g e _ x _ w i n d o w
+w h o a m i@p r i n t _ c u r r e n t _ u s e r _ i d _ n a m e _ i d _ u n
+n l@s h o w _ n u m b e r e d _ l i n e _ d i s p l a y i n g _ c o n t e n t s _ f i l e
+d i g@n e e d _ l o o k u p _ d n s _ u s e
+r a r@a r c h i v e _ f i l e s _ c o m p r e s s i o n
+s y s t a t@q u e r y _ h o s t _ s y s t e m _ i n f o r m a t i o n
+c a s e@p e r f o r m _ c o m m a n d _ c o n d i t i o n a l l y
+p i n g 6@p i n g
+r m m o d@u s e d _ r e m o v e _ m o d u l a r _ d e v i c e _ d r i v e r s
+n o h u p@r u n s _ c o m m a n d _ a f f e c t e d _ h a n g u p s
+l e t@p e r f o r m _ a r i t h m e t i c _ s h e l l _ v a r i a b l e s
+n e w g r p@l o g _ n e w _ g r o u p
+f i n d@f i n d _ f i l e s _ a c c o r d i n g _ l a r g e _ v a r i e t y _ s e a r c h _ c r i t e r i a
+m o r e@l i s t _ f i l e _ c o n t e n t s _ s t o p p i n g _ f u l l _ s c r e e n
+m a k e@r e c o m p i l e s _ g r o u p _ p r o g r a m s
+s p l i t@s p l i t _ f i l e _ s p e c i f i e d _ n u m b e r _ s e g m e n t s
+e x p r@e v a l u a t e _ e x p r e s s i o n s _ d i s p l a y _ s t a n d a r d _ o u t p u t
+x f d@d i s p l a y _ a v a i l a b l e _ f o n t _ x
+b a s e 6 4@b a s e 6 4 _ e n c o d e _ d e c o d e _ d a t a _ p r i n t _ s t a n d a r d _ o u t p u t
+u n e x p a n d@c o m m a n d _ c o n v e r t _ s p a c e s _ a f i l e _ t a b s
+c u r l@d o w n l o a d _ u r l _ o u t p u t _ c o n t e n t s _ c o n s o l e
+h a l t@s h u t _ s y s t e m _ r o o t _ w i t h o u t _ r e b o o t _ i m m e d i a t e l y
+r a r@c r e a t e _ m a n a g e _ r a r _ f i l e _ l i n u x
+l o g r o t a t e@r o t a t e s _ c o m p r e s s e s _ m a i l s _ s y s t e m _ l o g s
+z g r e p@r e a d _ c o m p r e s s e d _ f i l e s _ p a s s _ g r e p
+d m e s g@u s e _ c o m m a n d _ w a n t _ p r i n t _ k e r n e l _ d r i v e r m e s s a g e s
+d v i l j 2 p@c o n v e r t _ t e x _ d v i _ f i l e _ p c l _ h p _ l a s e r j e t _ p r i n t e r s
+p a t h c h k@c h e c k _ f i l e _ n a m e s _ v a l i d _ p o r t a b l e
+l a s t@i n d i c a t e _ l a s t _ l o g i n s _ u s e r s _ t t y s
+e x i t@c a u s e _ n o r m a l _ p r o c e s s _ t e r m i n a t i o n
+e x p a n d@c o n v e r t s _ t a b s _ s p a c e s
+c a l@d i s p l a y s _ c a l e n d a r _ d a t e _ e a s t e r
+d i p@u s e d _ s e t _ s l i p _ p p p _ c o n n e c t i o n
+g e t e n t@g e t _ e n t r i e s _ n a m e _ s e r v i c e _ s w i t c h _ l i b r a r i e s
+p a t h c h k@c h e c k s _ p o r t a b i l i t y _ f i l e _ n a m e
+a s p e l l@i n t e r a c t i v e _ s p e l l _ c h e c k e r _ u t i l i t y
+u n t i l@e x e c u t e s _ c o m m a n d _ e r r o r
+b i f f@m a i l _ n o t i f i c a t i o n _ u t i l i t y
+a t@e x e c u t e s _ s h e l l _ s c r i p t _ s p e c i f i e d _ t i m e
+g r e p@s e a r c h _ p a t t e r n _ u s i n g _ r e g u l a r _ e x p r e s s i o n
+s y m l i n k@m a k e _ n e w _ n a m e _ f i l e
+f t p d@f t p _ s e r v e r _ p r o c e s s
+l d d@s h o w s _ s h a r e d _ o b j e c t _ d e p e n d e n c i e s
+z i c@t i m e z o n e _ c o m p i l e r
+f o l d@w r a p s _ t e x t _ o r d e r _ f i t _ c e r t a i n _ w i d t h
+s h o w k e y@e x a m i n e s _ c o d e s _ s e n t _ k e y b o a r d _ d i s p l a y s _ p r i n t a b l e _ f o r m
+g e t f i l e i n f o@g e t _ a t t r i b u t e s _ h f s _ f i l e s
+s e t g i d@s e t _ g r o u p _ i d
+y e s@p r i n t s _ s t r i n g _ i n t e r r u p t e d
+l a s t l o g@r e p o r t s _ r e c e n t _ l o g i n _ u s e r s _ g i v e n _ u s e r
+d i g@d n s _ l o o k u p _ u t i l i t y
+x v i d t u n e@u t i l i t y _ f i n e _ t u n i n g _ m o n i t o r _ s e t t i n g s _ x
+p a s s w d@u s e _ c o m m a n d _ m o d i f y _ u s e r _ p a s s w o r d s
+o p e n@o p e n _ f i l e _ f o l d e r _ u r l _ a p p l i c a t i o n
+e x p o r t@s e t s _ v a r i a b l e _ s u b _ p r o g r a m s _ l a u n c h e d _ s h e l l _ s e e
+w c@p r i n t s _ n u m b e r _ b y t e s _ w o r d s _ l i n e s _ f i l e s
+s c r e e n@w i n d o w _ m a n a g e r _ e n a b l e s _ m u l t i p l e _ p s e u d o _ t e r m i n a l s _ h e l p _ a n s i _ v t 1 0 0 _ t e r m i n a l _ e m u l a t i o n
+c p p@c _ p r e p r o c e s s o r
+p s 2 p d f 1 4@u s e _ p s 2 p d f w r _ c o n v e r t _ p o s t s c r i p t _ p d f _ w i t h o u t _ s p e c i f y i n g _ c o m p a t i b i l i t y _ l e v e l _ u s i n g _ g h o s t s c r i p t
+f g r e p@s e a r c h e s _ f i l e s _ t a s k s _ m a t c h _ s t r i n g
+d a t e@d i s p l a y _ d a t e _ t i m e
+g t a r@s e e _ t a r _ c o m m a n d
+m a k e d e v@e x e c u t a b l e _ s c r i p t _ m a k e _ d e v i c e _ f i l e s _ d e v
+x h o s t@s e r v e r _ a c c e s s _ c o n t r o l _ p r o g r a m _ x
+p w u n c o n v@u n c o n v e r t s _ p a s s w o r d s _ s h a d o w _ p a s s w o r d _ f o r m a t
+n u m f m t@c o n v e r t _ n u m b e r s _ h u m a n _ r e a d a b l e _ s t r i n g s
+e 2 f s c k@c h e c k _ e x t 2 _ f i l e s y s t e m
+t t y@p r i n t _ n a m e _ t e r m i n a l _ c o n n e c t e d _ s t a n d a r d _ o u t p u t
+i n s t a l l@s e t s _ a t t r i b u t e s _ c o p i e s _ f i l e s
+s h o p t@s h e l l _ o p t i o n s
+l p s t a t@p r i n t _ c u p s _ s t a t u s _ i n f o r m a t i o n
+y e s@o u t p u t _ s t r i n g _ r e p e a t e d l y _ k i l l e d
+i f d o w n@s t o p s _ n e t w o r k _ i n t e r f a c e
+f g@s e n d _ j o b _ f o r e g r o u n d
+t y p e@d i s p l a y s _ a r g u m e n t _ w o u l d _ i n t e r p r e t e d _ c o m m a n d
+t p u t@i n i t i a l i z e _ t e r m i n a l _ q u e r y _ t e r m i n f o _ d a t a b a s e
+r m@d e l e t e s _ f i l e
+r m@r e m o v e s _ s p e c i f i e d _ f i l e s _ d i r e c t o r i e s _ d e f a u l t
+r c p@c o p y _ f i l e s _ t w o _ m a c h i n e s
+f a c t o r@f a c t o r _ n u m b e r s
+d a t e@o u t p u t s _ c u r r e n t _ d a t e _ t i m e
+n i c e@r u n _ p r o g r a m _ m o d i f i e d _ s c h e d u l i n g _ p r i o r i t y
+c a t@d i s p l a y s _ c o n t e n t _ f i l e s _ c o n c a t e n a t i o n
+l s a t t r@s h o w s _ f i l e _ a t t r i b u t e s _ l i n u x _ e x t 2 _ f i l e _ s y s t e m
+n x t e r m@c o l o r _ x t e r m _ p r o g r a m
+f r e e@u s e _ s e e _ m e m o r y _ u s a g e
+u n t a r@u n a r c h i v e _ u n t a r _ f i l e
+a w k@u s e d _ f i n d _ r e p l a c e _ t e x t _ f i l e
+c d@c h a n g e _ d i r e c t o r y
+c a l@d i s p l a y s _ c a l e n d a r
+t a c@c o n c a t e n a t e _ p r i n t _ f i l e s _ r e v e r s e
+p k i l l@l o o k _ s i g n a l _ p r o c e s s e s _ b a s e d _ n a m e _ a t t r i b u t e s
+f i n d@u s e d _ f i n d _ f i l e s t h a t _ m a t c h _ d e s i r e d _ c r i t e r i a
+h a s h@r e m e m b e r _ f u l l _ p a t h n a m e _ n a m e _ a r g u m e n t
+p b p a s t e@p a s t e _ d a t a _ c l i p b o a r d
+d e p m o d@g e n e r a t e _ m o d u l e s _ d e p _ m a p _ f i l e s
+w r i t e@s e n d _ m e s s a g e s _ a n o t h e r _ l o c a l _ u s e r
+c a l e n d a r@r e m i n d e r _ s e r v i c e
+n e w a l i a s e s@r e b u i l d s _ m a i l _ a l i a s _ d a t a b a s e
+t i m e o u t@e x e c u t e _ c o m m a n d _ t i m e _ l i m i t
+f i l e@d e t e r m i n e s _ f i l e _ t y p e
+q m o v e@m o v e _ b a t c h _ j o b s
+d s m e m b e r u t i l@v i e w _ u s e r _ g r o u p s _ r i g h t s
+h d p a r m@s h o w _ c o n f i g u r e _ p a r a m e t e r s _ s a t a _ i d e _ d e v i c e s
+l e x@g e n e r a t e _ p r o g r a m s _ l e x i c a l _ t a s k s
+u n i q@u n i q u i f y _ f i l e s
+f s a c l c t l@f i l e s y s t e m _ e n a b l e _ d i s a b l e _ a c l _ s u p p o r t
+e n a b l e@d i s a b l e _ e n a b l e _ b u l l e t i n _ s h e l l _ c o m m a n d s
+d n s d o m a i n n a m e@s h o w _ d n s _ d o m a i n _ n a m e _ s y s t e m
+v i@t e x t _ e d i t o r
+m d i r@u s e d _ d i s p l a y _ m s _ d o s _ d i r e c t o r y
+e x i t@e x i t i n g _ t h e s h e l l
+u n i c o d e _ s t o p@r e v e r t _ k e y b o a r d _ c o n s o l e _ u n i c o d e _ m o d e
+l a s t b@s h o w _ l i s t i n g _ l a s t _ l o g g e d _ u s e r s
+t a b s@s e t _ t e r m i n a l _ t a b s
+q u o t a c h e c k@s c a n _ f i l e _ s y s t e m _ d i s k _ u s a g e
+n e t s t a t@p r i n t _ n e t w o r k _ c o n n e c t i o n s _ r o u t i n g _ t a b l e s _ i n t e r f a c e _ s t a t i s t i c s _ m a s q u e r a d e _ c o n n e c t i o n s _ m u l t i c a s t _ m e m b e r s h i p s
+m f o r m a t@a d d s _ d o s _ f o r m a t t i n g _ i n f o r m a t i o n _ d i s k
+u m a s k@g e t _ s e t _ f i l e _ m o d e _ c r e a t i o n _ m a s k
+s e t u p@s l a c k w a r e _ p r o g r a m _ s e t _ p r o g r a m _ s e t s _ c o n f i g u r e _ s y s t e m
+e x p a n d@c o n v e r t _ t a b s _ f i l e s _ s p a c e s _ w r i t e _ s t a n d a r d _ o u t p u t
+r e m s y n c@s y n c h r o n i s e s _ r e m o t e _ f i l e s _ e m a i l
+p a t h c h k@c h e c k _ w h e t h e r _ f i l e _ n a m e s _ v a l i d _ p o r t a b l e
+k i l l@t e r m i n a t e _ s i g n a l _ p r o c e s s e s
+l o c a l@c r e a t e s _ v a r i a b l e s
+p s@r e p o r t _ p r o c e s s _ s t a t u s
+t c s h@e n h a n c e d _ c o m p l e t e l y _ c o m p a t i b l e _ v e r s i o n _ b e r k e l e y _ u n i x _ c _ s h e l l _ c s h
+s y n c@s y n c h r o n i s e s _ d a t a _ d i s k _ m e m o r y
+c h a t t r@c h a n g e _ f i l e _ a t t r i b u t e s _ l i n u x _ f i l e _ s y s t e m
+v d i r@l i s t _ d i r e c t o r y _ c o n t e n t s
+n a n o@s i m p l e _ t e x t _ e d i t o r
+c a r d c t l@u s e d _ c o n t r o l _ p c m c i a _ s o c k e t s _ s e l e c t _ c o n f i g u r a t i o n _ s c h e m e s
+x d v i@v i e w _ d v i _ f i l e _ c o m p i l e d _ l a t e x
+b y a c c@p a r s e r _ g e n e r a t o r
+i s o s i z e@o u t p u t _ l e n g t h _ i s o 9 6 6 0 _ f i l e s y s t e m
+h o s t@l o o k _ h o s t _ n a m e s _ u s i n g _ d o m a i n _ s e r v e r
+u m o u n t@u n m o u n t _ d e v i c e
+g z i p@c o m p r e s s _ e x p a n d _ f i l e s
+i g a w k@g a w k _ i n c l u d e _ f i l e s
+f a c t o r@f a c t o r s _ n u m b e r s
+v d i r@v e r b o s e l y _ l i s t _ d i r e c t o r y _ c o n t e n t s
+l p r i n t@p r i n t _ f i l e
+v d i r@v e r b o s e l y _ l i s t _ d i r e c t o r y _ c o n t e n t s _ l s _ l _ b
+s s h d@s e r v e r _ s s h _ p r o g r a m
+s f t p@s e c u r e _ f i l e _ t r a n s f e r _ p r o t o c o l _ f t p
+v i@s c r e e n _ o r i e n t e d _ v i s u a l _ d i s p l a y _ e d i t o r
+l e t@p e r f o r m s _ a r i t h m e t i c _ s h e l l _ v a r i a b l e s
+s h u t d o w n@s h u t d o w n _ r e s t a r t _ o s _ x
+i d@d i s p l a y _ u s e r i d _ g r o u p i d
+i d e n t i f y@d e s c r i b e s _ f o r m a t _ c h a r a c t e r i s t i c s _ o n e _ i m a g e _ f i l e s
+c a t@c o n c a t e n a t e _ f i l e s _ s t a n d a r d _ o u t p u t
+z i p@c o m p r e s s i o n _ f i l e _ p a c k a g i n g _ u t i l i t y
+c u t@s e l e c t s _ c h a r a c t e r s _ t a b
+t i m e s@u s e r _ s y s t e m _ t i m e s
+e l v i s@v e r s i o n _ v i _ t e x t _ e d i t o r
+s a n e - f i n d - s c a n n e r@f i n d _ s c s i _ u s b _ s c a n n e r _ d e t e r m i n e _ d e v i c e _ f i l e s
+p o p c l i e n t@r e t r i e v e _ m a i l _ v i a _ p o s t _ o f f i c e _ p r o t o c o l
+l s p n p@u t i l i t y _ d i s p l a y _ i n f o r m a t i o n _ p n p _ d e v i c e s
+d i f f@p r i n t s _ d i f f e r e n c e s _ t w o _ f i l e s
+b h@p u t s _ j o b _ b a c k g r o u n d
+p a x@a r c h i v e _ f i l e
+c u r l@t r a n s f e r _ d a t a _ s e r v e r
+a p l a y@c o m m a n d _ l i n e _ s o u n d _ r e c o r d e r _ p l a y e r _ a l s a _ s o u n d c a r d _ d r i v e r
+g p a s s w d@a d m i n i s t e r _ e t c _ g r o u p _ e t c _ g s h a d o w
+l o g i n@l o g _ c o m p u t e r
+r p m@r p m _ c o m m a n d _ o p t i o n s
+c k s u m@p e r f o r m _ c r c _ c h e c k s u m _ f i l e s
+w h o@p r i n t s _ u s e r n a m e s _ c u r r e n t l y _ l o g g e d _ s y s t e m
+l o g i n@s i g n
+r w h o d@a c t s _ s e r v e r _ r w h o _ r u p t i m e _ c o m m a n d s
+c o m m a n d@r u n _ c o m m a n d _ i g n o r i n g _ s h e l l f u n c t i o n s
+h a l t@c o m m a n d _ u s e d _ h a l f _ m a c h i n e
+p r i n t e n v@p r i n t _ p a r t _ e n v i r o n m e n t
+a r c h@p r i n t _ m a c h i n e _ a r c h i t e c t u r e
+u n a m e@p r i n t _ s y s t e m _ i n f o r m a t i o n _ k e r n e l _ v e r s i o n
+r c p@r e m o t e _ c o p y _ c o m m a n d _ c o p y _ f i l e s _ r e m o t e _ c o m p u t e r s
+m a t t r i b@c h a n g e _ m s d o s _ f i l e _ a t t r i b u t e _ f l a g s
+p i n e@t e x t _ e m a i l _ p r o g r a m s
+s f t p@r u n s _ s e c u r e _ f i l e _ t r a n s f e r _ p r o g r a m
+x f 8 6 c o n f i g@g r a p h i c a l _ c o n f i g u r a t i o n _ t o o l _ x
+i n s m o d@s i m p l e _ p r o g r a m _ i n s e r t _ m o d u l e _ l i n u x _ k e r n e l
+l a s t@s h o w _ l i s t i n g _ l a s t _ l o g g e d _ u s e r s
+r o u t e d@d a e m o n _ i n v o k e d _ b o o t _ t i m e _ m a n a g e _ i n t e r n e t _ r o u t i n g _ t a b l e s
+p a t h c h k@c h e c k s _ w h e t h e r _ f i l e _ n a m e s _ v a l i d _ p o r t a b l e
+a c c e s s@d e t e r m i n e _ w h e t h e r _ f i l e _ a c c e s s e d
+m k s w a p@c r e a t e s _ l i n u x _ s w a p _ s p a c e _ s p e c i f i e d _ h a r d _ d i s k _ p a r i t i o n _ r o o t _ p r i v i l e g e s _ n e e d e
+u n i q@r e p o r t _ o m i t _ r e p e a t e d _ l i n e s
+n i s d o m a i n n a m e@s h o w _ s e t _ s y s t e m _ n i s _ y p _ d o m a i n _ n a m e
+l p r@s e n d _ f i l e _ p r i n t e d
+i p c s@s h o w _ i n f o r m a t i o n _ i p c _ f a c i l i t i e s
+g u n z i p@u t i l i t y _ c o m p r e s s _ e x p a n d _ f i l e s
+g e t o p t s@p a r s e _ u t i l i t y _ o p t i o n s
+c d@u s e d _ c h a n g e _ d i r e c t o r y
+s y n c@f l u s h e s _ f i l e _ s y s t e m _ b u f f e r s
+u s e r m o d@m o d i f y _ u s e r _ a c c o u n t
+l o g o u t@e x e c u t e _ l o g o u t _ i n d i v i d u a l _ u s e r _ b r i n g _ l o g i n _ p r o m p t
+p d f l a t e x@p a r t _ p d f t e x _ p r o g r a m _ s u i t e
+s y n c@s y n c h r o n i z e _ c a c h e d _ w r i t e s _ p e r s i s t e n t _ s t o r a g e
+e c h o@d i s p l a y _ l i n e _ t e x t
+c d r e c o r d@u s e d _ r e c o r d _ d a t a _ a u d i o _ c o m p a c t _ d i s c s
+t a c@p r i n t _ f i l e s _ r e v e r s e _ l i n e _ o r d e r
+m t o o l s t e s t@t e s t s _ d i s p l a y s _ m t o o l s _ c o n f i g u r a t i o n _ f i l e s
+c a t@c o m b i n e _ c o p y _ s t a n d a r d _ i n p u t _ s t a n d a r d _ o u t p u t
+r e s i z e 2 f s@u s e d _ r e s i z e _ e x t 2 _ e x t 3 _ e x t 4 _ f i l e _ s y s t e m s
+g r o u p s@l i s t _ g r o u p s _ u s e r _ b e l o n g s
+e s d - c o n f i g@m a n a g e _ e s o u n d _ c o n f i g u r a t i o n
+z i p@c r e a t e _ z i p _ a r c h i v e _ e x t r a c t _ c o n t e n t s
+j e d@p r o g r a m m e r _ f i l e _ e d i t o r
+e n v@d e s p l a y _ c u r r e n t _ e n v i r o n m e n t _ s e t _ v a r i a b l e _ e q u a l _ n e w _ v a l u e
+l o g o u t@p e r f o r m s _ l o g o u t _ o p e r a t i o n _ m a k i n g _ c h a n g e s _ u t m p _ w t m p _ f i l e s
+c h r o o t@u s i n g _ r u n _ a c o m m a n d _ d i f f e r e n t _ r o o t _ d i r e c t o r y
+p m a p@r e p o r t _ m e m o r y _ m a p _ p r o c e s s
+i n t r@i n t e r r u p t _ k e y _ u s u a l l y _ c t r l
+x@p o r t a b l e _ n e t w o r k _ t r a n s p a r e n t _ w i n d o w _ s y s t e m
+k i l l a l l 5@s e n d _ s i g n a l _ p r o c e s s e s
+d i f f 3@d e t e r m i n e _ d i f f e r e n c e _ 3 _ f i l e s
+s f d i s k@d i s p l a y _ m a n i p u l a t e _ d i s k _ p a r t i t i o n _ t a b l e
+l i l o@i n s t a l l s _ b o o t _ l o a d e r _ b o o t _ s e c t o r _ h a r d _ d r i v e _ d i s k e t t e _ a n o t h e r _ l o c a t i o n
+d i f f 3@c o m p a r e s _ t h r e e _ f i l e s _ r e p o r t s _ d i f f e r e n c e s
+v@c o m m a n d _ l i s t s _ c o n t e n t s _ d i r e c t o r y
+d i r s@s h o w _ l i s t _ r e m e m b e r e d _ d i r e c t o r i e s
+s h r e d@o v e r w r i t e _ f i l e _ h i d e _ c o n t e n t s _ o p t i o n a l l y _ d e l e t e
+c a t@c o n c a t e n a t e s _ p r i n t s _ f i l e s _ s t a n d a r d _ o u t p u t
+r e s t o r e@r e s t o r e _ f i l e s _ b a c k u p _ c r e a t e d _ u s i n g _ d u m p
+d i f f 3@c o m p a r e _ t h r e e _ f i l e s _ l i n e _ l i n e
+f c - c a c h e@m a k e _ f o n t _ i n f o r m a t i o n _ c a c h e _ s c a n n i n g _ d i r e c t o r i e s
+w g e t@r e t r i e v e _ w e b _ p a g e s _ f i l e s _ v i a _ h t t p _ h t t p s _ f t p
+l n@c r e a t e _ s y m b o l i c _ l i n k _ f i l e
+c o m m@c o m p a r e _ t w o _ s o r t e d _ f i l e s _ l i n e _ l i n e
+w a i t@w a i t _ p r o c e s s _ c o m p l e t e
+w h o@s h o w _ l o g g e d
+f d i s k@p a r t i t i o n _ t a b l e _ m a n i p u l a t o r _ d a r w i n _ u f s _ h f s _ d o s
+g r e p@u s e d _ f i n d _ s t r i n g _ w i t h i n _ f i l e
+s o r t@c o n v e r t _ i n p u t _ s o r t e d _ o u t p u t
+h a s h@c o m p l e t e _ p a t h n a m e _ n a m e _ a r g u m e n t
+t i m e@d i s p l a y s _ t i m e s _ c u r r e n t _ s h e l l _ c h i l d r e n
+m v@m o v e _ r e n a m e _ f i l e s _ d i r e c t o r i e s
+b g@r u n _ j o b s _ b a c k g r o u n d
+s o r t@s o r t _ l i n e s _ t e x t _ f i l e s
+h o s t@u t i l i t y _ p e r f o r m _ d n s _ l o o k u p s
+s w a p o f f@d i s a b l e s _ s w a p _ d i s k
+h e a d@o u t p u t _ b e g i n n i n g _ f i l e
+l p q@s h o w _ p r i n t e r _ q u e u e _ s t a t u s
+l s p c i@l i s t _ p c i _ d e v i c e s
+c f d i s k@p a r t i t i o n _ t a b l e _ m a n i p u l a t o r
+s e t f d p r m@s e t s _ f l o p p y _ d i s k _ p a r a m e t e r s _ p r o v i d e d _ u s e r
+l p r i n t d@a b o r t _ p r i n t _ j o b
+l n@c r e a t e s _ s y m b o l i c _ l i n k _ a n o t h e r _ f i l e
+u n i q@r e p o r t _ f i l t e r _ r e p e a t e d _ l i n e s _ f i l e
+b u i l t i n@e x e c u t e _ s h e l l _ b u i l t i n
+e s d s a m p l e@s a m p l e _ a u d i o _ u s i n g _ e s d
+s t a r t x@i n i t i a l i z e _ x _ s e s s i o n
+c o m m@c o m p a r e _ t w o _ s o r t e d _ f i l e s
+b c@a c c e s s _ g n u _ b c _ c a l c u l a t o r _ u t i l i t y
+d d r e s c u e@d i s k _ r e c o v e r y _ t o o l
+q r e r u n@r e r u n _ p b s _ b a t c h _ j o b
+u n s e t@t h i s c o m m a n d _ r e m o v e s _ v a r i a b l e _ n a m e s _ f u n c t i o n _ n a m e s
+r m@r e m o v e _ f i l e s
+w g e t@d o w n l o a d _ u r l _ s a v e _ f i l e _ l o c a l _ h a r d _ d r i v e
+p e r l@s t a r t _ p r a c t i c a l _ e x t r a c t i o n _ r e p o r t _ l a n g u a g e
+( n o t e@n c _ a l s o _ c a l l e d _ c l i e n t _ i n t e r f a c e
+o p e n v t@s t a r t _ p r o g r a m _ n e w _ v i r t u a l _ t e r m i n a l _ v t
+c a l l e r@r e t u r n _ c o n t e x t _ s u b r o u t i n e _ c a l l
+h o s t n a m e@l o c a l _ h o s t n a m e _ c o n f i g u r a t i o n _ f i l e
+a s p e l l@i n t e r a c t i v e _ s p e l l _ c h e c k e r
+l s b l k@l i s t _ b l o c k _ d e v i c e s
+m a n@d i s p l a y _ s y s t e m _ d o c u m e n t a t i o n
+x p d f@p o r t a b l e _ d o c u m e n t _ f o r m a t _ p d f _ f i l e _ v i e w e r _ x _ w i n d o w s
+u n i t s@d e c i m a l _ b i n a r y _ p r e f i x e s
+m d f i n d@s p o t l i g h t _ s e a r c h
+x a d m@d i s p l a y _ a d v a n c e d _ p o w e r _ m a n a g e m e n t _ b i o s _ i n f o r m a t i o n
+s s h - k e y g e n@g e n e r a t e s _ m a n a g e s _ c o n v e r t s _ a u t h e n t i c a t i o n _ k e y s _ s s h
+p a s t e@m e r g e s _ l i n e s _ f i l e s
+x@x _ s e r v e r
+f r o m d o s@t a k e s _ d o s _ t e x t _ f i l e _ s t d i n _ s e n d s _ u n i x _ f i l e _ s t d o u t
+j o b s@l i s t _ a c t i v e _ j o b s
+y p p a s s w d d@a c t s _ s e r v e r _ y p p a s s w d _ c o m m a n d _ r e c e i v e s _ e x e c u t e s _ r e q u e s t s
+i p c s@r e p o r t _ i n t e r p r o c e s s _ c o m m u n i c a t i o n _ f a c i l i t i e s _ s t a t u s
+c o m m@c o m p a r e s _ t w o _ s o r t e d _ f i l e s _ l i n e _ l i n e
+s o r t@s o r t _ l i n e s _ t e x t _ f i l e
+c f d i s k@l i n u x _ t h i s c o m m a n d _ p a r t i t i o n _ t a b l e _ m a n i p u l a t o r
+m a t t r i b@u s e d _ c h a n g e _ m s _ d o s _ f i l e _ a t t r i b u t e _ f l a g s
+f u n c t i o n@d e f i n e _ f u n c t i o n _ m a c r o s
+s d i f f@m e r g e s _ t w o _ f i l e s _ s e c u r e _ m a n n e r
+g p g@o p e n p g p _ e n c r y p t i o n _ s i g n i n g _ t o o l
+v d i r@e x a c t l y _ l i k e _ l s _ l _ b _ f i l e s _ d e f a u l t _ l i s t e d _ l o n g _ f o r m a t
+g z e x e@u s e d _ c o m p r e s s _ e x e c u t a b l e _ f i l e s _ p l a c e _ a u t o m a t i c a l l y _ u n c o m p r e s s _ r u n _ l a t e r _ s t a g e
+i n f o@u s e d _ r e a d _ d o c u m e n t a t i o n _ i n f o _ f o r m a t
+n s l o o k u p@q u e r y _ i n t e r n e t _ n a m e _ s e r v e r s _ i n t e r a c t i v e l y
+p i n g@t e s t s _ n e t w o r k _ c o n n e c t i o n s
+g r o u p m o d@m o d i f i e s _ g r o u p
+h o s t n a m e@u s e d _ g e t _ s e t _ h o s t n a m e
+k b d _ m o d e@r e p o r t _ s e t _ k e y b o a r d _ m o d e
+m k f i f o@m a k e _ f i f o s _ n a m e d _ p i p e s
+r e a d l i n k@d i s p l a y _ v a l u e _ s y m b o l i c _ l i n k _ c a n o n i c a l _ f i l e _ n a m e
+w h o@s h o w s _ l o g g e d
+e n a b l e@e n a b l e _ d i s a b l e _ b u i l t i n _ s h e l l _ c o m m a n d s
+d s e d i t g r o u p@e d i t _ c r e a t e _ m a n i p u l a t e _ d e l e t e _ g r o u p s
+s y s k l o g d@l i n u x _ s y s t e m _ l o g g i n g _ u t i l i t i e s _ p r o v i d e s _ s y s l o g d _ k l o g d _ f u n c t i o n a l i t i e s
+c h a t t r@u s e d _ c h a n g e _ f i l e _ a t t r i b u t e s
+f d f o r m a t@l o w _ l e v e l _ f o r m a t _ f l o p p y _ d i s k
+n c f t p@b r o w s e r _ p r o g r a m _ f i l e _ t r a n s f e r _ p r o t o c o l
+n u m f m t@r e f o r m a t _ n u m b e r s
+g e t o p t s@p a r s e _ p o s i t i o n a l _ p a r a m e t e r s
+d e c l a r e@d e c l a r e _ v a r i a b l e _ s e t _ a t t r i b u t e s
+p r i n t t o o l@r u n _ r o o t _ x _ t e r m i n a l _ c o n f i g u r e _ p r i n t e r
+f u s e r@f i n d _ k i l l _ p r o c e s s _ a c c e s s i n g _ f i l e
+s e c u r i t y@u n i m p l e m e n t e d _ s y s t e m _ c a l l s
+p i n k y@l i g h t w e i g h t _ v e r s i o n _ f i n g e r
+l o g n a m e@p r i n t _ u s e r _ l o g i n _ n a m e
+c c@g n u _ p r o j e c t _ c _ c _ c o m p i l e r
+l p c@l i n e _ p r i n t e r _ c o n t r o l _ p r o g r a m
+c o m m a n d@r u n _ c o m m a n d _ f u n c t i o n
+p r i n t f@w r i t e _ f o r m a t t e d _ o u t p u t
+l o c a l@u s e _ f o r c r e a t i n g _ v a r i a b l e s
+i m p o r t@c a p t u r e _ x _ s e r v e r _ s c r e e n _ s a v e s _ i m a g e
+p a s t e@c o m m a n d _ i s u s e d _ m e r g i n g _ l i n e s _ f i l e s
+w h o a m i@p r i n t _ e f f e c t i v e _ u s e r i d
+t a c@c o n c a t e n a t e s _ p r i n t s _ f i l e s _ r e v e r s e _ o r d e r _ l i n e _ l i n e
+f u s e r@i d e n t i f i e s _ k i l l s _ p r o c e s s _ a c c e s s i n g _ f i l e
+d d@d a t a _ d u m p _ c o n v e r t _ c o p y _ f i l e
+t a l k d@
+r u p t i m e@s h o w s _ u p t i m e _ l o g i n _ d e t a i l s _ m a c h i n e s _ l o c a l _ n e t w o r k
+y p i n i t@s e t s _ n i s _ m a p s _ n i s _ s e r v e r
+p r i n t f@s h o w _ a r g u m e n t s _ f o r m a t t e d _ a c c o r d i n g _ s p e c i f i e d _ f o r m a t
+m k f i f o@u s e _ m a k e _ f i f o s
+d i g@d n s _ l o o k u p
+g c c@i n v o k e _ c _ c _ c o m p i l e r
+s e d@s t r e a m e d i t o r
+m 4@m a c r o _ p r o c e s s o r
+m o d i n f o@s h o w _ i n f o r m a t i o n _ l i n u x _ k e r n e l _ m o d u l e
+r e a d a r r a y@r e a d _ s t d i n _ a r r a y _ v a r i a b l e
+c h g r p@c h a n g e _ g r o u p _ o w n e r s h i p
+s h i f t@p r o m o t e s _ c o m m a n d
+e f a x@f a x _ p r o g r a m
+e d i t r e s@d y n a m i c _ r e s o u r c e _ e d i t o r _ x _ t o o l k i t _ a p p l i c a t i o n s
+e m a c s@s c r e e n _ o r i e n t e d _ t e x t _ e d i t o r
+w h i c h@s h o w s _ c o m p l e t e _ p a t h _ c o m m a n d _ f i l e
+r e d@r a n d o m _ e a r l y _ d e t e c t i o n
+w h o a m i@d i s p l a y _ i n f o r m a t i o n _ u s e r i d _ c u r r e n t l y _ l o g g e d
+t t y@s h o w s _ s p e c i a l _ f i l e _ r e p r e s e n t s _ t e r m i n a l
+m i m e n c o d e@t r a n s l a t e _ m i m e _ m u l t i m e d i a _ m a i l _ e n c o d i n g _ f o r m a t s
+j o b s@d i s p l a y s _ l i s t _ c u r r e n t _ j o b s _ b a c k g r o u n d
+c k s u m@d i s p l a y s _ c r c _ c h e c k s u m _ a d _ b y t e c o u n t s
+m a n@d i s p l a y _ p a r t i c u l a r _ m a n u a l _ e n t r y
+p g r e p@l i s t _ p r o c e s s _ i d s _ m a t c h i n g _ s p e c i f i e d _ c r i t e r i a _ a m o n g _ r u n n i n g _ p r o c e s s e s
+f d i s k@p a r t i t i o n _ t a b l e _ m a n i p u l a t o r _ l i n u x
+f s t a t@g e t _ f i l e _ s t a t u s
+o d@d u m p _ f i l e s _ v a r i o u s _ f o r m a t s
+l i n k@c r e a t e _ h a r d _ l i n k _ f i l e
+s o u r c e@c o m m a n d _ u s e d _ r u n n i n g _ c o m m a n d s _ a f i l e
+n s l o o k u p@u s e d _ p e r f o r m s _ d n s _ q u e r i e s _ r e a d _ a r t i c l e _ i n f o
+r e b o o t@s t o p _ r e s t a r t _ s y s t e m
+c u t@c u t _ s e l e c t e d _ f i e l d s _ l i n e _ f i l e
+i d@s h o w _ u s e r _ g r o u p _ i n f o r m a t i o n _ s p e c i f i e d _ u s e r
+o p e n@c o m m a n d _ o p e n s _ f i l e _ d e f a u l t _ a p p l i c a t i o n
+d i r n a m e@c o n v e r t _ f u l l _ p a t h n a m e _ p a t h
+s e c u r i t y@a d m i n i s t e r _ k e y c h a i n s _ k e y s _ c e r t i f i c a t e s _ s e c u r i t y _ f r a m e w o r k
+k i l l a l l@k i l l _ p r o c e s s e s _ n a m e
+p r i n t f@f o r m a t _ p r i n t _ d a t a
+n e t s c a p e@d i s p l a y _ l o c a l h o s t n a m e _ 0
+p s 2 p d f 1 4@c o n v e r t _ p o s t s c r i p t _ p d f _ 1 _ 4 _ a c r o b a t _ 5 _ l a t e r _ c o m p a t i b l e _ u s i n g _ g h o s t s c r i p t
+f g c o n s o l e@d i s p l a y _ n u m b e r _ c u r r e n t _ v i r t u a l _ c o n s o l e
+p r@p a g i n a t e s _ f i l e s _ p r i n t i n g
+e s d d s p@u s e d _ r e r o u t e _ n o n _ e s d _ a u d i o _ d a t a _ e s d _ c o n t r o l _ a u d i o _ u s i n g _ e s d
+c r o n t a b@m a n a g e _ c r o n t a b _ f i l e s _ c o n t a i n i n g _ s c h e d u l e s _ c o m m a n d s _ u s e r s
+f o l d@f i l t e r _ f o l d i n g _ l i n e s
+m i n i c o m@t e r m i n a l _ p r o g r a m
+i s p e l l@c h e c k s _ f i l e s _ s p e l l i n g _ e r r o r s
+e c h o@s e n d _ i n p u t _ s t r i n g _ s t a n d a r d _ o u t p u t _ e _ d i s p l a y _ t e x t _ s c r e e n
+h e l p@d i s p l a y _ b u i l t _ h e l p _ c o m m a n d
+r a n l i b@g e n e r a t e _ i n d e x _ c o n t e n t s _ a r c h i v e _ s t o r e _ a r c h i v e
+r e a d a r r a y@c o m m a n d s _ r e a d s _ s t d i n i n t o _ a r r a y _ v a r i a b l e
+g d b@g n u _ d e b u g g e r
+l o g n a m e@c o n s u l t _ e t c _ u t m p _ u s e r _ l o g i n _ n a m e
+a w k@f i n d _ r e p l a c e _ t e x t _ w i t h i n _ f i l e
+c l e a r@c l e a r _ t e r m i n a l _ s c r e e n _ c o m m a n d _ l i n e
+l a s t@f i l e
+v d i r@v a r i a n t _ g n u _ v e r s i o n _ l s _ c o m m a n d
+n i s d o m a i n n a m e@s h o w _ s e t _ s y s t e m _ n i s _ y p _ d o m a i n _ n a m e
+e g r e p@e x t e n d e d _ v e r s i o n _ g r e p _ m a t c h e s _ r e g u l a r _ e x p r e s s i o n s
+c a l@d i s p l a y s _ 1 2
+c h g r p@c h a n g e s _ o w n e r s h i p _ g r o u p
+s e q@c o m m a n d _ u s e d _ p r i n t i n g _ n u m e r i c s e q u e n c e s
+s e l e c t@s y n c h r o n o u s _ m u l t i p l e x i n g
+c o m p r e s s@c o m p r e s s _ d a t a
+a w k@s e a r c h e s _ p r o c e s s _ p a t t e r n s _ f i l e
+j o b s@s h o w _ l i s t _ a c t i v e _ j o b s _ s t a t u s
+m k t e m p@m a k e _ u n i q u e _ t e m p o r a r y _ f i l e n a m e
+y e s@p r i n t s _ s t r i n g _ r e p e a t e d l y
+f m t@u s e d _ r e f o r m a t t i n g p a r a g r a p h _ t e x t
+t a r@c r e a t e _ a r c h i v e
+i c o n v@c o n v e r t s _ e n c o d i n g _ c h a r a c t e r s _ o n e _ c o d e _ p a g e _ e n c o d i n g _ s c h e m e _ a n o t h e r
+f 7 7@f o r t r a n _ 7 7 _ c o m p i l e r
+c m p@c o m p a r e _ t w o _ f i l e s _ s e e _ a l s o _ d i f f
+p k i l l@c o m m a n d _ s t o p s _ p r o c e s s e s _ f r o m r u n n i n g
+d r u t i l@i n t e r a c t _ c d _ d v d _ b u r n e r s
+v o l n a m e@r e t u r n _ v o l u m e _ n a m e
+l i n k@c r e a t e s _ l i n k _ f i l e
+t a i l@s h o w _ l a s t _ 1 0 _ l i n e s _ s p e c i f i e d _ f i l e
+a g e t t y@e n a b l e s _ l o g i n _ t e r m i n a l s
+l o o k@l o o k _ s t r i n g s _ f i l e s
+a r c h@p r i n t _ m a c h i n e _ h a r d w a r e _ n a m e _ u n a m e
+q u o t a@d i s p l a y s _ d i s k _ u s a g e _ l i m i t s
+a p m@s h o w _ a d v a n c e d _ p o w e r _ m a n a g e m e n t _ a p m _ h a r d w a r e _ i n f o _ o l d e r _ s y s t e m s
+c h v t@c h a n g e _ v i r t u a l _ t e r m i n a l
+m e s g@a l l o w _ d i s a l l o w _ o s e n d s _ s e d n _ w r i t e _ m e s s a g e s _ t e r m i n a l
+l o g g e r@m a k e _ e n t r i e s _ s y s t e m _ l o g
+b c@l a n g u a g e _ c o m p i l e r _ s i m i l a r _ c _ u n l i m i t e d _ p r e c i s i o n _ a r i t h m e t i c
+r m d i r@r e m o v e s _ d i r e c t o r y _ g i v e n _ n a m e _ d i r e c t o r y _ m u s t _ e m p t y
+m a k e d e v@m a n a g e _ d e v i c e _ n u m b e r
+r e s i z e@x t e r m _ w i n d o w _ s i z e
+i m a p d@i m a p _ i n t e r a c t i v e _ m a i l _ a c c e s s _ p r o t o c o l _ s e r v e r _ d a e m o n
+t a c@p r i n t _ f i l e _ r e v e r s e
+s s h@c o n n e c t _ r e m o t e _ u n i x _ s e r v e r _ o p e n _ s h e l l _ s e n d _ r e c e i v e _ f i l e s
+u n e x p a n d@c o n v e r t s _ s p a c e s _ f i l e _ t a b s
+r m d i r@r e m o v e _ e m p t y _ d i r e c t o r i e s
+p i n g@t e s t _ n e t w o r k _ c o n n e c t i o n
+m p g 1 2 3@c o m m a n d _ l i n e _ m p 3 _ p l a y e r
+t a r@t a p e _ a r c h i v e r
+s l e e p@s u s p e n d _ e x e c u t i o n _ s p e c i f i e d _ a m o u n t _ t i m e _ s e c o n d s
+u n i t s@c o n v e r t _ u n i t s _ o n e _ s c a l e _ a n o t h e r
+l e s s@l i n u x _ a l t e r n a t i v e _ c o m m a n d
+c h p a s s w d@u p d a t e _ p a s s w o r d s _ b a t c h _ m o d e
+r u p t i m e@s h o w _ h o s t _ s t a t u s _ l o c a l _ m a c h i n e s
+r e n a m e@r e n a m e s _ f i l e s
+m a n@s h o w s _ m a n u a l _ p a g e s _ l i n u x _ c o m m a n d s
+c h s h@c h a n g e _ d e f a u l t _ s h e l l
+y p s e t@p o i n t _ c l i e n t _ r u n n i n g _ y p b i n d _ s p e c i f c _ s e r v e r _ r u n n i n g _ y p s e r v
+z i p@z i p _ u t i l i t y _ c o m p a t i b l e _ d o s _ p k z i p
+d i r@l i s t _ d i r e c t o r y _ c o n t e n t s
+l e t@p e r f o r m _ a r i t h m e t i c _ s h e l l _ v a r i a b l e s
+e m a c s@c o m p l i c a t e d _ t e x t _ e d i t o r _ r e c o m m e n d e d
+s t t y@c o o k e d _ f o r m a t t i n g _ d i s p l a y _ t e x t _ t e r m i n a l
+s t a t@d i s p l a y _ f i l e _ f i l e _ s y s t e m _ s t a t u s
+s c p@s e c u r e _ c o p y _ r e m o t e _ f i l e _ c o p y _ p r o g r a m
+d e v d u m p@u t i l i t y _ p r o g r a m s _ d u m p i n g _ v e r i f y i n g _ i s o 9 6 6 0 _ i m a g e s
+m a n@i n t e r f a c e _ l i n e _ r e f e r e n c e _ m a n u a l s
+p i c o@n a n o _ a n o t h e r _ e d i t o r _ e n h a n c e d _ f r e e _ p i c o _ c l o n e
+l p r i n t@u s e d _ p r i n t _ f i l e
+c a l@n e e d _ c a l e n d a r _ c o m m a n d _ d i s p l a y s _ o n e
+m o u n t@m o u n t _ f i l e s y s t e m _ d e v i c e
+r d e v@s e t _ q u e r y _ r a m _ d i s k _ s i z e _ i m a g e _ r o o t _ d e v i c e _ v i d e o _ m o d e
+r m@r e m o v e s _ p a r t i c u l a r _ f i l e s
+s o r t@s o r t _ m e r g e _ s e q u e n c e _ c h e c k _ t e x t _ f i l e s
+w c@l i n e _ w o r d _ b y t e _ c h a r a c t e r _ c o u n t
+a g e t t y@a l t e r n a t i v e _ l i n u x _ g e t t y
+b c@a r b i t r a r y _ p r e c i s i o n _ a r i t h m e t i c _ l a n g u a g e
+c h f n@u s e d _ c h a n g e _ r e a l _ u s e r _ n a m e _ i n f o r m a t i o n
+r e a d o n l y@m a r k s _ v a r i a b l e s _ f u n c t i o n s _ r e a d o n l y
+e x p o r t@p l a c e _ v a l u e _ v a r i a b l e _ c a l l i n g _ e n v i r o n m e n t _ m a k e s _ g l o b a l
+e g r e p@s e a r c h e s _ f i l e s _ l i n e s _ m a t c h i n g _ e x t e n d e d _ e x p r e s s i o n
+e t h t o o l@q u e r y _ c o n t r o l _ n e t w o r k _ d r i v e r _ h a r d w a r e _ s e t t i n g s
+a s@p o r t a b l e _ g n u _ a s s e m b l e r
+m t y p e@d i s p l a y s _ c o n t e n t s _ d o s _ f i l e
+p s@p r o c e s s e s _ r u n n i n g
+c r o n t a b@s c h e d u l e s _ c o m m a n d _ r u n _ s p e c i f i e d _ t i m e
+c o m p r e s s@u s e d _ c o m p r e s s _ o n e _ f i l e _ r e p l a c i n g _ o r i g i n a l s _ o n e s
+x f d@d i s p l a y _ c h a r a c t e r s _ x _ f o n t
+s u m@c h e c k s u m _ c o u n t _ b l o c k s _ f i l e
+t r e e@d i s p l a y _ f i l e _ t r e e
+f o l d@b r e a k _ l i n e s _ s p e c i f i e d _ f i l e s _ w i d e r _ s p e c i f i e d _ l e n g t h s
+h w c l o c k@s h o w _ c o n f i g u r e _ s y s t e m _ h a r d w a r e _ c l o c k
+m k t e m p@m a k e _ t e m p o r a r y _ f i l e n a m e _ u n i q u e
+r a r p d@r e s p o n d _ r e v e r s e _ a d d r e s s _ r e s o u l t i o n _ p r o t o c o l _ r a r p _ r e q u e s t s
+c h g r p@u s e d _ c h a n g e _ g r o u p _ o w n e r s h i p _ f i l e
+r a m@r a m _ d i s k _ d e v i c e _ u s e d _ a c c e s s _ r a m _ d i s k _ r a w _ m o d e
+f u s e r@i d e n t i f y _ p r o c e s s _ u s i n g _ f i l e
+p v@m o n i t o r _ p r o g r e s s _ d a t a _ p i p e
+p k g u t i l@q u e r y _ m a n i p u l a t e _ i n s t a l l e d _ p a c k a g e s
+d e l t a@m a k e _ d e l t a _ c h a n g e _ s c c s _ f i l e
+u s l e e p@s l e e p _ g i v e n _ n u m b e r _ m i c r o s e c o n d s _ d e f a u l t _ 1
+c p@c o p y _ f i l e s
+r u n l e v e l@p r i n t _ p r e v i o u s _ c u r r e n t _ s y s v _ r u n l e v e l
+o p@o p e r a t o r _ a c c e s s
+p a s s w d@c h a n g e s _ p a s s w o r d
+s e n d m a i l@m a i l _ r o u t e r _ m t a _ m a i l _ t r a n s f e r _ a g e n t _ s e n d m a i l _ s u p p o r t _ s e n d _ m a i l _ o n e _ r e c e p i e n t s _ u s i n g _ n e c e s s a r y _ p r o t o c o l s
+s w _ v e r s@p r i n t _ m a c _ o s _ x _ o p e r a t i n g _ s y s t e m _ v e r s i o n
+x p a i n t@s i m p l e _ p a i n t _ p r o g r a m _ x
+q u o t a@d i s p l a y _ d i s k _ u s a g e _ l i m i t s
+v i m@i m p r o v e d _ v i _ e d i t o r
+x e y e s@g o o g l e y _ e y e s _ f o l l o w _ m o u s e _ c u r s o r
+t e s t@e v a l u a t e s _ e x p r e s s i o n _ c o m p a r e s _ a r g u m e n t s
+s l e e p@d e l a y s _ s p e c i f i e d _ a m o u n t _ t i m e
+m t r@n e t w o r k _ d i a g n o s t i c _ t o o l
+t i m e@r u n n i n g _ t i m e _ o f a _ p r o g r a m _ m e a s u r e d _ u s i n g _ c o m m a n d
+s h o w m o u n t@s h o w s _ i n f o r m a t i o n _ n f s _ s e r v e r _ m o u n t _ h o s t
+c a t@c o n c a t e n a t e _ f i l e _ p r i n t _ s c r e e n
+s c a n i m a g e@s c a n _ i m a g e
+h a s h@r e m e m b e r s _ l o c a t i o n _ c o m m a n d s _ s e a r c h _ p a t h
+e g r e p@s e a r c h _ d i s p l a y _ t e x t _ m a t c h i n g _ p a t t e r n
+u u i d g e n@g e n e r a t e _ u n i q u e _ i d _ u u i d _ g u i d
+m z i p@c h a n g e _ p r o t e c t i o n _ m o d e _ e j e c t _ d i s k _ z i p _ j a z _ d r i v e
+c h g r p@c h a n g e _ g r o u p _ a s s o c i a t e d _ f i l e
+h i s t o r y@s h o w _ l i s t _ p a s t _ c o m m a n d s _ t y p e d _ s h e l l
+s u m@c h e c k s u m _ c o u n t _ b l o c k _ f i l e
+t l o a d@g r a p h i c _ r e p r e s e n t a t i o n _ s y s t e m _ l o a d _ a v e r a g e
+d n s s e c - m a k e k e y s e t@p r o d u c e _ d o m a i n _ k e y _ s e t _ o n e _ d n s _ s e c u r i t y _ k e y s _ g e n e r a t e d _ d n s s e c _ k e y g e n
+g r e p@s e a r c h e s _ f i l e s _ l i n e s _ m a t c h i n g _ c e r t a i n _ p a t t e r n
+u u e n c o d e@e n c o d e s _ b i n a r y _ f i l e s
+u u i d g e n@c r e a t e d _ n e w _ u u i d _ u n i v e r s a l l y _ u n i q u e _ i d e n t i f i e r _ t a b l e
+c h o w n@c h a n g e _ o w n e r _ g r o u p _ f i l e
+a l i a s@c r e a t e _ a l i a s
+n c@a r b i t r a r y _ t c p _ u d p _ c o n n e c t i o n s _ l i s t e n s
+s h i f t@c o m m a n d _ u s e d _ s h i f t i n g _ p o s i t i o n a l p a r a m e t e r s
+f a c t o r@d i s p l a y _ p r i m e _ f a c t o r s _ n u m b e r
+s u d o@e x e c u t e _ s i n g l e _ c o m m a n d _ s u p e r _ u s e r
+c f d i s k@s h o w _ c h a n g e _ d i s k _ p a r t i t i o n _ t a b l e
+a d d r e s s e s@f o r m a t s _ i n t e r n e t _ m a i l _ a d d r e s s e s
+w a l l@b r o a d c a s t s _ m e s s a g e _ u s e r s _ l o g g e d _ c o m p u t e r
+t i m e@r u n _ p r o g r a m s _ s u m m a r i z e _ s y s t e m _ r e s o u r c e _ u s a g e
+x w d@s c r e e n _ c a p t u r e _ c o m m a n d
+w@d i s p l a y _ i n f o _ u s e r i d s _ a c t i v e _ p r o c e s s e s
+c o n t i n u e@r e s u m i n g _ n e x t _ i t e r a t i o n _ a p a r t i c u l a r _ l o o p
+e 2 f s c k@c h e c k _ l i n u x _ e x t 2 _ e x t 3 _ e x t 4 _ f i l e _ s y s t e m
+m o s t@b r o w s e _ p a g e _ t e x t _ f i l e
+v m s t a t@s h o w s _ i n f o r m a t i o n _ p r o c e s s e s _ m e m o r y _ p a g i n g _ b l o c k _ i o _ t r a p s _ d i s k s _ c p u _ a c t i v i t y
+f o r t u n e@a v a i l a b l e _ b s d g a m e s _ p a c k a g e _ s l a c k w a r e _ d i s t r i b u t i o n s
+e x p e c t@e x t e n s i o n _ t c l _ s c r i p t _ u s e d _ a u t o m a t e _ i n t e r a c t i o n _ a p p l i c a t i o n s _ b a s e d _ e x p e c t e d _ o u t p u t
+x i n i t@s t a r t _ x _ w i n d o w
+m a n w e b@m a n w e b _ p a r t _ n e t p b m _ p a c k a g e
+n e t c o n f@u s e d _ r o o t _ s e t _ n e t w o r k
+p g@d i s p l a y _ d a t a _ o n e _ s c r e e n f u l _ t i m e
+t o p@d i s p l a y _ p r o c e s s _ i n f o r m a t i o n
+a p r o p o s@s e a r c h _ m a n u a l _ p a g e _ n a m e s _ d e s c r i p t i o n s
+f m t@s i m p l e _ o p t i m a l _ t e x t _ f o r m a t t e r
+m k m a n i f e s t@m a k e s _ l i s t _ f i l e _ n a m e s _ d o s _ 8 _ 3 _ e q u i v a l e n t
+s o u r c e@e x e c u t e _ c o m m a n d s _ f i l e
+p s 2 e p s i@g e n e r a t e _ c o n f o r m i n g _ e n c a p s u l a t e d _ p o s t s c r i p t
+l i n k@t h i s c o m m a n d _ u s e d _ c r e a t i n g _ l i n k _ a n o t h e r _ f i l e
+t e s t@e v a l u a t e _ e x p r e s s i o n
+m a k e w h a t i s@r e b u i l d _ w h a t i s _ d a t a b a s e
+b r e a k@u n i m p l e m e n t e d _ s y s t e m _ c a l l s
+m m o u n t@m o u n t _ m s d o s _ d i s k
+m m o v e@m o v e _ r e n a m e _ m s _ d o s _ f i l e _ s u b d i r e c t o r y
+p a t c h@a p p l y _ d i f f _ f i l e _ o r i g i n a l
+d i r c o l o r s@c o l o u r _ s e t u p _ l s
+e x p a n d@c o n v e r t s _ t a b s _ s p a c e s
+t i m e s@u s e _ t h i s t o _ f i n d _ u s e r _ s y s t e m _ t i m e s
+c u t@r e m o v e s _ s e c t i o n s _ l i n e _ f i l e s
+d a t e@p r i n t _ s e t _ s y s t e m _ d a t e _ t i m e
+b z l e s s@u s e d _ a p p l y _ 8 2 1 6 _ l e s s _ s h o w _ i n f o _ o n e _ p a g e _ t i m e _ b z i p 2 _ c o m p r e s s e d _ f i l e s
+s u@s u b s t i t u t e s _ u s e r _ i d e n t i t y
+e x e c@s y s t e m _ c a l l _ c r e a t e s _ s u b s h e l l _ e x e c u t e _ b i n a r y _ s c r i p t
+g p r o f@s h o w s _ c a l l _ g r a p h _ p r o f i l e _ d a t a
+c o l u m n@u t i l i t y _ f o r m a t s _ i n p u t _ c o l u m n s
+d i g@d o m a i n _ i n f o r m a t i o n _ g r o p e r _ d n s _ l o o k u p _ u t i l i t y
+p a t c h@u p d a t e s _ s o u r c e _ c o d e
+b a s e n a m e@s t r i p s _ s u f f i x e s _ f i l e s _ d i r e c t o r i e s
+h t d i g e s t@m a n a g e _ u s e r _ a u t h e n t i c a t i o n _ f i l e _ u s e d _ a p a c h e _ w e b _ s e r v e r
+r p m 2 t g z@e x t r e m e l y _ u s e f u l _ u t i l i t y _ s l a c k w a r e _ s y s t e m s _ c o n v e r t s _ r p m _ p a c k a g e s _ t g z _ f o r m a t
+t a b s@s e t _ t a b s _ t e r m i n a l
+r p m@p a c k a g e _ m a n a g e r _ l i n u x _ d i s t r i b u t i o n s _ o r i g i n a l l y _ d e v e l o p e d _ r e d h a t _ l i n u x
+m p a g e@p r i n t _ m u l t i p l e _ p a g e s _ p e r _ s h e e t _ p o s t s c r i p t _ p r i n t e r
+j o i n@p a i r _ i n p u t _ l i n e s _ j o i n _ u s i n g _ c o m m a n d _ f i e l d _ d i s p l a y _ s t a n d a r d _ o u t p u t
+f o l d@w r a p _ i n p u t _ l i n e _ f i t _ s p e c i f i e d _ w i d t h
+m a n p a t h@f o r m a t _ e t c _ m a n p a t h _ c o n f i g _ f i l e
+l p r i n t q@c o m m a n d _ l i s t s _ p r i n t _ q u e u e
+w a t c h@e x e c u t e _ p r o g r a m _ p e r i o d i c a l l y _ s h o w i n g _ o u t p u t _ f u l l s c r e e n
+e 2 f s c k@u s e d _ c h e c k _ e x t 2 _ e x t 3 _ e x t 4 _ f i l e _ s y s t e m s
+c h o w n@c h a n g e s _ f i l e _ o w n e r s h i p
+l p r@i s f o r _ o f f l i n e _ p r i n t
+f a l s e@n o t h i n g _ u n s u c c e s s f u l l y _ e x i t _ s t a t u s _ c o d e _ i n d i c a t i n g _ f a i l u r e
+s h@s h e l l _ b a s h
+c s h@c _ s h e l l
+l i n k@c a l l _ l i n k _ f u n c t i o n _ c r e a t e _ l i n k _ f i l e
+u p t i m e@c o m m a n d _ s h o w _ u p t i m e
+e s d c a t@u s e _ e s o u n d _ s e n d _ a u d i o _ d a t a _ s p e c i f i e d _ f i l e
+l l@l s _ l _ l i s t _ i n f o r m a t i o n _ f i l e
+h y l a f a x@c o m m e r c i a l _ f a x _ p r o g r a m
+o p e n@s t a r t _ p r o g r a m _ n e w _ v i r t u a l _ t e r m i n a l _ v t
+p s 2 p d f 1 3@c o n v e r t _ p o s t s c r i p t _ p d f _ 1 _ 3 _ a c r o b a t _ 4 _ l a t e r _ c o m p a t i b l e _ u s i n g _ g h o s t s c r i p t
+w@s h o w _ l o g g e d
+m v@m o v e s _ r e n a m e s _ f i l e s _ d i r e c t o r i e s
+m a k e@m a i n t a i n _ u p d a t e _ r e g e n e r a t e _ g r o u p s _ p r o g r a m s
+x t e r m@s t a r t _ x _ w i n d o w _ t e r m i n a l _ s e s s i o n
+b z m o r e@f i l e _ p e r u s a l _ f i l t e r _ c r t _ v i e w i n g _ b z i p 2 _ c o m p r e s s e d _ t e x t
+m b a d b l o c k s@t e s t s _ f l o p p y _ d i s k _ m a r k s _ b a d _ b l o c k s _ f a t
+e c h o@d i s p l a y s _ m e s s a g e _ s c r e e n
+d i f f@u s e d _ c o m p a r e _ f i l e s _ l i n e _ l i n e
+e x p r@e v a l u a t e _ a r g u m e n t s _ e x p r e s s i o n
+k i l l a l l 5@k i l l _ p r o c e s s e s _ e x c e p t _ o n e s _ d e p e n d s
+t f t p@u s e r _ i n t e r f a c e _ i n t e r n e t _ t f t p _ t r i v i a l _ f i l e _ t r a n s f e r _ p r o t o c o l
+m b a d b l o c k s@c h e c k s _ m d _ d o s _ f i l e s y s t e m s _ b a d _ b l o c k s
+p a t h c h k@u s e d _ c h e c k _ t h e p o r t a b i l i t y _ f i l e _ n a m e
+a p l a y m i d i@p l a y _ s t a n d a r d _ m i d i _ f i l e s
+n l@w r i t e _ f i l e s _ n u m b e r _ l i n e s
+u n i t s@c o n v e r t _ u n i t s _ o n e _ s c a l a r _ a n o t h e r
+l e t@e v a l u a t e s _ n u m e r i c _ e x p r e s s i o n
+r m@r e m o v e s _ d e l e t e s _ f i l e s
+p k g t o o l@s l a c k w a r e _ t o o l _ i n s t a l l _ u n i n s t a l l _ q u e r y _ p a c k a g e s
+r e a d@r e a d _ l i n e _ s t a n d a r d _ i n p u t
+x d g - o p e n@u s e d _ o p e n _ f i l e _ u r l _ a p p l i c a t i o n _ p r e f e r r e d _ u s e r
+m s h o w f a t@s h o w s _ f a t _ c l u s t e r s _ a l l o c a t e d _ f i l e
+m o u n t@u s e d _ m o u n t i n g _ p a r t i c u l a r _ f i l e s y s t e m
+b u i l t i n@r u n _ s h e l l _ b u i l t i n
+l y n x@c o m m a n d _ s t a r t _ l y n x _ b r o w s e r
+u n l i n k@c a l l _ u n l i n k _ f u n c t i o n _ r e m o v e _ s p e c i f i e d _ f i l e
+p a s t e@m e r g e _ l i n e s _ f i l e s
+i m p o r t@s a v e s _ v i s i b l e _ w i n d o w _ x _ s e r v e r _ o u t p u t s _ i m a g e _ f i l e _ c a p t u r e _ s i n g l e _ w i n d o w _ e n t i r e _ s c r e e n _ r e c t a n g u l a r _ p o r t i o n _ s c r e e n
+c h k c o n f i g@q u e r y _ u p d a t e _ s y s t e m _ s e r v i c e s _ d a e m o n s _ d i f f e r e n t _ r u n l e v e l s
+s k i l l@s e n d _ s i g n a l _ r e p o r t _ p r o c e s s _ s t a t u s
+f g r e p@s e a r c h _ p a t t e r n s _ f i l e s
+m m o v e@m o v e _ r e n a m e _ m s d o s _ f i l e _ s u b d i r e c t o r y
+i p c r m@u s e d _ r e m o v e _ s y s t e m _ v _ i n t e r p r o c e s s _ c o m m u n i c a t i o n _ i p c _ o b j e c t s _ a s s o c i a t e d _ d a t a _ s t r u c t u r e s
+u l@u n d e r l i n e _ t e x t
+d i g@i n t e r r o g a t e _ d n s _ n a m e _ s e r v e r s
+m o r e@o u t p u t _ c o n t e n t s _ f i l e _ o n e _ p a g e _ t i m e
+g r e p@s e a r c h _ t e x t _ p a t t e r n
+v o l n a m e@r e t u r n s _ v o l u m e _ n a m e _ d e v i c e _ f o r m a t t e d _ i s o _ 9 6 6 0 _ f i l e s y s t e m _ e x a m p l e _ c d _ r o m
+r e n i c e@s e t _ n i c e _ v a l u e s _ r u n n i n g _ p r o c e s s e s
+r e j e c t@a c c e p t _ r e j e c t _ p r i n t _ j o b s _ s e n t _ s p e c i f i e d _ d e s t i n a t i o n
+d i r n a m e@r e t u r n _ d i r e c t o r y _ p o r t i o n _ p a t h n a m e _ s e e _ a l s o _ b a s e n a m e
+f i n d@s e a r c h _ f i l e s _ n a m e _ w i t h i n _ g i v e n _ d i r e c t o r y
+v i@s t a r t _ v i _ e d i t o r
+t e e@s e n d s _ o u t p u t _ m u l t i p l e _ f i l e s
+c u r l@t r a n s f e r _ d a t a _ s e r v e r
+v i e w@v i _ i m p r o v e d _ p r o g r a m m e r s _ t e x t _ e d i t o r
+p r i n t e n v@p r i n t s _ e n v i r o n m e n t _ v a r i a b l e s
+f o r m a t@u s e d _ f o r m a t _ d i s k s
+c r o n t a b@s c h e d u l i n g _ s o m e t i m e s _ i m p o r t a n t
+z c a t@u s e d _ c o m p r e s s _ u n c o m p r e s s _ f i l e s _ s i m i l a r _ g z i p
+i f c o n f i g@d i s p l a y _ r o o t _ i n f o r m a t i o n _ n e t w o r k _ i n t e r f a c e s _ c u r r e n t l y _ a c t i v e
+u n e x p a n d@c o n v e r t _ s p a c e s _ t a b s
+d c@a r b i t r a r y _ p r e c i s i o n _ c a l c u l a t o r
+c h r t@a l t e r _ p r o c e s s _ a t t r i b u t e d _ r e a l _ t i m e
+s w a p o n@e n a b l e _ d i s a b l e _ d e v i c e s _ f i l e s _ p a g i n g _ s w a p p i n g
+m e t a m a i l@s e n d i n g _ s h o w i n g _ r i c h _ t e x t _ m u l t i m e d i a _ e m a i l _ u s i n g _ m i m e _ t y p i n g _ m e t a d a t a
+l o g n a m e@r e t u r n _ u s e r _ l o g i n _ n a m e
+e s d r e c@u s e _ e s o u n d _ r e c o r d _ a u d i o _ s p e c i f i e d _ f i l e
+d i s a b l e@r e s t r i c t _ a c c e s s _ p r i n t e r
+u s e r s@p r i n t _ l o g i n _ n a m e s _ u s e r s _ c u r r e n t l y _ l o g g e d
+u l i m i t@s e t _ r e p o r t _ f i l e _ s i z e _ l i m i t
+d i r n a m e@s t r i p s _ n o n _ d i r e c t o r y _ s u f f i x _ f i l e _ n a m e
+l p m o v e@m o v e _ p r i n t i n g _ j o b s _ n e w _ d e s t i n a t i o n
+m k f i f o@m a k e s _ f i f o s
+t o p@u s e d _ g e t _ l i s t _ t h e p r o c e s s e s _ r u n n i n g _ s y s t e m
+b a n n e r@p r i n t _ b a n n e r _ s t a n d a r d _ o u t p u t
+e x@t e x t _ e d i t o r
+t t y@d i s p l a y _ f i l e n a m e _ t e r m i n a l _ c o n n e c t e d _ s t a n d a r d _ i n p u t
+s h o w m o u n t@s h o w _ i n f o r m a t i o n _ n f s _ s e r v e r
+i n i t@m o t h e r _ p r o c e s s e s _ r u n _ b o o t u p _ e x e c u t e s _ c o m m a n d s _ e t c _ i n i t t a b
+u m o u n t@u n m o u n t _ f i l e _ s y s t e m s
+c d r d a o@u s e d _ w r i t e _ c o n t e n t _ s p e c i f i e d _ f i l e _ c d
+c p i o@d i r e c t _ c o p y _ f i l e s _ o u t p u t _ d e v i c e
+x i n i t@x _ w i n d o w _ s y s t e m _ i n i t i a l i z e r
+s o r t@s o r t s _ t e x t _ f i l e s
+r v i@v i _ v i m _ e d i t o r
+b i n d@u s e d _ a t t a c h _ n a m e _ s o c k e t
+f d i s k@u s e d _ p a r t i t i o n _ h a r d _ d r i v e s
+u n a m e@p r i n t _ i n f o r m a t i o n _ s y s t e m
+a l i a s@a s s i g n _ n a m e _ s p e c i f i e d _ c o m m a n d _ l i s t
+c l e a r@c l e a r _ s c r e e n _ c o m m a n d
+s f t p@s e c u r e _ f i l e _ t r a n s f e r _ p r o g r a m
+m c o p y@c o p i e s _ d o s _ f i l e s _ o n e _ d i r e c t o r y _ a n o t h e r
+u l i m i t@c o m m a n d s _ l i m i t s _ u s e r _ r e s o u r c e s
+s h o p t@s e t _ s h e l l _ o p t i o n s
+i m p o r t@u s e d _ x _ s e r v e r
+g h o s t s c r i p t@s e t _ p r i n t i n g _ u t i l i t i e s
+k b d _ m o d e@s e t _ k e y b o a r d _ m o d e _ w i t h o u t _ a r g u m e n t s _ s h o w s _ c u r r e n t _ k e y b o a r d _ m o d e
+f i l e@d e t e r m i n e _ f i l e _ t y p e
+t r@t r a n s l a t i o n _ u t i l i t y _ u s e d _ e x a m p l e _ r e p l a c e _ s p e c i f i e d _ c h a r a c t e r s _ t e x t _ f i l e
+z i p@c o m p r e s s _ a r c h i v e _ f i l e _ z i p _ f o r m a t
+i n s m o d@p r o g r a m _ i n s e r t s _ m o d u l e _ l i n u x _ k e r n e l
+m c d@c h a n g e _ m s d o s _ d i r e c t o r y
+s h u t d o w n@s h u t d o w n _ r e s t a r t _ l i n u x
+w a l l@d i s p l a y _ m e s s a g e _ t e r m i n a l s _ u s e r s _ c u r r e n t l y _ l o g g e d
+t s e t@i n i t i a l i z e s _ t e r m i n a l
+u p t i m e@s h o w s _ u p t i m e
+p w c o n v@c o n v e r t _ s h a d o w _ p a s s w o r d s _ g r o u p s
+r s y n c@s y n c h r o n i s e s _ f i l e _ t r e e s
+c h c o n@c h a n g e _ f i l e _ s e c u r i t y _ c o n t e x t
+s i z e@l i s t _ s e c t i o n _ s i z e s _ t o t a l _ s i z e
+d v i l j 2 p@s p e c i a l i z e d _ v e r s i o n _ d v i l j _ i i p _ s e r i e s _ p r i n t e r s
+r e a d o n l y@m a r k _ v a r i a b l e _ f u n c t i o n _ r e a d
+f s c k@c h e c k _ r e p a i r _ l i n u x _ f i l e s y s t e m
+w i s h@f r o n t _ e n d _ t k _ x _ w i n d o w _ e x t e n s i o n _ t c l
+g r o f f@s e r v e s _ f r o n t _ e n d _ g r o f f _ d o c u m e n t _ f o r m a t t i n g _ s y s t e m
+l p r@p r i n t _ f i l e s
+c a r d m g r@k e e p s _ e y e _ a d d e d _ r e m o v e s _ s o c k e t s _ p c m c i a _ d e v i c e s
+e n v@d i s l a y _ p a t h
+t f t p@u s e r _ i n t e r f a c e _ t f t p _ p r o t o c o l
+d i f f@t h i s c o m m a n d _ p r i n t s _ d i f f e r e n c e s _ t w o _ f i l e s
+r e a d l i n k@d i s p l a y s _ v a l u e _ s y m b o l i c _ l i n k
+r m m o d@s i m p l e _ p r o g r a m _ r e m o v e _ m o d u l e _ l i n u x _ k e r n e l
+g c c@c o m p i l e _ r u n _ p r o g r a m s _ v a r i o u s _ l a n g u a g e s
+s l a t t a c h@a t t a c k _ n e t w o r k _ i n t e r f a c e _ s e r i a l _ l i n e
+t e l n e t@u s e r _ i n t e r f a c e _ t e l n e t _ p r o t o c o l
+z d i f f@c o m p a r e _ c o m p r e s s e d _ f i l e s _ l i n e _ l i n e
+u n s e t@r e m o v e _ v a r i a b l e _ f u n c t i o n _ n a m e s
+x a r g s@l a u n c h _ c o m m a n d _ s e t _ l i n e s _ i n p u t _ o f t e n _ u s e d _ f i n d
+q h o l d@h o l d _ p b s _ b a t c h _ j o b s
+u n e x p a n d@c o n v e r t s _ s p a c e s _ t a b s
+g r o u p m o d@l a s t _ o n e d e l e t e s _ o n e _ m o d i f i e d _ g r o u p
+p d f i n f o@p r i n t _ c o n t e n t s _ i n f o _ d i c t i o n a r y _ p l u s _ u s e f u l _ i n f o r m a t i o n _ p d f _ f i l e
+e n v@d i s p _ s e t _ r e m o v e _ e n v i r o n m e n t _ v a r i a b l e s
+r s y n c@v e r s i t i l e _ c o p y i n g _ f i l e s _ r e m o t e l y _ l o c a l l y
+a c p i@s h o w _ i n f o r m a t i o n _ a d v a n c e d _ c o n f i g u r a t i o n _ p o w e r _ i n t e r f a c e
+t a r@g n u _ v e r s i o n _ t a r _ a r c h i v i n g _ u t i l i t y _ u s e d _ s t o r e _ e x t r a c t _ m u l t i p l e _ f i l e s _ s i n g l e _ a r c h i v e
+c h m o d@c h _ c h a n g e
+a m i d i@p e r f o r m _ r e a d _ w r i t e _ o p e r a t i o n _ a l s a _ r a w m i d i _ p o r t s
+u s e r a d d@c r e a t e _ n e w _ u s e r _ u p d a t e _ d e f a u l t _ u s e r _ i n f o r m a t i o n
+t i m e s@p r i n t _ s h e l l _ s h e l l _ p r o c e s s _ t i m e s
+n o h u p@r u n _ c o m m a n d _ i m m u n e _ h a n g u p s
+b a s e n a m e@s o m e t i m e s _ f i l e s _ d i r e c t o r i e s _ s u f f i x e s _ n a m e s
+w h i l e@l o o p _ c o m m a n d
+y a c c@p a r s e r _ g e n e r a t o r
+n o h u p@r u n _ c o m m a n d _ i m m u n e _ h a n g u p
+n p r o c@p r i n t _ n u m b e r _ p r o c e s s i n g _ u n i t s _ a v a i l a b l e
+t c s h@e x t e n d e d _ v e r s i o n _ c _ s h e l l
+l e s s k e y@s p e c i f y _ k e y _ b i n d i n g s _ l e s s
+a p r o p o s@s e a r c h _ h e l p _ m a n u a l _ p a g e s _ m a n _ k
+t e e@r e d i r e c t s _ o u t p u t _ m u l t i p l e _ f i l e s
+c + +@i n v o k e s _ g n u _ c _ c _ c o m p i l e r
+t a r@s t o r e s _ l i s t _ e x t r a c t s _ f i l e s _ a r c h i v e
+n t s y s v@r u n _ l e v e l _ e d i t o r _ r e d _ h a t
+m k n o d@c r e a t e s _ c h a r a c t e r _ s p e c i a l _ f i l e s _ b l o c k _ f i l e s
+o p@o p e r a t o r _ a c c e s s _ a l l o w s _ s y s t e m _ a d m i n i s t r a t o r s _ g r a n t _ u s e r s _ a c c e s s _ c e r t a i n _ r o o t _ o p e r a t i o n s _ r e q u i r e _ s u p e r u s e r _ p r i v i l e g e s
+r a n l i b@g e n e r a t e _ i n d e x _ a r c h i v e
+h o s t@d n s _ l o o k u p _ u t i l i t y
+n o t i f y - s e n d@s e n d s _ d e s k t o p _ n o t i f i c a t i o n s
+i n i t@s y s t e m d _ s y s t e m _ s e r v i c e _ m a n a g e r
+n f s d@s p e c i a l _ f i l e s y s t e m _ c o n t r o l l i n g _ l i n u x _ n f s _ s e r v e r
+p g r e p@l i s t _ p r o c e s s e s _ n a m e
+w h a t@i d e n t i f y _ s c c s _ f i l e s
+m m v@m a s s _ m o v e _ r e n a m e _ f i l e s
+u n l i n k@c a l l _ u n l i n k _ f u n c t i o n
+s u@l o g _ s h e l l _ s u p e r _ u s e r
+d e c l a r e@d e c l a r e s _ a t t r i b u t e s _ v a r i a b l e _ t y p e s e t
+m a n@p r o v i d e s _ h e l p _ c o m m a n d
+s e q@p r i n t _ n u m e r i c _ s e q u e n c e s
+s c a n a d f@r e t r i e v e _ m u l t i p l e _ i m a g e s _ s c a n n e r _ e q u i p p e d _ a u t o m a t i c _ d o c u m e n t _ f e e d e r _ a d f
+h o s t i d@p r i n t _ n u m e r i c _ i d e n t i f i e r _ c u r r e n t _ h o s t
+x c l i p b o a r d@x _ c l i p b o a r d _ c l i e n t
+j o b s@d i s p l a y _ s t a t u s _ j o b s _ c u r r e n t _ s e s s i o n
+@l o g _ s y s t e m
+o d@d u m p s _ c o n t e n t s _ f i l e
+w h a t i s@s e a r c h _ w h a t i s _ d a t a b a s e _ c o m p l e t e _ w o r d s _ c o m m a n d _ n a m e s
+l o g n a m e@p r i n t _ l o g i n _ n a m e _ u s e d _ c u r r e n t l y
+b a s e n a m e@r e t u r n _ n o n _ d i r e c t o r y _ p o r t i o n _ p a t h n a m e _ s e e _ a l s o _ d i r n a m e
+x b i f f@g r a p h i c a l _ m a i l _ d e l i v e r y _ n o t i f i c a t i o n _ u t i l i t y
+r p c g e n@r p c _ p r o t o c o l _ c o m p i l e r
+u n c o m p r e s s@c o m p r e s s _ e x p a n d _ f i l e s
+d i p l o g i n@u s e d _ s e t t i n g _ i n c o m i n g _ d i p _ c o n n e c t i o n s
+s h r e d@o v e r w r i t e s _ f i l e _ h i d e _ c o n t e n t s _ o p t i o n a l l y _ d e l e t e s
+t e e@r e d i r e c t _ o u t p u t _ m u l t i p l e _ f i l e s
+k i c k s t a r t@c o n f i g u r e _ a p p l e _ r e m o t e _ d e s k t o p
+d i r n a m e@c h a n g e s _ f u l l _ p a t h n a m e _ p a t h
+w g e t@r e t r i e v e s _ w e b _ p a g e s _ f i l e s _ h t t p _ h t t p s _ f t p
+c o m m@s e l e c t _ r e j e c t _ l i n e s _ c o m m o n _ t w o _ f i l e s
+i d@p r i n t _ u s e r _ g r o u p _ n a m e s _ i d
+t a i l@o u t p u t _ l a s t _ p a r t _ f i l e s
+g r o u p s@p r i n t _ g r o u p _ n a m e s _ u s e r
+r a i d s t a r t@s t a r t _ s t o p _ r a i d _ d e v i c e s
+r e s e t@u s e d _ r e s e t _ s c r e e n _ c h a r a c t e r i s t i c s
+t r a c e r o u t e 6@s e e _ t r a c e r o u t e
+c m p@c o m p a r e s _ t w o _ f i l e s
+d i r@b r i e f l y _ l i s t _ d i r e c t o r y _ c o n t e n t s
+g r o u p s@p r i n t s _ n a m e s _ g r o u p s _ u s e r _ l o c a t e d
+m o d p r o b e@a d d _ r e m o v e _ m o d u l e s _ l i n u x _ k e r n e l
+u l i m i t@l i m i t _ u s e r _ r e s o u r c e s
+m k d i r@c r e a t e s _ d i r e c t o r y
+m o u n t@m o u n t s _ p a r t i c u l a r _ f i l e s y s t e m
+i o s t a t@s h o w s _ s t a t i s t i c s _ c p u _ d e v i c e s _ p a r t i t i o n s _ n e t w o r k _ f i l e s y s t e m s
+k i l l a l l@t e r m i n a t e _ g r o u p _ p r o c e s s e s _ n a m e
+v i@t e x t _ e d i t o r _ u t i l i t y
+x f i g@u t i l i t y _ i n t e r a c t i v e _ g e n e r a t i o n _ f i g u r e s
+g z c a t@s h o w _ c o n t e n t s _ c o m p r e s s e d _ f i l e
+m t o o l s@m t o o l s _ c o n f i g u r a t i o n _ f i l e s
+s h@c o m m a n d _ i n t e r p r e t e r _ s h e l l _ u t i l i t y
+f d f o r m a t@p e r f o r m _ l o w _ l e v e l _ f o r m a t _ f l o p p y _ d i s k
+d d@d i r e c t _ c o p y _ f i l e _ o n e _ d e v i c e _ a n o t h e r
+c o l@f i l t e r _ r e v e r s e _ l i n e _ f e e d s _ i n p u t
+x l s f o n t s@s e r v e r _ f o n t _ l i s t _ d i s p l a y e r _ x
+w r i t e@s e n d _ m e s s a g e _ a n o t h e r _ u s e r
+i p t a b l e s - r e s t o r e@u s e d _ r e s t o r e _ i p _ t a b l e s _ d a t a _ s p e c i f i e d _ i n p u t _ f i l e
+g r e p@s e a r c h e s _ i n p u t _ f i l e s _ g i v e n _ p a t t e r n _ d i s p l a y s _ r e l e v a n t _ l i n e s
+b s h@e q u i v a l e n t _ a s h
+p s t r e e@d i s p l a y _ t r e e _ p r o c e s s e s
+p s@p r o c e s s _ s t a t u s
+l a s t l o g@p r i n t s _ l a s t _ l o g i n _ t i m e s _ u s e r s
+g r o u p a d d@c r e a t e _ n e w _ g r o u p _ s y s t e m
+m f o r m a t@u s e d _ a d d _ m s _ d o s _ f i l e s y s t e m _ l o w _ l e v e l _ f o r m a t t e d _ f l o p p y _ d i s k
+d a t e@p r i n t s _ s e t s _ s y s t e m _ d a t e _ t i m e
+g p g v@v e r i f y _ o p e n p g p _ s i g n a t u r e s
+c h k c o n f i g@m a n a g e _ e x e c u t i o n _ r u n l e v e l _ s e r v i c e s
+d i f f 3@i s t h e _ c o m m a n d _ p r e v i o u s _ o n e _ t h r e e _ f i l e s
+y p c a t@s h o w s _ n i s _ m a p _ d a t a b a s e _ s p e c i f i e d _ m a p n a m e _ p a r a m e t e r
+l a s t@g e n e r a t e _ l i s t i n g _ u s e r _ l o g i n s
+i n s m o d@u s e d _ r o o t _ i n s t a l l _ m o d u l a r _ d e v i c e _ d r i v e r s
+r x v t@t e r m i n a l _ p r o g r a m _ s i m i l a r _ x t e r m _ l e s s _ f e a t u r e s _ u s e s _ l e s s _ m e m o r y
+u n a m e@d i s p l a y s _ i n f o r m a t i o n _ s y s t e m
+s t t y@s e t _ o p t i o n s _ t e r m i n a l
+c u t@d i v i d e _ f i l e _ s e v e r a l _ p a r t s
+l p r i n t d@u s e _ a b o r t _ o n g o i n g _ p r i n t _ j o b
+n a m e d@i n t e r n e t _ d o m a i n _ n a m e _ s e r v e r
+l o g i n@c r e a t e _ n e w _ s e s s i o n _ s y s t e m
+r s y n c@f a s t _ v e r s a t i l e _ r e m o t e _ l o c a l _ f i l e _ c o p y i n g _ t o o l
+p u s h d@s a v e _ c h a n g e _ c u r r e n t _ d i r e c t o r y
+s k i l l@s e n d _ s i g n a l _ p r o c e s s e s
+c h k c o n f i g@s y s t e m _ s e r v i c e s _ r u n l e v e l
+c h o w n@c h a n g e _ f i l e _ o w n e r s h i p
+k i l l@s e n d _ k i l l _ t e r m i n a t i o n _ s i g n a l _ o n e _ p r o c e s s e s
+d o s@i n v o k e _ d o s e m u _ d o s _ e m u l a t o r
+s l o c a t e@i s u s e d _ f i n d _ p a r t i c u l a r _ f i l e s
+c s p l i t@s e p a r a t e _ f i l e s _ s e c t i o n s
+u m o u n t@c o m m a n d w i l l _ u n m o u n t _ d e v i c e _ s y s t e m
+t e l n e t d@s e r v e r _ t e l n e t _ p r o t o c o l
+r e p q u o t a@r e p o r t _ d i s k _ u s a g e _ q u o t a s _ s p e c i f i e d _ f i l e s y s t e m
+l e s s@o p p o s i t e
+z m o r e@d i s p l a y s _ o u t p u t _ c o m p r e s s e d _ f i l e _ u s i n g _ c o m m a n d _ t e r m i n a l _ o n e _ p a g e _ t i m e
+u u d e c o d e@d e c o d e _ f i l e _ c r e a t e d _ u u e n c o d e
+m a g i c f i l t e r@g e n e r a l _ p u r p o s e _ p r i n t e r _ f i l t e r
+i c o n v@p e r f o r m _ c h a r a c t e r _ s e t _ c o n v e r s i o n
+f a l s e@n o t h i n g _ u n s u c c e s s f u l l y
+g r o u p a d d@a d d _ u s e r _ s e c u r i t y _ g r o u p
+t a i l@c o p y _ l a s t _ p a r t _ f i l e
+s o u r c e@r u n _ c o m m a n d s _ f i l e
+r e v@r e v e r s e _ l i n e s _ f i l e
+t e e@c o p y _ s t a n d a r d _ i n p u t _ s t a n d a r d _ o u t p u t _ o n e _ f i l e s
+m d 5 s u m@c o m p u t e _ c h e c k _ m d 5 _ m e s s a g e _ d i g e s t
+c d@c h a n g e _ w o r k i n g _ d i r e c t o r y
+s e t f o n t@l o a d _ e g a _ v g a _ c o n s o l e _ s c r e e n _ f o n t
+l a t e x@c o m p i l e _ l a t e x _ f i l e
+b i n d@s e t _ d i s p l a y _ r e a d l i n e _ k e y _ f u n c t i o n _ b i n d i n g s
+u n i q@u n i q u i f y _ f i l e s
+t h e@c _ o p t i o n _ l i l o _ l i l o _ u s e _ l i l o
+a l i@l i s t _ m a i l _ a l i a s e s
+p r i n t f@f o r m a t t e d _ o u t p u t _ c o n v e r s i o n
+p a t c h@a p p l y _ c h a n g e s _ f i l e s
+s e t@s e t _ d i s p l a y _ v a l u e _ s h e l l _ v a r i a b l e s
+u s e r a d d@c r e a t e _ n e w _ u s e r _ u p d a t e _ d e f a u l t _ n e w _ u s e r _ i n f o r m a t i o n
+c u t@r e m o v e _ s e c t i o n s _ l i n e _ f i l e s
+x i n e t d@e x t e n d e d _ i n t e r n e t _ s e r v i c e s _ d a e m o n _ w o r k s _ s i m i l a r _ i n e t d
+r e b o o t@r e s t a r t _ m a c h i n e
+j o b s@l i s t s _ j o b s _ a c t i v e
+z i c@c r e a t e s _ t i m e _ c o n v e r s i o n _ i n f o r m a t i o n _ f i l e s _ u s i n g _ s p e c i f i e d _ i n p u t _ f i l e s
+h w c l o c k@v a r i a b l e s _ a f f e c t _ b e h a v i o u r _ h w c l o c k _ b o o t _ s c r i p t
+p s 2 f r a g@o b s o l e t e _ s h e l l _ s c r i p t _ p s f r a g _ s y s t e m
+r e a d a r r a y@r e a d s _ s t d i n _ a r r a y _ v a r i a b l e
+a u t o r e c o n f@u p d a t e _ g e n e r a t e d _ c o n f i g u r a t i o n _ f i l e s
+e v a l@e v a l u a t e s _ m a n y _ c o m m a n d s
+k i l l@s e n d _ s i g n a l _ p r o c e s s
+e x e c@e x e c u t i n g _ c o m m a n d
+d e c l a r e@u s e d _ d e c l a r e _ v a r i a b l e s _ a s s i g n _ a t t r i b u t e s
+d u@r e p o r t _ d i s k _ s p a c e _ u s e d _ f i l e _ d i r e c t o r y
+t o u c h@c h a n g e s _ f i l e _ t i m e s t a m p s
+q s i g@s i g n a l _ p b s _ b a t c h _ j o b
+l f t p@f t p _ u t i l i t y _ e x t r a _ f e a t u r e s
+y e s@o u t p u t _ a n o t h e r _ s t r i n g
+z h a r f@a f t e r s t e p _ b u t t o n _ p a n e l _ m o d u l e
+f c - l i s t@s h o w _ l i s t _ a v a i l a b l e _ f o n t s
+r m a i l@h a n d l e _ r e m o t e _ m a i l _ r e c e i v e d _ v i a _ u u c p
+s o f t w a r e u p d a t e@s y s t e m _ s o f t w a r e _ u p d a t e _ t o o l
+m k f s@m a k e _ f i l e s y s t e m _ d r i v e
+y e s@r e p e a t e d l y _ o u t p u t _ l i n e _ s p e c i f i e d _ s t r i n g _ k i l l e d
+c h m o d@c h a n g e _ a c c e s s _ p e r m i s s i o n s
+p k i l l@s t o p s _ p r o c e s s e s _ r u n n i n g
+s c r e e n@u s e _ r u n _ r e m o t e _ s h e l l s _ u s i n g _ s s h
+n o t i f y - s e n d@p r o g r a m _ s e n d _ d e s k t o p _ n o t i f i c a t i o n s
+d e c l a r e@d e c l a r e _ v a r i a b l e s _ g i v e _ a t t r i b u t e s
+f i l e@d e t e r m i n e _ t y p e _ f i l e
+s c r e e n@t e r m i n a l _ w i n d o w _ m a n a g e r
+e 2 i m a g e@s t o r e _ i m p o r t a n t _ e x t 2 _ e x t 3 _ e x t 4 _ f i l e s y s t e m _ m e t a d a t a _ f i l e
+m o u n t@m o u n t _ f i l e _ s y s t e m
+h i s t o r y@g n u _ h i s t o r y _ l i b r a r y
+c l e a r@c l e a r _ t e r m i n a l _ s c r e e n
+p r i n t c a p@p r i n t e r _ c a p a b i l i t y d a t a b a s e
+m k d i r@c r e a t e s _ d i r e c t o r i e s
+r m d i r@r e m o v e _ d i r e c t o r i e s _ e m p t y
+w c@p r i n t _ n e w l i n e _ w o r d _ b y t e _ c o u n t _ s p e c i f i e d _ f i l e s
+d l p s h@i n t e r a c t i v e _ d e s k t o p _ l i n k _ p r o t o c o l _ d l p _ s h e l l _ p a l m o s
+e d@l i n e _ o r i e n t e d _ t e x t _ e d i t o r _ e d l i n
+c h m o d@c h a n g e s _ p e r m i s s i o n s _ f i l e _ d i r e c t o r y
+u u x@r e m o t e _ c o m m a n d _ e x e c u t i o n
+i f u p@s t a r t _ n e t w o r k _ i n t e r f a c e
+e x p o r t@c o m m a n d _ s e t s _ e n v i r o n m e n t _ v a r i a b l e
+s o r t@s o r t _ t e x t _ f i l e s
+m v@u s e d _ m o v i n g _ r e n a m i n g _ f i l e s a n d _ d i r e c t o r i e s
+l e t@u s e d _ p e r f o r m _ i n t e g e r _ a r t i t h m e t i c _ s h e l l _ v a r i a b l e s
+i s o v f y@v e r i f i e s _ i n t e g r i t y _ i s o 9 6 6 0 _ i m a g e
+l o g o u t@e x i t _ l o g i n _ s h e l l _ b y e
+e x e c@e x e c u t e s _ c o m m a n d
+d i r c o l o r s@c o m m a n d _ i s u s e d _ c o l o u r _ s e t u p _ l s _ c o m m a n d
+s u s p e n d@s u s p e n d s _ e x e c u t i o n _ c u r r e n t _ s h e l l
+d d r e s c u e@l i k e _ s u c h c o m m a n d s _ d i s k _ r e c o v e r y _ t o o l
+z i p@f i l e _ c o m p r e s s i o n _ p a c k a g i n g _ u t i l i t y
+r u n d i g@s a m p l e _ s c r i p t _ c r e a t e _ s e a r c h _ d a t a b a s e _ h t _ d i g
+a l i a s@c r e a t i n g _ a l i a s _ w a n t
+f i x p s@t r y _ f i x _ c o m m o n _ p o s t s c r i p t _ p r o b l e m s _ b r e a k _ p o s t p r o c e s s i n g
+d f@g i v e s _ f r e e _ s p a c e _ d i s k
+p a s t e@m e r g e s _ l i n e s _ f i l e s
+t e s t@c h e c k _ f i l e _ t y p e _ c o m p a r e _ v a l u e s
+d i r c o l o r s@s e t _ c o l o r s _ 8 2 1 6 _ l s _ a l t e r i n g _ l s _ c o l o r s _ e n v i r o n m e n t _ v a r i a b l e
+c f d i s k@d i s p l a y _ m a n i p u l a t e _ d i s k _ p a r t i t i o n _ t a b l e
+t p u t@m o d i f y _ t e r m i n a l _ d e p e n d e n t _ c a p a b i l i t i e s _ c o l o r _ e t c
+f c - c a c h e@b u i l d _ f o n t _ i n f o r m a t i o n _ c a c h e _ f i l e s
+n t f s . u t i l@n t f s _ f i l e _ s y s t e m _ u t i l i t y
+j o i n@j o i n _ l i n e s _ t w o _ f i l e s _ c o m m o n _ f i e l d
+t i m e@m e a s u r e _ l o n g _ p r o g r a m _ t a k e s _ r u n
+b z m o r e@u s e d _ a p p l y _ 8 2 1 6 _ i n f e r i o r _ v e r s i o n _ l e s s _ b z i p 2 _ c o m p r e s s e d _ f i l e s
+h t o p@i n t e r a c t i v e _ p r o c e s s _ v i e w e r
+s h u t d o w n@h a l t _ p o w e r _ r e b o o t _ m a c h i n e
+i n s t a l l@u s e d _ c o p y _ f i l e s _ s p e c i f i e d _ l o c a t i o n s _ s e t _ a t t r i b u t i o n s _ i n s t a l l _ p r o c e s s
+a l s a c t l@a c c e s s _ a d v a n c e d _ c o n t r o l s _ a l s a _ s o u n d c a r d _ d r i v e r
+z d i f f@r e a d _ c o m p r e s s e d _ f i l e s _ p a s s _ d i f f
+i f u p@s t a r t s _ n e t w o r k _ i n t e r f a c e _ a p p
+w a t c h@c o m m a n d _ d i s p l a y _ e x e c u t e _ p r o g r a m p e r i o d i c a l l y
+t a c@c o n c a t e n a t e _ p r i n t _ f i l e s _ r e v e r s e _ o r d e r _ o p p o s i t e _ c a t _ c o m m a n d
+r e m s y n c@s y n c h r o n i z e _ r e m o t e _ f i l e s _ e m a i l
+m o r e@d i s p l a y _ f i l e s _ p a g e _ p a g e _ b a s i s
+t o p@s e e _ p r o c e s s e s _ u s i n g _ c p u _ m e m o r y _ s h o w _ s y s t e m _ m e m o r y _ c p u _ s t a t s
+t y p e@d e s c r i b e _ c o m m a n d
+l p c@l i n e _ p r i n t e r _ c o n t r o l _ p r o g r a m _ p r o v i d e s _ l i m i t e d _ c o n t r o l _ c u p s _ p r i n t e r _ c l a s s _ q u e u e s
+e x@v i _ i m p r o v e d _ p r o g r a m m e r s _ t e x t _ e d i t o r
+l d d@l i s t _ s h a r e d _ l i b r a r i e s _ g i v e n _ e x e c u t a b l e _ d e p e n d s _ l o c a t e d
+c h m o d@c h a n g e _ a c c e s s _ p e r m i s s i o n _ f i l e
+g r o u p s@p r i n t _ g r o u p s _ u s e r
+h d p a r m@g e t _ s e t _ h a r d d i s k _ p a r a m e t e r s
+d u m p k e y s@d u m p _ k e y b o a r d _ t r a n s l a t i o n _ t a b l e s
+u n l i n k@r e m o v e s _ s p e c i f i e d _ f i l e _ u s i n g _ u n l i n k _ f u n c t i o n
+x w u d@i m a g e _ d i s p l a y e r _ x
+n e t s t a t@p r o v i d e s _ i n f o r m a t i o n _ n e t w o r k i n g
+e x p e c t@p r o g r a m _ t a l k s _ i n t e r a c t i v e _ p r o g r a m s _ a c c o r d i n g _ s c r i p t
+d a t e@u s e _ c o m m a n d _ c h a n g e _ d a t e _ t i m e
+w h e r e i s@l o c a t e _ b i n a r y _ s o u r c e _ m a n u a l _ p a g e _ f i l e s _ c o m m a n d
+f o r@l o o p _ c o m m a n d
+t m u t i l@t i m e _ m a c h i n e _ u t i l i t y
+t o p@d i s p l a y s _ r e a l _ t i m e _ v i e w _ p r o c e s s e s _ r u n n i n g _ s y s t e m
+m a i l s t a t s@s h o w s _ c u r r e n t _ m a i l _ s t a t i s t i c s
+t e x t u t i l@m a n i p u l a t e _ t e x t _ f i l e s _ v a r i o u s _ f o r m a t s _ d o c _ h t m l _ r t f
+m k d i r@c r e a t e _ d i r e c t o r y
+m i n f o@d i s p l a y _ p a r a m e t e r s _ m s _ d o s _ f i l e s y s t e m
+d v i p s@c o n v e r t _ t e x _ d v i _ f i l e _ p o s t s c r i p t
+b a s h@g n u _ b o u r n e _ s h e l l
+a c p i _ a v a i l a b l e@t e s t _ w h e t h e r _ a c p i _ s u b s y s t e m _ a v a i l a b l e
+p l u t i l@p r o p e r t y _ l i s t _ u t i l i t y
+t r u e@n o t h i n g _ s u c c e s s f u l l y
+a u d i o s e n d@u s e d _ s e n d _ a u d i o _ r e c o r d i n g _ e m a i l
+r u p@r e m o t e _ s t a t u s _ d i s p l a y _ s h o w s _ c u r r e n t _ s y s t e m _ s t a t u s _ s p e c i f i e d _ h o s t s _ l o c a l _ n e t w o r k
+q s e l e c t@s e l e c t _ b a t c h _ j o b s
+u n i q@u n i q u i f y _ f i l e s _ r e m o v e _ d u p l i c a t e _ l i n e s
+g p a s s w d@a l l o w s _ a d m i n i s t r a t o r _ c h a n g e _ g r o u p _ p a s s w o r d s
+a s a p m@a f t e r s t e p _ l a p t o p _ a d v a n c e d _ p o w e r _ m a n a g e m e n t _ u t i l i t y
+c k s u m@c h e c k s u m _ c o u n t _ b y t e s _ f i l e
+s a c t@p r i n t _ c u r r e n t _ s c c s _ f i l e _ e d i t i n g _ a c t i v i t y
+e g r e p@s e a r c h e s _ f i l e s _ l i n e s _ m a t c h i n g _ e x t e n d e d e x p r e s s i o n
+s u@c h a n g e _ u s e r _ i d _ b e c o m e _ s u p e r u s e r
+f i l e@o p e r a t i o n s _ c p _ c o p i e s _ f i l e _ d i r e c t o r y
+f a c t o r@d i s p l a y _ p r i m e _ f a c t o r s _ s p e c i f i e d _ i n t e g e r _ n u m b e r s
+s y m l i n k@c r e a t e _ s y m b o l i c _ l i n k _ f i l e
+f t p@f i l e _ t r a n s f e r _ p r o t o c o l
+t e s t@c h e c k _ f i l e _ t y p e s _ c o m p a r e _ v a l u e s
+u s e r s@o u t p u t _ c u r r e n t l y _ l o g g e d _ a c c o r d i n g _ s y s t e m _ r e c o r d s
+f t p@f i l e _ t r a n s f e r _ p r o t o c o l _ u s e r _ i n t e r f a c e
+w h i c h@l o c a t e _ c o m m a n d
+e j e c t@e j e c t _ r e m o v a b l e _ m e d i a
+y p p u s h@f o r c e s _ s l a v e _ n i s _ s e r v e r s _ c o p y _ u p d a t e d _ n i s _ m a p s
+i s p e l l@c l i _ b a s e d _ s p e l l _ c h e c k _ u t i l i t y
+m k d i r@c r e a t e _ n e w _ f o l d e r
+f g r e p@s e a r c h _ f i l e _ l i n e s _ m a t c h _ f i x e d _ s t r i n g
+t e l n e t@t e l n e t _ p r o t o c o l _ u s e r _ i n t e r f a c e _ u s e d _ i n t e r a c t _ a n o t h e r _ h o s t _ u s i n g _ t e l n e t
+d v i p s@s e n d _ d v i _ f i l e _ p o s t s c r i p t _ p r i n t e r _ p o s t s c r i p t _ c a p a b l e _ l a s e r j e t _ p r i n t e r _ f i l e
+m m v@m a s s _ m o v e _ r e n a m e _ f i l e s
+b u i l t i n@u s e d _ r u n _ s h e l l _ b u i l t i n _ c o m m a n d s _ m a k e _ c u s t o m _ f u n c t i o n s _ c o m m a n d s _ e x t e n d i n g _ f u n c t i o n a l i t y
+t u n e l p@s e t _ v a r i o u s _ p a r a m e t e r s _ l i n e _ p r i n t e r _ d e v i c e s
+u n c o m p r e s s@e x p a n d _ c o m p r e s s e d _ d a t a
+w a i t@c o m m a n d _ d i r e c t s _ s y s t e m _ w a i t _ p r o c e s s _ t o f i n i s h
+t r a c e r o u t e@t r a c e s _ r o u t e _ t a k e n _ p a c k e t s _ r e a c h _ n e t w o r k _ h o s t
+d f@s h o w s _ d i s k _ f r e e _ s p a c e _ f i l e _ s y s t e m s
+d f@s h o w _ a m o u n t _ d i s k _ s p a c e _ f r e e
+s t t y@c h a n g e _ p r i n t _ t e r m i n a l _ l i n e _ s e t t i n g s
+s e t@g i v e _ v a l u e s _ v a r i a b l e _ d e l e t e _ v a r i a b l e
+m k d i r@m a k e _ d i r e c t o r i e s
+d o m a i n n a m e@s h o w _ s e t _ s y s t e m _ n i s _ y p _ d o m a i n _ n a m e
+u n a m e@p r i n t s _ s y s t e m _ i n f o r m a t i o n
+d e a l l o c v t@d e a l l o c a t e _ u n u s e d _ v i r t u a l _ c o n s o l e s
+u n s e t@r e m o v e s _ v a r i a b l e _ f u n c t i o n
+d d@u s e d _ c o n v e r t _ c o p y _ f i l e _ c r e a t e _ d i s k _ c l o n e _ w r i t e _ d i s k _ h e a d e r s _ e t c
+s c r e e n@m u l t i p l e x _ t e r m i n a l _ r u n _ r e m o t e _ s h e l l s _ v i a _ s s h
+s s h - k e y g e n@a u t h e n t i c a t i o n _ k e y _ g e n e r a t i o n _ m a n a g e m e n t _ c o n v e r s i o n
+c h m o d@c h a n g e _ p e r m i s s i o n s _ f i l e _ g r o u p _ f i l e s
+l a t e x@s t r u c t u r e d _ t e x t _ f o r m a t t i n g _ t y p e s e t t i n g
+e v a l@e v a l u a t e _ s e v e r a l _ c o m m a n d s _ a r g u m e n t s
+s i p s@s c r i p t a b l e _ i m a g e _ p r o c e s s i n g _ s y s t e m
+s e t u i d@s e t _ i d _ p r o g r a m _ r u n
+t r u e@e x i t _ s t a t u s _ c o d e _ i n d i c a t i n g _ s u c c e s s
+m d e l ,   m d e l t r e e@u s e d _ d e l e t e _ m s _ d o s _ f i l e _ m d e l t r e e _ r e c u r s i v e l y _ d e l e t e s _ m s _ d o s _ d i r e c t o r y _ c o n t e n t s
+s t r a c e@u s e d _ t r a c e _ s i g n a l s _ a n d s y s t e m _ c a l l s
+x c l i p b o a r d@n a m e _ s a y s
+e n v@d i s p l a y s _ m o d i f i e s _ e n v i r o n m e n t _ v a r i a b l e s
+l n@c r e a t e s _ l i n k _ f i l e
+x s e t r o o t@r o o t _ w i n d o w _ p a r a m e t e r _ s e t t i n g _ u t i l i t y _ x
+v r f y@q u e r y _ r e m o t e _ h o s t _ v e r i f y _ a c c u r a c y _ e m a i l _ a d d r e s s
+u m a s k@e s t a b l i s h e s _ f i l e
+r e j e c t@a c c e p t _ r e j e c t _ j o b s _ s e n t _ d e s t i n a t i o n
+b z i p 2@c o m p r e s s e s _ d e c o m p r e s s e s _ f i l e s
+x m o d m a p@u t i l i t y _ m o d i f y i n g _ k e y m a p s _ p o i n t e r _ b u t t o n _ m a p p i n g s _ x
+y p x f r@t r a n s f e r s _ n i s _ s e r v e r _ m a p _ s e r v e r _ l o c a l _ h o s t
+l o c a l@c r e a t e _ v a r i a b l e s
+l s m o d@u s e d _ r o o t _ s h o w _ k e r n e l _ m o d u l e s _ c u r r e n t l y _ l o a d e d
+t i m e@m e a s u r e _ p r o g r a m _ r e s o u r c e _ u s e
+h o s t i d@p r i n t s _ n u m e r i c _ i d e n t i f i e r _ c u r r e n t _ h o s t
+r e x e c@r e t u r n _ s t r e a m _ r e m o t e _ c o m m a n d
+r e a d@c o m m a n d s _ u s e d _ r e a d i n g _ l i n e f r o m _ s t a n d a r d _ i n p u t
+l p i n f o@s h o w s _ l i s t _ a v a i a b l e _ d e v i c e s _ d r i v e r s _ k n o w n _ c u p s _ s e r v e r
+h a l t@s t o p _ s y s t e m
+s h o w k e y@e x a m i n e _ c o d e s _ s e n t _ k e y b o a r d
+f o l d@w r a p s _ i n p u t _ l i n e _ f i t _ s p e c i f i e d _ w i d t h
+t r@d e l e t e s _ c h a r a c t e r s _ t r a n s l a t e s _ s q u e e z e s
+t a r@u n i x _ a r c h i v i n g _ d e _ a r c h i v i n g _ p r o g r a m
+l d c o n f i g@c o n f i g u r e _ d y n a m i c _ l i n k e r _ r u n _ t i m e _ b i n d i n g s
+n e t s t a t@s h o w _ n e t w o r k _ i n f o r m a t i o n
+r l o g@p r i n t s _ s u m m a r y _ h i s t o r y _ r c s _ f i l e
+p v@m o n i t o r _ p r o g r e s s _ d a t a _ p i p e
+e f i x@c o n v e r t _ f a x _ t e x t _ b i t
+u s e r s@p r i n t s _ l i s t _ u s e r s _ s y s t e m
+l p r m@r e m o v e s _ j o b s _ p r i n t _ q u e u e
+u s e r s@l i s t _ u s e r s _ c u r r e n t l y _ l o g g e d
+r e b o o t@s t o p _ s y s t e m _ p o w e r o f f _ r e b o o t
+h w c l o c k@u s e d _ q u e r y _ s e t _ h a r d w a r e _ c l o c k
+w a i t@w a i t _ p r o c e s s _ c o m p l e t e
+b z c m p@c o m p a r e _ b z i p 2 _ c o m p r e s s e d _ f i l e s
+i s o d u m p@u t i l i t y _ s h o w s _ c o n t e n t _ i s o 9 6 6 0 _ i m a g e s _ v e r i f y _ i n t e g r i t y _ d i r e c t o r y _ c o n t e n t s
+u n c o m p r e s s@u n c o m p r e s s _ f i l e s _ c o m p r e s s e d _ c o m p r e s s _ c o m m a n d
+t a r@s t o r e _ l i s t _ e x t r a c t _ f i l e s _ a r c h i v e
+a r c h@p r i n t _ m a c h i n e _ a r c h i t e c t u r e _ t y p e
+c r o n t a b@s c h e d u l e _ c o m m a n d _ r u n _ l a t e r _ t i m e
+g a w k@f i n d s _ t e x t _ w i t h i n _ f i l e s _ r e p l a c e s
+p e r l@p e r l _ 5 _ l a n g u a g e _ i n t e r p r e t e r
+s p l i t@s p l i t s _ f i l e _ p i e c e s
+u s e r d e l@d e l e t e _ u s e r _ a c c o u n t _ r e l a t e d _ f i l e s
+f s c k@i s u s e d _ c h e c k i n g _ c o n s i s t e n c y _ f i l e _ s y s t e m _ r e p a i r i t
+d i f f@o u t p u t _ d i f f e r e n c e s _ t w o _ f i l e s
+g r e p@p r i n t _ l i n e s _ m a t c h i n g _ p a t t e r n
+e n v s u b s t@s u b s t i t u t e _ e n v i r o n m e n t _ v a r i a b l e _ v a l u e s _ s h e l l _ f o r m a t _ s t r i n g s
+h e a d@d i s p l a y s _ f i r s t _ p a r t _ f i l e
+s t a r t x@f r o n t _ e n d _ x i n i t _ l i n u x
+p b c o p y@c o p y _ d a t a _ c l i p b o a r d
+p r@p r e p a r e _ f i l e s _ f o r p r i n t i n g _ u s i n g
+u l@t r a n s l a t e _ u n d e r s c o r e s _ u n d e r l i n i n g
+g r o u p d e l@u s e d _ r e m o v e _ u s e r _ g r o u p
+e x p r@e v a l u a t e _ e x p r e s s i o n s
+f i n d@f i n d _ f i l e s _ m a t c h _ d e s i r e d _ c r i t e r i a
+z i p i n f o@l i s t _ d e t a i l e d _ i n f o r m a t i o n _ z i p _ a r c h i v e
+x z@c o m p r e s s _ d e c o m p r e s s _ x z _ l z m a _ f i l e s
+a c r o r e a d@a d o b e _ u t i l i t y _ v i e w i n g _ p d f _ f i l e s
+s c p@s e c u r e _ c o p y _ r e m o t e _ f i l e _ c o p y
+l o c a t e@s e a r c h _ f i l e s _ n a m e _ e n t i r e _ s y s t e m
+j o i n@j o i n _ l i n e s _ c o m m o n _ f i e l d
+c x r e f@g e n e r a t e _ c _ l a n g u a g e _ p r o g r a m _ c r o s s _ r e f e r e n c e _ t a b l e
+c o l r m@r e m o v e _ c o l u m n s _ f i l e
+f s c k@f i l e _ s y s t e m _ c o n s i s t e n c y _ c h e c k _ r e p a i r
+g p g s p l i t@s p l i t _ o p e n p g p _ m e s s a g e _ p a c k e t s
+c h g r p@c h a n g e _ g r o u p _ d e s i g n a t i o n _ f i l e
+l f t p g e t@u s e s _ l f t o p _ r e t r i e v e _ h t t p _ f t p _ p r o t o c o l _ u r l s _ s u p p o r t e d _ l f t p
+w a i t@a w a i t _ p r o c e s s _ c o m p l e t i o n
+m a k e@k e e p s _ s e t _ p r o g r a m s _ c u r r e n t
+h e a d@p r i n t _ f i r s t _ 1 0 _ l i n e s _ f i l e _ s t a n d a r d _ o u t p u t
+l o o k@d i s p l a y s _ l i n e s _ f i l e _ c o n t a i n _ s t r i n g _ p r e f i x
+f o r m a t@s i m p l y _ f o r m a t s _ t a p e s o r _ d i s k s
+p i n g@s e n d _ i c m p _ e c h o _ r e q u e s t _ n e t w o r k _ h o s t s
+v i@v i _ i m p r o v e d _ p r o g r a m m e r s _ t e x t _ e d i t o r
+s t r i p@d i s c a r d _ s y m b o l s _ o b j e c t _ f i l e s
+s s h - k e y s c a n@g a t h e r _ s s h _ p u b l i c _ k e y s
+c h a g e@u s e d _ c h a n g e _ u s e r _ p a s s w o r d _ i n f o r m a t i o n
+i d@d i s p l a y _ t h e g r o u p _ i d s _ u s e r _ i d s
+g u n z i p@c o m p r e s s _ e x p a n d _ f i l e s
+s e t e n v@c h a n g e _ a d d _ e n v i r o n m e n t _ v a r i a b l e
+q u o t a c h e c k@l e t s _ s c a n _ f i l e _ s y s t e m _ f i n d _ d i s k _ u s a g e
+g u n z i p@u s e d _ u n c o m p r e s s _ f i l e s _ c o m p r e s s e d _ g z i p
+c o m m@u s e d _ c o m p a r e _ t w o _ s o r t e d _ f i l e s _ l i n e _ l i n e
+a w k@f i n d _ r e p l a c e _ t e x t _ d a t a b a s e _ s o r t _ v a l i d a t e _ i n d e x
+c h d i r@u s e d _ c h a n g e _ a c t i v e _ w o r k i n g _ d i r e c t o r y
+t t y@r e t u r n _ u s e r _ t e r m i n a l _ n a m e
+z l e s s@f i l e _ p e r u s a l _ f i l t e r _ c r t _ v i e w i n g _ c o m p r e s s e d _ t e x t
+q m s g@s e n d _ m e s s a g e _ b a t c h _ j o b s
+e t h t o o l@e t h e r n e t _ c a r d s e t t i n g s
+d u@s h o w _ d i s k _ u s a g e _ s u m m a r y _ f i l e
+j o i n@j o i n s _ l i n e s _ t w o _ f i l e s _ c o m m o n _ f i e l d
+a p r o p o s@o n e s _ p r o v i d i n g _ h e l p
+g r e p@s e a r c h _ f i l e _ l i n e s _ m a t c h _ g i v e n _ p a t t e r n
+c i@c r e a t e s _ r e c o r d s _ c h a n g e s _ r c s _ f i l e
+s f d i s k@m o d i f i e d _ f d i s k _ p r o g r a m
+e d@g n u _ e d _ 8 2 1 1 _ l i n e _ o r i e n t e d _ t e x t _ e d i t o r
+b i n d@d i s p l a y _ r e a d l i n e _ k e y _ f u n c t i o n _ b i n d i n g s
+. p e r i o d@r u n _ c o m m a n d s _ f i l e
+k i l l@s e n d s _ s i g n a l _ e s p e c i a l l y _ t e r m i n a t e _ j o b _ p r o c e s s
+s h@s h e l l _ s t a n d a r d _ c o m m a n d _ l a n g u a g e _ i n t e r p r e t e r
+p d f 2 d s c@g e n e r a t e _ p o s t s c r i p t _ p a g e _ l i s t _ p d f _ d o c u m e n t
+w a i t@w a i t s _ s p e c i f i e d _ p r o c e s s _ i d _ t e r m i n a t e _ r e t u r n s _ t e r m i n a t i o n _ s t a t u s
+g r o u p d e l@o n e i s _ u s e d _ d e l e t i n g _ c e r t a i n _ g r o u p
+m a i l x@p r o c e s s _ m e s s a g e s
+e 2 i m a g e@s a v e _ c r i t i c a l _ e x t 2 _ e x t 3 _ e x t 4 _ f i l e s y s t e m _ m e t a d a t a _ f i l e
+b u n z i p 2@u n z i p _ b z 2 _ f i l e s
+i d@r e t u r n _ u s e r _ i d e n t i t y
+m e s g@e n a b l e s _ d i s a b l e s _ r e c e p t i o n _ m e s s a g e s
+d i s k u t i l@d i s k _ u t i l i t i e s _ f o r m a t _ v e r i f y _ r e p a i r
+w h i c h@s e a r c h _ u s e r _ p a t h _ p r o g r a m _ f i l e
+s e q@o u t p u t s _ s e q u e n c e _ i n t e g e r s _ u s e d _ l o o p s
+s e t u p@s e t u p _ d e v i c e s _ f i l e s y s t e m s _ m o u n t _ r o o t _ f i l e s y s t e m
+h a l t@s t o p _ r e s t a r t _ o p e r a t i n g _ s y s t e m
+l o o k@d i s p l a y _ l i n e s _ b e g i n n i n g _ g i v e n _ s t r i n g
+r e v@c o m m a n d _ r e v e r s e s t h e _ l i n e s _ f i l e
+p a s t e@j o i n s _ c o r r e s p o n d i n g _ l i n e s _ f i l e s
+z c m p@c o m p a r e _ c o m p r e s s e d _ f i l e s
+s c r e e n@r u n _ r e m o t e _ s h e l l s _ u s i n g _ s s h
+s e t s e r i a l@g e t _ s e t _ l i n u x _ s e r i a l _ p o r t _ i n f o
+f m t@s i m p l e _ t e x t _ f o r m a t t i n g _ u t i l i t y
+i f c o n f i g@u s e d _ c o n f i g u r e _ n e t w o r k _ i n t e r f a c e s
+h o s t i d@s h o w s _ h o s t _ n u m e r i c _ i d _ h e x a d e c i m a l _ f o r m a t
+l i n u x c o n f@i n t e r a c t i v e _ t o o l _ c o n f i g u r i n g _ l i n u x _ s y s t e m
+g r o u p a d d@c r e a t e _ n e w _ g r o u p
+p r i n t e n v@l i s t _ e n v i r o n m e n t _ v a r i a b l e s
+m t r@n e t w o r k _ d i a g n o s t i c s _ t r a c e r o u t e _ p i n g
+c h g r p@c h a n g e s _ g r o u p _ a s s o c i a t e d _ f i l e
+a u t o u p d a t e@u p d a t e _ c o n f i g u r e _ f i l e _ n e w e r _ a u t o c o n f
+n e w u s e r s@u p d a t e _ c r e a t e _ n e w _ u s e r s _ b a t c h
+t a r@c o m m a n d _ u s e d _ o r d e r _ s t o r e _ l i s t _ o r e x t r a c t _ f i l e s _ a r c h i v e
+l n@m a k e _ l i n k s _ f i l e s _ h a r d _ l i n k s _ s y m b o l i c _ l i n k s
+f i n d@f i l e _ s e a r c h _ d i r e c t o r y _ h i e r a r c h y
+m v@m o v e _ r e n a m e _ f i l e s
+u n i q@r e m o v e _ d u p l i c a t e _ l i n e s _ s o r t e d _ f i l e
+c o m m a n d@e x e c u t e _ s i m p l e _ c o m m a n d
+c s p l i t@s p l i t _ f i l e _ s e c t i o n s _ d e t e r m i n e d _ c o n t e x t _ l i n e s
+w r i t e@s e n d s _ m e s s a g e s _ u s e r s
+a c p i d@i n f o r m s _ u s e r _ s p a c e _ p r o g r a m s _ a c p i _ e v e n t s
+l s b o m@l i s t _ b i l l _ m a t e r i a l s _ f i l e
+r e a d c d@r e a d _ w r i t e _ c o m p a c t _ d i s k s
+p i d o f@f i n d _ p r o c e s s _ i d _ r u n n i n g _ p r o g r a m
+x m a n@b r o w s a b l e _ c o m m a n d _ r e f e r e n c e
+x m a n@m a n u a l _ p a g e _ d i s p l a y _ p r o g r a m _ x _ w i n d o w _ s y s t e m
+i p t a b l e s - s a v e@d u m p _ i p t a b l e s _ r u l e s _ s t d o u t
+u n a l i a s@r e m o v e _ a l i a s _ d e f i n i t i o n s _ s p e c i f i e d _ a l i a s _ n a m e s
+c r o n@d a e m o n _ e x e c u t e _ s c h e d u l e d _ c o m m a n d s _ p r e d e f i n e d _ t i m e
+r l o g i n d@a c t s _ s e r v e r _ r l o g i n _ f a c i l i t a t e s _ r e m o t e _ l o g i n _ a u t h e n t i c a t i o n _ b a s e d _ p r i v i l e g e d _ p o r t _ n u m b e r s _ t r u s t e d _ h o s t s
+s s h@s e c u r e _ s h e l l _ c o n n e c t i o n _ c o m m a n d
+q s t a t@s h o w _ s t a t u s _ p b s _ b a t c h _ j o b s
+s n i c e@r e s e t _ p r i o r i t y _ p r o c e s s e s
+m a k e@c o m m a n d _ u s e d _ r e c o m p i l i n g _ g r o u p _ p r o g r a m s
+e x e c@i n t e r a c t i v e _ l i n e _ b a s e d _ t e x t _ e d i t o r
+d u m p@b a c k u p _ u t i l i t y _ e x t 2 _ e x t 3 _ f i l e _ s y s t e m s
+d i r s@s h o w s _ l i s t _ d i r e c t o r i e s _ r e m e m b e r e d
+p r@c o n v e r t _ c o l u m n _ p a g i n a t e _ t e x t _ f i l e s _ p r i n t i n g
+n e t s t a t@s h o w _ n e t w o r k _ s t a t u s
+k i l l a l l@k i l l s _ p r o c e s s e s _ n a m e
+a p t@a d v a n c e d _ p a c k a g e _ t o o l _ p a c k a g e _ m a n a g e m e n t _ s y s t e m _ d e b i a n _ d e r i v a t i v e s
+f i n g e r@d i s p l a y _ i n f o r m a t i o n _ s p e c i f i e d _ u s e r i d _ u s e r i d s
+c h a t@a u t o m a t e d _ c o n v e r s a t i o n a l _ s c r i p t _ m o d e m
+c p@c o p y _ f i l e s _ d i r e c t o r i e s
+w h o a m i@p r i n t s _ c u r r e n t _ n a m e _ u s e r _ i d
+x l o a d@d i s p l a y s _ g r a p h i c _ s y s t e m _ l o a d
+c o m m@c o m p a r e s _ s o r t e d _ f i l e s
+l p r i n t d@a b o r t s _ o n g o i n g _ p r i n t _ j o b
+w c@w o r d _ c o u n t _ f i l e
+r e a d@r e a d _ l i n e _ s t a n d a r d _ i n p u t
+r d a t e@s e t _ s y s t e m _ d a t e _ t i m e _ f e t c h i n g _ i n f o r m a t i o n _ r e m o t e _ m a c h i n e
+u n i c o d e _ s t a r t@p u t _ k e y b o a r d _ c o n s o l e _ u n i c o d e _ m o d e
+a s p e l l@g o t _ b a d _ s p e l l i n g s _ u s e _ t h e s p e l l _ c h e c k e r
+s e t m e t a m o d e@d e f i n e _ k e y b o a r d _ m e t a _ k e y _ h a n d l i n g
+t r a c e p a t h@t r a c e s _ p a t h _ n e t w o r k _ h o s t _ d i s c o v e r i n g _ m t u _ m a x i m u m _ t r a n s m i s s i o n _ u n i t _ a l o n g _ p a t h
+c o n t i n u e@r e s u m e s _ n e x t _ i t e r a t i o n _ p a r t i c u l a r _ l o o p
+a r e c o r d@c o m m a n d _ l i n e _ s o u n d _ r e c o r d e r _ p l a y e r _ a l s a _ s o u n d c a r d _ d r i v e r
+u n i q@r e m o v e s _ d u p l i c a t e _ l i n e s _ s o r t e d _ f i l e
+c d@c h a n g e _ w o r k i n g _ d i r e c t o r y
+u m o u n t@d e t a c h e _ f i l e _ s y s t e m _ m e n t i o n e d _ f i l e _ h i e r a r c h y
+v i@s t a n d a r d _ s c r e e n _ o r i e n t e d _ u n i x _ e d i t o r
+p u s h d@p u s h e s _ a r g u m e n t _ o n t o _ t o p _ d i r e c t o r y _ s t a c k _ u s e s _ c d _ c h a n g e _ d i r e c t o r y
+c a t@c o n c a t e n a t e _ f i l e s _ p r i n t _ s t a n d a r d _ o u t p u t
+l o c a l e@g e t _ l o c a l e _ s p e c i f i c _ i n f o r m a t i o n
+a p t i t u d e@s e a r c h _ i n s t a l l _ s o f t w a r e _ p a c k a g e s _ d e b i a n _ u b u n t u
+s a y@c o n v e r t _ t e x t _ a u d i b l e _ s p e e c h
+h a s h@s h o w s _ p a t h _ c o m m a n d s _ e x e c u t e d _ s h e l l
+s h u t d o w n@s h u t s _ l i n u x _ r e s t a r t s
+b a d b l o c k s@s e a r c h _ d i s k _ p a r t i t i o n _ b a d _ s e c t o r s
+s u d o@a l l o w s _ i n d i v i d u a l _ u s e r s _ r o o t _ p e r m i s s i o n _ p e r f o r m _ s p e c i f i e d _ t a s k s
+m l a b e l@m a k e _ m s d o s _ v o l u m e _ l a b e l
+p w d@p r i n t _ w o r k i n g _ d i r e c t o r y
+u p t i m e@s h o w _ l o n g _ s y s t e m _ r u n n i n g
+m o r e@f i l e _ p e r u s a l _ f i l t e r _ c r t _ v i e w i n g
+p r@p r i n t _ f i l e s
+w r i t e@s e n d s _ m e s s a g e _ a n o t h e r _ u s e r _ l o g g e d _ c o m p u t e r
+s t r i n g s@p r i n t _ s t r i n g s _ p r i n t a b l e _ c h a r a c t e r s _ f i l e s
+l p@s e n d _ f i l e s _ p r i n t e r
+a p r o p o s@s e a r c h _ w h a t i s _ d a t a b a s e _ s t r i n g s
+f u n c t i o n@u s e d _ d e f i n e _ f u n c t i o n _ m a c r o s
+s c p@u s e d _ t o c r e a t e _ s e c u r e _ c o p y
+c h p a s s w d@u p d a t e _ p a s s w o r d _ b a t c h
+k e x t f i n d@l i s t _ k e r n e l _ e x t e n s i o n s
+m k d o s f s@c r e a t e _ m s _ d o s _ f i l e s y s t e m _ l i n u x
+b g@s e n d _ p r o c e s s e s _ b a c k g r o u n d
+t a s k s e t@s e t _ r e t r i e v e _ p r o c e s s _ c p u _ a f f i n i t y
+m v@m o v e _ r e n a m e _ f i l e s
+r e n i c e@c o m m a n d _ a l t e r s _ p r i o r i t y _ p r o c e s s e s _ r u n n i n g
+m k d i r@u s e d _ c r e a t e _ d i r e c t o r i e s
+z n e w@r e c o m p r e s s _ z _ f i l e s _ g z _ f i l e s
+c v s@c v s _ v e r s i o n _ c o n t r o l _ s y s t e m s
+l i n k s@s e e _ e l i n k s
+s y n c@s y n c h r o n i z e _ d a t a _ d i s k _ m e m o r y
+m 4@i m p l e m e n t a t i o n _ t r a d i t i o n a l _ u n i x _ m a c r o _ p r o c e s s o r
+f d i s k@p a r t i t i o n _ t a b l e m a n i p u l a t o r _ l i n u x _ s y s t e m s
+s u s p e n d@s u s p e n d _ e x e c u t i o n _ c u r r e n t _ s h e l l
+n e w g r p@c h a n g e _ n e w _ g r o u p _ f u n c t i o n a l i y _ s i m i l a r _ s g _ 1
+a s h@a s h _ c o m m a n d _ i n t e r p r e t e r _ s h e l l
+t c p d@a c c e s s _ c o n t r o l _ f a c i l i t y _ i n t e r n e t _ s e r v i c e s
+r e s e t@t e r m i n a l _ i n i t i a l i z a t i o n
+x l o a d@s y s t e m _ l o a d _ a v e r a g e _ d i s p l a y _ x
+g a w k@c o m m a n d _ u s e d _ f i n d _ t e x t _ w i t h i n _ f i l e s _ r e p l a c e i t
+r e a d e l f@s h o w s _ i n f o r m a t i o n _ e l f _ e x e c u t a b l e _ l i n k a b l e _ f o m r a t _ f i l e s
+b a d b l o c k s@s e a r c h _ d e v i c e _ b a d _ b l o c k s
+f s _ u s a g e@f i l e s y s t e m _ u s a g e _ p r o c e s s _ p a t h n a m e
+p i c o@t e x t _ e d i t o r _ c o m e s _ p i n e _ u n i v e r s i t y _ w a s h i n g t o n
+r i c h t e x t@v i e w _ 8 2 2 0 _ r i c h t e x t _ 8 2 2 1 _ a c s i i _ t e r m i n a l
+x v i d t u n e@v i d e o _ m o d e _ t u n e r _ x o r g
+s u m@c h e c k s u m s _ c o u n t s _ b l o c k s _ f i l e
+m m v@m a s s _ m o v e _ r e n a m e
+t y p e@d e s c r i b e _ c o m m a n d
+o b j d u m p@d i s p l a y _ i n f o r m a t i o n _ o b j e c t _ f i l e s
+m t o o l s@m a n i p u l a t i n g f i l e s _ m s _ d o s
+i p c a l c@c a l c u l a t e _ i p _ i n f o r m a t i o n _ h o s t
+a p r o p o s@d i s p l a y _ c o m m a n d _ n a m e s _ b a s e d _ k e y w o r d _ s e a r c h
+s e t k e y c o d e s@l o a d _ k e r n e l _ s c a n c o d e _ k e y c o d e _ m a p p i n g _ t a b l e _ e n t r i e s
+r e v@r e v e r s e _ l i n e s _ c h a r a c t e r w i s e
+p s 2 p d f w r@c o n v e r t _ p o s t s c r i p t _ p d f _ w i t h o u t _ s p e c i f y i n g _ c o m p a t i b i l i t y _ l e v e l _ u s i n g _ g h o s t s c r i p t
+u n a m e@p r i n t s _ s y s t e m _ i n f o r m a t i o n
+t r a c e r o u t e@p r i n t _ r o u t e _ p a c k e t s _ t a k e _ n e t w o r k _ h o s t
+w h o@d i s p l a y _ i n f o r m a t i o n _ c u r r e n t l y _ l o g g e d _ u s e r i d s
+f o l d@n a m e _ q u i t e _ s u g g e s t i v e _ w r a p s _ t e x t i n _ o r d e r _ f i t _ c e r t a i n _ w i d t h
+i n i t@u p s t a r t _ i n i t _ d a e m o n _ j o b _ c o n f i g u r a t i o n
+m a k e d b m@c r e a t e s _ n i s _ n e t w o r k _ i n f o r m a t i o n _ s e r v i c e s _ d a t a b a s e _ m a p
+s o u r c e@r u n _ c o m m a n d s _ s p e c i f i e d _ f i l e
+m k m a n i f e s t@m a k e s _ l i s t _ f i l e _ n a m e s _ d o s _ 8 _ 3 _ e q u i v a l e n t
+g i m p@i m a g e _ m a n i p u l a t i o n _ p a i n t _ p r o g r a m
+s d i f f@m e r g e _ t w o _ f i l e s _ i n t e r a c t i v e l y
+s h@s t a n d a r d _ u n i x _ s h e l l
+a c l o c a l@g n u _ a u t o c o n f
+f r e e@g i v e s _ u s e d _ f r e e _ m e m o r y _ s y s t e m _ a l o n g _ u s e f u l _ i n f o r m a t i o n
+x r a n d r@c h a n g e _ r e s o l u t i o n _ r u n n i n g _ x w i n d o w s _ c o m m a n d _ l i n e
+n e t@m a n a g e _ n e t w o r k _ r e s o u r c e s
+p e r l@p e r l _ 5 _ l a n g u a g e _ i n t e r p r e t e r
+b a s e n a m e@p a r s e _ p a t h n a m e _ c o m p o n e n t s
+l s@l i s t _ f i l e s _ d i r e c t o r y
+k b d _ m o d e@r e p o r t _ s e t _ k e y b o a r d _ m o d e _ r a w _ m e d i _ u m r a w _ x l a t e
+c l e a r@c l e a r s _ t e r m i n a l _ s c r e e n
+f o l d@w r a p _ t e x t _ f i t _ s p e c i f i e d _ w i d t h
+c p i o@c o p y _ f i l e s _ a r c h i v e s
+s u m@f i l e _ c h e k s u m s _ p r i n t e d _ u s i n g _ c o m m a n d
+i p c r m@r e m o v e _ c e r t a i n _ i p c _ r e s o u r c e s
+d u@s h o w s _ d i s k _ u s a g e _ f i l e _ s y s t e m s
+u n a m e@r e t u r n _ s y s t e m _ n a m e
+i p@r o u t i n g _ d e v i c e s _ t u n n e l s
+d d r e s c u e@d a t a _ r e c o v e r y _ t o o l
+n e t w o r k s e t u p@n e t w o r k _ s y s t e m _ p r e f e r e n c e s
+t m p w a t c h@r e c u r s i v e l y _ r e m o v e _ f i l e s _ d i r e c t o r i e s _ a c c e s s e d _ s p e c i f i e d _ p e r i o d _ t i m e
+a r p@u s e d _ m a k e _ c h a n g e s _ s y s t e m _ a r p _ c a c h e
+l o c a l@u s e d _ c r e a t e _ f u n c t i o n _ v a r i a b l e s
+r e t u r n@e x i t _ f u n c t i o n
+t i m e@r u n _ s p e c i f i e d _ p r o g r a m _ c o m m a n d _ g i v e n _ a r g u m e n t s
+a t@e x e c u t e _ c o m m a n d s _ l a t e r _ t i m e
+z g r e p@s e a r c h _ p o s s i b l y _ c o m p r e s s e d _ f i l e s _ r e g u l a r _ e x p r e s s i o n
+l p s t a t@d i s p l a y s _ s t a t u s _ i n f o r m a t i o n _ c u r r e n t _ c l a s s e s _ j o b s _ p r i n t e r s
+d v i l j@c o n v e r t _ t e x _ d v i _ f i l e _ p c l _ h p _ l a s e r j e t _ p r i n t e r s
+s u@b e c o m e _ s u p e r _ u s e r _ r o o t
+i p@d i s p l a y _ m a n i p u l a t e _ r o u t i n g _ d e v i c e s _ p o l i c y _ r o u t i n g _ t u n n e l s
+l o c a t e@f i n d _ f i l e s
+r u n l e v e l@s h o w s _ p r e v i o u s _ c u r r e n t _ s y s v _ r u n l e v e l
+e d@l i n e _ o r i e n t e d _ t e x t _ e d i t o r
+s s@d i s p l a y _ s o c k e t _ s t a t i s t i c s _ s i m i l a r _ n e t s t a t
+s l e e p@p a u s e _ g i v e n _ n u m b e r _ s e c o n d s _ m s
+s n i c e@s e n d _ s i g n a l _ r e p o r t _ p r o c e s s _ s t a t u s
+x a r g s@e x e c u t e s _ u t i l i t y _ p a s s e s _ c o n s t r u c t e d _ a r g u m e n t _ l i s t
+c u r l@u s e d _ t r a n s f e r _ d a t a _ s e r v e r _ u s i n g _ s u p p o r t e d _ p r o t o c o l s
+n e t c o n f i g@c o n f i g u r e _ n e t w o r k
+x r a n d r@x _ r e s i z e _ r o t a t e _ r e f l e c t i o n _ e x t e n s i o n
+b z l e s s@f i l e _ p e r u s a l _ f i l t e r _ c r t _ v i e w i n g _ b z i p 2 _ c o m p r e s s e d _ t e x t
+m d u@u s e d _ d i s p l a y _ a m o u n t _ s p a c e _ o c c u p i e d _ m s _ d o s _ d i r e c t o r y
+t r a c e p a t h 6@s e e _ t r a c e p a t h
+s p l i t@s p l i t _ f i l e _ f i x e d _ s i z e _ p i e c e s
+g r o u p s@s h o w s _ g r o u p s
+o d@v i e w _ b i n a r y _ f i l e s
+l s@l i s t _ d i r e c t o r y _ c o n t e n t s
+u s e r s@g i v e s _ l i s t _ u s e r s _ c u r r e n t l y _ l o g g e d
+p w u n c o n v@c o n v e r t _ s h a d o w _ p a s s w o r d s _ g r o u p s
+a u t o s c a n@g e n e r a t e _ p r e l i m i n a r y _ c o n f i g u r e
+r u s e r s@s h o w s _ l i s t _ u s e r s _ l o g g e d _ h o s t _ m a c h i n e s _ l o c a l _ n e t w o r k
+c l e a r@u s e d _ c l e a r _ t e r m i n a l _ w i n d o w
+m v@m o v e _ r e n a m e _ f i l e s _ d i r e c t o r i e s
+r w h o@r e p o r t s _ l o g g e d _ h o s t s _ l o c a l _ n e t w o r k
+b a t c h@s c h e d u l e _ c o m m a n d s _ e x e c u t e d _ b a t c h _ q u e u e
+p s 2 p d f 1 2@c o n v e r t _ p o s t s c r i p t _ p d f _ 1 _ 2 _ a c r o b a t _ 3 _ l a t e r _ c o m p a t i b l e _ u s i n g _ g h o s t s c r i p t
+w r i t e@d i s p l a y _ m e s s a g e _ u s e r _ t e r m i n a l
+l o c a l e d e f@c o m p i l e _ l o c a l e _ d e f i n i t i o n _ f i l e s
+t o p@l i s t _ p r o c e s s e s _ r u n n i n g _ s y s t e m
+m k d i r@c r e a t i n g _ d i r e c t o r i e s
+c o l r m@r e m o v e _ c o l u m n s _ l i n e s _ f i l e
+y t a l k@m u l t i
+e t h t o o l@u s e d _ q u e r y _ c o n t r o l _ n e t w o r k _ d r i v e r _ h a r d w a r e _ s e t t i n g s
+r o o t f l a g s@s h o w _ s e t _ f l a g s _ k e r n e l _ i m a g e
+c h r o o t@r u n _ c o m m a n d _ d i f f e r e n t _ r o o t _ d i r e c t o r y
+w i s h@s i m p l e _ w i n d o w i n g _ s h e l l
+g e n c a t@g e n e r a t e _ m e s s a g e _ c a t a l o g
+s e t@u s e d _ m a n i p u l a t e _ s h e l l _ v a r i a b l e s _ f u n c t i o n s
+f g@c o m m a n d _ u s e d _ f o r s e n d i n g _ t a s k _ f o r e g r o u n d
+u n i q@r e p o r t _ o m i t _ r e p e a t i n g _ l i n e s
+x h o s t@t e l l _ x _ s e r v e r _ r e m o t e _ c o m p u t e r _ a c c e s s _ m a c h i n e _ u s e _ r e m o t e _ c o m p u t e r
+l p q@s h o w s _ c u r r e n t _ p r i n t _ q u e u e _ s t a t u s _ s p e c i f i e d _ p r i n t e r
+c h g r p@c h a n g e s _ f i l e _ g r o u p _ o w n e r s h i p
+d d@c o p i e s _ c o n v e r t s _ f i l e
+b i n d@d i s p l a y s _ r e d e f i n e s _ k e y _ b i n d i n g s
+a f i o@u t i l i t y _ c o p y _ r e s t o r e _ f i l e s _ a r c h i v e _ f i l e
+p a s s w d@m o d i f y _ u s e r _ p a s s w o r d
+f s c k@f i l e _ s y s t e m _ c h e c k _ r e p a i r
+s t a t@d i s p l a y _ s t a t u s _ f i l e
+c o l o r@x t e r m
+s e l e c t@a c c e p t s _ k e y b o a r d _ i n p u t s
+a s h@s h e l l _ s i m p l e _ s h e l l _ p r o g r a m _ s o m e t i m e s _ u s e d _ b o o t _ d i s k e t t e s _ s i n c e _ t a k e s _ m u c h _ l e s s _ s p a c e _ b a s h _ t c s h _ z s h _ e t c
+u u c p@s y s t e m _ s y s t e m _ c o p y
+j o i n@m e r g e s _ t w o _ s o r t e d _ t e x t _ f i l e s _ b a s e d _ p r e s e n c e _ c o m m o n _ f i e l d
+g z i p@u s e d _ c o m p r e s s _ d e c o m p r e s s _ f i l e s
+a p t@c o m m a n d _ l i n e _ i n t e r f a c e
+n l@w r i t e s _ f i l e s _ n u m b e r _ l i n e s
+p i n g@c o m m a n d _ u s e d _ t e s t i n g n e t w o r k _ c o n n e c t i o n s
+m a i l@m a i l _ p r o c e s s i n g _ s y s t e m _ c o m m a n d _ s y n t a x _ l i k e _ e d
+c h r o o t@r u n _ c o m m a n d _ i n t e r a c t i v e _ s h e l l _ s p e c i a l _ r o o t _ d i r e c t o r y
+p o p d@p o p s _ t o p _ d i r e c t o r y _ d i r e c t o r y _ s t a c k _ u s e s _ c d _ c h a n g e _ d i r e c t o r y
+g + +@r u n _ g _ c o m p i l e r
+i s o i n f o@u t i l i t y _ p r o g r a m s _ d u m p i n g _ v e r i f y i n g _ i s o 9 6 6 0 _ i m a g e s
+m d 5 s u m@c o m p u t e s _ c h e c k s _ m d 5 _ m e s s a g e _ d i g e s t
+r u s e r s@l i s t _ l o g g e d _ l o c a l _ m a c h i n e s
+d s c a c h e u t i l@q u e r y _ f l u s h _ d i r e c t o r y _ s e r v i c e _ d n s _ c a c h e
+x d v i@d v i _ p r e v i e w e r _ x _ w i n d o w _ s y s t e m
+m t o o l s@m a n i p u l a t e s _ f i l e s _ m s _ d o s
+u l i m i t@l i m i t s _ u s e r _ r e s o u r c e s
+g r o u p s@p r i n t _ n a m e s _ o f g r o u p s _ u s e r _ l o c a t e d
+g z i p@c o m p r e s s _ f i l e _ g n u _ z i p _ f o r m a t
+x a r g s@b u i l d _ e x e c u t e _ c o m m a n d _ l i n e s _ s t a n d a r d _ i n p u t
+r o u t e@n
+a l i a s@g i v e _ p s e u d o n y m _ a n o t h e r _ c o m m a n d
+q u o t a o f f@e n a b l e _ e n f o r c e m e n t _ f i l e s y s t e m _ q u o t a s
+a r c h@d i s p l a y _ p r i n t _ m a c h i n e _ h a r d w a r e _ n a m e
+k e r n e l c f g@g u i _ a d d _ r e m o v e _ k e r n e l _ m o d u l e s _ r o o t _ x _ t e r m i n a l
+u p d a t e d b@u p d a t e _ s l o c a t e _ d a t a b a s e
+y p d o m a i n n a m e@s h o w _ s e t _ s y s t e m _ n i s _ y p _ d o m a i n _ n a m e
+m k n o d@m a k e s _ b l o c k _ c h a r a c t e r _ s p e c i a l _ f i l e s
+r m d i r@d i r e c t o r i e s
+# # #@c o m m e n t _ r e m a r k
+r d i s t d@s t a r t _ r d i s t _ s e r v e r
+e s d c t l@e s o u n d _ c o n t r o l _ p r o g r a m
+g z e x e@c o m p r e s s _ e x e c u t a b l e _ f i l e s _ p l a c e
+s o u r c e@r u n s _ c o m m a n d s _ f i l e
+i c o n v@c o n v e r t _ t e x t _ f i l e _ o n e _ e n c o d i n g _ a n o t h e r
+b g@s e n d s _ b a c k g r o u n d
+q s t a t@s h o w _ s t a t u s _ b a t c h _ j o b s
+c r o n@d a e m o n _ e x e c u t e _ s c h e d u l e d _ c o m m a n d s _ v i x i e _ c r o n
+d c@c o m m a n d _ l i n e _ c a l c u l a t o r
+c d p a r a n o i a@r e c o r d _ a u d i o _ c d _ r e l i a b l y _ u s i n g _ d a t a _ v e r i f i c a t i o n _ a l g o r i t h m s
+z c a t@s h o w _ c o n t e n t s _ c o m p r e s s e d _ f i l e
+i n f o@d i s p l a y _ s y s t e m _ i n f o r m a t i o n
+l e a v e@d i s p l a y _ r e m i n d e r _ s p e c i f i e d _ t i m e
+i n e t d@d a e m o n _ s t a r t s _ d a e m o n s _ d e m a n d
+t s o r t@t o p o l o g i c a l _ s o r t
+c d p l a y@c o m m a n d _ l i n e _ u t i l i t y _ p l a y i n g _ a u d i o _ c d s
+h o s t n a m e@d i s p l a y _ s e t _ h o s t n a m e _ s y s t e m
+u n i q@c o m m a n d _ u n i q u i f y _ f i l e s
+e t a g s@u s e d _ c r e a t e _ l i s t _ f u n c t i o n s _ m a c r o s _ p r o g r a m m i n g _ s o u r c e _ f i l e _ e t a g s _ u s e d _ e m a c s _ v i _ u s e _ c t a g s
+d u m p k e y s@s h o w _ i n f o r m a t i o n _ k e y b o a r d _ d r i v e r _ c u r r e n t _ t r a n s l a t i o n _ t a b l e s
+m a n@h e l p _ m a n u a l
+e c h o@d i s p l a y s _ s p e c i f i e d _ l i n e _ t e x t
+g e t c o n f@q u e r y _ s y s t e m _ c o n f i g u r a t i o n _ v a r i a b l e s
+s e l e c t@a c c e p t _ k e y b o a r d _ i n p u t
+f s t a t@l i s t _ o p e n _ f i l e s
+f u s e r@i d e n t i f y _ p r o c e s s e s _ u s i n g _ f i l e s _ s o c k e t s
+m r d@r e m o v e _ m s _ d o s _ s u b d i r e c t o r y
+d e a l l o c v t@d e a l l o c a t e s _ k e r n e l _ m e m o r y _ u n u s e d _ v i r t u a l _ c o n s o l e s
+c p@c o p y _ c o m m a n d
+p t x@p r o d u c e s _ p e r m u t e d _ i n d e x _ f i l e _ c o n t e n t s
+g e t e n t@s h o w s _ e n t r i e s _ n a m e _ s e r v i c e _ s w i t c h _ l i b r a r i e s _ s p e c i f i e d _ k e y s
+b a s e 6 4@b a s e 6 4 _ e n c o d e s _ d e c o d e s _ d a t a _ p r i n t s _ s t a n d a r d _ o u t p u t
+d m e s g@e x a m i n e _ c o n t r o l _ k e r n e l _ r i n g _ b u f f e r
+m l a b e l@m a k e _ m d _ d o s _ v o l u m e _ l a b e l
+u l@u n d e r l i n i n g
+h e l p@d i s p l a y _ h e l p _ b u i l t _ c o m m a n d
+g v@p o s t s c r i p t _ p d f _ p r e v i e w e r _ b a s e d _ g h o s t v i e w
+r c p@u s i n g _ t w o _ m a c h i n e s _ c o m m a n d _ c o p i e s f i l e s
+i s o d u m p@f o r m a t _ i e e e _ 1 3 9 4 _ i s o c h r o n o u s _ p a c k e t s _ d u m p _ f i l e
+t r a p@e x e c u t e _ c o m m a n d _ s h e l l _ r e c e i v e s _ s i g n a l
+r s h@r e m o t e _ s h e l l _ c o n n e c t s _ s p e c i f i e d _ h o s t _ e x e c u t e s _ c o m m a n d s
+m a i l@u t i l i t y _ c o m p o s e _ r e c e i v e _ s e n d _ f o r w a r d _ r e p l y _ e m a i l s
+f o r t 7 7@f o r t r a n _ c o m p i l e r
+c p@c o p y _ o n e _ f i l e s _ a n o t h e r _ l o c a t i o n
+l n@c r e a t e _ l i n k _ s p e c i f i e d _ t a r g e t _ o p t i o n a l _ l i n k _ n a m e
+a c p i d@a d v a n c e d _ c o n f i g u r a t i o n _ p o w e r _ i n t e r f a c e _ e v e n t _ d a e m o n
+r e v@s h o w _ c o n t e n t s _ f i l e _ r e v e r s i n g _ o r d e r _ c h a r a c t e r s _ e v e r y _ l i n e
+w h i c h@u s e d _ f i n d _ u t i l i t i e s _ s e a r c h _ p a t h
+s u m@p r i n t _ c h e c k s u m _ f i l e
+f r e e@r e v e a l s _ m e m o r y _ u s a g e
+f g r e p@u s e _ c o m m a n d _ t o s e a r c h _ f i l e s _ t a s k s _ m a t c h _ s t r i n g
+l s@l i s t _ i n f o r m a t i o n _ f i l e
+l o g n a m e@u s e d _ p r i n t _ l o g i n _ n a m e _ u s e d c u r r e n t l y
+l p c@l i n e _ p r i n t e r _ c o n t r o l
+e g r e p@p r i n t _ l i n e s _ m a t c h i n g _ p a t t e r n
+e x@s t a r t _ v i m _ e x _ m o d e
+s t t y@s e t s _ d i s p l a y s _ o p e r a t i n g _ o p t i o n s _ t e r m i n a l
+a l s a c t l@a d v a n c e d _ c o n t r o l s _ a l s a _ s o u n d c a r d _ d r i v e r
+u n s h a r@u n p a c k _ s h e l l _ a r c h i v e _ s c r i p t s
+a s r@a p p l e _ s o f t w a r e _ r e s t o r e
+t a i l@d i s p l a y s _ l a s t _ p a r t _ f i l e
+s o r t@s o r t s _ m e r g e _ f i l e s
+s d i f f@s h o w s _ t w o _ f i l e s _ s i d e _ s i d e _ h i g h l i g h t s _ d i f f e r e n c e s
+g e t o p t@p a r s e _ p o s i t i o n a l _ p a r a m e t e r s
+l p r@o f f l i n e _ p r i n t
+g o t o@j u m p _ l a b e l _ c o n t i n u e _ e x e c u t i o n
+l i n k@c r e a t e _ l i n k s _ t w o _ f i l e s _ s i m i l a r _ l n _ c o m m a n d
+c h g r p@c h a n g e _ f i l e _ g r o u p _ o w n e r s h i p
+r e a l p a t h@r e t u r n _ c a n o n i c a l i z e d _ a b s o l u t e _ p a t h n a m e
+c p@m a k e _ c o p y _ f i l e s _ d i f f e r e n t l o c a t i o n
+m t r@n e t w o r k _ d i a g n o s t i c s _ c o m m a n d
+n i c e@s e t _ p r i o r i t y _ c o m m a n d _ j o b
+d v i l j@s e n d _ d v i _ f i l e _ l a s e r j e t _ p r i n t e r
+c s p l i t@s p l i t _ f i l e _ c o n t e x t _ d e t e r m i n e d _ p i e c e s
+l o g o u t@u s e _ c o m m a n d _ e x i t _ l o g i n _ s h e l l
+r u n c o n@r u n _ c o m m a n d _ s p e c i f i e d _ s e c u r i t y _ c o n t e x t
+s e t g i d@s e t _ g r o u p _ i d e n t i t y
+h t o p@i n t e r a c t i v e _ p r o c e s s _ v i e w e r _ c o m m a n d _ l i n e
+l p r i n t q@l i s t _ p r i n t _ q u e u e
+b i n d@b i n d _ n a m e _ s o c k e t
+s u d o@e x e c u t e _ c o m m a n d _ s u p e r u s e r
+m k t e m p@c r e a t e _ t e m p o r a r y _ f i l e _ d i r e c t o r y
+e g r e p@s e a r c h _ f i l e s _ l i n e s _ m a t c h _ r e g u l a r _ e x p r e s s i o n s
+n l@n u m b e r _ l i n e s _ w r i t e _ f i l e s
+n l@n u m b e r s _ l i n e s _ f i l e s
+s e t q u o t a@s e t _ d i s k _ q u o t a s _ u s e r s _ g r o u p s
+r e s e t@r e i n i t i a l i z e _ t e r m i n a l
+f r e e@d i s p l a y _ m e m o r y _ u s a g e
+w h a t i s@d i s p l a y _ o n e
+t r a c e r o u t e@t r a c e _ r o u t e _ h o s t
+t a i l@u s e _ c o m m a n d _ w a n t _ o u t p u t _ l a s t _ p a r t _ a f i l e
+m a k e@d e t e r m i n e _ p a r t s _ s y s t e m _ m u s t _ r e c o m p i l e d _ c o m p i l e
+t r@d e l e t e _ c h a r a c t e r s _ t r a n s l a t e o r _ s q u e e z e
+a c c e s s@c h e c k _ u s e r _ r w x _ p e r m i s s i o n _ f i l e
+c s p l i t@s p l i t s _ f i l e _ c o n t e x t _ d e t e r m i n e d _ p i e c e s
+i d@d i s p l a y s _ g r o u p _ i d s _ u s e r _ i d s
+z n e w@r e c o m p r e s s _ z _ f i l e s _ g z _ f i l e s
+p w d@p r i n t s _ c u r r e n t _ w o r k i n g _ d i r e c t o r y
+r w a l l@s e n d s _ m e s s a g e s _ u s e r s _ l o c a l _ n e t w o r k
+x d g - o p e n@o p e n _ f i l e _ u r l _ u s e r _ p r e f e r r e d _ a p p l i c a t i o n
+e x p o r t@s e t _ e n v i r o n m e n t _ v a r i a b l e
+u s e r m o d@m o d i f y _ u s e r _ a c c o u n t
+w h e r e i s@r e p o r t _ k n o w n _ i n s t a n c e s _ c o m m a n d
+g e t k e y c o d e s@d i s p l a y s _ k e r n e l _ s c a n c o d e _ k e y c o d e _ m a p p i n g _ t a b l e
+f r e e@a l l o c a t e _ f r e e _ d y n a m i c _ m e m o r y
+u u d e c o d e@d e c o d e _ b i n a r y _ f i l e
+r e m s y n c@c o m m a n d _ s y n c h r o n i s e s _ r e m o t e _ f i l e s _ e m a i l
+s y s t e m _ p r o f i l e r@r e p o r t _ s y s t e m _ c o n f i g u r a t i o n
+u m o u n t@u n m o u n t s _ d e v i c e _ s y s t e m
+s t r a c e@t r a c e s _ s i g n a l s _ s y s t e m _ c a l l s
+t o u c h@t i m e s t a m p s _ f i l e _ c a n b e _ c h a n g e d _ u s i n g
+c o n t i n u e@r e s u m e _ n e x t _ i t e r a t i o n _ l o o p
+r a m@r a m _ d i s k _ d e v i c e
+s w a p o f f@e n a b l e _ d i s a b l e _ d e v i c e s _ f i l e s _ p a g i n g _ s w a p p i n g
+o p e n@o p e n s _ f i l e _ d e f a u l t _ a p p l i c a t i o n
+l o o k@s h o w s _ l i n e s _ f i l e _ c o n t a i n i n g _ g i v e n _ s t r i n g _ b e g i n n i n g
+p r i n t e n v@d i s p l a y _ l i s t _ e n v i r o n m e n t _ v a r i a b l e s
+d o t _ c l e a n@r e m o v e _ d o t _ u n d e r s c o r e _ f i l e s
+m d u@d i s p l a y _ a m o u n t _ s p a c e _ o c c u p i e d _ m s d o s _ d i r e c t o r y
+d u m p k e y s@p r i n t _ i n f o r m a t i o n _ k e y b o a r d _ d r i v e r _ t r a n s l a t i o n _ t a b l e s _ s t a n d a r d _ o u t p u t
+f i n g e r d@p r o v i d e s _ n e t w o r k _ i n t e r f a c e _ f i n g e r _ p r o g r a m
+m a k e@u t i l i t y _ m a i n t a i n _ g r o u p s _ p r o g r a m s _ r e c o m p i l e _ n e e d e d
+x e d i t@s i m p l e _ t e x t _ e d i t o r _ x
+r p m@i n v o k e s _ r e d _ h a t _ p a c k a g e _ m a n a g e r _ c o m m a n d _ l i n e _ m o d e
+e c h o@l i k e _ p r i n t l n _ s h e l l _ o u t p u t s _ m e s s a g e _ v a l u e
+g r o u p s@p r i n t s _ g r o u p s _ u s e r _ m e m b e r
+r d i s t@r e m o t e _ f i l e _ d i s t r i b u t i o n _ c l i e n t _ m a i n t a i n s _ i d e n t i c a l _ f i l e _ c o p i e s _ m u l t i p l e _ h o s t s
+c f l o w@g e n e r a t e _ c _ l a n g u a g e _ c a l l _ g r a p h
+l o g o u t@e x i t _ l o g i n _ s h e l l
+d i f f@c o m p a r e _ t w o _ f i l e s _ s e e _ a l s o _ c m p
+t r u e@n u l l _ c o m m a n d _ r e t u r n s _ s u c c e s s f u l _ e x i t _ s t a t u s
+t a i l@o u t p u t _ l a s t _ p a r t _ f i l e
+p i n g@c h e c k _ i n t e r n e t _ c o m p u t e r _ r e s p o n d i n g
+m c o p y@c o p y _ m s d o s _ f i l e s _ u n i x
+s y s l o g d@r e a d _ l o g _ s y s t e m _ m e s s a g e s _ s y s t e m _ c o n s o l e _ l o g _ f i l e s
+u n s h a r@u n p a c k s _ s h e l l _ a r c h i v e _ s c r i p t s
+w h o a m i@p r i n t s _ e f f e c t i v e _ u s e r i d
+a r p@m a n i p u l a t e _ s y s t e m _ a r p _ c a c h e
+e s d p l a y@u s e _ e s o u n d _ s y s t e m _ p l a y _ f i l e
+a p r o p o s@s e a r c h _ h e l p _ m a n u a l _ p a g e s
+a w k@p a t t e r n _ s c a n n i n g _ t e x t _ p r o c e s s i n g _ l a n g u a g e
+u n t i l@e x e c u t e _ c o m m a n d _ g i v e n _ c o n d i t i o n _ t r u e
+f s c k@f i l e s y s t e m _ c o n s i s t e n c y _ c h e c k _ r e p a i r
+q s u b@s u b m i t _ s c r i p t
+c h o w n@c h a n g e _ f i l e _ o w n e r _ g r o u p
+p r i n t f@f o r m a t _ p r i n t _ d a t a
+y p w h i c h@s h o w s _ h o s t n a m e _ n i s _ s e r v e r _ m a s t e r _ s e r v e r _ g i v e n _ m a p
+s c a n i m a g e@r e a d _ i m a g e s _ i m a g e _ a q u i s t i o n _ d e v i c e s _ s c a n n e r _ c a m e r a _ d i s p l a y _ s t a n d a r d _ o u t p u t _ p n m _ p o r t a b l e _ a n y m a p _ f o r m a t
+t i m e o u t@t h i s c o m m a n d _ u s e d _ p u t _ t i m e _ l i m i t _ c o m m a n d
+r e n i c e@c h a n g e _ p r i o r i t y _ a c t i v e _ p r o c e s s e s
+e n a b l e@u s e d _ e n a b l e _ d i s a b l e _ s h e l l _ b u i l t i n _ c o m m a n d s
+s t r f i l e@c r e a t e _ r a n d o m _ a c c e s s _ f i l e _ s t o r i n g _ s t r i n g s
+m a k e m a p@c r e a t e s _ d a t a b a s e _ m a p s _ u s e d _ k e y e d _ m a p _ l o o k u p s _ s e n d m a i l
+l o g r o t a t e@u s e d _ a u t o m a t i c _ r o t a t i o n _ c o m p r e s s i o n _ r e m o v a l _ m a i l i n g _ s y s t e m _ l o g _ f i l e s
+a s@p o r t a b l e _ g n u _ a s s e m b l e r
+j o b s@l i s t _ a c t i v e _ j o b s
+x f 8 6 s e t u p@g r a p h i c a l _ c o n f i g u r a t i o n _ t o o l _ x
+e x p a n d@c o n v e r t _ t a b s _ s p a c e s
+l o g o u t@e x i t _ l o g i n _ s h e l l
+f d i s k@f d i s k _ c o m m a n d _ u s a g e _ e x a m p l e s
+a m i x e r@a c c e s s _ c l i _ b a s e d _ m i x e r _ a l s a _ s o u n d c a r d _ d r i v e r
+g u n z i p@u n z i p _ g z _ f i l e s
+l d@g n u _ l i n k e r
+g r u b@g n u _ g r a n d _ u n i f i e d _ b o o t l o a d e r
+f o r@e x p a n d _ w o r d s _ e x e c u t e _ c o m m a n d s
+h a s h@c o m m a n d _ u s e d _ r e f e r _ c o m p l e t e _ p a t h n a m e _ n a m e a r g u m e n t
+z d i f f@c o m p a r e _ c o m p r e s s e d _ f i l e s
+r m d i r@r e m o v e _ d i r e c t o r y
+w c@p r i n t _ b y t e _ w o r d _ l i n e _ c o u n t s
+l n@c r e a t e _ l i n k s _ f i l e s _ l i n k s _ h a r d _ t w o _ n a m e s _ f i l e _ s o f t _ s h o r t c u t _ f i r s t _ f i l e
+d o s f s c k@c h e c k _ r e p a i r _ m s _ d o s _ f i l e _ s y s t e m s
+u n i q@s t r i p _ d u p l i c a t e _ l i n e s
+w h i l e@u s e _ e x e c u t e c o m m a n d s
+r m m o d@p r o g r a m _ r e m o v e _ m o d u l e s _ l i n u x _ k e r n e l
+t r a c e p a t h@t r a c e _ p a t h _ n e t w o r k _ h o s t _ d i s c o v e r i n g _ m t u _ a l o n g _ p a t h
+w h o@p r i n t _ u s e r n a m e s _ c u r r e n t l y _ l o g g e d
+c a s e@c o n d i t i o n a l l y _ p e r f o r m _ c o m m a n d
+u s e r s@s h o w _ l i s t _ a c t i v e _ u s e r s _ m a c h i n e
+a s p e l l@s p e l l _ c h e c k e r
+m o u n t@m o u n t _ f i l e s y s t e m
+a p t i t u d e@a n o t h e r _ u t i l i t y _ a d d _ r e m o v e _ u p g r a d e _ p a c k a g e s _ b a s e d _ a p t _ s y s t e m
+g r o f f e r@d i s p l a y s _ g r o f f _ f i l e s _ m a n _ p a g e s
+r e b o o t@r e b o o t s _ s y s t e m
+w a i t@w a i t s _ b a c k g r o u n d _ p r o c e s s _ t e r m i n a t e
+f o r m a t@f o r m a t s _ t a p e s _ d i s k s
+e d@s t a n d a r d _ t e x t _ e d i t o r
+x a r g s@c o m m a n d _ e x e c u t e _ u t i l i t y _ p a s s e s _ c o n s t r u c t e d _ a r g u m e n t l i s t
+m k f i f o@m a k e _ f i f o _ s p e c i a l _ f i l e _ n a m e d _ p i p e
+s l e e p@d e l a y _ s p e c i f i e d _ t i m e
+c o m m a n d@d e s c r i p t i o n
+t i m e@m e a s u r e s _ r u n n i n g _ t i m e _ p r o g r a m
+i p@s h o w _ m a n i p u l a t e _ r o u t i n g _ d e v i c e s _ p o l i c y _ r o u t i n g _ t u n n e l s
+g 7 7@g n u _ f o r t r a n _ 7 7 _ c o m p i l e r
+f a x@s i m p l e _ u s e r _ i n t e r f a c e _ e f a x _ e f i x _ p r o g r a m s
+c f d i s k@s i m i l a r _ f d i s k _ m e n u
+u l i m i t@l i m i t _ u s e r _ r e s o u r c e s
+s p l i t@s p l i t _ f i l e _ p i e c e s
+b z i p 2@b l o c k _ s o r t i n g _ f i l e _ c o m p r e s s o r _ u s e d _ s h r i n k _ g i v e n _ f i l e s
+p r i n t e n v@s h o w _ v a l u e s _ s p e c i f i e d _ e n v i r o n m e n t _ v a r i a b l e s
+c o@r e t r i e v e s _ u n e n c o d e d _ v e r s i o n _ r c s _ f i l e
+l s p c i@u t i l i t y _ d i s p l a y _ i n f o r m a t i o n _ p c i _ b u s e s _ h a r d w a r e _ d e v i c e s _ a t t a c h e d
+p a s s w d@c h a n g e _ u s e r _ p a s s w o r d
+t e s t@e v a l u a t e s _ c o n d i t i o n a l _ e x p r e s s i o n s
+c r o n t a b@t a b l e s _ d r i v i n g _ c r o n
+r m@r e m o v e _ d e l e t e _ f i l e s
+u m a s k@c h a n g e _ d e f a u l t _ p e r m i s s i o n s _ g i v e n _ n e w l y _ c r e a t e d _ f i l e s
+c u r l@t r a n s f e r _ u r l
+d u@e s t i m a t e _ f i l e _ s p a c e _ u s a g e
+f l e x@g e n e r a t e _ p r o g r a m s _ p e r f o r m _ p a t t e r n _ m a t c h i n g _ t e x t
+w h i l e@e x e c u t e s _ c o m m a n d s
+t o p@d y n a m i c a l l y _ d i s p l a y s _ p r o c e s s _ s t a t u s
+t r a c e p a t h@t r a c e s _ p a t h _ n e t w o r k _ h o s t _ d i s c o v e r i n g _ m t u _ a l o n g _ p a t h
+u n a l i a s@r e m o v e _ a l i a s
+s l o c a t e@f i n d _ f i l e s
+n i c e@r u n _ c o m m a n d _ m o d i f i e d _ p r i o r i t y
+m o r e@d i s p l a y s _ o u t p u t _ s i n g l e _ s c r e e n _ t i m e
+c m p@c o m p a r e _ t w o _ f i l e s
+l e t@e v a l u a t e _ e x p r e s s i o n
+e x e c v e@v a r i a t i o n _ e x e c _ c o m m a n d
+w h e r e i s@s e a r c h _ u s e r _ p a t h _ m a n _ p a g e s _ s o u r c e _ f i l e s _ p r o g r a m
+g s@i n v o k e s _ g h o s t s c r i p t _ i n t e r p r e t e r _ p r e v i e w e r _ a d o b e _ p o s t s c r i p t _ p d f _ l a n g u a g e s
+p s 2 p d f 1 3@c o n v e r t _ p o s t s c r i p t _ p d f _ 1 _ 3 _ a c r o b a t _ 4 _ l a t e r _ c o m p a t i b l e _ u s i n g _ g h o s t s c r i p t
+c h o w n@c h a n g e s _ o w n e r s h i p _ f i l e
+s h o p t@s h o p t _ s t a n d s _ s h e l l _ o p t i o n s
+a t r m@d e l e t e _ j o b s _ q u e u e d _ c o m m a n d
+r e a d@r e a d s _ v a l u e _ s t a n d a r d _ i n p u t
+i p t a b l e s - s a v e@u s e d _ d u m p _ i p _ t a b l e _ c o n t e n t s _ s t a n d a r d _ o u t p u t
+t e e@c o p y _ s t a n d a r d _ i n p u t _ f i l e _ a l s o _ s t a n d a r d _ o u t p u t
+p a x@p o r t a b l e _ a r c h i v e _ i n t e r c h a n g e
+u n s h a r@c o m m a n d _ u n p a c k s _ s h e l l _ a r c h i v e _ s c r i p t s
+l o g o u t@w r i t e _ u t m p _ w t m p _ e n t r i e s
+l o o k@w a n t _ s e e _ l i n e s _ s t a r t _ p a r t i c u l a r s t r i n g
+a d d u s e r@a d d _ u s e r _ g r o u p _ s y s t e m
+w a l l@w r i t e _ m e s s a g e _ u s e r s
+a l i a s@c r e a t e _ a l i a s _ l i n u x _ c o m m a n d s
+g r o u p m o d@m o d i f y _ g r o u p
+h e a d@c o p y _ f i r s t _ p a r t _ f i l e s
+r p c i n f o@s h o w s _ r p c _ i n f o r m a t i o n _ m a k e s _ r p c _ c a l l _ r p c _ s e r v e r _ r e p o r t s _ f i n d i n g s
+p u s h d@a p p e n d s _ g i v e n _ d i r e c t o r y _ n a m e _ h e a d _ s t a c k _ c d _ g i v e n _ d i r e c t o r y
+f i n g e r@d i s p l a y s _ i n f o r m a t i o n _ s y s t e m _ u s e r s
+g v i m@s e e _ v i
+d i s p l a y@s e t _ d i s p l a y _ o u t p u t _ p r o g r a m s _ x _ w i n d o w
+f c@p r o c e s s _ c o m m a n d _ h i s t o r y _ l i s t
+g a w k@g n u _ a w k _ m o s t l y _ p r o c e s s i n g _ d e l i m i t e d _ t e x t _ f i l e s
+g e t o p t@p a r s e _ c o m m a n d _ l i n e _ o p t i o n s
+t o p@d i s p l a y _ l i n u x _ p r o c e s s e s
+i n f o@h e l p _ i n f o
+d i r@l i s t s _ d i r e c t o r y _ c o n t e n t s _ b r i e f l y
+i d e n t i f y@d e s c r i b e s _ f o r m a t _ c h a r a c t e r i s t i c s _ i m a g e _ f i l e s
+h o s t n a m e@s h o w _ s e t _ s y s t e m _ h o s t _ n a m e
+n l@l i n e _ n u m b e r i n g _ f i l t e r
+f s c k@c h e c k _ r e p a i r _ l i n u x _ f i l e _ s y s t e m
+b c@t h i s c o m m a n d _ a r b i t r a r y _ p r e c i s i o n _ c a l c u l a t o r _ l a n g u a g e
+t s o r t@p e r f o r m _ t o p o l o g i c a l _ s o r t
+u n a l i a s@r e m o v e _ n a m e _ p r e v i o u s l y _ d e f i n e d _ a l i a s
+v i m@v i _ i m p r o v e d _ t e x t _ b a s e d _ e d i t o r _ s u c c e s s o r _ v i
+r n d c@n a m e _ s e r v e r _ c o n t r o l _ u t i l i t y _ s e n d _ c o m m a n d _ b i n d _ d n s _ s e r v e r _ t c p _ c o n n e c t i o n
+/ s b i n / l i l o@c _ e t c _ l i l o
+a u t o m a k e@c r e a t e s _ g n u _ s t a n d a r d s _ c o m p l i a n t _ m a k e f i l e s _ t e m p l a t e _ f i l e s
+u n i c o d e _ s t o p@u n d o _ e f f e c t _ u n i c o d e _ s t a r t
+t i n@n e t n e w s _ r e a d e r
+w g e t@n o n _ i n t e r a c t i v e _ n e t w o r k _ d o w n l o a d e r
+m o u n t@e x t 2 _ d e v _ f d 0 _ m n t _ f l o p p y
+l a s t l o g@f o r m a t s _ p r i n t s _ c o n t e n t s _ l a s t _ l o g i n _ l o g _ v a r _ l o g _ l a s t l o g _ f i l e
+a p r o p o s@s e a r c h _ m a n u a l _ k e y w o r d
+s c r i p t@m a k e _ t y p e s c r i p t _ t e r m i n a l _ s e s s i o n
+c o m m a n d@i n v o k e s _ n e d i t _ n c _ c u r r e n t _ s y s t e m s
+m p g 3 2 1@s i m i l a r _ m p g 1 2 3
+p w c o n v@c r e a t e s _ s h a d o w _ p a s s w d _ o p t i o n a l l y _ e x i s t i n g _ s h a d o w
+b a s h@b o u r n e _ s h e l l
+n a n o@n a n o _ a n o t h e r _ e d i t o r _ e n h a n c e d _ f r e e _ p i c o _ c l o n e
+m a n@p r i n t _ m a n u a l _ p a g e s
+g a w k@u s e d _ p a t t e r n _ s c a n n i n g _ l a n g u a g e _ p r o c e s s i n g _ g n u _ i m p l e m e n t a t i o n _ a w k _ l a n g u a g e
+u s e r d e l@c o m m a n d w i l l _ d e l e t e _ u s e r _ a c c o u n t _ s y s t e m
+f c - l i s t@l i s t _ a v a i l a b l e _ f o n t s
+c r o n@d a e m o n _ e x e c u t e _ s c h e d u l e d _ c o m m a n d s
+u n z i p@l i s t _ t e s t _ e x t r a c t _ c o m p r e s s e d _ f i l e s _ z i p _ a r c h i v e
+q s u b@s u b m i t _ p b s _ j o b
+e j e c t@e j e c t _ m e d i a _ d e v i c e _ c o m m a n d _ l i n e
+d i r s@d i s p l a y _ l i s t _ r e m e m b e r e d _ d i r e c t o r i e s
+n f s s t a t@l i s t _ n f s _ s t a t i s t i c s
+n i c e@i n v o k e _ u t i l i t y _ a l t e r e d _ n i c e _ v a l u e
+p s@s t a n d s f o r _ p r o c e s s _ s t a t u s
+q a l t e r@a l t e r _ p b s _ b a t c h _ j o b
+w o r k b o n e@c o n s o l e _ b a s e d _ c d _ p l a y e r
+f r e e@d i s p _ m e m o r y _ u s a g e
+s w a p o n@e n a b l e s _ s w a p _ d i s k
+r a m s i z e@s h o w _ u s a g e _ i n f o r m a t i o n _ r a m _ d i s k
+p s@d i s p l a y s _ s t a t u s _ p r o c e s s e s
+c o n t r o l@p a n e l
+a t@u s e d _ s c h e d u l e _ c o m m a n d _ e x e c u t i o n _ s p e c i f i e d _ d a t e _ a m p _ t i m e _ r e a d i n g _ c o m m a n d s _ i n p u t _ f i l e
+t l o a d@d i s p l a y _ s y s t e m _ l o a d _ a v e r a g e _ g r a p h _ f o r m a t
+b a t c h@u s e d _ r u n _ c o m m a n d s _ e n t e r e d _ s t a n d a r d _ i n p u t
+t o u c h@u p d a t e _ a c c e s s _ m o d i f i c a t i o n _ t i m e s _ f i l e
+e x p e c t@p r o g r a m m e d _ d i a l o g u e _ i n t e r a c t i v e _ p r o g r a m s
+r e v@r e v e r s e s _ l i n e s _ f i l e
+m a k e s w a p@c o n f i g u r e s _ s w a p _ s p a c e
+u l i m i t@g e t _ s e t _ u s e r _ l i m i t s _ c a l l i n g _ p r o c e s s
+x v@u t i l i t y _ v i e w i n g _ m a n i p u l a t i n g _ m a n y _ t y p e s _ i m a g e _ f i l e s
+h a l t@v a r i a b l e s _ a f f e c t _ b e h a v i o r _ s h u t d o w n _ s c r i p t s
+m k f s . e x t 3@m k e 2 f s _ c r e a t e _ e x t 3 _ l i n u x _ f i l e s y s t e m
+u n t i l@l o o p _ c o m m a n d
+e j e c t@u s e _ n e e d _ e j e c t _ r e m o v a b l e m e d i a
+x s y s i n f o@g r a p h i c a l _ d i s p l a y _ l o a d _ m e m o r y _ u s a g e
+t a l k@t w o _ w a y _ s c r e e n _ o r i e n t e d _ c o m m u n i c a t i o n _ u t i l i t y _ a l l o w s _ t w o _ u s e r _ e x c h a n g e _ m e s s a g e s _ s i m u l a t e n e o u s l y
+f g@s e n d s _ t a s k _ f o r e g r o u n d
+l p r i n t@p r i n t s _ f i l e
+k i l l@t e r m i n a t e _ p r o c e s s
+p y t h o n@i n t e r p r e t e d _ i n t e r a c t i v e _ o b j e c t
+r s h@o p e n s s h _ s s h _ c l i e n t _ r e m o t e _ l o g i n _ p r o g r a m
+l d d@p r i n t _ s h a r e d _ o b j e c t _ d e p e n d e n c i e s
+n i c e@s e t _ p r i o r i t y _ c o m m a n d
+t a i l@o u t p u t s _ l a s t _ p a r t _ f i l e s
+n e t s t a t@d i s p l a y _ v e r b o s e _ i n f o _ n e t w o r k _ p r o c e s s e s _ p o r t s
+l s@l i s t s _ f i l e s _ d i r e c t o r y
+s o u r c e@e x e c u t e s _ c o m m a n d s _ s t a t e m e n t s _ s t o r e d _ a n o t h e r _ f i l e
+a l i a s@c r e a t e _ n a m e _ c o m m a n d
+p i c o@c r a p p y _ s i m p l e _ t e x t _ e d i t o r s _ r e c o m m e n d e d
+q m s g@s e n d _ m e s s a g e _ p b s _ b a t c h _ j o b s
+l a s t b@f i l e
+g a w k@p a t t e r n _ s c a n n i n g _ p r o c e s s i n g _ l a n g u a g e
+u s e r s@p r i n t s _ u s e r _ n a m e s _ u s e r s _ c u r r e n t l y _ l o g g e d _ c u r r e n t _ h o s t
+t s o r t@t o p o l o g i c a l _ s o r t i n g
+a p t - g e t@o n e _ w o r k s _ d e b i a n a n d _ u b u n t u _ d i s t r o s
+i p c o n f i g@v i e w _ c o n t r o l _ i p _ c o n f i g u r a t i o n _ s t a t e
+c h f n@c h a n g e _ r e a l _ u s e r _ n a m e _ i n f o r m a t i o n
+v d i r@a s a b o v e
+m p a r t i t i o n@p a r t i t i o n _ m s _ d o s _ d i s k
+.@r u n _ c o m m a n d _ s c r i p t _ c u r r e n t _ s h e l l
+m f o r m a t@a d d _ m s d o s _ f i l e s y s t e m _ l o w _ l e v e l _ f o r m a t t e d _ f l o p p y _ d i s k
+u n s e t@g i d _ g r o u p _ i d _ c h a n g e
+t c p s l i c e@e x t r a c t _ p i e c e s _ t c p d u m p _ f i l e s _ m e r g e
+s h r e d@o v e r w r i t e _ f i l e _ h i d e _ c o n t e n t _ o p t i o n a l l y _ d e l e t e _ m a k i n g _ h a r d e r _ r e c o v e r
+r e a d a r r a y@r e a d _ l i n e s _ f i l e _ a r r a y _ v a r i a b l e
+s e t t e r m@s e t _ t e r m i n a l _ a t t r i b u t e s _ v i r t u a l _ c o n s o l e
+y p s e r v@d a e m o n _ a c t i v a t e d _ s y s t e m _ s t a r t u p _ l o o k s _ i n f o r m a t i o n _ l o c a l _ n i s _ m a p s
+c k s u m@w r i t e _ f i l e _ c h e c k s u m s _ s i z e s
+s l a b t o p@s h o w _ k e r n e l _ s l a b _ c a c h e _ i n f o r m a t i o n _ r e a l _ t i m e
+d o m a i n n a m e@s h o w _ s e t _ n a m e _ c u r r e n t _ n i s _ n e t w o r k _ i n f o r m a t i o n _ s e r v i c e s _ d o m a i n
+w h o@p r i n t s _ l i s t _ u s e r s _ c u r r e n t l y _ l o g g e d
+w c@p r i n t s _ w o r d _ b y t e _ l i n e _ c o u n t s
+y p p o l l@s h o w s _ i d _ n u m b e r _ v e r s i o n _ n i s _ m a p _ c u r r e n t l y _ u s e d _ n i s _ s e r v e r
+m a k e@g n u _ m a k e _ u t i l i t y _ m a i n t a i n _ g r o u p s _ p r o g r a m s
+l e s s@c o m m a n d _ d i s p l a y s _ o u t p u t _ s i n g l e _ s c r e e n _ t i m e
+r e n a m e@r e n a m e _ o n e _ f i l e s
+r e s i z e 2 f s@e x t 2 _ e x t 3 _ e x t 4 _ f i l e _ s y s t e m _ r e s i z e r
+d i f f@d i s p l a y _ d i f f e r e n c e s _ t w o _ f i l e s
+r e a d o n l y@m a r k _ f u n c t i o n s _ v a r i a b l e s _ r e a d
+c l e a r@n e e d _ c l e a r _ t e r m i n a l _ s c r e e n _ u s e _ t h i s c o m m a n d
+w h o@c o m m a n d _ p r i n t _ u s e r n a m e s _ a r e c u r r e n t l y _ l o g g e d _ s y s t e m
+l n@o n e c r e a t e s _ s y m b o l i c _ l i n k _ a n o t h e r _ f i l e
+c u t@u s e d _ r e m o v e _ s e c t i o n s _ l i n e _ f i l e
+c p@c o p y _ c o n t e n t s _ o n e _ f i l e _ a n o t h e r
+q r e r u n@r e r u n _ b a t c h _ j o b s
+c h v t@c h a n g e _ f o r e g r o u n d _ v i r t u a l _ t e r m i n a l
+q a l t e r@a l t e r _ b a t c h _ j o b
+a p t - g e t@s e a r c h _ i n s t a l l _ s o f t w a r e _ p a c k a g e s _ d e b i a n _ u b u n t u
+m t o o l s@m a n i p u l a t e _ m s _ d o s _ f i l e s
+v i m@v i _ i m p r o v e d _ p r o g r a m m e r _ t e x t _ e d i t o r
+g p g@e n a b l e s _ e n c r y p t i o n _ s i g n i n g _ s e r v i c e s _ p e r _ o p e n p g p _ s t a n d a r d
+n a n o@e n h a n c e d _ f r e e _ p i c o _ c l o n e
+l i n k@c r e a t e _ l i n k _ f i l e
+l p s t a t@p r i n t e r _ s t a t u s _ i n f o r m a t i o n
+u n i t s@c o n v e r t s _ u n i t s _ o n e _ s c a l e _ a n o t h e r
+t r a c e r o u t e 6@t r a c e s _ p a t h _ n e t w o r k _ h o s t
+c l e a r@c l e a r _ t e r m i n a l _ s c r e e n
+c s p l i t@s p l i t s _ f i l e _ s e c t i o n s _ d e t e r m i n e d _ c o n t e x t _ l i n e s
+u u i d g e n@c r e a t e _ n e w _ u u i d _ v a l u e
+e x i t@e x i t _ s h e l l
+g l i n t@r e d _ h a t _ g r a p h i c a l _ f r o n t _ e n d _ r p m _ p a c k a g e _ i n s t a l l e r _ m a n a g e r
+m o u n t d@n f s _ m o u n t _ d a e m o n
+x p d f@g p l _ u t i l i t y _ p r e v i e w i n g _ d v i _ f i l e s
+d n s s e c - s i g n z o n e@s i g n _ s e c u r e _ d n s _ z o n e f i l e _ s i g n a t u r e s _ s p e c i f i e d _ l i s t _ k e y _ i d e n t i f i e r s
+y p p a s s w d@c h a n g e _ n i s _ l o g i n _ p a s s w o r d
+n s l o o k u p@q u e r y _ i n t e r n e t _ d o m a i n _ n a m e _ s e r v e r s
+f d f o r m a t@l o w _ l e v e l _ f o r m a t _ f l o p p y _ d e v i c e
+c p k g t o o l@s l a c k w a r e _ t o o l _ i n s t a l l _ u n i n s t a l l _ q u e r y _ p a c k a g e s
+x a r g s@e x e c u t e _ u t i l i t y _ p a s s i n g _ a r g u m e n t s
+s t r i n g s@p r i n t _ s t r i n g s _ p r i n t a b l e _ c h a r a c t e r s _ b i n a r y _ f i l e s
+s e d@s t r e a m _ e d i t o r _ f i l t e r i n g _ t r a n s f o r m i n g _ t e x t
+q u o t a@c o m m a n d _ d i s p l a y s _ d i s k _ u s a g e _ l i m i t s
+d i r c o l o r s@c o l o r _ s e t u p _ l s
+y e s@p r i n t _ s t r i n g _ i n t e r r u p t e d
+p s b o o k@r e a r r a n g e s _ p a g e s _ p o s t s c r i p t _ d o c u m e n t _ s i g n a t u r e s _ p r i n t i n g _ b o o k s _ b o o k l e t s
+l p r i n t@u s e _ c o m m a n d _ p r i n t _ a f i l e
+p i n k y@l i g h t w e i g h t _ f i n g e r
+q d e l@d e l e t e _ p b s _ b a t c h _ j o b
+o s a c o m p i l e@c o m p i l e _ a p p l e s c r i p t
+u n z i p@u n c o m p r e s s _ f i l e s _ c o m p r e s s e d _ z i p _ u t i l i t y _ c o m p a t i b l e _ d o s _ p k z i p
+h d i u t i l@m a n i p u l a t e _ i s o _ d i s k _ i m a g e s
+m a i l q@s h o w s _ l i s t _ e m a i l s _ q u e u e d _ d e l i v e r y _ s e n d m a i l _ q u e u e
+p y t h o n@
+c h m o d@c h a n g e _ f i l e _ p e r m i s s i o n s
+s u d o@u s e d _ e x e c u t i n g _ c o m m a n d s _ d i f f e r e n t u s e r
+m v@m o v e s _ r e n a m e s _ f i l e s
+s t t y@c h a n g e s _ p r i n t s _ t e r m i n a l _ l i n e _ s e t t i n g s
+c h o w n@o n e _ s o u n d s t o o _ m u c h _ l i k e _ c l o w n _ a n y w a y _ f u n n y _ t h o u g h
+t i m e@m e a s u r e _ p r o g r a m _ r u n n i n g _ t i m e
+s h r e d@s a f e l y _ r e m o v e _ d a t a _ d i s k _ d r i v e
+i c o n v@u s e _ c o n v e r t _ c h a r a c t e r _ s e t _ f i l e s
+l o c a l e@s h o w s _ i n f o r m a t i o n _ c u r r e n t _ l o c a l e s
+l o s e t u p@s e t _ c o n t r o l _ l o o p _ d e v i c e s
+t r u e@r e t u r n _ t r u e _ v a l u e
+t r a p@t r a p s _ s i g n a l
+n i c e@s e t s _ p r i o r i t y _ j o b _ c o m m a n d
+p w d@p r i n t _ a b s o l u t e _ p a t h _ w o r k i n g _ d i r e c t o r y
+w h i c h@l o c a t e _ p r o g r a m _ f i l e _ u s e r _ p a t h
+h i s t s i z e@c h a n g e _ h i s t o r y _ s i z e
+w h o a m i@o u t p u t s _ u s e r _ n a m e
+h i s t o r y@c o m m a n d _ h i s t o r y
+p w c o n v@c o n v e r t s _ p a s s w o r d s _ s h a d o w _ p a s s w o r d _ f o r m a t
+c t a g s@m a k e _ l i s t _ f u n c t i o n s _ m a c r o _ n a m e s _ d e f i n e d _ p r o g r a m m i n g _ s o u r c e _ f i l e
+s s h@o p e n s s h _ s s h _ c l i e n t _ r e m o t e _ l o g i n _ p r o g r a m
+p p p d@p o i n t _ p o i n t _ p r o t o c o l _ d a e m o n
+r e t u r n@t h i s i s _ u s e d _ e x i t _ s h e l l _ f u n c t i o n
+m m d@m a k e _ m s _ d o s _ s u b d i r e c t o r y
+c h m o d@c h a n g e _ f i l e _ m o d e _ b i t s
+a n a c r o n@r u n s _ c o m m a n d s _ p e r i o d i c a l l y
+b u n z i p 2@d e c o m p r e s s _ f i l e _ b z i p 2 _ f o r m a t
+e s d m o n@u s e d _ c o p y _ s o u n d _ s e n t _ d e v i c e _ a l s o _ s e n d _ s e c o n d a r y _ d e v i c e
+v@l i s t s _ c o n t e n t s _ d i r e c t o r y
+m t o o l s@u t i l i t i e s _ a c c e s s _ m s _ d o s _ d i s k s
+l p a d m i n@c o n f i g u r e _ c u p s _ p r i n t e r s _ c l a s s e s
+i p t a b l e s - r e s t o r e@r e s t o r e _ i p _ t a b l e s
+z c a t@c o m p r e s s _ e x p a n d _ f i l e s
+f c@f i x _ c o m m a n d _ h i s t o r y
+p w c h k@c h e c k s _ i n t e g r i t y _ p a s s w o r d _ s h a d o w _ f i l e s
+r e n i c e@a l t e r s _ p r i o r i t y _ p r o c e s s e s _ r u n n i n g
+f c@v i e w s _ e d i t s _ e x e c u t e s _ c o m m a n d s _ h i s t o r y _ l i s t
+p o w e r o f f@h a l t _ p o w e r _ r e b o o t _ m a c h i n e
+s u@l o g _ a n o t h e r _ u s e r _ i n c l u d i n g _ r o o t
+r l o g i n@u s e d _ c o n n e c t _ l o c a l _ h o s t _ s y s t e m _ r e m o t e _ h o s t
+l p q@s h o w _ p r i n t _ j o b s _ w a i t i n g
+m k n o d@c r e a t e _ c h a r a c t e r _ s p e c i a l _ f i l e s _ b l o c k _ f i l e s
+t y p e@d i s p l a y s _ n a m e _ w o u l d _ i n t e r p r e t e d _ u s e d _ c o m m a n d
+x c o n f i g u r a t o r@r e d _ h a t _ u t i l i t y _ c o n f i g u r i n g _ s e t t i n g s _ x
+c h d i r@c h a n g e _ w o r k i n g _ d i r e c t o r y
+i f@e x e c u t e _ c o m m a n d _ c o n d i t i o n a l l y
+f g r e p@p r i n t _ l i n e s _ m a t c h i n g _ p a t t e r n
+f u s e r@i d e n t i f y _ k i l l _ p r o c e s s _ a c c e s s i n g _ f i l e
+u m a s k@s e t _ f i l e _ m o d e _ c r e a t i o n _ m a s k
+p s 2 p d f 1 2@c o n v e r t _ p o s t s c r i p t _ p d f _ 1 _ 2 _ a c r o b a t _ 3 _ l a t e r _ c o m p a t i b l e _ u s i n g _ g h o s t s c r i p t
+u s e r s@p r i n t _ u s e r _ n a m e s _ u s e r s _ c u r r e n t l y _ l o g g e d _ c u r r e n t _ h o s t
+c h s h@s w i t c h _ l o g i n _ s h e l l
+t i m e@t i m e _ f u n c t i o n s _ g a w k
+u m a s k@u s e r s _ f i l e _ c r e a t i o n _ m a s k
+d o s 2 u n i x@c o n v e r t s _ p l a i n _ t e x t _ f i l e s _ d o s _ m a c _ f o r m a t _ u n i x _ f o r m a t
+c v s@c o n c u r r e n t _ v e r s i o n s _ s y s t e m _ u s e d _ t r a c k _ f i l e _ v e r s i o n s _ a l l o w _ s t o r a g e _ r e t r i e v a l _ p r e v i o u s _ v e r s i o n s _ e n a b l e s _ m u l t i p l e _ u s e r s _ w o r k _ f i l e
+a t@s c h e d u l e _ j o b _ r u n _ f u t u r e
+g z e x e@c o m p r e s s e s _ e x e c u t a b l e s
+d s c l@d i r e c t o r y _ s e r v i c e _ c o m m a n d _ l i n e _ u t i l i t y
+r d e v@q u e r y _ s e t _ i m a g e _ r o o t _ d e v i c e _ s w a p _ d e v i c e _ r a m _ d i s k _ s i z e _ v i d e o _ m o d e _ k e r n e l
+l s m o d@s h o w _ s t a t u s _ m o d u l e s _ l i n u x _ k e r n e l
+a l i e n@u t i l i t y _ c o n v e r t _ d i f f e r e n t _ l i n u x _ p a c k a g e _ f o r m a t s
+r w h o@s h o w _ l o g g e d _ l a n
+b z d i f f@c o m p a r e _ b z i p 2 _ c o m p r e s s e d _ f i l e s
+t e l i n i t@u s e d _ c h a n g e _ r u n _ l e v e l
+i f d o w n@u s e _ c o m m a n d _ f o r s t o p p i n g _ n e t w o r k _ i n t e r f a c e
+d i g@l o o k s _ d n s
+s p l i t@b r e a k s _ f i l e _ f i x e d _ s i z e s
+h e x d u m p@a s c i i _ d e c i m a l _ h e x a d e c i m a l _ o c t a l _ d u m p
+c o n t i n u e@r e s u m e _ n e x t _ i t e r a t i o n _ l o o p
+r e a d o n l y@m a r k _ v a r i a b l e s _ f u n c t i o n s _ r e a d o n l y
+s c r i p t@u s e d _ m a k e _ t y p e s c r i p t _ e v e r y t h i n g _ d i s p l a y e d _ s c r e e n _ t e r m i n a l _ s e s s i o n
+c d@c h a n g e s _ s h e l l _ w o r k i n g _ d i r e c t o r y _ g i v e n _ d i r e c t o r y _ r e l a t i v e _ a b s o l u t e _ p a t h
+u m a s k@u s e d _ t o d e t e r m i n e _ f i l e _ p e r m i s s i o n _ n e w _ f i l e
+t s e t@i n i t i a l i z e _ t e r m i n a l
+s w a p o n@e n a b l e _ d e v i c e s _ p a g i n g _ s w a p p i n g
+c h m o d@s e t _ p e r m i s s i o n s _ m o d e s _ f i l e s _ d i r e c t o r i e s
+u u c p@u n i x _ u n i x _ c o p y
+s t r a c e@t r a c e _ s y s t e m _ c a l l s _ s i g n a l s
+l d c o n f i g@c r e a t e s _ n e c e s s a r y _ l i n k s _ c a c h e _ u s e _ r u n
+z g r e p@p e r f o r m s _ g r e p _ c o m p r e s s e d _ f i l e s
+r s h@e x e c u t e _ s h e l l _ c o m m a n d _ r e m o t e _ c o m p u t e r
+a u t o u p d a t e@u p d a t e _ c o n f i g u r e _ n e w e r _ a u t o c o n f
+i f c o n f i g@u s e d t o _ c o n f i g u r e _ n e t w o r k _ i n t e r f a c e s
+v m s t a t@r e p o r t s _ v i r t u a l _ m e m o r y _ s t a t i s t i c s
+t y p e@w r i t e _ d e s c r i p t i o n _ c o m m a n d _ t y p e
+t p u t@c h a n g e _ t e r m i n a l _ c h a r a c t e r i s t i c s
+a g e t t y@a l t e r n a t i v e _ l i n u x _ g e t t y
+b r e a k@e x i t _ l o o p
+l p r m@c a n c e l _ j o b _ p r i n t _ q u e u e
+f d f o r m a t@l o w _ l e v e l _ f o r m a t _ f l o p p y _ d i s k
+a u t o h e a d e r@c r e a t e _ t e m p l a t e _ h e a d e r _ c o n f i g u r e
+d u@s h o w _ d i s k _ u s e a g e
+p r@p r e p a r e _ f i l e s _ p r i n t i n g
+s l e e p@s l e e p _ s p e c i f i e d _ n u m b e r _ s e c o n d s
+f r e e@d i s p l a y _ f r e e _ m e m o r y
+k i l l a l l@k i l l s _ p r o c e s s _ e s _ r u n n i n g _ s p e c i f i e d _ c o m m a n d
+t a l k@t a l k _ a n o t h e r _ u s e r
+e l m@i n t e r a c t i v e _ m a i l _ s y s t e m
+s h u t d o w n@p o w e r _ m a c h i n e
+l o c a t e@u s e d _ f i n d _ f i l e s _ n a m e
+u n i q@d i s p l a y s _ l i n e s _ f i l e _ u n i q u e
+f a l s e@r e t u r n _ f a l s e _ v a l u e
+p w d@d i s p l a y s _ s h e l l _ c u r r e n t _ w o r k i n g _ d i r e c t o r y
+p u s h d@c h a n g e s _ d i r e c t o r y _ s a v e s _ f i r s t
+n o t i f y - s e n d@c o m m a n d _ s e n d s _ d e s k t o p n o t i f i c a t i o n s
+e c h o@d i s p l a y _ m e s s a g e _ s c r e e n
+v i e w@s t a r t _ v i m _ r e a d _ m o d e
+s e q@p r i n t s _ s e q u e n c e _ n u m b e r s
+d c@c o m m a n d s t a n d s _ d e s k _ c a l c u l a t o r
+f s c k@c h e c k s _ c o n s i s t e n c y _ f i l e _ s y s t e m _ r e p a i r s
+l o g n a m e@s h o w s _ l o g i n _ n a m e _ c u r r e n t _ u s e r
+s l e e p@a d d _ d e l a y _ u s i n g _ c o m m a n d
+p d f t o t e x t@c o n v e r t _ p d f _ f i l e s _ p l a i n _ t e x t
+b z i p 2@c o m p r e s s _ f i l e _ b z i p 2 _ f o r m a t
+g p g v@u s e d _ v e r i f y _ o p e n p g p _ s i g n a t u r e s
+d d@c o n v e r t _ c o p y _ f i l e
+a u t o c o n f@g e n e r a t e _ c o n f i g u r a t i o n _ s c r i p t s
+l o g g e r@e n t e r _ m e s s a g e s _ s y s t e m _ l o g
+a r@c r e a t e _ m o d i f y _ e x t r a c t _ a r c h i v e s
+e g r e p@s e a r c h _ f i l e _ l i n e s _ m a t c h _ e x t e n d e d _ e x p r e s s i o n
+f i n d@f i n d _ f i l e s
+w g e t@n o n _ i n t e r a c t i v e _ d o w n l o a d _ f i l e s _ w e b
+i o s t a t@r e p o r t _ c p u _ s t a t i s t i c s
+l p a d m i n@u s e d _ c o n f i g u r e _ p r i n t e r _ c l a s s _ q u e u e s _ p r o v i d e d _ c u p s _ c o m m o n _ u n i x _ p r i n t i n g _ s y s t e m
+f i l e@d i s p l a y s _ c l a s s i f i c a t i o n _ f i l e _ f i l e s _ a c c o r d i n g _ t y p e _ d a t a _ c o n t a i n
+f g r e p@v a r i a n t _ g r e p
+r m@r e m o v e _ f i l e s _ d i r e c t o r i e s
+c a l@p r i n t _ c a l e n d a r
+p s 2 p s@g h o s t s c r i p t _ p o s t s c r i p t _ d i s t i l l e r
+m k l o s t + f o u n d@c r e a t e _ l o s t _ f o u n d _ d i r e c t o r y _ m o u n t e d _ e x t 2 _ f i l e s y s t e m
+c f d i s k@p a r t i t i o n _ t a b l e _ m a n i p u l a t o r _ l i n u x
+m k n o d@c r e a t e _ f i f o _ b l o c k _ b u f f e r e d _ s p e c i a l _ f i l e _ c h a r a c t e r _ u n b u f f e r e d _ s p e c i a l _ f i l e _ s p e c i f i e d _ n a m e
+f o r m a t@f o r m a t _ d i s k s _ t a p e s
+d d r e s c u e@u s e d _ r e c o v e r _ d a t a _ c r a s h e d _ p a r t i t i o n
+i n s t a l l@c o p y _ f i l e s _ s e t _ a t t r i b u t e s
+d i r c o l o r s@s e t _ c o l o r s _ g n u _ l s _ c o m m a n d
+z l e s s@d i s p l a y s _ i n f o r m a t i o n _ c o m p r e s s e d _ f i l e _ u s i n g _ l e s s _ c o m m a n d _ t e r m i n a l _ o n e _ s c r e e n _ t i m e
+l s b l k@l i s t s _ i n f o r m a t i o n _ a v a i l a b l e _ s p e c i f i e d _ b l o c k _ d e v i c e s
+g z i p@c o m p r e s s _ d e c o m p r e s s _ f i l e s
+m k n o d@m a k e _ b l o c k _ c h a r a c t e r _ s p e c i a l _ f i l e s
+w h o i s@c l i e n t _ w h o i s _ s e r v i c e
+g e t c o n f@g e t _ c o n f i g u r a t i o n _ v a l u e s
+i c o n v@c o d e s e t _ c o n v e r s i o n
+r e x e c@r e m o t e _ e x e c u t i o n _ c l i e n t _ e x e c _ s e r v e r
+b c@a r b i t r a r y _ p r e c i s i o n _ c a l c u l a t o r _ l a n g u a g e
+c m p@c o m p a r e _ t w o _ f i l e s _ b y t e _ b y t e
+a d d r 2 l i n e@c o n v e r t _ a d d r e s s e s _ f i l e _ n a m e s _ l i n e _ n u m b e r s
+n e w g r p@l o g _ n e w _ g r o u p
+e x p a n d@c o m m a n d _ c o n v e r t s _ t a b s _ t o s p a c e s
+t r a c e r o u t e@u s e _ t h i s c o m m a n d _ t r a c e _ r o u t e _ h o s t
+l o c k@t e m p o r a r i l y _ l o c k _ t e r m i n a l
+c o n v m v@p e r l _ s c r i p t _ c o n v e r t s _ f i l e n a m e s _ o n e _ e n c o d i n g _ a n o t h e r
+t u n e l p@s e t _ v a r i o u s _ p a r a m e t e r s _ l p _ d e v i c e
+b u n z i p 2@b l o c k _ s o r t i n g _ f i l e _ c o m p r e s s o r _ v 1 _ 0 _ 6
+a t r m@r e m o v e s _ p e n d i n g _ j o b s _ q u e u e d
+e n v@s e t _ e n v i r o n m e n t _ c o m m a n d _ i n v o c a t i o n
+f o r@e x p a n d _ w o r d s _ r u n _ c o m m a n d s _ o n e _ r e s u l t a n t _ l i s t
+l p@l i n e _ p r i n t e r _ d e v i c e s
+k b d _ m o d e@p r i n t _ c u r r e n t _ k e y b o a r d _ m o d e
+g h o s t v i e w@a l a d d i n _ g h o s t s c r i p t _ i n t e r p r e t e r _ p r e v i e w e r
+s t d b u f@r u n _ c o m m a n d _ m o d i f i e d _ b u f f e r i n g _ o p e r a t i o n s _ s t a n d a r d _ s t r e a m s
+l a s t l o g@d i s p l a y s _ i n f o r m a t i o n _ r e c e n t _ l o g i n _ u s e r s _ s p e c i f i e d _ u s e r
+i n s t a l l@c o p i e s _ f i l e s _ s e t _ a t t r i b u t e s
+x s e t r o o t@u t i l i t y _ c o n f i g u r e _ r o o t _ w i n d o w _ x _ t e r m i n a l
+x f m@g r a p h i c a l _ f i l e _ m a n a g e r _ x
+b s h@c o m m a n d _ i n t e r p r e t e r _ s h e l l
+o p e n s n o o p@s n o o p _ f i l e _ o p e n s _ o c c u r
+t a i l@o u t p u t s _ l a s t _ p a r t _ f i l e
+l p r i n t d@u s e d _ a b o r t _ p r i n t _ j o b
+x d m@u s e d _ s t a r t _ x _ l o g i n _ s e s s i o n
+n m@l i s t _ s y m b o l s _ o b j e c t _ f i l e s
+w@s e e _ l o g g e d _ c o m p u t e r
+p e r l@p r a c t i c a l _ e x t r a c t i o n _ r e p o r t _ l a n g u a g e
+m r e n@r e n a m e _ e x i s t i n g _ m s _ d o s _ f i l e
+b a s e n a m e@s t r i p _ d i r e c t o r y _ s u f f i x _ f i l e n a m e s
+i p c r m@r e m o v e _ m e s s a g e _ q u e u e _ s e m a p h o r e _ s e t _ s h a r e d _ m e m o r y _ s e g m e n t _ i d e n t i f i e r
+u f s . u t i l@m o u n t _ u n m o u n t _ u f s _ f i l e _ s y s t e m
+f u s e r@l i s t _ p r o c e s s _ i d s _ p r o c e s s e s _ o n e _ f i l e s _ o p e n
+s p l i t@s p l i t _ f i l e _ p i e c e s _ f i x e d _ s i z e
+s o r t@t e x t _ f i l e s _ s o r t e d _ u s i n g t h i s
+r e b o o t@h a l t _ p o w e r _ r e b o o t _ m a c h i n e
+c o n f i g u r e@a u t o m a t i c a l l y _ c o n f i g u r e s _ s o f t w a r e _ s o u r c e _ c o d e
+t r@t r a n s l a t e s _ d e l e t e s _ c h a r a c t e r s
+l o a d k e y s@l o a d _ k e y b o a r d _ t r a n s l a t i o n _ t a b l e s
+s l e e p@s u s p e n d _ e x e c u t i o n _ i n t e r v a l
+w c@d i s p l a y s _ n u m b e r _ l i n e s _ c h a r a c t e r s _ w o r d s _ f i l e
+c a l@o u t p u t s _ a s c i i _ c a l e n d a r
+m k t e m p@c r e a t e s _ t e m p o r a r y _ f i l e _ d i r e c t o r y
+z l e s s@v i e w _ z i p p e d _ f i l e s
+p i n g 6@s e n d _ i c m p _ e c h o _ r e q u e s t _ n e t w o r k _ h o s t s
+d n s s e c - s i g n k e y@s i g n _ s e c u r e _ d n s _ k e y s e t _ k e y _ s i g n a t u r e s _ s p e c i f i e d _ l i s t _ k e y _ i d e n t i f i e r s
+c u p s d@s c h e d u l e r _ c u p s
+o d@d u m p s _ f i l e s _ o c t a l _ f o r m a t s
+m t o o l s t e s t@t e s t s _ d i s p l a y s _ c o n f i g u r a t i o n
+w h o@d i s p l a y _ s y s t e m
+b a s e n a m e@r e m o v e _ d i r e c t o r y _ s u f f i x _ f i l e _ n a m e
+g e t k e y c o d e s@p r i n t _ k e r n e l _ s c a n c o d e
+t i m e s@g e t _ p r o c e s s _ t i m e s
+s h a s u m@p r i n t _ c h e c k _ s h a _ c h e c k s u m s
+r v i e w@v i _ i m p r o v e d _ p r o g r a m m e r _ t e x t _ e d i t o r
+m s h o w f a t@s h o w _ f t a _ c l u s t e r s _ a l l o c a t e d _ f i l e
+w o r k m a n@g r a p h i c a l _ c d _ p l a y e r _ p r o g r a m
+a r e c o r d m i d i@r e c o r d _ s t a n d a r d _ m i d i _ f i l e s
+g r p c k@v e r i f i e s _ i n t e g r i t y _ g r o u p _ f i l e s
+b u n z i p 2@u s e d _ u n c o m p r e s s _ f i l e s _ c o m p r e s s e d _ b z i p 2
+a w k@p a t t e r n _ s c a n n i n g _ p r o c e s s i n g _ l a n g u a g e
+p o r t m a p@c o n v e r t s _ r p c _ p r o g r a m _ n u m b e r s _ i p _ p o r t _ n u m b e r s
+u s e r a d d@u s e _ c o m m a n d _ w h e n y o u _ n e e d _ n e w _ u s e r _ a c c o u n t _ c r e a t e d
+d f@d i s p l a y s _ c a p a c i t y _ f r e e _ c a p a c i t y _ d i f f e r e n t _ p h y s i c a l _ d e v i c e s _ h a r d _ d r i v e _ p a r t i t i o n s _ f l o p p y _ d r i v e s _ m o u n t e d _ f i l e _ s y s t e m
+t a r@g n u _ v e r s i o n _ t a r _ a r c h i v i n g _ u t i l i t y
+i f c o n f i g@d i s p l a y _ n e t w o r k _ h a r d w a r e _ a d d r e s s e s
+b a s e 3 2@b a s e 3 2 _ e n c o d e _ d e c o d e _ d a t a _ p r i n t _ s t a n d a r d _ o u t p u t
+r m a i l@i n t e r p r e t _ h a n d l e _ r e m o t e _ m a i l _ r e c e i v e d _ v i a _ u u c p
+d i r c o l o r s@s e t _ c o l o r _ l s
+p u s h d@c h a n g e _ d i r e c t o r y _ s a v e _ i t f i r s t
+s e t u i d@s e t _ u s e r _ i d
+l d@u n i x _ l i n k e r _ c o m b i n e s _ a r c h i v e s _ o b j e c t _ f i l e s _ p u t s _ o n e _ o u t p u t _ f i l e _ r e s o l v i n g _ e x t e r n a l _ r e f e r e n c e s
+u m o u n t@u n m o u n t _ f i l e s y s t e m
+i c o n v@c o n v e r t s _ c h a r a c t e r _ s e t _ f i l e s
+g r p c k@v e r i f y _ i n t e g r i t y _ g r o u p _ f i l e s
+r l o g i n@l o g _ r e m o t e _ c o m p u t e r
+w h i c h@f i n d _ c o m m a n d _ p a t h
+i f u p@b r i n g _ n e t w o r k _ i n t e r f a c e
+w h i c h@c o m m a n d _ s e a r c h e s _ a u s e r _ p a t h _ p r o g r a m
+s u d o@e x e c u t e _ c o m m a n d _ a n o t h e r _ u s e r
+d i f f@d i s p l a y s _ d i f f e r e n c e s _ t w o _ f i l e s
+c h s h@c h a n g e _ l o g i n _ s h e l l
+f g c o n s o l e@p r i n t _ n u m b e r _ a c t i v e _ v t
+y p t e s t@c a l l s _ v a r i o u s _ f u n c t i o n s _ c h e c k _ c o n f i g u r a t i o n _ n i s _ s e r v i c e s
+p s b o o k@r e a r r a n g e _ p a g e s _ p o s t s c r i p t _ f i l e _ s i g n a t u r e s
+p o p d@r e s t o r e s _ p r e v i o u s _ v a l u e _ d i r e c t o r y _ y o u ’ r e _ c u r r e n t l y
+t a i l@p r i n t _ l a s t _ 1 0 _ l i n e s _ f i l e _ s t a n d a r d _ o u t p u t
+i n e t d@e x t e n d e d _ i n t e r n e t _ s e r v i c e s _ d a e m o n _ s t a r t s _ p r o g r a m s _ p r o v i d e _ i n t e r n e t _ s e r v i c e s
+t y p e s e t@d e c l a r e s _ a t t r i b u t e s _ v a r i a a b l e _ d e c l a r e
+i f@c o n d i t i o n a l l y _ p e r f o r m _ c o m m a n d
+d i t t o@c o p y _ f i l e s _ f o l d e r s
+u p d a t e d b@u p d a t e _ f i l e _ d a t a b a s e _ u s e d _ l o c a t e _ c o m m a n d
+n a m e i f@n a m e _ n e t w o r k _ i n t e r f a c e s _ b a s e d _ m a c _ a d d r e s s e s
+h o s t n a m e@o u t p u t s _ n a m e _ c u r r e n t _ c o m p u t e r _ s e r v e r
+f m t@r e f o r m a t _ p a r a g r a p h _ t e x t
+d j p e g@d e c o m p r e s s _ j p e g _ f i l e _ i m a g e _ f i l e
+u n g e t@u n d o _ p r e v i o u s _ g e t _ s c c s _ f i l e
+f m t@u s e d _ c o n v e r t _ t e x t _ s p e c i f i e d _ w i d t h _ f i l l i n g _ l i n e s _ r e m o v i n g _ n e w _ l i n e s _ d i s p l a y i n g _ o u t p u t
+p r a l i a s e s@p r i n t s _ c u r r e n t _ s y s t e m _ m a i l _ a l i a s e s
+i p t a b l e s@a d m i n i s t r a t i o n _ t o o l _ i p v 4 _ p a c k e t _ f i l t e r i n g _ n a t
+i d@p r i n t _ i n f o r m a t i o n _ u s e r n a m e _ c u r r e n t _ u s e r
+c h a g e@c h a n g e _ u s e r _ p a s s w o r d _ e x p i r y _ i n f o r m a t i o n
+d d@c o n v e r t _ c o p y _ f i l e _ c l o n e _ d i s k s
+e x p a n d@c o n v e r t _ t a b s _ s p a c e s _ g i v e n _ f i l e _ s h o w _ o u t p u t
+m a n@s h o r t _ m a n u a l _ p r o v i d e s _ h e l p _ c o m m a n d
+r c p@c o p y _ f i l e s _ m a c h i n e s
+u n a m e@c o m m a n d _ p r i n t _ s y s t e m i n f o r m a t i o n
+l i p o@c o n v e r t _ u n i v e r s a l _ b i n a r y
+s t r i n g s@s e a r c h _ s p e c i f i e d _ f i l e _ p r i n t s _ p r i n t a b l e _ s t r i n g s _ l e a s t _ f o u r _ c h a r a c t e r s _ f o l l o w e d _ u n p r i n t a b l e _ c h a r a c t e r
+p t x@p r o d u c e _ p e r m u t e d _ i n d e x _ f i l e _ c o n t e n t s
+q r l s@r e l e a s e _ b a t c h _ j o b s
+p g r e p@l o o k _ s i g n a l _ p r o c e s s e s _ b a s e d _ n a m e _ a t t r i b u t e s
+m t y p e@d i s p l a y _ c o n t e n t s _ m s _ d o s _ f i l e
+s l o c a t e@f i n d s _ p a r t i c u l a r _ f i l e s
+e s d@s t a r t _ e n l i g h t e n m e n t _ s o u n d _ d a e m o n _ e s o u n d _ e s d _ e n a b l e s _ m u l t i p l e _ a p p l i c a t i o n s _ a c c e s s _ a u d i o _ d e v i c e _ s i m u l t a n e o u s l y
+u n r a r@e x t r a c t _ f i l e s _ r a r _ a r c h i v e
+m o r e@d i s p l a y _ c o n t e n t _ f i l e _ p a g e _ p a g e
+m c@m i d n i g h t _ c o m m a n d e r _ f i l e _ m a n a g e r _ v i s u a l _ s h e l l
+m a k e b o o t d i s k@c o m m a n d _ s l a c k w a r e _ n a m e _ s a y s
+g d b@u t i l i t y _ d e b u g _ p r o g r a m s _ k n o w _ c r a s h e s
+w a r n q u o t a@s e n d _ m a i l _ u s e r s _ e x c e e d e d _ d i s k _ q u o t a _ s o f t _ l i m i t
+g z i p@g z i p
+n o h u p@o n e _ r u n s _ c o m m a n d _ a f f e c t e d _ b y h a n g u p s
+s y n c@f o r c e _ c h a n g e d _ b l o c k s _ d i s k _ u p d a t e _ s u p e r _ b l o c k
+q u o t a c h e c k@c o m m a n d s _ l e t s _ s c a n _ f i l e _ s y s t e m _ f i n d _ d i s k u s a g e
+t e l n e t@r e m o t e _ l o g i n _ n e t w o r k _ l o g i n _ s e r v e r x _ u s e _ c o m m a n d _ t e l n e t _ s e r v e r x
+p a s s w d@c h a n g e _ l o g i n _ p a s s w o r d
+u n i c o d e _ s t a r t@p u t _ k e y b o a r d _ c o n s o l e _ u n i c o d e _ u t f _ 8 _ m o d e
+s l a t t a c h@a t t a c h _ n e t w o r k _ i n t e r f a c e _ s e r i a l _ l i n e
+p a s s w d@p a s s w o r d _ f i l e
+b g@s t a r t s _ s u s p e n d e d _ p r o c e s s _ r u n n i n g _ b a c k g r o u n d
+h t t p d@s t a r t _ a p a c h e
+l o g n a m e@p r i n t _ u s e r _ l o g i n _ n a m e
+p r s@p r i n t _ s c c s _ f i l e
+a l i a s@c r e a t e _ a l i a s
+t s o r t@p e r f o r m s _ t o p o l o g i c a l _ s o r t
+s s h@s s h _ c l i e n t _ l o g g i n g _ r e m o t e _ m a c h i n e _ p r o v i d e s _ e n c r y p t e d _ c o m m u n i c a t i o n _ h o s t s
+g s@g h o s t s c r i p t _ p o s t s c r i p t _ p d f _ l a n g u a g e _ i n t e r p r e t e r _ p r e v i e w e r
+j o b s@l i s t _ p r o c e s s e s _ r u n n i n g _ e v e r y _ p r o c e s s _ u n i q u e _ i n t e g e r _ i d _ n u m b e r _ p i d
+g + +@c _ c o m p i l e r
+a p t - g e t@i n s t a l l _ s e a r c h _ s o f t w a r e _ p a c k a g e s
+d i r@l i s t _ c o n t e n t s _ d i r e c t o r y
+m o r e@d i s p l a y _ o u t p u t _ o n e _ s c r e e n _ t i m e
+s s@s o c k e t _ s t a t i s t i c s
+b a n n e r@u s e d _ p r i n t _ c h a r a c t e r s _ p o s t e r
+l e s s@c o m m a n d
+q u o t a s t a t s@s h o w s _ r e p o r t _ q u o t a _ s y s t e m _ s t a t i s t i c s _ g a t h e r e d _ k e r n e l
+e x i t@e x i t i n g _ s h e l l
+m k f i f o@m a k e _ f i f o _ s p e c i a l _ f i l e s
+s s@a n o t h e r _ u t i l i t y _ i n v e s t i g a t e _ s o c k e t s
+b 2 s u m@c o m p u t e s _ c h e c k s _ b l a k e 2 _ m e s s a g e _ d i g e s t
+t r a p@r u n _ c o m m a n d _ s i g n a l _ s e t _ b o u r n e
+g e t@g e t _ v e r s i o n _ s c c s _ f i l e
+t r@t r a n s l a t e _ s q u e e z e _ d e l e t e _ c h a r a c t e r s
+w@s h o w _ l o g g e d
+i f@c o n d i t i o n a l _ c o m m a n d
+w h a t i s@s e a r c h _ w h a t i s _ d a t a b a s e _ c o m p l e t e _ w o r d s
+t e e@d u p l i c a t e _ s t a n d a r d _ o u t p u t
+p o p d@r e s t o r e _ p r e v i o u s _ v a l u e _ c u r r e n t _ d i r e c t o r y
+m k e 2 f s@u s e d _ c r e a t e _ e x t 2 _ e x t 3 _ e x t 4 _ f i l e s y s t e m
+e v a l@s c a n s _ e v a l u a t e s _ c o m m a n d _ l i n e
+t a l k@v i s u a l _ c o m m u n i c a t i o n _ p r o g r a m _ c o p i e s _ l i n e s _ o n e _ t e r m i n a l _ a n o t h e r _ u s e r
+r o u t e@s h o w _ c h a n g e _ i p _ r o u t i n g _ t a b l e
+r e a d e l f@d i s p l a y s _ i n f o r m a t i o n _ e l f _ f i l e s
+d u m p e 2 f s@d u m p _ e x t 2 _ e x t 3 _ e x t 4 _ f i l e _ s y s t e m s
+e 2 l a b e l@c h a n g e _ l a b e l _ e x t 2 _ e x t 3 _ e x t 4 _ f i l e s y s t e m
+f g@r u n _ j o b s _ f o r e g r o u n d
+e t h t o o l@e t h e r n e t _ c a r d _ s e t t i n g s
+u s e r a d d@a d d u s e r
+l o c k@u n i m p l e m e n t e d _ s y s t e m _ c a l l s
+m d i r@l i s t s _ c o n t e n t s _ d o s _ d i r e c t o r i e s
+l s a t t r@l i s t _ a t t r i b u t e s _ f i l e s _ e x t 2 _ f i l e _ s y s t e m
+r p m@r p m _ p a c k a g e _ m a n a g e r _ r e d h a t _ p a c k a g e _ m a n a g e r
+s c p@c o p y _ f i l e s _ h o s t s _ n e t w o r k _ s e c u r e l y _ u s i n g _ s s h
+x a r g s@r u n s _ c o m m a n d _ u s i n g _ i n i t i a l _ a r g u m e n t s _ r e a d s _ r e m a i n i n g _ a r g u m e n t s _ s t a n d a r d _ i n p u t
+h o s t n a m e@p r i n t _ s e t _ s y s t e m _ n a m e
+e n v@r u n _ p r o g r a m _ m o d i f i e d _ e n v i r o n m e n t
+m a i l t o@u s e d _ s e n d _ m a i l _ m u l t i m e d i a _ c o n t e n t _ m i m e _ f o r m a t
+z f o r c e@f o r c e _ g z _ e x t e n s i o n _ g z i p _ f i l e s
+s e d@s t r e a m _ e d i t o r _ f i l t e r i n g _ t r a n s f o r m i n g _ t e x t _ f i l e _ p i p e _ i n p u t
+c l e a r@c l e a r _ p r e v i o u s _ c o m m a n d s _ o u t p u t _ t e x t _ t e r m i n a l
+f i n d@f i n d _ f i l e
+l e s s k e y@u s e d _ s p e c i f y _ k e y _ b i n d i n g s _ l e s s _ c o m m a n d
+d o s f s c k@c h e c k _ r e p a i r _ m s _ d o s _ f i l e s y s t e m s
+o p@p r o v i d e s _ o p e r a t o r _ a c c e s s
+m k s w a p@s e t _ l i n u x _ s w a p _ a r e a
+l o g n a m e@p r i n t _ c u r r e n t _ l o g i n _ n a m e
+w a t c h@d i s p l a y s _ e x e c u t e s _ p r o g r a m _ p e r i o d i c a l l y
+g e n c a t@g e n e r a t e _ f o r m a t t e d _ m e s s a g e _ c a t a l o g
+c s p l i t@s p l i t _ f i l e s _ b a s e d _ c o n t e x t
+g u n z i p@d e c o m p r e s s _ f i l e _ g n u _ z i p _ f o r m a t
+m a k e@r e c o m p i l e _ g r o u p _ p r o g r a m s
+p s 2 p d f w r@c o n v e r t _ p o s t s c r i p t _ p d f _ w i t h o u t _ s p e c i f y i n g _ c o m p a t i b i l i t y l e v e l _ u s i n g _ g h o s t s c r i p t
+w c@p r i n t _ n e w l i n e _ w o r d _ b y t e _ c o u n t s _ f i l e
+d f@y o u w a n t _ k n o w _ f r e e _ s p a c e _ d i s k _ u s e
+u s e r m o d@s e l f e x p l a n a t o r y _ m o d i f y _ u s e r _ a c c o u n t
+r m@r e m o v e _ d i r e c t o r y _ e n t r i e s
+r m d i r@r e m o v e _ f o l d e r
+q s i g@s i g n a l _ b a t c h _ j o b s
+a c c e p t@a c c e p t _ r e j e c t _ j o b s _ s e n t _ d e s t i n a t i o n
+v@v e r b o s e l y _ l i s t _ d i r e c t o r y _ c o n t e n t s _ l s _ l _ b
+l p m o v e@m o v e _ j o b _ j o b s _ n e w _ d e s t i n a t i o n
+d u m p e 2 f s@d u m p _ e x t 2 _ e x t 3 _ e x t 4 _ f i l e s y s t e m _ i n f o r m a t i o n
+s e t u i d@s e t _ u s e r _ i d e n t i t y
+l s o f@l i s t _ o p e n _ f i l e s
+r s y n c@r e m o t e _ f i l e _ c o p y _ s y n c h r o n i z e _ f i l e _ t r e e s
+i s o i n f o@u t i l i t y _ p e r f o r m _ d i r e c t o r y _ l i k e _ l i s t i n g s _ i s o 9 6 6 0 _ i m a g e s
+p d f l a t e x@p d f _ o u t p u t _ t e x
+d a t e@d i s p l a y s _ s e t s _ d a t e _ t i m e
+t c p d u m p@d u m p _ t r a f f i c _ n e t w o r k _ d i s p l a y s _ d e s c r i p t i o n _ c o n t e n t s _ p a c k e t s _ n e t w o r k _ i n t e r f a c e _ m a t c h _ b o o l e a n _ e x p r e s s i o n
+s f t p@r u n _ s e c u r e _ f i l e _ t r a n s f e r _ p r o g r a m _ u s i n g t h i s
+w h a t i s@d i s p l a y _ o n e _ l i n e _ m a n u a l _ p a g e _ d e s c r i p t i o n s
+p s t r e e@d i s p l a y _ p r o c e s s e s _ f o r m _ t r e e _ s t r u c t u r e
+d m e s g@p r i n t _ k e r n e l _ d r i v e r _ m e s s a g e s
+m k d o s f s@u s e d _ c r e a t e _ m s _ d o s _ f i l e s y s t e m _ l i n u x
+i f c o n f i g@c o n f i g u r e s _ n e t w o r k _ i n t e r f a c e s
+a m i x e r@c o m m a n d _ l i n e _ m i x e r _ a l s a _ s o u n d c a r d _ d r i v e r
+s y n c@w r i t e s _ m e m o r y _ b u f f e r s _ p h y s i c a l _ d e v i c e s
+s t a t d@d a e m o n _ l i s t e n s _ r e b o o t _ n o t i f i c a t i o n s _ h o s t s _ m a n a g e s _ l i s t _ h o s t s _ n o t i f i e d _ l o c a l _ s y s t e m _ r e b o o t s
+a c o n n e c t@a l s a _ s e q u e n c e r _ c o n n e c t i o n _ m a n a g e r
+m e t a s e n d@i n t e r f a c e _ s e n d i n g _ n o n _ t e x t _ m a i l
+h e a d@o u t p u t _ f i r s t _ p a r t _ f i l e
+t l o a d@s h o w s _ g r a p h _ c u r r e n t _ s y s t e m _ l o a d _ a v e r a g e _ s p e c i f i e d _ t t y
+c t a g s@c r e a t e _ t a g s _ f i l e
+s y s c t l@c o n f i g u r e _ k e r n e l _ p a r a m e t e r s _ r u n t i m e
+p o w e r o f f@s h u t s _ m a c h i n e
+m a c 2 u n i x@c o n v e r t s _ p l a i n _ t e x t _ f i l e s _ d o s _ m a c _ f o r m a t _ u n i x _ f o r m a t
+o p e n@o p e n _ f i l e _ d e f a u l t _ a p p l i c a t i o n
+s u@s u b s t i t u t e _ u s e r _ i d e n t i t y
+l e s s@d i s p l a y _ o u t p u t _ o n e _ s c r e e n _ t i m e
+f t p@i n t e r n e t _ f i l e _ t r a n s f e r _ p r o g r a m
+s i z e@l i s t s _ s e c t i o n _ s i z e _ t o t a l _ s i z e _ s p e c i f i e d _ f i l e
+s e t l e d s@s h o w _ c h a n g e _ l e d _ l i g h t _ s e t t i n g s _ k e y b o a r d
+u p t i m e@s h o w s _ t i m e _ l o n g _ s y s t e m _ n u m b e r _ u s e r s _ a v e r a g e _ l o a d
+p d f t o t e x t@p o r t a b l e _ d o c u m e n t _ f o r m a t _ p d f _ t e x t _ c o n v e r t e r _ v e r s i o n _ 3 _ 0 3
+s s h - a d d@a d d s _ p r i v a t e _ k e y _ i d e n t i t i e s _ a u t h e n t i c a t i o n _ a g e n t
+f d i s k@m a k e _ c h a n g e s _ d i s k _ p a r t i t i o n _ t a b l e
+d i r n a m e@u s e _ t h i s c o m m a n d _ c h a n g e _ f u l l _ p a t h n a m e _ p a t h
+l s@s h o w s _ l i s t _ f i l e s _ c u r r e n t _ d i r e c t o r y
+d i r@e x a c t l y _ l i k e _ l s _ c _ b _ f i l e s _ d e f a u l t _ l i s t e d _ c o l u m n s _ s o r t e d _ v e r t i c a l l y
+g p r o f@d i s p l a y _ c a l l _ g r a p h _ p r o f i l e _ d a t a
+d a t e@s h o w _ s y s t e m _ d a t e _ t i m e
+p s 2 p s@p s 2 p s _ u s e s _ g s _ c o n v e r t _ p o s t s c r i p t _ t m _ f i l e _ i n p u t _ p s _ s i m p l e r _ u s u a l l y _ f a s t e r _ p o s t s c r i p t _ o u t p u t _ p s
+w a i t@b a s i c _ p r o c e s s _ m a n a g e m e n t
+q u o t a c t l@s e t _ d i s k _ q u o t a s
+h e a d@o u t p u t s _ f i r s t _ p a r t _ f i l e s
+s o u r c e@r u n _ c o m m a n d s _ f i l e
+m t y p e@d i s p l a y _ c o n t e n t s _ m s d o s _ f i l e
+w g e t@r e t r i e v e _ t h e w e b _ p a g e s _ f i l e s _ h t t p _ h t t p s _ f t p
+a p l a y@s o u n d _ r e c o r d e r _ p l a y e r _ c l i
+r w a l l@w r i t e _ u s e r s _ n e t w o r k
+r c p@c o p y _ o n e _ f i l e s _ r e m o t e _ c o m p u t e r
+c h m o d@c h a n g e s _ a c c e s s _ p e r m i s s i o n s
+q u o t a@s h o w s _ d i s k _ u s a g e _ s p a c e _ l i m i t s _ u s e r _ g r o u p _ w i t h o u t _ a r g u m e n t s _ s h o w s _ u s e r _ q u o t a s
+s s h@r u n s _ r e m o t e _ l o g i n _ p r o g r a m
+l e s s@d i s p l a y s _ o u t p u t _ s i n g l e _ s c r e e n _ t i m e
+t c l@s c r i p t i n g _ l a n g u a g e
+p o p d@c o m m a n d _ r e s t o r e s _ p r e v i o u s _ v a l u e _ t h e d i r e c t o r y _ c u r r e n t l y
+m k d i r@c r e a t e s _ n e w _ d i r e c t o r y _ g i v e n _ n a m e
+s e t m e t a m o d e@d e f i n e _ k e y b o a r d _ m e t a _ k e y _ h a n d l i n g _ w i t h o u t _ a r g u m e n t s _ s h o w s _ c u r r e n t _ m e t a _ k e y _ m o d e
+e x i t@e x i t _ t e r m i n a l
+s e l e c t@g e n e r a t e _ l i s t _ i t e m s
+m k f i f o@u s e d _ c r e a t e _ n a m e d _ p i p e s _ f i f o s _ g i v e n _ n a m e s
+s e t@s e t _ s h e l l _ v a r i a b l e _ v a l u e
+e n a b l e@e n a b l e _ d i s a b l e _ b u i l t i n _ s h e l l _ c o m m a n d s
+c o m m@c o m p a r e _ t w o _ s o r t e d _ f i l e s l i n e _ l i n e
+c p@m a k e s _ c o p y _ f i l e s _ d i f f e r e n t _ l o c a t i o n
+b a s e 3 2@b a s e 3 2 _ e n c o d e s _ d e c o d e s _ d a t a _ p r i n t s _ s t a n d a r d _ o u t p u t
+a t q@s h o w s _ p e n d i n g _ j o b s _ q u e u e d
+e n a b l e@u s e _ d i s a b l e _ e n a b l e _ b u l l e t i n _ s h e l l c o m m a n d s
+c a t@c o n c a t e n a t e _ p r i n t _ f i l e s
+s e t@m a n i p u l a t e _ s h e l l _ v a r i a b l e s _ f u n c t i o n s
+s e t f i l e@s e t _ a t t r i b u t e s _ h f s _ f i l e s
+s t o p@s t o p _ j o b _ p r o c e s s
+u n z i p@u n z i p _ z i p _ f i l e s
+j o i n@j o i n s _ l i n e s _ c o m m o n _ f i e l d
+k l o g d@c o n t r o l _ p r i o r i t i z e _ k e r n e l _ m e s s a g e s _ d i s p l a y e d _ c o n s o l e _ l o g _ s y s l o g d
+u n a m e@s h o w _ s y s t e m _ i n f o r m a t i o n
+m r d@r e m o v e _ m s d o s _ s u b d i r e c t o r y
+i m p o r t@c a p t u r e _ x _ s e r v e r _ s c r e e n _ s a v e _ i m a g e _ f i l e
+e c h o@c o m m a n d _ u s e d _ d i s p l a y i n g _ m e s s a g e _ s c r e e n
+r e d@r e d _ r e s t r i c t e d _ e d _ e d i t _ f i l e s _ c u r r e n t _ d i r e c t o r y _ c a n n o t _ e x e c u t e _ s h e l l _ c o m m a n d s
+r c p@s e c u r e _ c o p y _ r e m o t e _ f i l e _ c o p y _ p r o g r a m
+f g@u s e d _ s e n d _ j o b _ f o r e g r o u n d
+m m d@m a k e _ m s d o s _ s u b d i r e c t o r y
+v i@a n o t h e r _ c o m p l i c a t e d _ t e x t _ e d i t o r _ r e c o m m e n d e d
+d f@r e p o r t _ f i l e _ s y s t e m _ d i s k _ s p a c e _ u s a g e
+e x e c v e@e x e c u t e _ p r o g r a m
+x p l a y c d@x _ w i n d o w _ a u d i o _ c d _ p l a y e r _ u t i l i t y
+n e w a l i a s e s@r e b u i l d s _ e t c _ a l i a s e s _ d a t a b a s e _ u s e d _ s e n d m a i l
+w h o a m i@c o m m a n d _ t h a t p r i n t s _ c u r r e n t _ n a m e _ u s e r _ i d
+m d i r@d i s p l a y _ m s d o s _ d i r e c t o r y
+t e e@c o m m a n d _ u s e d _ f o r r e d i r e c t i n g _ o u t p u t _ m u l t i p l e _ f i l e s
+b l e s s@s e t _ v o l u m e _ b o o t a b i l i t y _ s t a r t u p _ d i s k _ o p t i o n s
+p s@r e p o r t _ s n a p s h o t _ c u r r e n t _ p r o c e s s e s
+h i s t o r y@d i s p l a y _ e n t i r e _ c o m m a n d _ h i s t o r y
+b a s e n a m e@c o n v e r t _ f u l l _ p a t h n a m e _ f i l e n a m e
+x l s f o n t s@l i s t _ f o n t s _ a v a i l a b l e _ x _ w i n d o w _ s y s t e m
+l o c a l e@d e s c r i b e s _ l o c a l e _ d e f i n i t i o n _ f i l e
+p a s t e@m e r g e _ c o r r e s p o n d i n g _ s u b s e q u e n t _ l i n e s _ f i l e s
+t r a c e p a t h 6@t r a c e s _ p a t h _ n e t w o r k _ h o s t _ d i s c o v e r i n g _ m t u _ a l o n g _ p a t h
+d i r n a m e@p a r s e _ p a t h n a m e _ c o m p o n e n t s
+s u@s u b s t i t u t e _ u s e r _ i d e n t i t y _ u s i n g _ t h i s c o m m a n d
+g r e p@s e a r c h _ f i l e _ g i v e n _ s t r i n g _ e x p r e s s i o n
+e x e c@e x e c u t e _ f i l e
+i s o s i z e@s h o w _ l e n g t h _ i s o 9 6 6 0 _ f i l e s y s t e m _ c o n t a i n e d _ s p e c i f i e d _ f i l e
+a w k@l e t s _ f i n d _ t e x t _ r e p l a c e
+p y t h o n@i n t e r p r e t e d _ i n t e r a c t i v e _ o b j e c t _ o r i e n t e d _ p r o g r a m m i n g _ l a n g u a g e
+l l@l i s t _ f i l e s _ l o n g _ f o r m a t _ s h o w i n g _ i n v i s i b l e _ f i l e s _ l s _ l a
+a m i d i@r e a d _ w r i t e _ a l s a _ r a w m i d i _ p o r t s
+e 2 l a b e l@s h o w _ c h a n g e _ l a b e l _ e x t 2 _ e x t 3 _ e x t 4 _ f i l e s y s t e m
+h e a d@u s e _ o u t p u t _ f i r s t _ p a r t _ o f f i l e s
+a p s f i l t e r@p r i n t e r _ f i l t e r _ c a l l e d _ l p d _ d e a l _ p r i n t i n g _ d i f f e r e n t _ t y p e s _ f i l e s
+a 2 p@t r a n s l a t i o n _ u t i l i t y _ a w k _ p e r l
+e x i t@q u i t s _ s h e l l
+w c@p r i n t _ b y t e _ w o r d _ l i n e _ c o u n t s _ f i l e
+p w c k@v e r i f y _ i n t e g r i t y _ p a s s w o r d _ f i l e s
+i p t a b l e s@a d m i n i s t r a t i o n _ t o o l _ i p v 4 _ i p v 6 _ p a c k e t _ f i l t e r i n g _ n a t
+a p r o p o s@s h o w s _ l i s t _ m a n _ p a g e s _ c o n t a i n i n g _ s p e c i f i c _ k e y w o r d
+g + +@g n u _ p r o j e c t _ c _ c _ c o m p i l e r
+p a t h c h k@d e t e r m i n e _ v a l i d i t y _ p o r t a b i l i t y _ f i l e n a m e s
+p a t c h@a p p l y _ p a t c h f i l e _ c o n t a i n i n g _ d i f f e r e n c e s _ l i s t i n g _ d i f f _ p r o g r a m _ o r i g i n a l _ f i l e
+b a s h@b o u r n e _ s h e l l
+g e t i p t s@p a r s e s _ a r g u m e n t s _ s h e l l _ s c r i p t
+w h o a m i@d i s p l a y s _ u s e r n a m e _ t i e d _ c u r r e n t _ e f f e c t i v e _ u s e r _ i d
+c o l@f i l t e r _ r e v e r s e _ h a l f _ r e v e r s e _ l i n e _ f e e d s _ i n p u t
+p k i l l@s e n d _ k i l l _ s i g n a l _ p r o c e s s e s _ b a s e d _ n a m e _ a t t r i b u t e s
+c p@c o p i e s _ f i l e _ d i r e c t o r y
+l i n k@c r e a t e s _ l i n k _ a n o t h e r _ f i l e
+n c@n e t c a t _ r e a d _ w r i t e _ d a t a _ a c r o s s _ n e t w o r k s
+t s o r t@u s e d _ t o p o l o g i c a l _ s o r t i n g
+b a t c h@q u e u e _ e x a m i n e _ d e l e t e _ j o b s _ l a t e r _ e x e c u t i o n
+s e l e c t@u s e d _ n e e d _ a c c e p t _ k e y b o a r d i n p u t s
+s h u t d o w n@u s e _ c o m m a n d _ w a n t _ s h u t d o w n _ l i n u x _ r e s t a r t i t
+s s h - a g e n t@a u t h e n t i c a t i o n _ a g e n t
+b c@a r b i t r a r y _ p r e c i s i o n _ c a l c u l a t o r _ l a n g u a g e
+f e t c h m a i l@r e t r i e v e _ m a i l _ r e m o t e _ m a i l _ s e r v e r _ p a s s _ l o c a l _ s m t p _ a g e n t s _ l o c a l _ m a c h i n e
+b r u@p o w e r f u l _ b a c k u p _ u t i l i t y _ p r o g r a m
+d e c l a r e@c o m m a n d _ i s u s e d _ d e c l a r e _ v a r i a b l e s _ g i v e _ a t t r i b u t e s
+n e d i t - n c@n e d i t _ n c _ c l i e n t _ i n t e r f a c e _ n e d i t _ t e x t _ e d i t o r
+s e d@e d i t s _ f i l e _ i n t e r a c t i v e l y
+q h o l d@h o l d _ b a t c h _ j o b s
+c r o n t a b@s c h e d u l e s _ c o m m a n d _ r u n _ r e g u l a r l y _ s p e c i f i e d _ t i m e
+s e t l e d s@s e t _ k e y b o a r d _ l e d s
+s h a 1 s u m@c o m p u t e _ c h e c k _ 1 6 0 _ b i t _ s h a 1 _ c h e c k s u m _ v e r i f y _ f i l e _ i n t e g r i t y
+e x p e c t@a u t o m a t e _ a r b i t r a r y _ a p p l i c a t i o n s _ a c c e s s e d _ t e r m i n a l
+d i r s@t h i s c o m m a n d _ s h o w s _ l i s t _ d i r e c t o r i e s _ r e m e m b e r e d
+m k r a i d@u s e d _ s e t u p _ r a i d _ d e v i c e _ a r r a y s
+u n a l i a s@r e m o v e s _ a l i a s
+s e t@m a n i p u l a t e s _ s h e l l _ f u n c t i o n s _ v a r i a b l e s
+u s e r a d d@a d d _ n e w _ u s e r
+z i p@p a c k a g e _ c o m p r e s s _ a r c h i v e _ f i l e s
+p g a w k@p r o f i l i n g _ v e r s i o n _ g a w k
+i p c s@s h o w _ i n f o r m a t i o n _ i p c _ f a c i l i t i e s _ c a l l i n g _ p r o c e s s _ r e a d _ a c c e s s
+c h c o n@c h a n g e s _ f i l e _ s e c u r i t y _ c o n t e x t _ s e l i n u x
+u n t i l@e x e c u t e _ c o m m a n d s _ e r r o r
+t k s y s v@g r a p h i c a l _ r u n l e v e l _ e d i t o r _ r e d _ h a t
+l n@m a k e _ l i n k s _ f i l e s
+t o u c h@c h a n g e _ f i l e _ t i m e s t a m p s
+b z i p 2@c o m p r e s s _ d e c o m p r e s s _ f i l e s
+c a s e@e x e c u t e _ c o m m a n d _ c o n d i t i o n a l l y _ m a t c h i n g _ p a t t e r n
+c o m m a n d@r u n _ c o m m a n d _ i g n o r i n g _ s h e l l _ f u n c t i o n s
+p r@p r e p a r e s _ f i l e s _ p r i n t i n g
+s u d o@e x e c u t e s _ c o m m a n d s _ d i f f e r e n t _ u s e r
+a c@p r i n t _ s t a t i s t i c s _ c o n c e r n i n g _ u s e r _ c o n n e c t _ t i m e
+q u o t a c t l@s e t s _ d i s k _ q u o t a s
+s s h@s e c u r e _ s h e l l _ c l i e n t _ r e m o t e _ l o g i n _ p r o g r a m
+r e t u r n@e x i t s _ f u n c t i o n
+b z d i f f@u s e d _ c a l l _ d i f f _ p r o g r a m _ b z i p 2 _ c o m p r e s s e d _ f i l e s
+g r o u p a d d@a d d s _ s e c u r i t y _ u s e r _ g r o u p s
+t r u n c a t e@s h r i n k _ e x t e n d _ s i z e _ f i l e _ s p e c i f i e d _ s i z e
+d u m p k e y s@w r i t e _ k e y b o a r d _ d r i v e r _ t r a n s l a t i o n _ t a b l e s _ s t d _ o u t p u t
+m e s g@p e r m i t _ d e n y _ m e s s a g e s
+r e n a m e@r e n a m e _ f i l e s
+e d@l i n e _ o r i e n t e d _ t e x t _ e d i t o r
+m i n f o@p r i n t _ p a r a m e t e r s _ m s d o s _ f i l e s y s t e m
+d i s o w n@u n b i n d _ j o b _ c u r r e n t _ l o g i n _ s e s s i o n
+o b j c o p y@c o p y _ t r a n s l a t e _ o b j e c t _ f i l e s
+p d f t e x@p d f _ o u t p u t _ t e x
+c h o w n@c h a n g e s _ o w n e r _ g r o u p _ f i l e
+d i r n a m e@d i s p l a y _ p a t h n a m e _ r e m o v i n g _ l a s t _ s l a s h _ c h a r a c t e r s _ t h e r e a f t e r
+t r@t r a n s l a t e _ d e l e t e _ c h a r a c t e r s
+r e a d o n l y@c o m m a n d _ m a r k s _ v a r i a b l e s a n d _ f u n c t i o n s _ r e a d o n l y
+g r p c o n v@c o n v e r t _ s h a d o w _ p a s s w o r d s _ g r o u p s
+p a t h c h k@c h e c k _ f i l e _ n a m e _ p o r t a b i l i t y
+w h i c h@g i v e n _ c o m m a n d _ l i s t s _ p a t h n a m e s _ f i l e s _ w o u l d _ e x e c u t e d _ c o m m a n d _ r u n s
+d i f f 3@s h o w _ d i f f e r e n c e s _ a m o n g _ t h r e e _ f i l e s
+n a m e i@f o l l o w _ p a t h n a m e _ t e r m i n a l _ p o i n t _ f o u n d
+e n v@e n v i r o n m e n t _ v a r i a b l e s
+b g@s e n d _ b a c k g r o u n d
+a t d@u s e d _ e x e c u t e _ j o b s _ q u e u e d _ c o m m a n d
+y a c c@y e t _ a n o t h e r _ c o m p i l e r _ c o m p i l e r _ g n u _ p r o j e c t _ p a r s e r _ g e n e r a t o r
+t c p d@a c c e s s _ c o n t r o l _ u t i l i t y _ i n t e r n e t _ s e r v i c e s
+r c s@c r e a t e s _ c h a n g e s _ a t t r i b u t e s _ r c s _ f i l e
+c a t@o u t p u t _ c o n t e n t s _ f i l e
+s w a p o f f@d i s a b l e _ d e v i c e s _ p a g i n g _ s w a p p i n g
+r e m s y n c@s y n c h r o n i z e _ r e m o t e _ f i l e s _ v i a _ e m a i l
+t a i l@o u t p u t _ e n d i n g _ f i l e
+b i s o n@g n u _ p a r s e r _ g e n e r a t o r _ c o m p a t i b l e _ y a c c
+s c p@c r e a t e s _ s e c u r e _ c o p y
+p k i l l@k i l l _ p r o c e s s e s _ n a m e
+f a l s e@e x i t _ s t a t u s _ c o d e _ i n d i c a t i n g _ f a i l u r e
+c r o n@e x e c u t e s _ s c h e d u l e d _ c o m m a n d s
+t r a c e r o u t e@t r a c e _ r o u t e _ h o s t
+e x e c@e x e c u t e _ c o m m a n d
+z d u m p@t i m e z o n e _ d u m p e r
+t i m e o u t@p u t s _ t i m e _ l i m i t _ c o m m a n d
+b r e a k@e x i t _ l o o p
+c h g r p@y o u c h a n g e _ o w n e r s h i p _ g r o u p
+n o h u p@i n v o k e _ u t i l i t y _ i m m u n e _ h a n g u p s
+m a n@d i s p l a y s _ i n f o r m a t i o n _ o n l i n e _ u n i x _ r e f e r e n c e _ m a n u a l
+k b d r a t e@r e s e t _ k e y b o a r d _ r e p e a t _ r a t e _ d e l a y _ t i m e
+e d q u o t a@u s e d _ e d i t _ f i l e s y s t e m _ q u o t a s _ u s i n g _ t e x t _ e d i t o r _ v i
+f i n d@s e a r c h _ f i l e s _ d i r e c t o r y _ h i e r a r c h y
+p s 2 a s c i i@g h o s t s c r i p t _ t r a n s l a t o r _ p o s t s c r i p t _ p d f _ a s c i i
+r e a d o n l y@d e c l a r e s _ v a r i a b l e _ r e a d
+r e b o o t@r e b o o t _ s y s t e m
+r u s e r s d@r s u e r d _ d a e m o n _ a c t s _ s e r v e r _ r e s p o n d s _ q u e r i e s _ r s u e r s _ c o m m a n d
+m k i s o f s@c r e a t e _ h y b r i d _ i s o 9 6 6 0 _ j o l i e t _ h f s _ f i l e s y s t e m
+l o g i n@w r i t e _ u t m p _ w t m p _ e n t r i e s
+p d f 2 p s@c o n v e r t _ p d f _ f i l e _ i n p u t _ p d f _ p o s t s c r i p t _ t m _ o u t p u t _ p s
+c k s u m@p r i n t _ c r c _ c h e c k s u m _ b y t e _ c o u n t s
+w h a r f@a f t e r s t e p _ a p p l i c a t i o n _ d o c k _ m o d u l e
+l n@l i n k _ f i l e s
+u n a l i a s@r e m o v e _ a l i a s
+t i m i d i t y@p l a y _ m i d i _ f i l e s _ s e t _ s o f t w a r e _ s y n t h _ p l a y _ m i d i _ f i l e s _ c o m m a n d s
+g e t k e y c o d e s@p r i n t _ k e r n e l _ s c a n c o d e _ k e y c o d e _ m a p p i n g _ t a b l e
+c h a t@u s e d _ i n t e r a c t _ m o d e m _ v i a _ c h a t _ s c r i p t
+a t q@l i s t _ u s e r _ p e n d i n g _ j o b s _ c o m m a n d
+i s o v f y@u t i l i t y _ p r o g r a m s _ d u m p i n g _ v e r i f y i n g _ i s o 9 6 6 0 _ i m a g e s
+k i k b d@u t i l i t y _ p r o g r a m _ c o m e s _ k d e _ a l l o w s _ u s e r s _ s w i t c h _ f l y _ a m o n g _ d i f f e r e n t _ i n t e r n a t i o n a l _ k e y b o a r d s
+t i m e s@f i n d s _ u s e r _ s y s t e m _ t i m e s
+s e q@d i s p l a y s _ i n c r e m e n t a l _ s e q u e n c e _ n u m b e r s _ f i r s t _ l a s t
+v m s t a t@r e p o r t _ v i r t u a l _ m e m o r y _ s t a t i s t i c s
+m c d@u s e d _ c h a n g e _ m s _ d o s _ d i r e c t o r y
+h e l p@d i s p l a y _ h e l p _ b u i l t _ c o m m a n d
+s h i f t@s h i f t _ p o s i t i o n a l _ p a r a m e t e r s
+c o m p r e s s@c o m p r e s s _ f i l e _ o l d _ u n i x _ c o m p r e s s _ f o r m a t
+u n s e t@r e m o v e s _ v a r i a b l e _ n a m e s _ f u n c t i o n _ n a m e s
+c v s@m a n a g e s _ c o n c u r r e n t _ a c c e s s _ f i l e s _ h i e r a r c h y
+b i f f@n o t i f y _ i n c o m i n g _ m a i l _ s e n d e r _ n a m e _ s y s t e m _ r u n n i n g _ c o m s a t _ s e r v e r
+u l i m i t@l i m i t _ u s e _ s y s t e m _ w i d e _ r e s o u r c e s
+u u e n c o d e@e n c o d e _ b i n a r y _ f i l e _ 7 _ b i t _ a s c i i _ c h a r a c t e r s
+r e a d l i n k@p r i n t _ r e s o l v e d _ s y m b o l i c _ l i n k s _ c a n o n i c a l _ f i l e _ n a m e s
+u m o u n t@u n m o u n t _ s p e c i f i e d _ f i l e _ s y s t e m s
+q u o t a c t l@m a k e _ c h a n g e s _ d i s k _ q u o t a s
+s y m l i n k@s y m b o l i c _ l i n k _ h a n d l i n g
+e x p r@u t i l i t y _ e v a l u a t e s _ e x p r e s s i o n _ d i s p l a y s _ r e s u l t
+f i l e@i s u s e d _ d e t e r m i n e _ f i l e _ t y p e
+n i c e@u s e _ s e t _ p r i o r i t y o f _ j o b _ c o m m a n d
+r e a l p a t h@r e t u r n s _ r e s o l v e d _ a b s o l u t e _ r e l a t i v e _ p a t h _ f i l e
+a r c h@p r i n t s _ m a c h i n e _ h a r d w a r e _ n a m e _ u n a m e
+m k f i f o@m a k e s _ n a m e d _ p i p e s _ f i f o s
+p d f 2 p s@g h o s t s c r i p t _ p d f _ p o s t s c r i p t _ t r a n s l a t o r
+a s m a i l@a f t e r s t e p _ m a i l _ c h e c k i n g _ u t i l i t y
+i n f o@r e a d a b l e _ o n l i n e _ d o c u m e n t a t i o n
+c c / c 9 9@c o m p i l e _ s t a n d a r d _ c _ p r o g r a m s
+p d f t e x@p r o d u c e s _ p d f _ o u t p u t _ t e x _ f i l e
+u n i t s@c o n v e r t _ u n i t s _ o n e _ s c a l e _ a n o t h e r
+n p r o c@q u e r i e s _ n u m b e r _ a c t i v e _ p r o c e s s o r s
+c k s u m@c h e c k s u m s _ c o u n t _ b y t e s _ f i l e
+m d e l@d e l e t e s _ d o s _ f i l e s
+m e s g@d i s p l a y _ d i s p l a y _ m e s s a g e s _ u s e r s
+r e a d@r e a d _ o n e _ l i n e _ s t a n d a r d _ i n p u t
+f e t c h m a i l@f e t c h _ m a i l _ m a i l _ s e r v e r s _ f o r w a r d _ l o c a l _ m a i l _ d e l i v e r y _ s y s t e m
+l o c a l@s e t _ l o c a l _ f u n c t i o n _ v a r i a b l e
+q d e l@d e l e t e _ b a t c h _ j o b s
+u s e r d e l@r e m o v e _ a c c o u n t _ r o o t
+b i s o n@p a r s e r _ g e n e r a t o r _ s i m i l a r _ y a c c
+m v@m o v e s _ f i l e s _ r e n a m e _ f i l e s
+m t o o l s@p a c k a g e _ m s
+o p e n@o p e n _ f i l e _ u s i n g _ d e f a u l t _ a p p l i c a t i o n
+a p m d@u s e d _ h a n d l e _ e v e n t s _ r e p o r t e d _ a p m _ b i o s _ d r i v e r s
+u p d a t e d b@u p d a t e _ d a t a b a s e _ m l o c a t e
+w c@c o m m a n d _ p r i n t s _ w o r d _ b y t e _ l i n e c o u n t s
+h a s h@r e f r e s h _ c a c h e d _ r e m e m b e r e d _ l o c a t i o n _ c o m m a n d s
+t u n e 2 f s@a d j u s t _ t u n a b l e _ f i l e s y s t e m _ p a r a m e t e r s _ e x t 2 _ e x t 3 _ e x t 4 _ f i l e s y s t e m s
+t t y@c o n t r o l l i n g _ t e r m i n a l
+m v@m o v e s _ r e n a m e s _ f i l e _ d i r e c t o r y
+t s e t@t e r m i n a l _ i n i t i a l i z a t i o n
+u p t i m e@t e l l _ l o n g _ s y s t e m _ r u n n i n g
+s e t t e r m@s e t _ t e r m i n a l _ a t t r i b u t e s
+r s y n c@r e m o t e _ f i l e _ c o p y _ s y n c _ f i l e _ t r e e _ a l s o _ r s y n c x
+y p b i n d@d a e m o n _ h e l p s _ c l i e n t _ p r o c e s s e s _ c o n n e c t _ n i s _ s e r v e r
+e x p r@e v a l u a t e s _ e x p r e s s i o n s
+t p u t@s e t _ t e r m i n a l _ d e p e n d e n t _ c a p a b i l i t i e s _ c o l o r _ p o s i t i o n
+d i f f@c o m p a r e _ f i l e s _ l i n e _ l i n e
+f a l s e@n u l l _ c o m m a n d _ r e t u r n s _ u n s u c c e s s f u l _ e x i t _ s t a t u s
+w h a t i s@l i s t _ m a n u a l _ p a g e s _ n a m e
+p r i n t f@t h i s c o m m a n d _ u s e d _ f o r m a t t i n g _ p r i n t i n g _ d a t a
+r e a d@r e a d _ f i l e _ d e s c r i p t o r
+s u s p e n d@s u s p e n d _ e x e c u t i o n _ s h e l l
+g z i p@c o m p r e s s _ d e c o m p r e s s _ n a m e d _ f i l e
+d i f f@d e t e r m i n e _ d i f f e r e n c e _ t w o _ f i l e s
+v i e w@v i _ r e a d
+i d@p r i n t s _ r e a l _ e f f e c t i v e _ u i d _ g i d
+g h o s t s c r i p t@g h o s t s c r i p t _ p o s t s c r i p t _ p d f _ l a n g u a g e _ i n t e r p r e t e r _ p r e v i e w e r
+h i s t o r y@s h o w s _ c o m m a n d _ h i s t o r y
+x e y e s@f o l l o w _ m o u s e _ x _ d e m o
+r m d i r@u s e d _ r e m o v e _ e m p t y _ d i r e c t o r i e s
+t t y@p r i n t _ f i l e n a m e _ t e r m i n a l _ s t d i n
+a 2 p s@t r a n s l a t i o n _ u t i l i t y _ p o s t s c r i p t
+h a s h@h a s h _ d a t a b a s e _ a c c e s s _ m e t h o d
+s t r i p@r e m o v e _ u n n e c e s s a r y _ i n f o r m a t i o n _ e x e c u t a b l e _ f i l e s
+u s e r m o d@m o d i f i e s _ u s e r _ a c c o u n t
+b a s e n a m e@r e m o v e s _ p a t h _ p r e f i x _ g i v e n _ p a t h n a m e
+p d f i n f o@p o r t a b l e _ d o c u m e n t _ f o r m a t _ p d f _ d o c u m e n t _ i n f o r m a t i o n _ e x t r a c t o r _ v e r s i o n _ 3 _ 0 3
+p i c o@s i m p l e _ s c r e e n _ o r i e n t e d _ t e x t _ e d i t o r
+x e d i t@s i m p l e _ t e x t _ e d i t o r _ x
+g r o u p m o d@m o d i f y _ g r o u p _ d e f i n i t i o n _ s y s t e m
+s h u t d o w n@r e b o o t _ s h u t _ s y s t e m _ r o o t _ s p e c i f i e d _ a m o u n t _ t i m e
+a l l o c@l i s t _ u s e d _ f r e e _ m e m o r y
+q s e l e c t@s e l e c t _ p b s _ b a t c h _ j o b s
+l o g g e r@l o g _ m e s s a g e s
+i f d o w n@s t o p _ n e t w o r k _ i n t e r f a c e
+p w d@p r i n t _ n a m e _ c u r r e n t _ w o r k i n g _ d i r e c t o r y
+c r o n t a b@s c h e d u l e _ c o m m a n d _ r u n _ l a t e r _ d a t e _ t i m e
+s e t s i d@r u n _ p r o g r a m _ n e w _ s e s s i o n
+i d@p r i n t _ r e a l _ e f f e c t i v e _ u s e r _ g r o u p _ i d s
+q r l s@r e l e a s e _ h o l d _ p b s _ b a t c h _ j o b s
+t r@t r a n s l a t e _ s q u e e z e _ d e l e t e _ c h a r a c t e r s _ s t a n d a r d _ i n p u t _ d i s p l a y _ s t a n d a r d _ o u t p u t
+s t a t@r e t u r n s _ d a t a _ i n o d e
+m c d@c h a n g e s _ w o r k i n g _ d i r e c t o r y _ d o s _ d i s k
+u n s e t@u i d _ u s e r _ i d _ c h a n g e
+w h o i s@l o o k s _ o b j e c t _ w h o i s _ d a t a b a s e
+r e x e c d@r e m o t e _ e x e c u t i o n _ s e r v e r
+d e b u g f s@e x t 2 _ e x t 3 _ e x t 4 _ f i l e _ s y s t e m _ d e b u g g e r
+a n a c r o n@u s e d _ r u n _ c o m m a n d s _ p e r i o d i c a l l y
+x t e r m@t e r m i n a l _ e m u l a t o r _ x
+p g@b r o w s e _ p a g e w i s e _ t e x t _ f i l e s
+i f u p@s t a r t s _ n e t w o r k _ i n t e r f a c e
+g z i p@c o m p r e s s e s _ d e c o m p r e s s e s _ f i l e s
+c s p l i t@s p l i t _ f i l e _ s e c t i o n s _ b a s i s _ c o n t e x t _ l i n e s
+c k s u m@d i s p l a y s _ c r c _ c h e c k s u m _ a d _ b y t e _ c o u n t s
+c u p s d@c u p s _ s c h e d u l e r
+s c r e e n c a p t u r e@c a p t u r e _ s c r e e n _ i m a g e _ f i l e _ d i s k
+y p m a t c h@s h o w s _ v a l u e s _ s p e c i f i e d _ k e y s _ n i s _ m a p
+f o l d@w r a p _ i n p u t _ l i n e _ f i t _ s p e c i f i e d _ w i d t h
+f d i s k@m a n i p u l a t e _ d i s k _ p a r t i t i o n _ t a b l e
+n o h u p@r u n s _ c o m m a n d _ k e e p s _ r u n n i n g _ l o g o u t
+m k f s@b u i l d _ l i n u x _ f i l e s y s t e m
+b z c m p@u s e d _ c a l l _ c m p _ p r o g r a m _ b z i p 2 _ c o m p r e s s e d _ f i l e s
+s h i f t@s h i f t s _ p o s i t i o n a l _ p a r a m e t e r s
+t t y@p r i n t s _ t e r m i n a l _ n a m e
+s l i p l o g i n@a t t a c h e s _ s l i p _ i n t e r f a c e _ s t a n d a r d _ i n p u t
+s e t s e r i a l@u s e d _ r o o t _ c o n f i g u r e _ s e r i a l _ p o r t
+t k d e s k@g r a p h i c a l _ d e s k t o p _ f i l e _ m a n a g e r _ x
+p a s t e@m e r g e _ l i n e s _ f i l e s _ w r i t e _ s t a n d a r d _ o u t p u t _ t a b _ s e p a r a t e d _ l i n e s _ c o n s i s t i n g _ s q e n t i a l l y _ c o r r e s p n d i n g _ l i n e s _ f i l e
+n s l o o k u p@q u e r i e s _ i n t e r n e t _ n a m e _ s e r v e r s _ i n t e r a c t i v e l y
+t e l i n i t@c h a n g e _ s y s v _ r u n l e v e l
+t i m e o u t@r u n _ c o m m a n d _ t i m e _ l i m i t
+x d g - o p e n@o p e n s _ f i l e _ u r l _ u s e r _ p r e f e r r e d _ a p p l i c a t i o n
+d e c l a r e@d e c l a r e _ v a r i a b l e s _ g i v e _ a t t r i b u t e s
+d i r@u s e _ c o m m a n d _ f o r l i s t i n g _ d i r e c t o r y _ c o n t e n t s _ b r i e f l y
+s d i f f@s i d e _ s i d e _ m e r g e _ f i l e _ d i f f e r e n c e s
+m k e 2 f s@c r e a t e _ e x t 2 _ e x t 3 _ e x t 4 _ f i l e s y s t e m
+n e w u s e r s@u p d a t e _ c r e a t e _ n e w _ u s e r s _ b a t c h
+r p m@r e m o t e _ p a c k a g e _ m a n a g e r
+m k i s o f s@u s e d _ c r e a t e _ i s o 9 6 6 0 _ j o l i e t _ h f s _ h y b r i d _ f i l e s y s t e m
+c o l c r t@f i l t e r _ n r o f f _ o u t p u t _ c r t _ p r e v i e w i n g
+u s e r a d d@c r e a t e _ n e w _ u s e r _ a c c o u n t
+g c c@c _ c _ c o m p i l e r _ g n u
+m m o u n t@m o u n t _ m s _ d o s _ d i s k
+c c@g n u _ c _ c _ c o m p i l e r
+k i l l@s t o p s _ p r o c e s s _ r u n n i n g
+t f t p d@t f t p _ s e r v e r
+d m e s g@d i s p l a y s _ m e s s a g e s _ v a r _ l o g _ r e l a t i v e _ r e c e n t _ b o o t
+m e r g e@t h r e e _ w a y _ f i l e _ m e r g e _ i n c l u d e s _ c h a n g e s _ f i l e 2 _ f i l e 3 _ f i l e 1
+e j e c t@e j e c t _ c d _ r o m
+a s p o s t i t@x _ w i n d o w _ p o s t i t _ n o t e _ u t i l i t y
+r l o g i n@o p e n s s h _ s s h _ c l i e n t _ r e m o t e _ l o g i n _ p r o g r a m
+p r i n t f@f o r m a t s _ p r i n t s _ d a t a
+m c a t@d u m p _ r a w _ d i s k _ i m a g e
+s w i t c h d e s k@g r a p h i c a l _ t e x t _ m o d e _ i n t e r f a c e _ c h o o s i n g _ d e s k t o p _ e n v i r o n m e n t
+x l p q@g r a p h i c a l _ i n t e r f a c e _ p r i n t _ m a n a g e r
+f i n g e r@u s e r _ h o m e _ d i r e c t o r y
+l p i n f o@s h o w _ a v a i l a b l e _ d e v i c e s _ d r i v e r s
+b z l e s s@v i e w _ b z i p p e d _ f i l e s
+b r e a k@u s e d _ e x i t _ l o o p _ e g _ s e l e c t
+o d@d u m p _ f i l e s _ o c t a l _ f o r m a t s
+d c@d e s k _ c a l c u l a t o r
+p w d@p r i n t _ w o r k i n g _ d i r e c t o r y _ r e t u r n _ w o r k i n g _ d i r e c t o r y _ n a m e
+n s u p d a t e@d y n a m i c _ d n s _ u p d a t e _ u t i l i t y
+n m@l i s t s _ s y m b o l s _ o b j e c t _ f i l e s _ o b j f i l e
+l p r@l i n e _ p r i n t
+f a l s e@n o t h i n g _ e x i t s _ u n s u c c e s s f u l l y
+e v a l@u s e d _ e v a l u a t e _ m u l t i p l e _ c o m m a n d s _ a r g u m e n t s
+a p l a y m i d i@c l i _ u t i l i t y _ u s e d _ p l a y _ m i d i _ f i l e s
+e l i n k s@t e x t _ m o d e _ w w w _ b r o w s e r _ s u p p o r t s _ f r a m e s
+x c a l c@s c i e n t i f i c _ c a l c u l a t o r _ x
+r c p@c o p i e s _ f i l e s _ t w o _ d e v i c e s
+h i s t o r y@c o m m a n d _ v i e w i n g _ m a n i p u l a t i n g _ s h e l l _ c o m m a n d _ h i s t o r y _ l i s t
+g a w k@f i n d _ r e p l a c e _ t e x t _ w i t h i n _ f i l e
+w a i t@d i r e c t s _ s y s t e m _ w a i t _ p r o c e s s _ f i n i s h
+q u o t a o n@d i s a b l e _ e n f o r c e m e n t _ f i l e s y s t e m _ q u o t a s
+s l e e p@c r e a t e s _ p r o c e s s _ s l e e p s _ s p e c i f i e d _ i n t e r v a l
+s u s p e n d@c o m m a n d _ u s e d _ s u s p e n d _ e x e c u t i o n _ c u r r e n t s h e l l
+c + +@g n u _ p r o j e c t _ c _ c _ c o m p i l e r
+p m s e t@p o w e r _ m a n a g e m e n t _ s e t t i n g s
+c a l@s h o w _ c a l e n d a r
+d i s p l a y@d i s p l a y s _ i m a g e _ i m a g e _ s e q u e n c e _ x _ s e r v e r
+p w d@s h o w _ c u r r e n t _ d i r e c t o r y
+m p a r t i t i o n@p a r t i t i o n _ m s d o s _ h a r d _ d i s k
+x a r g s@e x e c u t e _ u t i l i t y _ p a s s i n g _ c o n s t r u c t e d _ a r g u m e n t _ l i s t
+l o c a t e@l o c a t e _ f i l e
+h e a d@s i m p l e _ c o m m a n d _ l i n e _ u s e r _ a g e n t
+b z i p 2@b l o c k _ s o r t i n g _ f i l e _ c o m p r e s s o r _ v 1 _ 0 _ 6
+c a l@d i s p l a y _ c a l e n d a r
+a s p e l l@s p e l l _ c h e c k i n g _ p r o g r a m _ a l o n g _ l i n e s _ i s p e l l
+l s a t t r@l i s t _ f i l e _ a t t r i b u t e s _ l i n u x _ s e c o n d _ e x t e n d e d _ f i l e _ s y s t e m
+f d i s k@p a r t i t i o n _ t a b l e _ m a n i p u l a t o r _ l i n u x _ s y s t e m s
+d m e s g@p r i n t _ c o n t r o l _ k e r n e l _ r i n g _ b u f f e r _ p r i n t _ b o o t u p _ m e s s a g e s
+p a t h c h k@c h e c k _ p a t h n a m e s
+u n t i l@t h i s c o m m a n d _ e x e c u t e _ c o m m a n d _ e r r o r
+e n v@l i s t _ s e t _ e n v i r o n m e n t _ v a r i a b l e s
+l o c a l@c r e a t e _ f u n c t i o n _ v a r i a b l e
+d n s d o m a i n n a m e@s h o w _ s y s t e m _ d n s _ d o m a i n _ n a m e
+s t t y@r a w _ u n f o r m a t t e d _ o u t p u t _ t e r m i n a l
+l p r i n t q@l i s t s _ p r i n t _ q u e u e
+a u t o c o n f@g e n e r a t e _ c o n f i g u r a t i o n _ s c r i p t s _ t e m p l a t e _ f i l e _ s e n d _ o u t p u t _ s t a n d a r d _ o u t p u t
+c r o n@d a e m o n _ e x e c u t e _ s c h e d u l e d _ c o m m a n d s
+r m@u s e _ r e m o v e _ p a r t i c u l a r f i l e s
+t e s t@e v a l u a t e _ c o n d i t i o n a l _ e x p r e s s i o n
+d e v d u m p@i n t e r a c t i v e l y _ d i s p l a y s _ c o n t e n t s _ d e v i c e _ f i l e _ s y s t e m _ i s o
+g e t o p t s@u t i l i t y _ p a r s e _ p o s i t i o n a l _ p a r a m e t e r s
+l s m o d@l i s t _ l o a d e d _ k e r n e l _ m o d u l e s
+m k f s . e x t 3@c r e a t e _ e x t 2 _ e x t 3 _ e x t 4 _ f i l e s y s t e m
+g z i p@g n u _ c o m p r e s s i o n _ d e c o m p r e s s i o n _ p r o g r a m s
+s c u t i l@m a n a g e _ s y s t e m _ c o n f i g u r a t i o n _ p a r a m e t e r s
+d u@g e t _ e s t i m a t i o n _ f i l e _ s p a c e _ u s a g e
+g r o u p d e l@d e l e t e s _ c e r t a i n _ g r o u p

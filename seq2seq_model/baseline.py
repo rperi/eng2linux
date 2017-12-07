@@ -47,12 +47,12 @@ def eval(est_comm_list, des_list_test, comm_list_test):
         print('description:', des_list_test[k])
         print('EST:', est_comm_list[k], 'ACTUAL:', val, '\n')
     score = sum(grade_list)/len(comm_list_test)
-    print('Score:', score)
+    print('BASELINE Score:', score)
     return grade_list, score
 
 if __name__ == '__main__':
-    train_data_list = read_and_store('../data/com-eng_train.txt') 
-    test_data_list = read_and_store('../data/com-eng_test.txt') 
+    train_data_list = read_and_store('../data/com-eng_train_stop_augmented_full.txt') 
+    test_data_list = read_and_store('../data/com-eng_test_stop.txt') 
     # test_data_list = read_and_store('../data/com-eng_stoflw_test_short.txt') 
    
     des_list_test = [ line.split('@')[1] for k, line in enumerate(test_data_list) ]
@@ -61,4 +61,6 @@ if __name__ == '__main__':
     est_comm_list = edit_dist_estimator(des_list_test, train_data_list)
 
     grade_list, score = eval(est_comm_list, des_list_test, comm_list_test)
-    
+   
+    print('This is result for STOP WORD REMOVAL')
+

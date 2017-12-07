@@ -138,11 +138,6 @@ def prepareData(lang1, lang2, reverse=False):
     return input_lang, output_lang, pairs
 
 
-# input_lang, output_lang, pairs = prepareData('com', 'eng', True)
-
-# input_lang, output_lang, pairs = prepareData('eng', 'fra', True)
-# print(random.choice(pairs))
-
 input_lang, output_lang, pairs = prepareData('com', 'eng', True)
 
 
