@@ -1,0 +1,357 @@
+c a t@know flavour linux using command
+d d@create file given size linux
+s t r a c e@linux netstat su command get statistics
+e x e c@running linux command java runtime exe
+n e t s t a t@test port mysql running whether connected
+s e d@sed place flag works mac bsd linux
+n o h u p@linux prevent background process stopped closing ssh client
+f i n d@linux command find file
+t i m e o u t@run bash linux command specified time
+l s@viewing largest file directory using linux
+s c r i p t@linux script command ps1 change
+i f@system function cp command return c linux
+a l i a s@linux shell commands execution
+m a k e@command cmd works makefiles command linux
+p s@trying join output ps pwdx linux commands
+a w k@remove specific lines block wise using linux commands
+l s@counting file linux command
+m a n@linux commands mean
+a w k@remove string awk sed another command linux
+t o u c h@redirect argument file linux command
+f i n d@find files matching name linux system search text
+s s h@linux run shell command remotely print result
+s p l i t@convert output linux command python list using regex
+s e d@remove special character string file using linux commands
+w h o a m i@run consecutive commands linux java runtime exec
+s s h@copy paste command text based linux server gui
+d o@every shell command linux calls system call back end
+c u t@use cut command linux
+i m p o r t@execute linux command python changes default prompt
+s e d@piping functions commands linux
+c d@java executing linux commands
+z i p@use command zip linux folder short path
+l n@cant use gem install command linux ruby rails
+c o l u m n@linux column command want padding output
+c a t@linux command line vs linux command pipeline
+l s@get output ls command array c
+k i l l a l l@linux bash pidof command wont work
+t i m e@linux using tee piped command
+f r e e@linux command percentage memory free
+t e s t@linux using grep command
+w a t c h@repeat command automatically linux
+c h m o d@executing command specific user group context linux
+l n@cant use gem install command linux ruby rails
+s u d o@install r packages linux command line fresh r install
+s e d@replace text formatted text linux
+w c@linux command wc output format
+r s h@running commands remote linux java
+s s h@linux ssh multiple commands
+c p@linux commands copy one file many files
+s s h   k e y g e n@complete password field scp command linux
+s h@automate linux commands
+p s@difference ps ef ps ef command linux
+a w k@using tr command inside awk command linux
+f r o m@store output linux call python
+f i n d@fix path contain space find command linux bash
+a w k@display lines sub heading alone ignoring lines file
+c d@delete contents directory linux
+o d@explain octal linux command od understanding 0x00
+t o p@console input like top linux command
+g r e p@multiple grep command linux
+g r e p@linux command find string files content
+c d@fix keytool command error linux
+w a t c h@show result dynamically linux terminal like top command
+p u s h d@linux command store frequently used commands
+b a s h@combine two linux command show single string
+l s@linux bash script error handling
+s e d@linux bash sed command variable
+s h@run linux command succeed failed sh file file directory
+s e d@linux command add word specific line
+l s@ftp ls lt command list file details linux ftp window
+c a t@composition linux command
+l s@run linux command symfony command
+b z g r e p@linux search text string bz2 files recursevely subdirectories
+l s@command mean linux
+a w k@random selection columns using linux command
+l e s s@linux command check zip file hierarchy
+d a t e@linux command display date unix format
+g r e p@sum numbers linux
+f o r@copy one directory many directory using linux command
+f i n d@delete files matching linux command output
+c o m p g e n@linux command list available commands aliases
+w h i l e@execute linux command java display output html table
+z i p@linux command variable substitution assistance appreciated
+s u d o@yum install node js amazon linux
+c a t@linux commands really c object files
+d m e s g@killed process
+s e d@stripping single double quotes string using bash standard linux comma
+i f@kill linux processes based commands present
+n e t s t a t@list ip command netstat linux
+f i l e@guess file type windows similar linux file
+n m@checking existence function library linux
+w h i l e@execute linux command java display output html table
+l s@error running linux commands jupyter notebook windows
+n o h u p@linux prevent background process stopped closing ssh client
+a w k@ubuntu linux command extract substring inside
+i m p o r t@using python list input linux command uses stdin input
+d a t e@use date command linux read ansi date
+c o m m a n d@using os system python execute linux command
+l s@linux command recent non soft link file
+f o r@copy one directory many directory using linux command
+p s@trying join output ps pwdx linux commands
+d e b c o n f   s e t   s e l e c t i o n s@pass file contents linux command arguments
+s o r t@linux command script counting duplicated lines text file
+s p l i t@convert output linux command python list using regex
+g r e p@performing set operations using linux command
+a l i a s@get current command linux
+f i n d@include pipe linux find exec command
+k i l l@executing linux command java
+e c h o@help sending email usings linux mail command perl cgi script
+r m@linux command pipelining understanding
+w a i t@linux execute command finishing multiple curl commands
+x t e r m@linux equivalent dos start command
+f i n d@linux commands piping commands
+l s@use python linux command
+n m@checking existence function library linux
+g p g@pgp encryption linux
+c o m m a n d@linux shell commands behave strange runtime exec screen command
+l e s s@recursive search replace text files mac linux
+d a t e@linux command display date unix format
+e x e c@single quote issue executing linux command java
+c o m p g e n@tab completion implemented linux commands
+s u d o@sudo apt get command found linux server
+c o m m a n d@using os system python execute linux command
+t a r@convert multiline linux commands one line command
+p s@running linux command python
+i w@evaluate output background linux command c bash shell script
+r e n a m e@using util linux rename command
+d d@create file given size linux
+e x e c@executing linux command tcl file
+f i l e@pipe output linux command linux file command
+m a k e@linux make command
+a w k@linux command calculating sum
+f i n d@find files matching name linux system search text
+e c h o@unix linux ever command return value
+c a t@linux command subsample stdin
+w g e t@using systemcommand linux
+p w d@list classlist file absolute relative path using linux c
+w g e t@naming conventions linux command flag option names
+f i n d@copying files multiple subdirectories linux command line
+l s@available linux commands across android versions
+e x p o r t@call r function linux command line
+s e d@remove occurrences string text file
+s h u f@pipeline linux command working
+s e d@linux command line extracting name text
+e x e c@need explanations linux bash builtin exec command behavior
+m a k e@getting arm buildroot linux uclibcgnueabihf gcc command found
+x a r g s@pipe lines text linux command
+n s l o o k u p@use nslookup command check email domains linux
+g r e p@grep lines start double forward slash linux command line
+w h i c h@bash script check element array linux command
+f r o m@store output linux call python
+e x e c@running linux commands java jsch
+t a r@linux backup files command
+e x e c@run linux commands using php
+o b j d u m p@equivalent dumpstabs solaris command linux
+s e d@set vriable echo linux command line
+s e d@remove special character string file using linux commands
+s e d@linux command add word specific line
+w c@count lines document
+e c h o@mathematica script run linux command line
+w h i l e@execute linux command java display output html table
+f i n d@linux find command works exec
+f i n d@show subdirectories command line linux
+t o p@check main memory usage linux command
+a w k@linux awk command operarion
+b a s h@linux terminal command java work
+c d@changing current directory java implement cd command linux
+c a t@executing multiple commands command line linux
+f i n d@linux command find many types
+l s@linux command list file names numbers
+p r i n t@equivalent python script linux command strings
+a w k@linux command line help extract specific parts file
+w h o a m i@run consecutive commands linux java runtime exec
+l s@linux command recent non soft link file
+a l i a s@command alias echo command linux ubuntu bash
+g d b@pass command line argument starting gdb linux
+w h o a m i@run consecutive commands linux java runtime exec
+n p r o c@number processors cores command line
+u p d a t e d b@error installing aws autoscaling command line tools linux
+e x e c@linux commands ruby
+l s@linux command working
+f i n d@copying files multiple subdirectories linux command line
+o p e n@similar command xload linux os x
+l s@command mean linux
+s u d o@htop like tool display disk activity linux
+c d@fix keytool command error linux
+p g r e p@finding process count linux via command line
+e n v@ldap search user based certificate linux command line
+s h@find command linux bash shell
+s e t s i d@linux command setsid
+z i p@use command zip linux folder short path
+l s@commands processed linux
+a w k@using tr command inside awk command linux
+a l i a s@bookmark using linux command line
+o b j d u m p@equivalent dumpstabs solaris command linux
+s h u f@pipeline linux command working
+d a t e@date command follow linux specifications mac os x lion
+b a s h@define function unix linux command line e g bash
+c a t@read console linux
+p i d o f@linux unix command determine process running
+p s@difference ps ps e command linux
+g e t e n t@command get groupid group name mac linux
+s h a 1 s u m@java sha1 output linuxs sha1sum command
+i f@post command commands
+c a t@executing multiple commands command line linux
+w h i c h@uninstall node js using linux command line
+l s@get output ls command array c
+a w k@omitting first line linux command output
+d d@create file given size linux
+f i n d@linux command line remove files recursively dont exist folder
+d m e s g@killed process
+g r e p@linux command search name reference multiple files inside
+m a n@aspect execution time every linux command executed
+a w k@display lines sub heading alone ignoring lines file
+n s l o o k u p@use nslookup command check email domains linux
+p a s t e@linux paste command standard input
+f o r@download batch data linux command line
+l s@linux bash script error handling
+p y t h o n@linux time command causes exception multi context statement
+x d g   o p e n@linux equivalent mac os x open command
+c u t@linux shell command returns part string
+a w k@linux bc command total counts
+t o p@linux top command giving output cpu cores using command line
+c a t@linux kernel compilation speed command
+i m p o r t@using python list input linux command uses stdin input
+a w k@linux command get info line
+e n v@linux command get location env file
+e x e c@linux commands ruby
+f i l e@applying file linux command binary buffer perl
+c o m m a n d@linux shell commands behave strange runtime exec screen command
+f i l e@applying file linux command binary buffer perl
+s s h@running history command remotely linux
+d i r@run two commands one line windows cmd
+g r o u p s@command list unix group names
+d i r@make dir command windows output like ls command linux
+m a n@n option echo command linux
+v m s t a t@equivalent linuxs free command freebsd v8 1
+w g e t@windows cmd commands corresponding linux commands
+c u r l@linux command line programs config file home dir less setup
+l s@file content command input linux
+d d@avoid linux command messages linux
+z i p s p l i t@benefit linux unix zipsplit vs split command
+h o s t@linux command raw dns response
+p s@linux command ps
+g r e p@linux grep command file name exist
+d a t e@linux command get time milliseconds
+h e l p@linux cd worked cd builtin command bash
+s s h@run command remotely linux environment
+f u n c t i o n@one liner setting global default options unix linux commands best prac
+s o r t@linux command sort issues
+t o p@top c command linux filter processes listed based processname
+a p r o p o s@linux utility know command particular task
+a w k@linux awk command isolation
+s e d@linux command get lines specified format
+l s@able understand outputs commands linux
+r e n a m e@linux rename command pattern
+a l i a s@get current command linux
+m v@move files folder html folder html using linux command
+s t r a c e@equivalent strace feopen command mac os x
+s s h   k e y g e n@complete password field scp command linux
+n p r o c@number processors cores command line
+g r e p@remove undesired lines using linux command
+c a t@composition linux command
+t i m e@windows command line equivalent time linux
+c d@delete contents directory linux
+f o r@linux shell append variable parameters command
+f i n d@removing files folders using linux command
+c u r l@use linux command line ftp sign username
+c a t@linux command get first non system user id
+c a t@cat command linux
+l s@join multiple lines file names one custom delimiter
+a w k@remove specific lines block wise using linux commands
+t o p@top c command linux filter processes listed based processname
+e c h o@generating sha256 linux command line
+w h i c h@exit command file linux
+e x p o r t@see linux command exec time user
+l s@linux command find usage confuse
+s o r t@linux sorting awk command
+s u d o@yum install node js amazon linux
+i f@linux command copy file one hundred times
+s e d@linux bash sed command variable
+z i p@create zip file php using shell command linux server
+s t a t@linux read file permissions
+c a t@composition linux command
+f i n d@linux find command viewing results
+n e t s t a t@execute windows command java
+s s h@linux run shell command remotely print result
+c h m o d@assign permission folder specific group linux
+b a s h@running linux subsystem visual studios post build command line
+o p e n@write pipe command linux windows batch
+f r o m@call combined linux commands python subprocess
+c a t@display txt file terminal linux command
+m a k e@command cmd works makefiles command linux
+p i d o f@linux unix command determine process running
+d o@every shell command linux calls system call back end
+c u r l@http request call json payload command line
+p r i n t f@linux command prompt reading passing date java option
+e c h o@md5sum linux command working right
+t i m e@linux command distcp time
+f i n d@include pipe linux find exec command
+p s@linux command similar ps instead logs process activity
+s t a r t@mule esb run background linux command
+c o m p g e n@tab completion implemented linux commands
+a w k@sort add data inside file using linux command
+s o r t@using pipe sort linux command slow
+e c h o@java home directory linux
+m v@linux command php function
+l s@use python linux command
+c a t@linux kernel compilation speed command
+m a n@count differs ls ls l linux command
+s s h@run command remotely linux environment
+u s e r a d d@use linux command perl programm use perl php exec
+l n@symlink file linux
+s u d o@linux command list file systems available mounting
+p e r l@perl regex pattern output linux command
+d a t e@get current date time terminal set custom command
+m a n@command list syscall names numbers linux bash
+h o s t@linux command raw dns response
+p a s t e@insert custom string result linux paste command
+c u t@change output order linux command
+r e n a m e@using util linux rename command
+f i n d@remove folders certain name
+i m p o r t@clear interpreter console
+s t a t@linux unix command check file renamed
+f i n d@linux shell command find sort exec without using pipes
+c a t@linux command physical memory getting value
+s t r a c e@equivalent strace feopen command mac os x
+e n v@set proxy value run linux command python
+s e d@gnu linux command line tool would use performing search replace
+w a t c h@linux using watch command seperator
+w a i t@linux 30 digit random number generator
+c h m o d@executing command specific user group context linux
+a w k@running linux commands windows command prompt
+g r e p@sorting using linux commands
+p w d@linux terminal command thatll tell folder
+h e a d@linux command like cat read specified quantity characters
+n e t s t a t@execute windows command java
+p a s s w d@passwd command change linux pcs password php script shows permis
+l s@linux command working
+p a s t e@linux command layout tab separated list nicely
+e x e c@run linux command php script
+w a i t@linux execute command finishing multiple curl commands
+c a t@linux command replace specified content end line
+m k f i f o@sequential fifo queue linux command line
+w g e t@linux wget specify alternate link
+p s@get cpu usage memory usage single process linux ubunt
+s e t@windows batch echo without new line
+e c h o@linux multiple command execution using semicolon
+w h i c h@use c program determine user entered command exists
+p r i n t f@linux command prompt reading passing date java option
+s e d@switch specific expression lower case file linux command
+s u d o@list harddrives linux system
+c p@linux combining ls cp command
+l e s s@command linux
+c u t@linux shell command returns part string
+s u d o@linux command list file systems available mounting
+c d@find command linux

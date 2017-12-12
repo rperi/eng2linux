@@ -1,12 +1,14 @@
 
 import os.path
 
-splits = ["train", "test"]
-
+#splits = ["train", "test"]
+splits = ["test"]
 for split in splits:
 
-    input_file = "../data/com-eng_" + split + "_stop.txt"
-    output_file = "../data/com-eng_" + split + "_stop_character.txt"
+    #input_file = "../data/com-eng_" + split + "_stop.txt"
+    input_file = "../data/com-eng_stoflw_" + split + "_stop.txt"
+    #output_file = "../data/com-eng_" + split + "_stop_character.txt"
+    output_file = "../data/com-eng_stoflw_" + split + "_stop_character.txt"
 
     if not os.path.exists(output_file):
         f = open(input_file, "r")

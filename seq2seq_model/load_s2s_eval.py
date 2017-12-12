@@ -74,10 +74,10 @@ def evaluate_randomly(encoder, decoder, n=10):
         print('')
 
 
-def ev(input_sentence):
+def ev(input_sentence_word, input_sentence_char):
     output_words, attentions = evaluate(
-        encoder1, attn_decoder1, input_sentence)
-    print('input =', input_sentence)
+        encoder1, attn_decoder1, input_sentence_word, input_sentence_char)
+    print('input =', input_sentence_word)
     print('output =', ' '.join(output_words))
     # showAttention(input_sentence, output_words, attentions)
     return ''.join(output_words)[:-5]
@@ -115,6 +115,7 @@ def mwr(input_sent, input_lang):
                 # replace_mat.append('')
             
             else:
+                #replace_mat.append('<unk>')
                 replace_mat.append(wn_word_list[np.argmax(dist_buff)])
         else:
             replace_mat.append(word)
@@ -155,25 +156,25 @@ def eval_est(est_comm_list, des_list_test, comm_list_test):
     for k, val in enumerate(comm_list_test):
         val_join = ''.join(val.split(' '))
         grade_list.append(val_join == est_comm_list[k])
-        print('description:', des_list_test[k])
+        print('description:', des_list_test[k][0])
         print('EST:', est_comm_list[k], 'ACTUAL:', val_join, '\n')
     score = sum(grade_list)/len(comm_list_test)
     print('Score:', score)
     return grade_list, score
 
 
-def ev_test_set(des_list_test, input_lang):
+def ev_test_set(des_list_test, input_lang_word, input_lang_char):
     dec_comm = []
     for k, des in enumerate(des_list_test):
-        print(k+1, '/', len(des_list_test), ' description:', des)
-        dec_comm.append( ev(mwr(des, input_lang) ) )
+        print(k+1, '/', len(des_list_test), ' description:', des[0])
+        dec_comm.append( ev(mwr(des[0], input_lang_word), mwr(des[1], input_lang_char) ) )
 
     return dec_comm
 
 if __name__ == '__main__':
     
     hidden_size = 128
-    encoder1 = EncoderRNN(input_lang.n_words, hidden_size)
+    encoder1 = EncoderRNN(input_lang_word.n_words, input_lang_char.n_words, hidden_size)
     attn_decoder1 = AttnDecoderRNN(hidden_size, output_lang.n_words,
                                        1, dropout_p=0.1)
     
@@ -190,19 +191,28 @@ if __name__ == '__main__':
     # enc_dec_filename = 'enc_dec_03_03PM_November_28_2017_clean.pickle'
     # enc_dec_filename = 'enc_dec_03_54PM_November_28_2017_clean_inlang.pickle'
     # enc_dec_filename = 'enc_dec_03_03PM_November_28_2017_clean.pickle'
-    enc_dec_filename = 'enc_dec_12_38PM_November_29_2017_clean_withlangs_t1.pickle'
-
+    #enc_dec_filename = 'enc_dec_12_38PM_November_29_2017_clean_withlangs_t1.pickle'
+    
+    #enc_dec_filename = 'enc_dec_07_34AM_December_03_2017_iter100_TeacherForcing1_stop_merged.pickle'
+    #enc_dec_filename = 'enc_dec_05_40AM_December_03_2017_iter50_TeacherForcing1_stop_merged.pickle'
+    enc_dec_filename = 'enc_dec_06_49AM_December_03_2017_iter80_TeacherForcing1_stop_merged.pickle'
     print('Loading saved encoder and decoder...')
     with open(enc_dec_filename, 'rb') as handle:
-        encoder1, attn_decoder1, input_lang, output_lang = pickle.load(handle)
+        encoder1, attn_decoder1, input_lang_word, input_lang_char, output_lang = pickle.load(handle)
     
     # evaluate_randomly(encoder1, attn_decoder1) 
     
     # replace_mat = mwr('gummy bear sisters', input_lang)
     # replace_mat = mwr('Where are all the people ? we have been waiting here for like 19 hours', input_lang)
 
-    train_data_list = read_and_store('../data/com-eng_train.txt')
-    test_data_list = read_and_store('../data/com-eng_test.txt')
+    train_data_list_word = read_and_store('../data/com-eng_train_stop_repeat.txt')
+    #test_data_list_word = read_and_store('../data/com-eng_test_stop_repeat.txt')
+    test_data_list_word = read_and_store('../data/com-eng_stoflw_test_stop_repeat.txt')
+
+    train_data_list_char = read_and_store('../data/com-eng_train_stop_character.txt')
+    #test_data_list_char = read_and_store('../data/com-eng_test_stop_character.txt')
+    test_data_list_char = read_and_store('../data/com-eng_stoflw_test_stop_character.txt')
+
     # train_data_list = read_and_store('../data/com-eng_train_org.txt')
     # test_data_list_org = read_and_store('../data/com-eng_test_org.txt')
     # train_data_list = read_and_store('../data/com-eng_train_unclean.txt')
@@ -211,21 +221,28 @@ if __name__ == '__main__':
     # test_data_list = read_and_store('../data/com-eng_stoflw_test.txt')
 
     # Description and Command from test set
-    des_list_test = [ line.split('@')[1] for k, line in enumerate(test_data_list) ]
-    comm_list_test = [ line.split('@')[0] for k, line in enumerate(test_data_list) ]
+    assert len(test_data_list_word) == len(test_data_list_char)
+    des_list_test_word = [ line.split('@')[1] for k, line in enumerate(test_data_list_word) ]
+    des_list_test_char = [ line.split('@')[1] for k, line in enumerate(test_data_list_char) ]
+    comm_list_test = [ line.split('@')[0] for k, line in enumerate(test_data_list_word) ]
     # comm_list_test_org = [ line.split('@')[0] for k, line in enumerate(test_data_list_org) ]
     
     # Description and Command from train set
-    des_list_train = [ line.split('@')[1] for k, line in enumerate(train_data_list) ]
-    comm_list_train = [ line.split('@')[0] for k, line in enumerate(train_data_list) ]
+    assert len(test_data_list_word) == len(test_data_list_char)
+    des_list_train_word = [ line.split('@')[1] for k, line in enumerate(train_data_list_word) ] 
+    des_list_train_char = [ line.split('@')[1] for k, line in enumerate(train_data_list_char) ]
+    comm_list_train = [ line.split('@')[0] for k, line in enumerate(train_data_list_word) ]
    
+    des_list_train = [list(comb) for comb in zip(des_list_train_word,des_list_train_char)] 
+    des_list_test = [list(comb) for comb in zip(des_list_test_word,des_list_test_char)]
+        
     tr_tst = 1
 
     if tr_tst == 1 :
-        subs = len(test_data_list)
+        subs = len(test_data_list_word)
        
         # Description and Command from train set
-        dec_comm_list = ev_test_set(des_list_test[:subs], input_lang)
+        dec_comm_list = ev_test_set(des_list_test[:subs], input_lang_word, input_lang_char)
         est_comm = get_nearest(dec_comm_list, comm_list_train)
         print(est_comm)
         
@@ -233,10 +250,10 @@ if __name__ == '__main__':
         eval_est(est_comm, des_list_test[:subs], comm_list_test[:subs])
        
     elif tr_tst == 2:
-        subs = len(train_data_list)
+        subs = len(train_data_list_word)
         
         # Description and Command from train set
-        dec_comm_list_train = ev_test_set(des_list_train[:subs], input_lang)
+        dec_comm_list_train = ev_test_set(des_list_train[:subs], input_lang_word, input_lang_char)
         est_comm = get_nearest(dec_comm_list_train, comm_list_train)
         # print(est_comm)
         

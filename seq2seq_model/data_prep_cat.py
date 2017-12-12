@@ -1,10 +1,10 @@
 # Given the word and character level splits, convert them into a format to be used for merging the two modalities
 
 split = 'test'
-inp_file_word = "../data/com-eng_%s_stop.txt" % split
-
-out_file_word = "../data/com-eng_%s_stop_repeat.txt" % split
-
+#inp_file_word = "../data/com-eng_%s_stop.txt" % split
+inp_file_word = "../data/com-eng_stoflw_%s_stop.txt" % split
+#out_file_word = "../data/com-eng_%s_stop_repeat.txt" % split
+out_file_word = "../data/com-eng_stoflw_%s_stop_repeat.txt" % split
 
 w = open(inp_file_word, 'r')
 o = open(out_file_word, 'a+')
